@@ -1,0 +1,1 @@
+#' Analyzing the S&P stocks between the years 2012 to 2016.
