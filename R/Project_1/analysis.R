@@ -16,3 +16,5 @@ DB = read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # 
                                                                               # row indexes, therefor
                                                                               # the argument row.names
                                                                               # is needed.
+
+# Data Cleaning ------------------------------------
