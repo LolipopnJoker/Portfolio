@@ -18,3 +18,9 @@ DB = read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # 
                                                                               # is needed.
 
 # Data Cleaning ------------------------------------
+
+# Splitting the date column into separate column for each attribute (a.k.a month, day, year):
+
+DB$Release.month = rep(NA, nrow(DB)) # Creating an empty column for the release month.
+DB$Release.day = rep(NA, nrow(DB)) # Creating an empty column for the release day.
+DB$Release.year = rep(NA, nrow(DB)) # Creating an empty column for the release year.
