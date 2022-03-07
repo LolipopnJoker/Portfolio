@@ -19,5 +19,13 @@ DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) 
 
 # Data Cleaning ------------------------------------
 
-# Creating a for loop that would split the release date
+# Splitting the date column
 DB <- separate(DB, Release.Date, c("release.month", "release.day", "release.year"), sep = " ")
+DB <- separate(DB, Genre, c("Genre.1", "Genre.2", "Genre.3", "Genre.4", "Genre.5", "Genre.6"), sep = ", ")
+
+# Cleaning from unwanted symbols that might affect the analysis.
+DB[] <- lapply(DB, gsub, pattern=',', replacement='')
+DB[] <- lapply(DB, gsub, pattern=' ', replacement='')
+DB[] <- lapply(DB, gsub, pattern="'", replacement='')
+DB[] <- lapply(DB, gsub, pattern='\\[', replacement='')
+DB[] <- lapply(DB, gsub, pattern='\\]', replacement='')
