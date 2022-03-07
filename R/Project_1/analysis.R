@@ -25,7 +25,11 @@ DB <- separate(DB, Genre, c("Genre.1", "Genre.2", "Genre.3", "Genre.4", "Genre.5
 
 # Cleaning from unwanted symbols that might affect the analysis.
 DB[] <- lapply(DB, gsub, pattern=',', replacement='')
-DB[] <- lapply(DB, gsub, pattern=' ', replacement='')
 DB[] <- lapply(DB, gsub, pattern="'", replacement='')
 DB[] <- lapply(DB, gsub, pattern='\\[', replacement='')
 DB[] <- lapply(DB, gsub, pattern='\\]', replacement='')
+
+# Descriptive Statistics ----------------------------
+
+worldwide_sales_mean <- mean(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
+worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
