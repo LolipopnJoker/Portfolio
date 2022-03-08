@@ -10,6 +10,7 @@
 # Imports ------------------------------------------
 
 library(tidyverse) # Importing tidyverse
+library(tm)
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
@@ -24,12 +25,27 @@ DB <- separate(DB, Release.Date, c("release.month", "release.day", "release.year
 DB <- separate(DB, Genre, c("Genre.1", "Genre.2", "Genre.3", "Genre.4", "Genre.5", "Genre.6"), sep = ", ")
 
 # Cleaning from unwanted symbols that might affect the analysis.
-DB[] <- lapply(DB, gsub, pattern=',', replacement='')
-DB[] <- lapply(DB, gsub, pattern="'", replacement='')
-DB[] <- lapply(DB, gsub, pattern='\\[', replacement='')
-DB[] <- lapply(DB, gsub, pattern='\\]', replacement='')
+DB[] <- lapply(DB, gsub, pattern=',', replacement='') # Deleting all the , symbols.
+DB[] <- lapply(DB, gsub, pattern="'", replacement='') # Deleting all the ' symbols.
+DB[] <- lapply(DB, gsub, pattern='\\[', replacement='') # Deleting all the [ symbols.
+DB[] <- lapply(DB, gsub, pattern='\\]', replacement='') # Deleting all the ] symbols.
 
 # Descriptive Statistics ----------------------------
 
 worldwide_sales_mean <- mean(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
 worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
+
+# Sentiment Analysis --------------------------------
+
+corpus <- iconv(DB$Movie.Info, to = "utf-8")
+corpus <- Corpus(VectorSource(corpus))
+
+## Further cleaning for the Sentiment Analysis
+corpus <- tm_map(corpus, tolower)
+corpus <- tm_map(corpus, removePunctuation)
+corpus <- tm_map(corpus, removeNumbers)
+clean_set <- tm_map(corpus, removeWords, stopwords('english'))
+clean_set <- tm_map(clean_set, stripWhitespace)
+
+## Term document matrix
+tdm <-  TermDocumentMatrix(clean_set)
