@@ -11,6 +11,10 @@
 
 library(tidyverse) # Importing tidyverse
 library(tm)
+library(syuzhet)
+library(lubridate)
+library(scales)
+library(reshape2)
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
@@ -37,15 +41,11 @@ worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
 
 # Sentiment Analysis --------------------------------
 
-corpus <- iconv(DB$Movie.Info, to = "utf-8")
-corpus <- Corpus(VectorSource(corpus))
+corpus <- iconv(DB$Movie.Info, to = "utf-8") # Creating a list with all the movie descriptions
+                                             # using UTF-8 encoding.
 
-## Further cleaning for the Sentiment Analysis
-corpus <- tm_map(corpus, tolower)
-corpus <- tm_map(corpus, removePunctuation)
-corpus <- tm_map(corpus, removeNumbers)
-clean_set <- tm_map(corpus, removeWords, stopwords('english'))
-clean_set <- tm_map(clean_set, stripWhitespace)
+## Obtain sentiment score
+sentiment_score_DF <- get_nrc_sentiment(corpus) # Creating a dataframe with sentiment scores.
 
-## Term document matrix
-tdm <-  TermDocumentMatrix(clean_set)
+full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
+
