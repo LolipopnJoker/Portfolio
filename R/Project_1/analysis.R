@@ -12,9 +12,6 @@
 library(tidyverse) # Importing tidyverse
 library(tm)
 library(syuzhet)
-library(lubridate)
-library(scales)
-library(reshape2)
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
@@ -49,3 +46,10 @@ sentiment_score_DF <- get_nrc_sentiment(corpus) # Creating a dataframe with sent
 
 full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
 
+## Creating a linear model
+
+linear_model <- lm(full_DB$World.Sales..in...~full_DB$anger+full_DB$anticipation+
+                     full_DB$disgust+full_DB$fear+full_DB$joy+full_DB$sadness+
+                     full_DB$surprise+full_DB$trust+full_DB$negative+full_DB$positive)
+
+summary(linear_model)
