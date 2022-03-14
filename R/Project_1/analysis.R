@@ -14,12 +14,22 @@ library(tm) # Importing tm
 library(syuzhet) # Importing syuzhet
 library(srt)# Importing srt
 
-DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
+subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/1.srt'))
+subtitles <- as.data.frame(subtitles)
+new <- unite(subtitles, col = "subtitles", 1:ncol(subtitles),remove = TRUE)
+write.csv()
+DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', sep = " ", row.names = 1) # Importing the data.
                                                                                 # The first column is
                                                                                 # row indexes, therefor
                                                                                 # the argument row.names
                                                                                 # is needed.
 
+number_of_subtitles_files <- 13
+container <- data.frame()
+for (i in 1:number_of_subtitles_files){
+  subtitle_path <- sprintf('G:/My Drive/Portfolio/R/Project_1/subtitles/%s.srt', i)
+  subtitle <- t(read_srt(subtitle_path))
+}
 # Data Cleaning ------------------------------------
 
 # Splitting the date column
