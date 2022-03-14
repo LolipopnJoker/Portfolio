@@ -12,7 +12,7 @@
 library(tidyverse) # Importing tidyverse
 library(tm) # Importing tm
 library(syuzhet) # Importing syuzhet
-library(multiplex) # Importing multiplex
+library(srt)# Importing srt
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
