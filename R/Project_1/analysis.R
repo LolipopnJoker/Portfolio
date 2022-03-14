@@ -9,27 +9,38 @@
 
 # Imports ------------------------------------------
 
-library(tidyverse) # Importing tidyverse
-library(tm) # Importing tm
-library(syuzhet) # Importing syuzhet
-library(srt)# Importing srt
+suppressWarnings(library(tidyverse)) # Importing tidyverse
+suppressWarnings(library(tm)) # Importing tm
+suppressWarnings(library(syuzhet)) # Importing syuzhet
+suppressWarnings(library(srt))# Importing srt
+suppressWarnings(library(glue)) # Importing glue
 
-subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/1.srt'))
+subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/12.srt')) # Experimenting with importing an SRT file
 subtitles <- as.data.frame(subtitles)
-new <- unite(subtitles, col = "subtitles", 1:ncol(subtitles),remove = TRUE)
-write.csv()
-DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', sep = " ", row.names = 1) # Importing the data.
-                                                                                # The first column is
-                                                                                # row indexes, therefor
-                                                                                # the argument row.names
-                                                                                # is needed.
+subtitles <- unite(subtitles, col = "subtitles", 1:ncol(subtitles), remove = TRUE, sep = " ")
 
-number_of_subtitles_files <- 13
-container <- data.frame()
+DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
+                                                                                           # The first column is
+                                                                                           # row indexes, therefor
+                                                                                           # the argument row.names
+                                                                                           # is needed.
+
+DB$Subtitles <- NA
+
+number_of_subtitles_files <- 23
+
 for (i in 1:number_of_subtitles_files){
-  subtitle_path <- sprintf('G:/My Drive/Portfolio/R/Project_1/subtitles/%s.srt', i)
-  subtitle <- t(read_srt(subtitle_path))
+  subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
+  subtitle <- suppressWarnings(t(read_srt(subtitle_path)))
+  subtitle <- as.data.frame(subtitle)
+  subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ")
+  DB$Subtitles[i] <- subtitle$subtitle[4]
 }
+
+for (i in 1:number_of_subtitles_files){
+  subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
+  print(subtitle_path)
+  }
 # Data Cleaning ------------------------------------
 
 # Splitting the date column
