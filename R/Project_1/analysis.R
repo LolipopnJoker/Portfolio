@@ -15,7 +15,7 @@ suppressWarnings(library(syuzhet)) # Importing syuzhet
 suppressWarnings(library(srt))# Importing srt
 suppressWarnings(library(glue)) # Importing glue
 
-subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/12.srt')) # Experimenting with importing an SRT file
+subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/36.srt')) # Experimenting with importing an SRT file
 subtitles <- as.data.frame(subtitles)
 subtitles <- unite(subtitles, col = "subtitles", 1:ncol(subtitles), remove = TRUE, sep = " ")
 
@@ -27,15 +27,25 @@ DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) 
 
 DB$Subtitles <- NA
 
-number_of_subtitles_files <- 23
+number_of_subtitles_files <- 152
+
+progress_bar <- txtProgressBar(min = 0,
+                               max = number_of_subtitles_files,
+                               style = 3,
+                               width = 50,
+                               char = "=")
 
 for (i in 1:number_of_subtitles_files){
+
   subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
   subtitle <- suppressWarnings(t(read_srt(subtitle_path)))
   subtitle <- as.data.frame(subtitle)
   subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ")
-  DB$Subtitles[i] <- subtitle$subtitle[4]
+  DB$Subtitles[i] <- subtitle$subtitle[4] 
+  setTxtProgressBar(progress_bar, i)
 }
+
+close(progress_bar)
 
 for (i in 1:number_of_subtitles_files){
   subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')

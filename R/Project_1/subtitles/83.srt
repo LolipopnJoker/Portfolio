@@ -1,0 +1,6722 @@
+﻿1
+00:00:10,984 --> 00:00:20,069
+<b><font face="Rockwell" color="#00FFFF">JMG subs</font></b>
+
+2
+00:00:55,320 --> 00:00:59,880
+<font face="Comic Sans MS" color="#ffff80"><b>"In order to affect a timely halt
+to deteriorating conditions</b></font>
+
+3
+00:00:59,960 --> 00:01:02,560
+<font face="Comic Sans MS" color="#ffff80"><b>and to ensure the common good,</b></font>
+
+4
+00:01:02,640 --> 00:01:06,040
+<font face="Comic Sans MS" color="#ffff80"><b>a state of emergency is declared
+for these territories</b></font>
+
+5
+00:01:06,080 --> 00:01:08,720
+<font face="Comic Sans MS" color="#ffff80"><b>by decree of Lord Cutler Beckett,</b></font>
+
+6
+00:01:08,760 --> 00:01:11,920
+<font face="Comic Sans MS" color="#ffff80"><b>duly appointed representative
+of His Majesty, the king.</b></font>
+
+7
+00:01:13,160 --> 00:01:16,080
+<font face="Comic Sans MS" color="#ffff80"><b>By decree, according to martial law,</b></font>
+
+8
+00:01:16,120 --> 00:01:19,600
+<font face="Comic Sans MS" color="#ffff80"><b>the following statutes
+are temporarily amended:</b></font>
+
+9
+00:01:19,680 --> 00:01:22,360
+<font face="Comic Sans MS" color="#ffff80"><b>Right to assembly, suspended.</b></font>
+
+10
+00:01:25,200 --> 00:01:28,280
+<font face="Comic Sans MS" color="#ffff80"><b>Right to habeas corpus, suspended.</b></font>
+
+11
+00:01:29,880 --> 00:01:32,960
+<font face="Comic Sans MS" color="#ffff80"><b>Right to legal counsel, suspended.</b></font>
+
+12
+00:01:34,000 --> 00:01:38,280
+<font face="Comic Sans MS" color="#ffff80"><b>Right to verdict by a jury of peers,
+suspended.</b></font>
+
+13
+00:01:39,640 --> 00:01:44,600
+<font face="Comic Sans MS" color="#ffff80"><b>By decree, all persons
+found guilty of piracy,</b></font>
+
+14
+00:01:44,680 --> 00:01:47,800
+<font face="Comic Sans MS" color="#ffff80"><b>or aiding a person convicted of piracy,</b></font>
+
+15
+00:01:47,920 --> 00:01:51,840
+<font face="Comic Sans MS" color="#ffff80"><b>or associating with a person
+convicted of piracy...</b></font>
+
+16
+00:01:52,920 --> 00:01:56,600
+<font face="Comic Sans MS" color="#ffff80"><b>...shall be sentenced to
+hang by the neck until dead."</b></font>
+
+17
+00:02:28,880 --> 00:02:32,520
+<font face="Comic Sans MS" color="#ffff80"><b>The king and his men</b></font>
+
+18
+00:02:32,600 --> 00:02:37,280
+<font face="Comic Sans MS" color="#ffff80"><b>Stole the queen from her bed</b></font>
+
+19
+00:02:39,000 --> 00:02:44,960
+<font face="Comic Sans MS" color="#ffff80"><b>And bound her in her bones</b></font>
+
+20
+00:02:46,000 --> 00:02:49,240
+<font face="Comic Sans MS" color="#ffff80"><b>The seas be ours</b></font>
+
+21
+00:02:49,600 --> 00:02:53,680
+<font face="Comic Sans MS" color="#ffff80"><b>And by the powers</b></font>
+
+22
+00:02:56,160 --> 00:03:01,880
+<font face="Comic Sans MS" color="#ffff80"><b>Where we will, we'll roam</b></font>
+
+23
+00:03:09,080 --> 00:03:12,240
+<font face="Comic Sans MS" color="#ffff80"><b>Yo ho</b></font>
+
+24
+00:03:12,880 --> 00:03:16,200
+<font face="Comic Sans MS" color="#ffff80"><b>All hands</b></font>
+
+25
+00:03:16,600 --> 00:03:22,200
+<font face="Comic Sans MS" color="#ffff80"><b>Hoist the colors high</b></font>
+
+26
+00:03:24,040 --> 00:03:27,240
+<font face="Comic Sans MS" color="#ffff80"><b>Heave-ho</b></font>
+
+27
+00:03:27,880 --> 00:03:31,800
+<font face="Comic Sans MS" color="#ffff80"><b>Thieves and beggars</b></font>
+
+28
+00:03:31,880 --> 00:03:37,880
+<font face="Comic Sans MS" color="#ffff80"><b>Never shall we die</b></font>
+
+29
+00:03:39,560 --> 00:03:43,040
+<font face="Comic Sans MS" color="#ffff80"><b>Yo ho</b></font>
+
+30
+00:03:43,080 --> 00:03:46,840
+<font face="Comic Sans MS" color="#ffff80"><b>Haul together</b></font>
+
+31
+00:03:46,880 --> 00:03:49,040
+<font face="Comic Sans MS" color="#ffff80"><b>Hoist the colors high</b></font>
+
+32
+00:03:49,120 --> 00:03:50,280
+<font face="Comic Sans MS" color="#ffff80"><b>Lord Beckett!</b></font>
+
+33
+00:03:51,880 --> 00:03:54,560
+<font face="Comic Sans MS" color="#ffff80"><b>They've started to sing, sir.</b></font>
+
+34
+00:03:57,080 --> 00:04:01,400
+<font face="Comic Sans MS" color="#ffff80"><b>- Finally.
+-  Thieves and beggars</b></font>
+
+35
+00:04:01,920 --> 00:04:07,760
+<font face="Comic Sans MS" color="#ffff80"><b>Never shall we die</b></font>
+
+36
+00:04:38,200 --> 00:04:42,360
+<font face="Comic Sans MS" color="#ffff80"><b>Some have died
+and some are alive</b></font>
+
+37
+00:04:43,280 --> 00:04:46,760
+<font face="Comic Sans MS" color="#ffff80"><b>Others sail on the sea</b></font>
+
+38
+00:04:48,280 --> 00:04:50,760
+<font face="Comic Sans MS" color="#ffff80"><b>With the keys to the cage</b></font>
+
+39
+00:04:50,920 --> 00:04:53,160
+<font face="Comic Sans MS" color="#ffff80"><b>And the devil to pay</b></font>
+
+40
+00:04:53,280 --> 00:04:57,280
+<font face="Comic Sans MS" color="#ffff80"><b>We lay to Fiddler's Green</b></font>
+
+41
+00:04:59,360 --> 00:05:04,360
+<font face="Comic Sans MS" color="#ffff80"><b>The bell has been raised
+from its watery grave</b></font>
+
+42
+00:05:04,760 --> 00:05:08,080
+<font face="Comic Sans MS" color="#ffff80"><b>Hear its sepulchral tone</b></font>
+
+43
+00:05:09,320 --> 00:05:14,320
+<font face="Comic Sans MS" color="#ffff80"><b>A call to all
+Pay heed the squall</b></font>
+
+44
+00:05:22,800 --> 00:05:26,200
+<font face="Comic Sans MS" color="#ffff80"><b>Turn your sails to home</b></font>
+
+45
+00:05:28,320 --> 00:05:30,360
+<font face="Comic Sans MS" color="#ffff80"><b>Yo ho</b></font>
+
+46
+00:05:31,080 --> 00:05:33,040
+<font face="Comic Sans MS" color="#ffff80"><b>Haul together</b></font>
+
+47
+00:05:33,400 --> 00:05:36,720
+<font face="Comic Sans MS" color="#ffff80"><b>Hoist the colors high</b></font>
+
+48
+00:05:38,200 --> 00:05:40,840
+<font face="Comic Sans MS" color="#ffff80"><b>Heave-ho</b></font>
+
+49
+00:05:40,920 --> 00:05:43,080
+<font face="Comic Sans MS" color="#ffff80"><b>-  Thieve...
+- Thief and beggar.</b></font>
+
+50
+00:05:43,160 --> 00:05:46,480
+<font face="Comic Sans MS" color="#ffff80"><b>Never shall we die</b></font>
+
+51
+00:05:48,680 --> 00:05:51,840
+<font face="Comic Sans MS" color="#ffff80"><b>A dangerous song to be singing...</b></font>
+
+52
+00:05:52,080 --> 00:05:54,800
+<font face="Comic Sans MS" color="#ffff80"><b>...for any who are
+ignorant of its meaning.</b></font>
+
+53
+00:05:55,400 --> 00:05:57,320
+<font face="Comic Sans MS" color="#ffff80"><b>Particularly a woman.</b></font>
+
+54
+00:05:58,840 --> 00:06:01,240
+<font face="Comic Sans MS" color="#ffff80"><b>Particularly a woman alone.</b></font>
+
+55
+00:06:02,040 --> 00:06:04,200
+<font face="Comic Sans MS" color="#ffff80"><b>What makes you think
+she's alone?</b></font>
+
+56
+00:06:08,840 --> 00:06:10,320
+<font face="Comic Sans MS" color="#ffff80"><b>You protect her?</b></font>
+
+57
+00:06:11,280 --> 00:06:13,720
+<font face="Comic Sans MS" color="#ffff80"><b>And what makes you think
+I need protecting?</b></font>
+
+58
+00:06:14,080 --> 00:06:16,360
+<font face="Comic Sans MS" color="#ffff80"><b>Your master's expecting us.</b></font>
+
+59
+00:06:16,480 --> 00:06:20,840
+<font face="Comic Sans MS" color="#ffff80"><b>And an unexpected death'd
+cast a slight pall on our meeting.</b></font>
+
+60
+00:06:22,440 --> 00:06:23,880
+<font face="Comic Sans MS" color="#ffff80"><b>Pick those feet up!</b></font>
+
+61
+00:06:25,800 --> 00:06:27,560
+<font face="Comic Sans MS" color="#ffff80"><b>On the double!</b></font>
+
+62
+00:06:28,920 --> 00:06:30,760
+<font face="Comic Sans MS" color="#ffff80"><b>Eyes front!</b></font>
+
+63
+00:06:39,600 --> 00:06:41,240
+<font face="Comic Sans MS" color="#ffff80"><b>No, no, no. None.</b></font>
+
+64
+00:07:09,400 --> 00:07:12,080
+<font face="Comic Sans MS" color="#ffff80"><b>It always takes me
+about a week to get my sea legs.</b></font>
+
+65
+00:07:12,160 --> 00:07:14,320
+<font face="Comic Sans MS" color="#ffff80"><b>I was throwing up horribly
+the last time.</b></font>
+
+66
+00:07:25,640 --> 00:07:28,720
+<font face="Comic Sans MS" color="#ffff80"><b>Steady as she goes.</b></font>
+
+67
+00:07:31,120 --> 00:07:32,120
+<font face="Comic Sans MS" color="#ffff80"><b>All right.</b></font>
+
+68
+00:07:35,800 --> 00:07:37,720
+<font face="Comic Sans MS" color="#ffff80"><b>Have you heard anything from Will?</b></font>
+
+69
+00:07:37,800 --> 00:07:40,120
+<font face="Comic Sans MS" color="#ffff80"><b>I trust young Turner
+to acquire the charts</b></font>
+
+70
+00:07:40,160 --> 00:07:43,640
+<font face="Comic Sans MS" color="#ffff80"><b>and you to remember your place
+in the presence of Captain Sao Feng.</b></font>
+
+71
+00:07:44,120 --> 00:07:46,200
+<font face="Comic Sans MS" color="#ffff80"><b>Is he that terrifying?</b></font>
+
+72
+00:07:46,320 --> 00:07:51,200
+<font face="Comic Sans MS" color="#ffff80"><b>He's much like myself, but absent my
+merciful nature and sense of fair play.</b></font>
+
+73
+00:08:06,240 --> 00:08:08,800
+<font face="Comic Sans MS" color="#ffff80"><b>We're through. Make ready.</b></font>
+
+74
+00:08:15,320 --> 00:08:16,520
+<font face="Comic Sans MS" color="#ffff80"><b>Hurry now.</b></font>
+
+75
+00:08:22,960 --> 00:08:26,840
+<font face="Comic Sans MS" color="#ffff80"><b>Do you think because she is a woman
+we would not suspect her of treachery?</b></font>
+
+76
+00:08:29,160 --> 00:08:31,160
+<font face="Comic Sans MS" color="#ffff80"><b>Well, when you put it that way...</b></font>
+
+77
+00:08:31,840 --> 00:08:33,680
+<font face="Comic Sans MS" color="#ffff80"><b>Remove. Please.</b></font>
+
+78
+00:09:18,520 --> 00:09:21,560
+<font face="Comic Sans MS" color="#ffff80"><b>Remove. Please.</b></font>
+
+79
+00:10:06,760 --> 00:10:11,080
+<font face="Comic Sans MS" color="#ffff80"><b>Captain Barbossa,
+welcome to Singapore.</b></font>
+
+80
+00:10:15,600 --> 00:10:16,800
+<font face="Comic Sans MS" color="#ffff80"><b>More steam.</b></font>
+
+81
+00:10:39,320 --> 00:10:40,320
+<font face="Comic Sans MS" color="#ffff80"><b>None of that.</b></font>
+
+82
+00:10:40,400 --> 00:10:44,360
+<font face="Comic Sans MS" color="#ffff80"><b>If things don't go the way we want,
+then we're the only chance they've got.</b></font>
+
+83
+00:10:50,640 --> 00:10:55,240
+<font face="Comic Sans MS" color="#ffff80"><b>I understand that you have
+a request to make of me.</b></font>
+
+84
+00:10:55,320 --> 00:10:58,360
+<font face="Comic Sans MS" color="#ffff80"><b>More of a proposal to put to ye.</b></font>
+
+85
+00:10:58,800 --> 00:11:04,160
+<font face="Comic Sans MS" color="#ffff80"><b>I've a venture underway and I find
+myself in need of a ship and a crew.</b></font>
+
+86
+00:11:05,200 --> 00:11:09,000
+<font face="Comic Sans MS" color="#ffff80"><b>Hmm. It's an odd coincidence.</b></font>
+
+87
+00:11:09,080 --> 00:11:12,160
+<font face="Comic Sans MS" color="#ffff80"><b>Because you happen to have
+a ship and a crew you don't need?</b></font>
+
+88
+00:11:12,240 --> 00:11:14,680
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+89
+00:11:14,720 --> 00:11:17,360
+<font face="Comic Sans MS" color="#ffff80"><b>Because earlier this day,
+not far from here,</b></font>
+
+90
+00:11:17,440 --> 00:11:21,400
+<font face="Comic Sans MS" color="#ffff80"><b>a thief broke into
+my most revered uncle's temple</b></font>
+
+91
+00:11:21,520 --> 00:11:24,560
+<font face="Comic Sans MS" color="#ffff80"><b>and tried to make off with these.</b></font>
+
+92
+00:11:26,200 --> 00:11:28,880
+<font face="Comic Sans MS" color="#ffff80"><b>The navigational charts.</b></font>
+
+93
+00:11:29,520 --> 00:11:33,280
+<font face="Comic Sans MS" color="#ffff80"><b>The route to the Farthest Gate.</b></font>
+
+94
+00:11:35,760 --> 00:11:40,240
+<font face="Comic Sans MS" color="#ffff80"><b>Wouldn't it be amazing
+if this venture of yours</b></font>
+
+95
+00:11:40,320 --> 00:11:43,720
+<font face="Comic Sans MS" color="#ffff80"><b>took you to the world beyond this one?</b></font>
+
+96
+00:11:43,800 --> 00:11:46,680
+<font face="Comic Sans MS" color="#ffff80"><b>It would strain credulity at that.</b></font>
+
+97
+00:12:00,720 --> 00:12:05,400
+<font face="Comic Sans MS" color="#ffff80"><b>This is the thief.
+Is his face familiar to you?</b></font>
+
+98
+00:12:08,240 --> 00:12:11,640
+<font face="Comic Sans MS" color="#ffff80"><b>Then I guess he has
+no further need for it.</b></font>
+
+99
+00:12:12,000 --> 00:12:12,960
+<font face="Comic Sans MS" color="#ffff80"><b>No, no!</b></font>
+
+100
+00:12:21,920 --> 00:12:26,800
+<font face="Comic Sans MS" color="#ffff80"><b>You come into my city
+and you betray my hospitality.</b></font>
+
+101
+00:12:27,680 --> 00:12:31,160
+<font face="Comic Sans MS" color="#ffff80"><b>- I assure you I had no idea...
+- That he would get caught!</b></font>
+
+102
+00:12:35,600 --> 00:12:38,760
+<font face="Comic Sans MS" color="#ffff80"><b>You intend to attempt the voyage
+to Davy Jones' Locker.</b></font>
+
+103
+00:12:38,800 --> 00:12:41,120
+<font face="Comic Sans MS" color="#ffff80"><b>But I cannot help but wonder...</b></font>
+
+104
+00:12:42,800 --> 00:12:44,160
+<font face="Comic Sans MS" color="#ffff80"><b>Why?</b></font>
+
+105
+00:12:53,600 --> 00:12:59,360
+<font face="Comic Sans MS" color="#ffff80"><b>The song has been sung.
+The time is upon us.</b></font>
+
+106
+00:12:59,840 --> 00:13:03,600
+<font face="Comic Sans MS" color="#ffff80"><b>We must convene the Brethren Court.</b></font>
+
+107
+00:13:03,680 --> 00:13:09,680
+<font face="Comic Sans MS" color="#ffff80"><b>As one of the nine pirate lords,
+you must honor the call.</b></font>
+
+108
+00:13:11,520 --> 00:13:12,720
+<font face="Comic Sans MS" color="#ffff80"><b>More steam.</b></font>
+
+109
+00:13:19,680 --> 00:13:21,200
+<font face="Comic Sans MS" color="#ffff80"><b>More steam!</b></font>
+
+110
+00:13:28,320 --> 00:13:31,800
+<font face="Comic Sans MS" color="#ffff80"><b>- There is a price on all our heads.
+- Aye.</b></font>
+
+111
+00:13:31,880 --> 00:13:33,800
+<font face="Comic Sans MS" color="#ffff80"><b>It is true.</b></font>
+
+112
+00:13:33,840 --> 00:13:37,160
+<font face="Comic Sans MS" color="#ffff80"><b>It seems the only way a pirate
+can turn a profit anymore...</b></font>
+
+113
+00:13:38,760 --> 00:13:42,160
+<font face="Comic Sans MS" color="#ffff80"><b>...is by betraying other pirates.</b></font>
+
+114
+00:13:42,240 --> 00:13:44,600
+<font face="Comic Sans MS" color="#ffff80"><b>We must put
+our differences aside.</b></font>
+
+115
+00:13:44,640 --> 00:13:45,760
+<font face="Comic Sans MS" color="#ffff80"><b>Wait for the signal.</b></font>
+
+116
+00:13:45,840 --> 00:13:49,000
+<font face="Comic Sans MS" color="#ffff80"><b>The First Brethren Court
+gave us rule of the seas.</b></font>
+
+117
+00:13:49,040 --> 00:13:53,720
+<font face="Comic Sans MS" color="#ffff80"><b>But now that rule is being challenged
+by Lord Cutler Beckett.</b></font>
+
+118
+00:13:53,840 --> 00:13:56,600
+<font face="Comic Sans MS" color="#ffff80"><b>Against East India
+Trading Company,</b></font>
+
+119
+00:13:56,680 --> 00:13:59,320
+<font face="Comic Sans MS" color="#ffff80"><b>what value is the Brethren Court?</b></font>
+
+120
+00:14:00,000 --> 00:14:01,840
+<font face="Comic Sans MS" color="#ffff80"><b>What can any of us do?</b></font>
+
+121
+00:14:01,880 --> 00:14:04,720
+<font face="Comic Sans MS" color="#ffff80"><b>You can fight!
+Get off me!</b></font>
+
+122
+00:14:04,800 --> 00:14:08,280
+<font face="Comic Sans MS" color="#ffff80"><b>You are Sao Feng,
+the pirate lord of Singapore.</b></font>
+
+123
+00:14:08,360 --> 00:14:13,040
+<font face="Comic Sans MS" color="#ffff80"><b>You command in an age of piracy
+where bold captains sail free waters.</b></font>
+
+124
+00:14:13,520 --> 00:14:16,960
+<font face="Comic Sans MS" color="#ffff80"><b>Where waves aren't measured in feet,
+but as increments of fear,</b></font>
+
+125
+00:14:17,040 --> 00:14:19,320
+<font face="Comic Sans MS" color="#ffff80"><b>and those who pass the test
+become legend.</b></font>
+
+126
+00:14:19,920 --> 00:14:22,720
+<font face="Comic Sans MS" color="#ffff80"><b>Would you have that era
+come to an end on your watch?</b></font>
+
+127
+00:14:23,280 --> 00:14:25,960
+<font face="Comic Sans MS" color="#ffff80"><b>The most notorious pirates
+from around the world</b></font>
+
+128
+00:14:26,040 --> 00:14:28,040
+<font face="Comic Sans MS" color="#ffff80"><b>are uniting against our enemy,</b></font>
+
+129
+00:14:28,080 --> 00:14:31,200
+<font face="Comic Sans MS" color="#ffff80"><b>and yet you sit here
+cowering in your bathwater!</b></font>
+
+130
+00:14:36,640 --> 00:14:38,560
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth Swann.</b></font>
+
+131
+00:14:39,040 --> 00:14:42,760
+<font face="Comic Sans MS" color="#ffff80"><b>There is more to you
+than meets the eye, isn't there?</b></font>
+
+132
+00:14:43,560 --> 00:14:47,520
+<font face="Comic Sans MS" color="#ffff80"><b>And the eye does not go wanting.</b></font>
+
+133
+00:14:49,040 --> 00:14:54,400
+<font face="Comic Sans MS" color="#ffff80"><b>But I cannot help but notice
+you have failed to answer my question.</b></font>
+
+134
+00:14:55,720 --> 00:14:59,160
+<font face="Comic Sans MS" color="#ffff80"><b>What is it you seek
+in Davy Jones' Locker?</b></font>
+
+135
+00:14:59,240 --> 00:15:00,400
+<font face="Comic Sans MS" color="#ffff80"><b>Jack Sparrow.</b></font>
+
+136
+00:15:03,440 --> 00:15:05,520
+<font face="Comic Sans MS" color="#ffff80"><b>He's one of the pirate lords.</b></font>
+
+137
+00:15:11,400 --> 00:15:12,920
+<font face="Comic Sans MS" color="#ffff80"><b>The only reason...</b></font>
+
+138
+00:15:13,920 --> 00:15:17,920
+<font face="Comic Sans MS" color="#ffff80"><b>...I would want Jack Sparrow returned
+from the land of the dead...</b></font>
+
+139
+00:15:18,640 --> 00:15:21,960
+<font face="Comic Sans MS" color="#ffff80"><b>...is so I can send him back myself!</b></font>
+
+140
+00:15:26,440 --> 00:15:30,680
+<font face="Comic Sans MS" color="#ffff80"><b>Jack Sparrow holds
+one of the nine pieces of eight.</b></font>
+
+141
+00:15:30,760 --> 00:15:34,240
+<font face="Comic Sans MS" color="#ffff80"><b>He failed to pass it along
+to a successor before he died.</b></font>
+
+142
+00:15:34,280 --> 00:15:36,920
+<font face="Comic Sans MS" color="#ffff80"><b>So we must go and get him back.</b></font>
+
+143
+00:15:42,120 --> 00:15:45,440
+<font face="Comic Sans MS" color="#ffff80"><b>So you admit...</b></font>
+
+144
+00:15:45,760 --> 00:15:48,080
+<font face="Comic Sans MS" color="#ffff80"><b>...you have deceived me.</b></font>
+
+145
+00:15:48,120 --> 00:15:49,520
+<font face="Comic Sans MS" color="#ffff80"><b>Weapons!</b></font>
+
+146
+00:15:52,760 --> 00:15:53,960
+<font face="Comic Sans MS" color="#ffff80"><b>Weapons.</b></font>
+
+147
+00:15:54,640 --> 00:15:58,640
+<font face="Comic Sans MS" color="#ffff80"><b>Sao Feng, I assure you,
+our intentions are strictly honorable.</b></font>
+
+148
+00:16:05,720 --> 00:16:08,640
+<font face="Comic Sans MS" color="#ffff80"><b>Drop your weapons or I kill the man!</b></font>
+
+149
+00:16:11,040 --> 00:16:12,840
+<font face="Comic Sans MS" color="#ffff80"><b>Kill him. He's not our man.</b></font>
+
+150
+00:16:14,920 --> 00:16:17,800
+<font face="Comic Sans MS" color="#ffff80"><b>If he's not with you,
+and he's not with us...</b></font>
+
+151
+00:16:18,480 --> 00:16:20,400
+<font face="Comic Sans MS" color="#ffff80"><b>...who's he with?</b></font>
+
+152
+00:16:20,480 --> 00:16:22,840
+<font face="Comic Sans MS" color="#ffff80"><b>Charge!</b></font>
+
+153
+00:16:43,720 --> 00:16:44,720
+<font face="Comic Sans MS" color="#ffff80"><b>Will!</b></font>
+
+154
+00:16:59,120 --> 00:17:01,640
+<font face="Comic Sans MS" color="#ffff80"><b>Look out! Look behind you!</b></font>
+
+155
+00:17:04,600 --> 00:17:05,840
+<font face="Comic Sans MS" color="#ffff80"><b>Ready!</b></font>
+
+156
+00:17:07,440 --> 00:17:08,440
+<font face="Comic Sans MS" color="#ffff80"><b>Fire.</b></font>
+
+157
+00:17:18,240 --> 00:17:19,240
+<font face="Comic Sans MS" color="#ffff80"><b>Chart!</b></font>
+
+158
+00:17:44,880 --> 00:17:45,920
+<font face="Comic Sans MS" color="#ffff80"><b>Boo!</b></font>
+
+159
+00:17:50,280 --> 00:17:54,920
+<font face="Comic Sans MS" color="#ffff80"><b>Company! Make ready. Set. Fire!</b></font>
+
+160
+00:18:01,920 --> 00:18:02,920
+<font face="Comic Sans MS" color="#ffff80"><b>Company!</b></font>
+
+161
+00:18:02,960 --> 00:18:05,080
+<font face="Comic Sans MS" color="#ffff80"><b>Make ready. Set.</b></font>
+
+162
+00:18:08,000 --> 00:18:10,200
+<font face="Comic Sans MS" color="#ffff80"><b>Fire!</b></font>
+
+163
+00:18:26,000 --> 00:18:28,440
+<font face="Comic Sans MS" color="#ffff80"><b>It's an odd coincidence, isn't it?</b></font>
+
+164
+00:18:28,520 --> 00:18:33,440
+<font face="Comic Sans MS" color="#ffff80"><b>The East India Trading Company finds me
+the day you show up in Singapore.</b></font>
+
+165
+00:18:33,520 --> 00:18:34,960
+<font face="Comic Sans MS" color="#ffff80"><b>It is coincidence only.</b></font>
+
+166
+00:18:38,720 --> 00:18:42,560
+<font face="Comic Sans MS" color="#ffff80"><b>If you want to make a deal with Beckett,
+you need what I offer.</b></font>
+
+167
+00:18:43,800 --> 00:18:48,280
+<font face="Comic Sans MS" color="#ffff80"><b>You cross Barbossa.
+You are willing to cross Jack Sparrow.</b></font>
+
+168
+00:18:48,760 --> 00:18:51,440
+<font face="Comic Sans MS" color="#ffff80"><b>Why should I expect any better?</b></font>
+
+169
+00:18:51,480 --> 00:18:54,320
+<font face="Comic Sans MS" color="#ffff80"><b>I need the Black Pearl
+to free my father.</b></font>
+
+170
+00:18:57,640 --> 00:18:59,280
+<font face="Comic Sans MS" color="#ffff80"><b>You're helping me to get it.</b></font>
+
+171
+00:19:08,400 --> 00:19:09,800
+<font face="Comic Sans MS" color="#ffff80"><b>Uh-oh.</b></font>
+
+172
+00:19:15,160 --> 00:19:16,640
+<font face="Comic Sans MS" color="#ffff80"><b>Fire in the hole.</b></font>
+
+173
+00:19:34,840 --> 00:19:36,000
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you, Jack.</b></font>
+
+174
+00:19:36,080 --> 00:19:38,160
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you, Jack.</b></font>
+
+175
+00:19:40,440 --> 00:19:43,240
+<font face="Comic Sans MS" color="#ffff80"><b>- You have the charts?
+- And better yet.</b></font>
+
+176
+00:19:43,840 --> 00:19:46,640
+<font face="Comic Sans MS" color="#ffff80"><b>- A ship and a crew.
+- Where's Sao Feng?</b></font>
+
+177
+00:19:46,680 --> 00:19:49,520
+<font face="Comic Sans MS" color="#ffff80"><b>He'll cover our escape
+and meet us at Shipwreck Cove.</b></font>
+
+178
+00:19:49,600 --> 00:19:51,440
+<font face="Comic Sans MS" color="#ffff80"><b>This way. Be quick.</b></font>
+
+179
+00:19:57,760 --> 00:20:00,480
+<font face="Comic Sans MS" color="#ffff80"><b>Haul the snotters with a will!</b></font>
+
+180
+00:20:00,520 --> 00:20:02,240
+<font face="Comic Sans MS" color="#ffff80"><b>Keep it taut.</b></font>
+
+181
+00:20:03,320 --> 00:20:06,320
+<font face="Comic Sans MS" color="#ffff80"><b>Secure provisions
+and stow the cargo.</b></font>
+
+182
+00:20:06,360 --> 00:20:09,200
+<font face="Comic Sans MS" color="#ffff80"><b>There's no place left
+for Sao Feng to cower.</b></font>
+
+183
+00:20:09,840 --> 00:20:12,200
+<font face="Comic Sans MS" color="#ffff80"><b>Do you think he will honor the call?</b></font>
+
+184
+00:20:12,760 --> 00:20:14,720
+<font face="Comic Sans MS" color="#ffff80"><b>I cannot say.</b></font>
+
+185
+00:20:15,600 --> 00:20:17,880
+<font face="Comic Sans MS" color="#ffff80"><b>There's an evil on these seas</b></font>
+
+186
+00:20:17,920 --> 00:20:23,280
+<font face="Comic Sans MS" color="#ffff80"><b>that even the most staunch and
+bloodthirsty pirates have come to fear.</b></font>
+
+187
+00:21:30,360 --> 00:21:31,840
+<font face="Comic Sans MS" color="#ffff80"><b>A piece of eight.</b></font>
+
+188
+00:21:32,600 --> 00:21:34,280
+<font face="Comic Sans MS" color="#ffff80"><b>Nine of them, you say.</b></font>
+
+189
+00:21:34,360 --> 00:21:37,480
+<font face="Comic Sans MS" color="#ffff80"><b>Our new friend in Singapore
+was very specific, sir.</b></font>
+
+190
+00:21:37,560 --> 00:21:39,120
+<font face="Comic Sans MS" color="#ffff80"><b>Nine pieces of eight.</b></font>
+
+191
+00:21:39,200 --> 00:21:41,800
+<font face="Comic Sans MS" color="#ffff80"><b>What's the significance of that,
+I wonder.</b></font>
+
+192
+00:21:41,840 --> 00:21:44,160
+<font face="Comic Sans MS" color="#ffff80"><b>Nothing can hold against the armada.</b></font>
+
+193
+00:21:44,240 --> 00:21:46,480
+<font face="Comic Sans MS" color="#ffff80"><b>Not with the Flying Dutchman
+at the lead.</b></font>
+
+194
+00:21:46,560 --> 00:21:48,080
+<font face="Comic Sans MS" color="#ffff80"><b>Nothing we know of.</b></font>
+
+195
+00:21:49,480 --> 00:21:52,800
+<font face="Comic Sans MS" color="#ffff80"><b>Did your friend mention
+where the Brethren Court are meeting?</b></font>
+
+196
+00:21:52,840 --> 00:21:55,600
+<font face="Comic Sans MS" color="#ffff80"><b>He was mum on that, sir.</b></font>
+
+197
+00:21:55,640 --> 00:21:57,160
+<font face="Comic Sans MS" color="#ffff80"><b>Hmm.</b></font>
+
+198
+00:21:57,200 --> 00:21:59,640
+<font face="Comic Sans MS" color="#ffff80"><b>Then he knows the value of information.</b></font>
+
+199
+00:21:59,680 --> 00:22:02,480
+<font face="Comic Sans MS" color="#ffff80"><b>Better keep this between ourselves.</b></font>
+
+200
+00:22:02,560 --> 00:22:05,880
+<font face="Comic Sans MS" color="#ffff80"><b>We don't want anyone
+running off to Singapore, do we?</b></font>
+
+201
+00:22:07,760 --> 00:22:12,480
+<font face="Comic Sans MS" color="#ffff80"><b>- Ah, admiral.
+- You summoned me, Lord Beckett.</b></font>
+
+202
+00:22:12,560 --> 00:22:15,280
+<font face="Comic Sans MS" color="#ffff80"><b>Yes. Something for you there.</b></font>
+
+203
+00:22:15,320 --> 00:22:18,720
+<font face="Comic Sans MS" color="#ffff80"><b>Your new station deserves an old friend.</b></font>
+
+204
+00:22:32,520 --> 00:22:35,840
+<font face="Comic Sans MS" color="#ffff80"><b>- Not more requisition orders.
+- No, sir.</b></font>
+
+205
+00:22:35,880 --> 00:22:37,480
+<font face="Comic Sans MS" color="#ffff80"><b>Execution.</b></font>
+
+206
+00:22:43,360 --> 00:22:45,520
+<font face="Comic Sans MS" color="#ffff80"><b>The Brethren know they face extinction.</b></font>
+
+207
+00:22:46,520 --> 00:22:50,920
+<font face="Comic Sans MS" color="#ffff80"><b>All that remains is for them to decide
+where they make their final stand.</b></font>
+
+208
+00:23:15,720 --> 00:23:18,880
+<font face="Comic Sans MS" color="#ffff80"><b>No one said anything about cold.</b></font>
+
+209
+00:23:18,960 --> 00:23:22,720
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sure there must be
+a good reason for our suffering.</b></font>
+
+210
+00:23:23,720 --> 00:23:26,680
+<font face="Comic Sans MS" color="#ffff80"><b>Why don't that obeah woman
+bring Jack back the same way</b></font>
+
+211
+00:23:26,720 --> 00:23:31,280
+<font face="Comic Sans MS" color="#ffff80"><b>- she brought back Barbossa?
+- Because Barbossa was only dead.</b></font>
+
+212
+00:23:32,560 --> 00:23:36,880
+<font face="Comic Sans MS" color="#ffff80"><b>Jack Sparrow is taken, body and soul,</b></font>
+
+213
+00:23:36,920 --> 00:23:42,080
+<font face="Comic Sans MS" color="#ffff80"><b>to a place not of death, but punishment.</b></font>
+
+214
+00:23:42,160 --> 00:23:46,000
+<font face="Comic Sans MS" color="#ffff80"><b>The worst fate a person
+can bring upon himself...</b></font>
+
+215
+00:23:46,440 --> 00:23:48,680
+<font face="Comic Sans MS" color="#ffff80"><b>...stretching on forever.</b></font>
+
+216
+00:23:49,080 --> 00:23:52,600
+<font face="Comic Sans MS" color="#ffff80"><b>That's what awaits
+at Davy Jones' Locker.</b></font>
+
+217
+00:23:56,760 --> 00:24:00,160
+<font face="Comic Sans MS" color="#ffff80"><b>Yeah. I knew there was a good reason.</b></font>
+
+218
+00:24:11,120 --> 00:24:13,400
+<font face="Comic Sans MS" color="#ffff80"><b>Nothing here is set.</b></font>
+
+219
+00:24:14,640 --> 00:24:16,800
+<font face="Comic Sans MS" color="#ffff80"><b>These can't be
+as accurate as modern charts.</b></font>
+
+220
+00:24:16,840 --> 00:24:21,520
+<font face="Comic Sans MS" color="#ffff80"><b>No. But it leads to more places.</b></font>
+
+221
+00:24:27,600 --> 00:24:29,120
+<font face="Comic Sans MS" color="#ffff80"><b>"Over the edge.</b></font>
+
+222
+00:24:29,160 --> 00:24:31,640
+<font face="Comic Sans MS" color="#ffff80"><b>Over again."</b></font>
+
+223
+00:24:33,480 --> 00:24:36,160
+<font face="Comic Sans MS" color="#ffff80"><b>"Sunrise sets.</b></font>
+
+224
+00:24:36,240 --> 00:24:39,240
+<font face="Comic Sans MS" color="#ffff80"><b>Flash of green."</b></font>
+
+225
+00:24:40,120 --> 00:24:44,120
+<font face="Comic Sans MS" color="#ffff80"><b>Do you care to interpret,
+Captain Barbossa?</b></font>
+
+226
+00:24:44,880 --> 00:24:49,760
+<font face="Comic Sans MS" color="#ffff80"><b>Ever gazed upon the green flash,
+Master Gibbs?</b></font>
+
+227
+00:24:49,840 --> 00:24:54,400
+<font face="Comic Sans MS" color="#ffff80"><b>I reckon I seen my fair share.
+Happens on rare occasion.</b></font>
+
+228
+00:24:54,480 --> 00:24:58,280
+<font face="Comic Sans MS" color="#ffff80"><b>The last glimpse of sunset,
+a green flash shoots up into the sky.</b></font>
+
+229
+00:24:58,680 --> 00:25:01,680
+<font face="Comic Sans MS" color="#ffff80"><b>Some go their whole lives
+without ever seeing it.</b></font>
+
+230
+00:25:01,760 --> 00:25:04,600
+<font face="Comic Sans MS" color="#ffff80"><b>Some claim to have seen it who ain't.
+And some say...</b></font>
+
+231
+00:25:04,680 --> 00:25:08,840
+<font face="Comic Sans MS" color="#ffff80"><b>It signals when a soul
+comes back to this world from the dead.</b></font>
+
+232
+00:25:13,400 --> 00:25:17,000
+<font face="Comic Sans MS" color="#ffff80"><b>- Sorry.
+- Trust me, young Master Turner.</b></font>
+
+233
+00:25:17,040 --> 00:25:20,400
+<font face="Comic Sans MS" color="#ffff80"><b>It's not getting to the land
+of the dead that's the problem.</b></font>
+
+234
+00:25:22,640 --> 00:25:24,400
+<font face="Comic Sans MS" color="#ffff80"><b>It's getting back.</b></font>
+
+235
+00:26:04,960 --> 00:26:09,640
+<font face="Comic Sans MS" color="#ffff80"><b>Bosun!
+Head to wind! Lift the sail!</b></font>
+
+236
+00:26:09,720 --> 00:26:10,960
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, aye, sir!</b></font>
+
+237
+00:26:13,120 --> 00:26:16,240
+<font face="Comic Sans MS" color="#ffff80"><b>Bloody hell. There's nothing left.</b></font>
+
+238
+00:26:16,280 --> 00:26:19,680
+<font face="Comic Sans MS" color="#ffff80"><b>Jones is a loose cannon, sir.</b></font>
+
+239
+00:26:20,120 --> 00:26:22,080
+<font face="Comic Sans MS" color="#ffff80"><b>Fetch the chest.</b></font>
+
+240
+00:26:22,800 --> 00:26:24,960
+<font face="Comic Sans MS" color="#ffff80"><b>And the governor?</b></font>
+
+241
+00:26:25,760 --> 00:26:29,520
+<font face="Comic Sans MS" color="#ffff80"><b>He's been asking questions
+about the heart.</b></font>
+
+242
+00:26:30,080 --> 00:26:31,920
+<font face="Comic Sans MS" color="#ffff80"><b>Does he know?</b></font>
+
+243
+00:26:35,480 --> 00:26:39,120
+<font face="Comic Sans MS" color="#ffff80"><b>Then perhaps his usefulness
+has run its course.</b></font>
+
+244
+00:27:39,360 --> 00:27:41,400
+<font face="Comic Sans MS" color="#ffff80"><b>Step lively, men.</b></font>
+
+245
+00:27:41,840 --> 00:27:43,400
+<font face="Comic Sans MS" color="#ffff80"><b>Step lively!</b></font>
+
+246
+00:27:45,480 --> 00:27:46,680
+<font face="Comic Sans MS" color="#ffff80"><b>Stand fast!</b></font>
+
+247
+00:27:53,360 --> 00:27:55,080
+<font face="Comic Sans MS" color="#ffff80"><b>Steady, men.</b></font>
+
+248
+00:28:00,840 --> 00:28:06,720
+<font face="Comic Sans MS" color="#ffff80"><b>Go. All of you.
+And take that infernal thing with you.</b></font>
+
+249
+00:28:06,800 --> 00:28:09,760
+<font face="Comic Sans MS" color="#ffff80"><b>I will not have it on my ship!</b></font>
+
+250
+00:28:09,840 --> 00:28:13,360
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, I'm sorry to hear that...
+because I will.</b></font>
+
+251
+00:28:13,440 --> 00:28:16,360
+<font face="Comic Sans MS" color="#ffff80"><b>Because it seems to be
+the only way to ensure</b></font>
+
+252
+00:28:16,400 --> 00:28:19,840
+<font face="Comic Sans MS" color="#ffff80"><b>that this ship do as directed
+by the company.</b></font>
+
+253
+00:28:25,040 --> 00:28:27,440
+<font face="Comic Sans MS" color="#ffff80"><b>We need prisoners to interrogate,</b></font>
+
+254
+00:28:27,520 --> 00:28:30,720
+<font face="Comic Sans MS" color="#ffff80"><b>which tends to work best
+when they're alive.</b></font>
+
+255
+00:28:30,800 --> 00:28:34,720
+<font face="Comic Sans MS" color="#ffff80"><b>The Dutchman sails
+as its captain commands.</b></font>
+
+256
+00:28:34,760 --> 00:28:38,680
+<font face="Comic Sans MS" color="#ffff80"><b>And its captain
+is to sail it as commanded.</b></font>
+
+257
+00:28:41,280 --> 00:28:45,400
+<font face="Comic Sans MS" color="#ffff80"><b>I would have thought you'd learned that
+when I ordered you to kill your pet.</b></font>
+
+258
+00:28:46,360 --> 00:28:50,080
+<font face="Comic Sans MS" color="#ffff80"><b>This is no longer your world, Jones.</b></font>
+
+259
+00:28:50,880 --> 00:28:54,240
+<font face="Comic Sans MS" color="#ffff80"><b>The immaterial has become...</b></font>
+
+260
+00:28:55,400 --> 00:28:57,120
+<font face="Comic Sans MS" color="#ffff80"><b>...immaterial.</b></font>
+
+261
+00:28:58,240 --> 00:29:00,320
+<font face="Comic Sans MS" color="#ffff80"><b>Charge your bayonets.</b></font>
+
+262
+00:29:39,280 --> 00:29:41,680
+<font face="Comic Sans MS" color="#ffff80"><b>How long do we continue not talking?</b></font>
+
+263
+00:29:45,680 --> 00:29:48,240
+<font face="Comic Sans MS" color="#ffff80"><b>Once we rescue Jack,
+everything'll be fine.</b></font>
+
+264
+00:29:51,320 --> 00:29:52,800
+<font face="Comic Sans MS" color="#ffff80"><b>Then we rescue Jack.</b></font>
+
+265
+00:30:18,080 --> 00:30:21,280
+<font face="Comic Sans MS" color="#ffff80"><b>For what we want most...</b></font>
+
+266
+00:30:23,280 --> 00:30:26,560
+<font face="Comic Sans MS" color="#ffff80"><b>...there is a cost
+must be paid in the end.</b></font>
+
+267
+00:30:37,840 --> 00:30:42,800
+<font face="Comic Sans MS" color="#ffff80"><b>- Barbossa, ahead!
+- Aye, we're good and lost now.</b></font>
+
+268
+00:30:43,680 --> 00:30:46,360
+<font face="Comic Sans MS" color="#ffff80"><b>- Lost?
+- For certain you have to be lost</b></font>
+
+269
+00:30:46,400 --> 00:30:48,400
+<font face="Comic Sans MS" color="#ffff80"><b>to find a place as can't be found.</b></font>
+
+270
+00:30:48,480 --> 00:30:50,840
+<font face="Comic Sans MS" color="#ffff80"><b>Elseways, everyone
+would know where it was.</b></font>
+
+271
+00:30:51,120 --> 00:30:53,560
+<font face="Comic Sans MS" color="#ffff80"><b>- We're gaining speed.
+- Aye.</b></font>
+
+272
+00:30:54,560 --> 00:30:56,200
+<font face="Comic Sans MS" color="#ffff80"><b>To stations!</b></font>
+
+273
+00:30:57,280 --> 00:30:58,680
+<font face="Comic Sans MS" color="#ffff80"><b>All hands to stations!</b></font>
+
+274
+00:30:58,720 --> 00:31:01,520
+<font face="Comic Sans MS" color="#ffff80"><b>Huh?</b></font>
+
+275
+00:31:01,560 --> 00:31:04,480
+<font face="Comic Sans MS" color="#ffff80"><b>Rudder full. Hard aport! Gather way.</b></font>
+
+276
+00:31:04,520 --> 00:31:09,360
+<font face="Comic Sans MS" color="#ffff80"><b>Nay! Belay that!
+Let her run straight and true!</b></font>
+
+277
+00:31:11,280 --> 00:31:12,520
+<font face="Comic Sans MS" color="#ffff80"><b>Blimey.</b></font>
+
+278
+00:31:26,560 --> 00:31:29,880
+<font face="Comic Sans MS" color="#ffff80"><b>- You've doomed us all.
+- Don't be so unkind.</b></font>
+
+279
+00:31:29,960 --> 00:31:32,640
+<font face="Comic Sans MS" color="#ffff80"><b>You may not survive
+to pass this way again,</b></font>
+
+280
+00:31:32,720 --> 00:31:36,560
+<font face="Comic Sans MS" color="#ffff80"><b>and these be the last
+friendly words you'll hear.</b></font>
+
+281
+00:31:41,320 --> 00:31:42,560
+<font face="Comic Sans MS" color="#ffff80"><b>Tie her off.</b></font>
+
+282
+00:31:48,240 --> 00:31:49,920
+<font face="Comic Sans MS" color="#ffff80"><b>Hard aport.</b></font>
+
+283
+00:31:58,680 --> 00:32:00,720
+<font face="Comic Sans MS" color="#ffff80"><b>Hold on!</b></font>
+
+284
+00:32:32,600 --> 00:32:37,280
+<font face="Comic Sans MS" color="#ffff80"><b>Strike your colors,
+you blooming cockroaches.</b></font>
+
+285
+00:32:37,320 --> 00:32:42,880
+<font face="Comic Sans MS" color="#ffff80"><b>Dead men tell no tales.</b></font>
+
+286
+00:33:31,040 --> 00:33:32,520
+<font face="Comic Sans MS" color="#ffff80"><b>My peanut.</b></font>
+
+287
+00:33:34,080 --> 00:33:36,160
+<font face="Comic Sans MS" color="#ffff80"><b>Haul the halyard. Slacken braces.</b></font>
+
+288
+00:33:36,240 --> 00:33:38,520
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, captain.
+Slacken braces.</b></font>
+
+289
+00:33:38,600 --> 00:33:40,720
+<font face="Comic Sans MS" color="#ffff80"><b>Step lively with a will.</b></font>
+
+290
+00:33:40,800 --> 00:33:42,400
+<font face="Comic Sans MS" color="#ffff80"><b>-Aye, aye.
+-Right away, sir.</b></font>
+
+291
+00:33:42,480 --> 00:33:44,200
+<font face="Comic Sans MS" color="#ffff80"><b>I want a fire down below!</b></font>
+
+292
+00:33:47,280 --> 00:33:51,040
+<font face="Comic Sans MS" color="#ffff80"><b>- Help.
+- Man the yards, you filthy toads.</b></font>
+
+293
+00:34:02,000 --> 00:34:05,800
+<font face="Comic Sans MS" color="#ffff80"><b>Haul! Haul!</b></font>
+
+294
+00:34:05,880 --> 00:34:08,720
+<font face="Comic Sans MS" color="#ffff80"><b>Haul the sheets handsomely.
+Scandalize the lateens.</b></font>
+
+295
+00:34:08,800 --> 00:34:10,600
+<font face="Comic Sans MS" color="#ffff80"><b>- Aye, sir.
+- Right away, sir.</b></font>
+
+296
+00:34:24,600 --> 00:34:26,560
+<font face="Comic Sans MS" color="#ffff80"><b>- Mr. Sparrow?
+- Aye, cap'n.</b></font>
+
+297
+00:34:27,360 --> 00:34:30,080
+<font face="Comic Sans MS" color="#ffff80"><b>What say you about
+the condition of this tack line?</b></font>
+
+298
+00:34:30,760 --> 00:34:34,240
+<font face="Comic Sans MS" color="#ffff80"><b>- It be proper to my eyes, sir.
+- Proper?</b></font>
+
+299
+00:34:34,280 --> 00:34:38,160
+<font face="Comic Sans MS" color="#ffff80"><b>It is neither proper nor suitable, sir.
+It is not acceptable nor adequate.</b></font>
+
+300
+00:34:38,240 --> 00:34:40,680
+<font face="Comic Sans MS" color="#ffff80"><b>It is, in obvious fact, an abomination.</b></font>
+
+301
+00:34:40,760 --> 00:34:44,240
+<font face="Comic Sans MS" color="#ffff80"><b>Begging your pardon, sir,
+but if you gave a man another chance.</b></font>
+
+302
+00:34:44,680 --> 00:34:46,600
+<font face="Comic Sans MS" color="#ffff80"><b>Shall I?</b></font>
+
+303
+00:34:50,600 --> 00:34:53,640
+<font face="Comic Sans MS" color="#ffff80"><b>It's that sort of thinking
+got us into this mess.</b></font>
+
+304
+00:34:56,400 --> 00:34:59,280
+<font face="Comic Sans MS" color="#ffff80"><b>We have lost speed and, therefore, time.</b></font>
+
+305
+00:34:59,320 --> 00:35:03,560
+<font face="Comic Sans MS" color="#ffff80"><b>Precious time,
+which cannot be recovered once lost.</b></font>
+
+306
+00:35:03,600 --> 00:35:05,440
+<font face="Comic Sans MS" color="#ffff80"><b>Do you understand?</b></font>
+
+307
+00:35:05,480 --> 00:35:08,600
+<font face="Comic Sans MS" color="#ffff80"><b>- Aye, aye, captain.
+- Do you now?</b></font>
+
+308
+00:35:09,160 --> 00:35:12,360
+<font face="Comic Sans MS" color="#ffff80"><b>It will all have to be redone.
+All of it.</b></font>
+
+309
+00:35:12,440 --> 00:35:14,920
+<font face="Comic Sans MS" color="#ffff80"><b>And let this serve
+as a lesson to the lot of you.</b></font>
+
+310
+00:35:14,960 --> 00:35:18,440
+<font face="Comic Sans MS" color="#ffff80"><b>Doldrums, sir,
+has the entire crew on edge.</b></font>
+
+311
+00:35:18,520 --> 00:35:21,480
+<font face="Comic Sans MS" color="#ffff80"><b>I have no sympathy
+for any of you feculent maggots,</b></font>
+
+312
+00:35:21,600 --> 00:35:24,440
+<font face="Comic Sans MS" color="#ffff80"><b>and no more patience
+to pretend otherwise.</b></font>
+
+313
+00:35:27,280 --> 00:35:31,280
+<font face="Comic Sans MS" color="#ffff80"><b>Gentlemen, I wash my hands
+of this weirdness.</b></font>
+
+314
+00:35:41,800 --> 00:35:43,240
+<font face="Comic Sans MS" color="#ffff80"><b>No wind.</b></font>
+
+315
+00:35:43,720 --> 00:35:45,680
+<font face="Comic Sans MS" color="#ffff80"><b>Of course, there's no bloody wind.</b></font>
+
+316
+00:35:47,320 --> 00:35:49,800
+<font face="Comic Sans MS" color="#ffff80"><b>My soul I do swear for a breeze.</b></font>
+
+317
+00:35:49,840 --> 00:35:54,680
+<font face="Comic Sans MS" color="#ffff80"><b>Gust. Whisper. A tiny, miniature lick.</b></font>
+
+318
+00:36:07,520 --> 00:36:10,000
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, sir, I know, but why?
+Why would he do that?</b></font>
+
+319
+00:36:10,040 --> 00:36:11,760
+<font face="Comic Sans MS" color="#ffff80"><b>Because he's a lummox, isn't he?</b></font>
+
+320
+00:36:11,840 --> 00:36:15,520
+<font face="Comic Sans MS" color="#ffff80"><b>We shall have a magnificent
+garden party and you're not invited.</b></font>
+
+321
+00:36:28,760 --> 00:36:30,200
+<font face="Comic Sans MS" color="#ffff80"><b>Shoo.</b></font>
+
+322
+00:36:49,200 --> 00:36:50,480
+<font face="Comic Sans MS" color="#ffff80"><b>A rock.</b></font>
+
+323
+00:37:17,760 --> 00:37:21,360
+<font face="Comic Sans MS" color="#ffff80"><b>Now we're being followed by rocks.
+Never had that before.</b></font>
+
+324
+00:37:21,640 --> 00:37:22,640
+<font face="Comic Sans MS" color="#ffff80"><b>Oh.</b></font>
+
+325
+00:37:24,120 --> 00:37:25,720
+<font face="Comic Sans MS" color="#ffff80"><b>A rope.</b></font>
+
+326
+00:39:46,400 --> 00:39:49,520
+<font face="Comic Sans MS" color="#ffff80"><b>This truly is a godforsaken place.</b></font>
+
+327
+00:39:50,280 --> 00:39:53,360
+<font face="Comic Sans MS" color="#ffff80"><b>I don't see Jack.
+I don't see anyone.</b></font>
+
+328
+00:39:54,680 --> 00:39:56,320
+<font face="Comic Sans MS" color="#ffff80"><b>He's here.</b></font>
+
+329
+00:39:56,400 --> 00:39:59,680
+<font face="Comic Sans MS" color="#ffff80"><b>Davy Jones never once
+gave up that what he took.</b></font>
+
+330
+00:39:59,720 --> 00:40:01,200
+<font face="Comic Sans MS" color="#ffff80"><b>And does it matter?</b></font>
+
+331
+00:40:01,240 --> 00:40:04,320
+<font face="Comic Sans MS" color="#ffff80"><b>We're trapped here by your doing.
+No different than Jack.</b></font>
+
+332
+00:40:07,480 --> 00:40:12,640
+<font face="Comic Sans MS" color="#ffff80"><b>Witty Jack is closer than you think.</b></font>
+
+333
+00:40:53,280 --> 00:40:54,840
+<font face="Comic Sans MS" color="#ffff80"><b>Impossible.</b></font>
+
+334
+00:41:00,480 --> 00:41:01,440
+<font face="Comic Sans MS" color="#ffff80"><b>Boat.</b></font>
+
+335
+00:41:07,840 --> 00:41:11,760
+<font face="Comic Sans MS" color="#ffff80"><b>Slap me thrice
+and hand me to me mama. It's Jack.</b></font>
+
+336
+00:41:20,880 --> 00:41:23,600
+<font face="Comic Sans MS" color="#ffff80"><b>- It's the captain!
+- A sight for sore eyes.</b></font>
+
+337
+00:41:23,640 --> 00:41:24,760
+<font face="Comic Sans MS" color="#ffff80"><b>Hide the rum.</b></font>
+
+338
+00:41:24,800 --> 00:41:26,760
+<font face="Comic Sans MS" color="#ffff80"><b>- Mr. Gibbs.
+- Aye, cap'n.</b></font>
+
+339
+00:41:26,800 --> 00:41:28,200
+<font face="Comic Sans MS" color="#ffff80"><b>I thought so.</b></font>
+
+340
+00:41:28,280 --> 00:41:31,240
+<font face="Comic Sans MS" color="#ffff80"><b>I expect you're able
+to account for your actions, then.</b></font>
+
+341
+00:41:31,320 --> 00:41:32,320
+<font face="Comic Sans MS" color="#ffff80"><b>Sir?</b></font>
+
+342
+00:41:32,360 --> 00:41:36,400
+<font face="Comic Sans MS" color="#ffff80"><b>There's been a perpetual and virulent
+lack of discipline upon my vessel. Why?</b></font>
+
+343
+00:41:36,480 --> 00:41:38,840
+<font face="Comic Sans MS" color="#ffff80"><b>- Why is that, sir?
+- Sir, you're...</b></font>
+
+344
+00:41:39,680 --> 00:41:42,480
+<font face="Comic Sans MS" color="#ffff80"><b>You're in Davy Jones' Locker, cap'n.</b></font>
+
+345
+00:41:46,160 --> 00:41:49,480
+<font face="Comic Sans MS" color="#ffff80"><b>I know that.
+I know where I am.</b></font>
+
+346
+00:41:49,520 --> 00:41:53,760
+<font face="Comic Sans MS" color="#ffff80"><b>- And don't think I don't.
+- Jack Sparrow.</b></font>
+
+347
+00:41:54,480 --> 00:41:56,360
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, Hector.</b></font>
+
+348
+00:41:56,400 --> 00:41:58,360
+<font face="Comic Sans MS" color="#ffff80"><b>It's been too long. Hasn't it?</b></font>
+
+349
+00:41:58,400 --> 00:42:03,200
+<font face="Comic Sans MS" color="#ffff80"><b>Aye. Isla de Muerta, remember?
+You shot me.</b></font>
+
+350
+00:42:04,600 --> 00:42:06,480
+<font face="Comic Sans MS" color="#ffff80"><b>No, I didn't.</b></font>
+
+351
+00:42:06,520 --> 00:42:08,640
+<font face="Comic Sans MS" color="#ffff80"><b>Tia Dalma, out and about, eh?</b></font>
+
+352
+00:42:08,680 --> 00:42:12,600
+<font face="Comic Sans MS" color="#ffff80"><b>You add an agreeable sense
+of the macabre to any delirium.</b></font>
+
+353
+00:42:13,960 --> 00:42:15,880
+<font face="Comic Sans MS" color="#ffff80"><b>He thinks we're a hallucination.</b></font>
+
+354
+00:42:16,760 --> 00:42:18,400
+<font face="Comic Sans MS" color="#ffff80"><b>William, tell me something:</b></font>
+
+355
+00:42:18,480 --> 00:42:22,560
+<font face="Comic Sans MS" color="#ffff80"><b>Have you come because you need my help
+to save a certain distressing damsel,</b></font>
+
+356
+00:42:22,600 --> 00:42:26,160
+<font face="Comic Sans MS" color="#ffff80"><b>or rather, damsel in distress?
+Either one.</b></font>
+
+357
+00:42:26,720 --> 00:42:27,720
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+358
+00:42:27,760 --> 00:42:30,200
+<font face="Comic Sans MS" color="#ffff80"><b>Well, then,
+you wouldn't be here, would you?</b></font>
+
+359
+00:42:30,240 --> 00:42:34,240
+<font face="Comic Sans MS" color="#ffff80"><b>So you can't be here.
+Q.E.D., you're not really here.</b></font>
+
+360
+00:42:34,360 --> 00:42:35,720
+<font face="Comic Sans MS" color="#ffff80"><b>Jack.</b></font>
+
+361
+00:42:37,880 --> 00:42:39,800
+<font face="Comic Sans MS" color="#ffff80"><b>This is real. We're here.</b></font>
+
+362
+00:42:50,760 --> 00:42:53,440
+<font face="Comic Sans MS" color="#ffff80"><b>- The Locker, you say?
+- Aye.</b></font>
+
+363
+00:42:53,920 --> 00:42:56,200
+<font face="Comic Sans MS" color="#ffff80"><b>We've come to rescue you.</b></font>
+
+364
+00:42:57,800 --> 00:43:01,320
+<font face="Comic Sans MS" color="#ffff80"><b>Have you, now?
+That's very kind of you.</b></font>
+
+365
+00:43:01,400 --> 00:43:04,760
+<font face="Comic Sans MS" color="#ffff80"><b>But it would seem that
+as I possess a ship and you don't,</b></font>
+
+366
+00:43:04,880 --> 00:43:08,960
+<font face="Comic Sans MS" color="#ffff80"><b>you're the ones in need of rescuing,
+and I'm not sure as I'm in the mood.</b></font>
+
+367
+00:43:09,800 --> 00:43:13,360
+<font face="Comic Sans MS" color="#ffff80"><b>I see my ship. Right there.</b></font>
+
+368
+00:43:16,840 --> 00:43:18,400
+<font face="Comic Sans MS" color="#ffff80"><b>Can't spot it.</b></font>
+
+369
+00:43:18,440 --> 00:43:21,760
+<font face="Comic Sans MS" color="#ffff80"><b>Must be a tiny little thing
+hiding somewhere behind the Pearl.</b></font>
+
+370
+00:43:21,840 --> 00:43:24,640
+<font face="Comic Sans MS" color="#ffff80"><b>Jack, Cutler Beckett
+has the heart of Davy Jones.</b></font>
+
+371
+00:43:24,720 --> 00:43:28,120
+<font face="Comic Sans MS" color="#ffff80"><b>- He controls the Flying Dutchman.
+- He's taking over the seas.</b></font>
+
+372
+00:43:28,160 --> 00:43:31,040
+<font face="Comic Sans MS" color="#ffff80"><b>The song has been sung.
+The Brethren Court is called.</b></font>
+
+373
+00:43:31,120 --> 00:43:34,920
+<font face="Comic Sans MS" color="#ffff80"><b>Leave you alone for a minute, look
+what happens. Everything's gone to pot.</b></font>
+
+374
+00:43:34,960 --> 00:43:37,600
+<font face="Comic Sans MS" color="#ffff80"><b>Aye. The world
+needs you back something fierce.</b></font>
+
+375
+00:43:37,680 --> 00:43:39,480
+<font face="Comic Sans MS" color="#ffff80"><b>And you need a crew.</b></font>
+
+376
+00:43:41,600 --> 00:43:43,800
+<font face="Comic Sans MS" color="#ffff80"><b>Why should I sail with any of you?</b></font>
+
+377
+00:43:43,880 --> 00:43:47,360
+<font face="Comic Sans MS" color="#ffff80"><b>Four of you have tried to kill me
+in the past. One of you succeeded.</b></font>
+
+378
+00:43:51,120 --> 00:43:54,560
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, she's not told you.</b></font>
+
+379
+00:43:54,640 --> 00:43:57,480
+<font face="Comic Sans MS" color="#ffff80"><b>You'll have loads to talk about
+while you're here.</b></font>
+
+380
+00:43:58,800 --> 00:44:00,320
+<font face="Comic Sans MS" color="#ffff80"><b>As for you...</b></font>
+
+381
+00:44:01,520 --> 00:44:07,400
+<font face="Comic Sans MS" color="#ffff80"><b>Now... don't tell me
+you didn't enjoy it at the time.</b></font>
+
+382
+00:44:08,360 --> 00:44:10,440
+<font face="Comic Sans MS" color="#ffff80"><b>Fair enough. All right, you're in.</b></font>
+
+383
+00:44:10,480 --> 00:44:12,440
+<font face="Comic Sans MS" color="#ffff80"><b>Don't need you. You scare me.</b></font>
+
+384
+00:44:12,480 --> 00:44:16,360
+<font face="Comic Sans MS" color="#ffff80"><b>Gibbs, you can come. Marty. Mm...</b></font>
+
+385
+00:44:16,440 --> 00:44:18,120
+<font face="Comic Sans MS" color="#ffff80"><b>Cotton.</b></font>
+
+386
+00:44:18,160 --> 00:44:22,720
+<font face="Comic Sans MS" color="#ffff80"><b>Cotton's parrot, I'm a little iffy, but
+at least I'll have someone to talk to.</b></font>
+
+387
+00:44:23,880 --> 00:44:25,160
+<font face="Comic Sans MS" color="#ffff80"><b>Who are you?</b></font>
+
+388
+00:44:25,240 --> 00:44:27,520
+<font face="Comic Sans MS" color="#ffff80"><b>Tai Huang. These are my men.</b></font>
+
+389
+00:44:28,200 --> 00:44:32,040
+<font face="Comic Sans MS" color="#ffff80"><b>- Where do your allegiances lie?
+- With the highest bidder.</b></font>
+
+390
+00:44:32,520 --> 00:44:36,160
+<font face="Comic Sans MS" color="#ffff80"><b>- I have a ship.
+- That makes you the highest bidder.</b></font>
+
+391
+00:44:36,200 --> 00:44:40,280
+<font face="Comic Sans MS" color="#ffff80"><b>Good man. Weigh anchor, all hands.
+Prepare to make sail.</b></font>
+
+392
+00:44:40,360 --> 00:44:41,520
+<font face="Comic Sans MS" color="#ffff80"><b>Weigh anchor.</b></font>
+
+393
+00:44:45,120 --> 00:44:46,680
+<font face="Comic Sans MS" color="#ffff80"><b>Jack...</b></font>
+
+394
+00:44:48,000 --> 00:44:51,640
+<font face="Comic Sans MS" color="#ffff80"><b>Which way are you going, Jack?</b></font>
+
+395
+00:44:53,760 --> 00:44:57,080
+<font face="Comic Sans MS" color="#ffff80"><b>Trim that sail.
+Slack windward brace and sheet.</b></font>
+
+396
+00:44:57,160 --> 00:44:59,680
+<font face="Comic Sans MS" color="#ffff80"><b>- Haul the pennant line.
+- Haul the pennant line.</b></font>
+
+397
+00:44:59,760 --> 00:45:01,200
+<font face="Comic Sans MS" color="#ffff80"><b>What are you doing?</b></font>
+
+398
+00:45:01,280 --> 00:45:03,880
+<font face="Comic Sans MS" color="#ffff80"><b>- What are you doing?
+- No, what are you doing?</b></font>
+
+399
+00:45:03,960 --> 00:45:06,720
+<font face="Comic Sans MS" color="#ffff80"><b>- What are you doing?
+- No, what are you doing?</b></font>
+
+400
+00:45:06,800 --> 00:45:09,280
+<font face="Comic Sans MS" color="#ffff80"><b>What are you?
+Captain gives orders on the ship.</b></font>
+
+401
+00:45:09,360 --> 00:45:11,560
+<font face="Comic Sans MS" color="#ffff80"><b>The captain of the ship
+is giving orders.</b></font>
+
+402
+00:45:12,080 --> 00:45:15,080
+<font face="Comic Sans MS" color="#ffff80"><b>- My ship, makes me captain.
+- They be my charts.</b></font>
+
+403
+00:45:15,160 --> 00:45:17,680
+<font face="Comic Sans MS" color="#ffff80"><b>That makes you "chartman."</b></font>
+
+404
+00:45:17,720 --> 00:45:22,640
+<font face="Comic Sans MS" color="#ffff80"><b>Stow it! The both of you!
+That's an order! Understand?!</b></font>
+
+405
+00:45:28,480 --> 00:45:31,680
+<font face="Comic Sans MS" color="#ffff80"><b>Sorry. I just thought
+with the captain issue in doubt,</b></font>
+
+406
+00:45:31,720 --> 00:45:34,680
+<font face="Comic Sans MS" color="#ffff80"><b>I'd throw in my name for consideration.</b></font>
+
+407
+00:45:34,720 --> 00:45:36,040
+<font face="Comic Sans MS" color="#ffff80"><b>Sorry.</b></font>
+
+408
+00:45:40,720 --> 00:45:43,080
+<font face="Comic Sans MS" color="#ffff80"><b>- I'd vote for you.
+- Yeah?</b></font>
+
+409
+00:46:18,440 --> 00:46:20,320
+<font face="Comic Sans MS" color="#ffff80"><b>You left Jack to the Kraken.</b></font>
+
+410
+00:46:21,400 --> 00:46:23,520
+<font face="Comic Sans MS" color="#ffff80"><b>He's rescued now. It's done with.</b></font>
+
+411
+00:46:26,720 --> 00:46:28,680
+<font face="Comic Sans MS" color="#ffff80"><b>Will, I had no choice.</b></font>
+
+412
+00:46:29,920 --> 00:46:31,800
+<font face="Comic Sans MS" color="#ffff80"><b>You chose not to tell me.</b></font>
+
+413
+00:46:32,720 --> 00:46:34,480
+<font face="Comic Sans MS" color="#ffff80"><b>I couldn't.</b></font>
+
+414
+00:46:35,800 --> 00:46:37,360
+<font face="Comic Sans MS" color="#ffff80"><b>It wasn't your burden to bear.</b></font>
+
+415
+00:46:38,400 --> 00:46:40,240
+<font face="Comic Sans MS" color="#ffff80"><b>But I did bear it, didn't I?</b></font>
+
+416
+00:46:41,960 --> 00:46:43,800
+<font face="Comic Sans MS" color="#ffff80"><b>I just didn't know what it was.</b></font>
+
+417
+00:46:44,640 --> 00:46:46,280
+<font face="Comic Sans MS" color="#ffff80"><b>I thought...</b></font>
+
+418
+00:46:47,440 --> 00:46:49,440
+<font face="Comic Sans MS" color="#ffff80"><b>You thought I loved him.</b></font>
+
+419
+00:46:57,920 --> 00:47:01,760
+<font face="Comic Sans MS" color="#ffff80"><b>If you make your choices alone,
+how can I trust you?</b></font>
+
+420
+00:47:04,800 --> 00:47:06,080
+<font face="Comic Sans MS" color="#ffff80"><b>You can't.</b></font>
+
+421
+00:47:34,640 --> 00:47:35,800
+<font face="Comic Sans MS" color="#ffff80"><b>Eerie.</b></font>
+
+422
+00:47:37,560 --> 00:47:39,720
+<font face="Comic Sans MS" color="#ffff80"><b>That's downright macabre.</b></font>
+
+423
+00:47:45,280 --> 00:47:48,960
+<font face="Comic Sans MS" color="#ffff80"><b>I wonder what would happen if you
+dropped a cannonball on one of them?</b></font>
+
+424
+00:47:58,880 --> 00:48:01,040
+<font face="Comic Sans MS" color="#ffff80"><b>Be disrespectful, it would.</b></font>
+
+425
+00:48:01,120 --> 00:48:04,880
+<font face="Comic Sans MS" color="#ffff80"><b>They should be
+in the care of Davy Jones.</b></font>
+
+426
+00:48:06,560 --> 00:48:09,720
+<font face="Comic Sans MS" color="#ffff80"><b>That was the duty
+him was charged with...</b></font>
+
+427
+00:48:10,000 --> 00:48:12,720
+<font face="Comic Sans MS" color="#ffff80"><b>...by the goddess, Calypso.</b></font>
+
+428
+00:48:14,560 --> 00:48:18,400
+<font face="Comic Sans MS" color="#ffff80"><b>To ferry those who die at sea
+to the other side.</b></font>
+
+429
+00:48:21,680 --> 00:48:23,640
+<font face="Comic Sans MS" color="#ffff80"><b>And every ten years...</b></font>
+
+430
+00:48:24,440 --> 00:48:26,560
+<font face="Comic Sans MS" color="#ffff80"><b>...him could come ashore...</b></font>
+
+431
+00:48:27,600 --> 00:48:31,920
+<font face="Comic Sans MS" color="#ffff80"><b>...to be with she
+who love him... truly.</b></font>
+
+432
+00:48:36,240 --> 00:48:38,880
+<font face="Comic Sans MS" color="#ffff80"><b>But the man has become a monster.</b></font>
+
+433
+00:48:39,440 --> 00:48:43,520
+<font face="Comic Sans MS" color="#ffff80"><b>So he wasn't always... tentacley?</b></font>
+
+434
+00:48:45,600 --> 00:48:46,760
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+435
+00:48:48,960 --> 00:48:51,400
+<font face="Comic Sans MS" color="#ffff80"><b>Him was a man...</b></font>
+
+436
+00:48:51,440 --> 00:48:53,440
+<font face="Comic Sans MS" color="#ffff80"><b>...once.</b></font>
+
+437
+00:49:00,760 --> 00:49:02,760
+<font face="Comic Sans MS" color="#ffff80"><b>Now there's boats coming.</b></font>
+
+438
+00:49:10,440 --> 00:49:13,240
+<font face="Comic Sans MS" color="#ffff80"><b>They're not a threat to us. Am I right?</b></font>
+
+439
+00:49:13,840 --> 00:49:16,440
+<font face="Comic Sans MS" color="#ffff80"><b>We are nothing but ghosts to them.</b></font>
+
+440
+00:49:16,480 --> 00:49:18,800
+<font face="Comic Sans MS" color="#ffff80"><b>It's best just let them be.</b></font>
+
+441
+00:49:33,280 --> 00:49:35,720
+<font face="Comic Sans MS" color="#ffff80"><b>It's my father. We've made it back.</b></font>
+
+442
+00:49:35,800 --> 00:49:38,360
+<font face="Comic Sans MS" color="#ffff80"><b>Father! Father, here, look here!</b></font>
+
+443
+00:49:40,160 --> 00:49:41,280
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth.</b></font>
+
+444
+00:49:43,200 --> 00:49:44,720
+<font face="Comic Sans MS" color="#ffff80"><b>We're not back.</b></font>
+
+445
+00:49:51,840 --> 00:49:52,880
+<font face="Comic Sans MS" color="#ffff80"><b>Father!</b></font>
+
+446
+00:49:56,160 --> 00:49:59,680
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth. Are you dead?</b></font>
+
+447
+00:50:00,880 --> 00:50:02,200
+<font face="Comic Sans MS" color="#ffff80"><b>No. No.</b></font>
+
+448
+00:50:03,200 --> 00:50:04,920
+<font face="Comic Sans MS" color="#ffff80"><b>I think I am.</b></font>
+
+449
+00:50:05,000 --> 00:50:07,000
+<font face="Comic Sans MS" color="#ffff80"><b>No, you can't be.</b></font>
+
+450
+00:50:08,120 --> 00:50:11,000
+<font face="Comic Sans MS" color="#ffff80"><b>There was this chest, you see.</b></font>
+
+451
+00:50:11,760 --> 00:50:15,440
+<font face="Comic Sans MS" color="#ffff80"><b>It's odd.
+At the time it seemed so important.</b></font>
+
+452
+00:50:16,080 --> 00:50:17,360
+<font face="Comic Sans MS" color="#ffff80"><b>Come aboard.</b></font>
+
+453
+00:50:17,400 --> 00:50:19,200
+<font face="Comic Sans MS" color="#ffff80"><b>And a heart.</b></font>
+
+454
+00:50:19,240 --> 00:50:24,520
+<font face="Comic Sans MS" color="#ffff80"><b>I learned that if you stab the heart,
+yours must take its place.</b></font>
+
+455
+00:50:24,560 --> 00:50:28,120
+<font face="Comic Sans MS" color="#ffff80"><b>And you will sail the seas for eternity.</b></font>
+
+456
+00:50:28,200 --> 00:50:31,200
+<font face="Comic Sans MS" color="#ffff80"><b>The Dutchman must have a captain.</b></font>
+
+457
+00:50:32,240 --> 00:50:34,240
+<font face="Comic Sans MS" color="#ffff80"><b>Silly thing to die for.</b></font>
+
+458
+00:50:34,600 --> 00:50:37,880
+<font face="Comic Sans MS" color="#ffff80"><b>Someone, cast a line.
+Come back with us!</b></font>
+
+459
+00:50:39,720 --> 00:50:40,800
+<font face="Comic Sans MS" color="#ffff80"><b>Come on.</b></font>
+
+460
+00:50:41,880 --> 00:50:46,080
+<font face="Comic Sans MS" color="#ffff80"><b>A touch... of destiny.</b></font>
+
+461
+00:50:48,960 --> 00:50:50,240
+<font face="Comic Sans MS" color="#ffff80"><b>Take the line.</b></font>
+
+462
+00:50:52,760 --> 00:50:54,960
+<font face="Comic Sans MS" color="#ffff80"><b>I'm so proud of you, Elizabeth.</b></font>
+
+463
+00:50:55,040 --> 00:50:56,760
+<font face="Comic Sans MS" color="#ffff80"><b>Father, the line! Take the line!</b></font>
+
+464
+00:51:00,560 --> 00:51:02,880
+<font face="Comic Sans MS" color="#ffff80"><b>- She must not leave the ship!
+- Father!</b></font>
+
+465
+00:51:02,960 --> 00:51:07,240
+<font face="Comic Sans MS" color="#ffff80"><b>Please come with us!
+Please! No! I won't leave you!</b></font>
+
+466
+00:51:07,920 --> 00:51:09,920
+<font face="Comic Sans MS" color="#ffff80"><b>I'll give your love to your mother.</b></font>
+
+467
+00:51:09,960 --> 00:51:12,800
+<font face="Comic Sans MS" color="#ffff80"><b>- Please, I won't let you go!
+- Elizabeth.</b></font>
+
+468
+00:51:12,920 --> 00:51:14,960
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth.</b></font>
+
+469
+00:51:21,080 --> 00:51:22,320
+<font face="Comic Sans MS" color="#ffff80"><b>Is there a way?</b></font>
+
+470
+00:51:27,120 --> 00:51:28,840
+<font face="Comic Sans MS" color="#ffff80"><b>Him at peace.</b></font>
+
+471
+00:51:36,240 --> 00:51:37,800
+<font face="Comic Sans MS" color="#ffff80"><b>No water.</b></font>
+
+472
+00:51:38,920 --> 00:51:41,040
+<font face="Comic Sans MS" color="#ffff80"><b>Why is all but the rum gone?</b></font>
+
+473
+00:51:42,680 --> 00:51:44,120
+<font face="Comic Sans MS" color="#ffff80"><b>Rum's gone too.</b></font>
+
+474
+00:51:52,280 --> 00:51:56,960
+<font face="Comic Sans MS" color="#ffff80"><b>If we cannot escape
+these doldrums before night,</b></font>
+
+475
+00:51:57,000 --> 00:52:00,920
+<font face="Comic Sans MS" color="#ffff80"><b>I fear we will sail on trackless seas.</b></font>
+
+476
+00:52:00,960 --> 00:52:04,200
+<font face="Comic Sans MS" color="#ffff80"><b>Doomed to roam the reach between worlds.</b></font>
+
+477
+00:52:05,000 --> 00:52:06,120
+<font face="Comic Sans MS" color="#ffff80"><b>Forever.</b></font>
+
+478
+00:52:06,160 --> 00:52:10,120
+<font face="Comic Sans MS" color="#ffff80"><b>With no water, forever
+looks to be arriving a mite too soon.</b></font>
+
+479
+00:52:10,720 --> 00:52:12,480
+<font face="Comic Sans MS" color="#ffff80"><b>Why doesn't he do something?</b></font>
+
+480
+00:52:12,840 --> 00:52:15,720
+<font face="Comic Sans MS" color="#ffff80"><b>- Me eye. Give it back!
+- There's no sense to it.</b></font>
+
+481
+00:52:15,800 --> 00:52:20,160
+<font face="Comic Sans MS" color="#ffff80"><b>And the green flash
+happens at sunset, not sunrise.</b></font>
+
+482
+00:52:20,480 --> 00:52:25,160
+<font face="Comic Sans MS" color="#ffff80"><b>"Over the edge." Ah, it's
+driving me over the blooming edge.</b></font>
+
+483
+00:52:25,800 --> 00:52:27,760
+<font face="Comic Sans MS" color="#ffff80"><b>Sunrises don't set.</b></font>
+
+484
+00:52:32,280 --> 00:52:34,160
+<font face="Comic Sans MS" color="#ffff80"><b>"Up is down."</b></font>
+
+485
+00:52:34,240 --> 00:52:36,720
+<font face="Comic Sans MS" color="#ffff80"><b>Well, that's just maddeningly unhelpful.</b></font>
+
+486
+00:52:36,800 --> 00:52:38,800
+<font face="Comic Sans MS" color="#ffff80"><b>Why are these things never clear?</b></font>
+
+487
+00:52:38,840 --> 00:52:41,680
+<font face="Comic Sans MS" color="#ffff80"><b>- Clear as mud, Jackie.
+- What? Eh?</b></font>
+
+488
+00:52:45,320 --> 00:52:47,840
+<font face="Comic Sans MS" color="#ffff80"><b>- Stab the heart.
+- Don't stab the heart.</b></font>
+
+489
+00:52:47,920 --> 00:52:51,080
+<font face="Comic Sans MS" color="#ffff80"><b>- Come again?
+- The Dutchman must have a captain.</b></font>
+
+490
+00:52:51,160 --> 00:52:53,680
+<font face="Comic Sans MS" color="#ffff80"><b>That's even more
+than less than unhelpful.</b></font>
+
+491
+00:52:53,760 --> 00:52:56,520
+<font face="Comic Sans MS" color="#ffff80"><b>Sail the seas for eternity.</b></font>
+
+492
+00:52:56,600 --> 00:52:59,520
+<font face="Comic Sans MS" color="#ffff80"><b>- I love the sea.
+- What about port?</b></font>
+
+493
+00:52:59,600 --> 00:53:01,600
+<font face="Comic Sans MS" color="#ffff80"><b>I prefer rum. Rum's good.</b></font>
+
+494
+00:53:01,680 --> 00:53:06,680
+<font face="Comic Sans MS" color="#ffff80"><b>Making port. Where we can get rum,
+and salty wenches...</b></font>
+
+495
+00:53:07,040 --> 00:53:10,680
+<font face="Comic Sans MS" color="#ffff80"><b>- Once every 10 years.
+- What'd he say?</b></font>
+
+496
+00:53:10,720 --> 00:53:14,200
+<font face="Comic Sans MS" color="#ffff80"><b>- Once every 10 years.
+- Ten years is a long time, mate.</b></font>
+
+497
+00:53:14,280 --> 00:53:16,600
+<font face="Comic Sans MS" color="#ffff80"><b>Even longer given the deficit of rum.</b></font>
+
+498
+00:53:16,680 --> 00:53:18,960
+<font face="Comic Sans MS" color="#ffff80"><b>But eternity is longer still.</b></font>
+
+499
+00:53:19,680 --> 00:53:22,720
+<font face="Comic Sans MS" color="#ffff80"><b>And how will you be spending it? Dead?</b></font>
+
+500
+00:53:23,360 --> 00:53:24,800
+<font face="Comic Sans MS" color="#ffff80"><b>Or not?</b></font>
+
+501
+00:53:24,880 --> 00:53:28,720
+<font face="Comic Sans MS" color="#ffff80"><b>- The immortal Captain Sparrow.
+- Oh, I like that.</b></font>
+
+502
+00:53:29,040 --> 00:53:31,360
+<font face="Comic Sans MS" color="#ffff80"><b>Come sunset, it won't matter.</b></font>
+
+503
+00:53:34,160 --> 00:53:35,880
+<font face="Comic Sans MS" color="#ffff80"><b>Not sunset.</b></font>
+
+504
+00:53:39,120 --> 00:53:40,360
+<font face="Comic Sans MS" color="#ffff80"><b>Sundown.</b></font>
+
+505
+00:53:41,320 --> 00:53:43,840
+<font face="Comic Sans MS" color="#ffff80"><b>And rise. Up.</b></font>
+
+506
+00:53:45,120 --> 00:53:46,320
+<font face="Comic Sans MS" color="#ffff80"><b>What's that?</b></font>
+
+507
+00:53:49,120 --> 00:53:52,240
+<font face="Comic Sans MS" color="#ffff80"><b>What is that?
+I don't know. What do you think?</b></font>
+
+508
+00:53:52,320 --> 00:53:54,040
+<font face="Comic Sans MS" color="#ffff80"><b>- Where?
+- There.</b></font>
+
+509
+00:54:15,800 --> 00:54:17,120
+<font face="Comic Sans MS" color="#ffff80"><b>What is it?</b></font>
+
+510
+00:54:29,200 --> 00:54:31,040
+<font face="Comic Sans MS" color="#ffff80"><b>He's rocking the ship.</b></font>
+
+511
+00:54:31,360 --> 00:54:32,960
+<font face="Comic Sans MS" color="#ffff80"><b>We're rocking the ship.</b></font>
+
+512
+00:54:37,120 --> 00:54:39,960
+<font face="Comic Sans MS" color="#ffff80"><b>Aye. He's onto it.</b></font>
+
+513
+00:54:42,280 --> 00:54:44,000
+<font face="Comic Sans MS" color="#ffff80"><b>He's rocking the ship.</b></font>
+
+514
+00:54:44,080 --> 00:54:46,440
+<font face="Comic Sans MS" color="#ffff80"><b>We'll tie each other
+to the mast upside down,</b></font>
+
+515
+00:54:46,520 --> 00:54:49,200
+<font face="Comic Sans MS" color="#ffff80"><b>so when the boat flips
+we'll be the right way up.</b></font>
+
+516
+00:54:50,280 --> 00:54:51,840
+<font face="Comic Sans MS" color="#ffff80"><b>Time it with the swell.</b></font>
+
+517
+00:54:53,440 --> 00:54:57,160
+<font face="Comic Sans MS" color="#ffff80"><b>Loose the cannons, you lazy bilge rats.</b></font>
+
+518
+00:54:58,920 --> 00:55:02,560
+<font face="Comic Sans MS" color="#ffff80"><b>Unstow the cargo. Let it shift.</b></font>
+
+519
+00:56:07,520 --> 00:56:08,880
+<font face="Comic Sans MS" color="#ffff80"><b>Now up...</b></font>
+
+520
+00:56:10,440 --> 00:56:11,800
+<font face="Comic Sans MS" color="#ffff80"><b>...is down.</b></font>
+
+521
+00:57:47,800 --> 00:57:49,800
+<font face="Comic Sans MS" color="#ffff80"><b>This was your idea.</b></font>
+
+522
+00:57:51,360 --> 00:57:53,840
+<font face="Comic Sans MS" color="#ffff80"><b>Blessed sweet westerlies!</b></font>
+
+523
+00:57:54,960 --> 00:57:55,960
+<font face="Comic Sans MS" color="#ffff80"><b>We're back!</b></font>
+
+524
+00:57:59,800 --> 00:58:01,120
+<font face="Comic Sans MS" color="#ffff80"><b>It's the sunrise.</b></font>
+
+525
+00:58:14,240 --> 00:58:16,240
+<font face="Comic Sans MS" color="#ffff80"><b>Parley?</b></font>
+
+526
+00:58:16,320 --> 00:58:18,800
+<font face="Comic Sans MS" color="#ffff80"><b>We need our pistols!
+Get untied, hurry!</b></font>
+
+527
+00:58:34,240 --> 00:58:35,640
+<font face="Comic Sans MS" color="#ffff80"><b>All right, then!</b></font>
+
+528
+00:58:35,680 --> 00:58:38,840
+<font face="Comic Sans MS" color="#ffff80"><b>The Brethren Court
+is a-gathering at Shipwreck Cove.</b></font>
+
+529
+00:58:38,880 --> 00:58:42,600
+<font face="Comic Sans MS" color="#ffff80"><b>And, Jack, you and I are a-going.
+There'll be no arguing that point.</b></font>
+
+530
+00:58:42,680 --> 00:58:44,080
+<font face="Comic Sans MS" color="#ffff80"><b>I is arguing the point.</b></font>
+
+531
+00:58:44,160 --> 00:58:47,760
+<font face="Comic Sans MS" color="#ffff80"><b>If there's pirates a-gathering,
+I'm pointing my ship the other way.</b></font>
+
+532
+00:58:47,840 --> 00:58:51,280
+<font face="Comic Sans MS" color="#ffff80"><b>The pirates are gathering
+to fight Beckett, and you're a pirate.</b></font>
+
+533
+00:58:51,360 --> 00:58:53,640
+<font face="Comic Sans MS" color="#ffff80"><b>Fight or not,
+you're not running, Jack.</b></font>
+
+534
+00:58:53,680 --> 00:58:56,760
+<font face="Comic Sans MS" color="#ffff80"><b>If we don't stand together,
+they'll hunt us down one by one,</b></font>
+
+535
+00:58:56,840 --> 00:58:58,440
+<font face="Comic Sans MS" color="#ffff80"><b>till there be none left but you.</b></font>
+
+536
+00:58:59,360 --> 00:59:04,840
+<font face="Comic Sans MS" color="#ffff80"><b>Quite like the sound of that.
+Captain Jack Sparrow, the last pirate.</b></font>
+
+537
+00:59:04,880 --> 00:59:05,920
+<font face="Comic Sans MS" color="#ffff80"><b>Aye.</b></font>
+
+538
+00:59:06,400 --> 00:59:10,800
+<font face="Comic Sans MS" color="#ffff80"><b>And you'll be fighting Jones alone.
+How does that figure into your plan?</b></font>
+
+539
+00:59:10,880 --> 00:59:12,880
+<font face="Comic Sans MS" color="#ffff80"><b>I'm still working on that.</b></font>
+
+540
+00:59:12,920 --> 00:59:17,440
+<font face="Comic Sans MS" color="#ffff80"><b>But I will not be going back
+to the Locker, mate. Count on that.</b></font>
+
+541
+00:59:23,120 --> 00:59:24,440
+<font face="Comic Sans MS" color="#ffff80"><b>Wet powder.</b></font>
+
+542
+00:59:27,200 --> 00:59:30,720
+<font face="Comic Sans MS" color="#ffff80"><b>Wait! We can still use them as clubs!</b></font>
+
+543
+00:59:32,720 --> 00:59:35,240
+<font face="Comic Sans MS" color="#ffff80"><b>- Ow!
+- Sorry. Effective, though.</b></font>
+
+544
+00:59:36,360 --> 00:59:38,400
+<font face="Comic Sans MS" color="#ffff80"><b>There's fresh water on this island.</b></font>
+
+545
+00:59:38,440 --> 00:59:42,080
+<font face="Comic Sans MS" color="#ffff80"><b>We can resupply there and get back
+to shooting each other later.</b></font>
+
+546
+00:59:42,400 --> 00:59:45,200
+<font face="Comic Sans MS" color="#ffff80"><b>You lead the shore party.
+I'll stay with my ship.</b></font>
+
+547
+00:59:45,680 --> 00:59:48,080
+<font face="Comic Sans MS" color="#ffff80"><b>I'll not be leaving
+my ship in your command.</b></font>
+
+548
+00:59:48,160 --> 00:59:51,800
+<font face="Comic Sans MS" color="#ffff80"><b>Why don't you both go ashore
+and leave the ship in my command.</b></font>
+
+549
+00:59:53,040 --> 00:59:54,400
+<font face="Comic Sans MS" color="#ffff80"><b>Temporarily.</b></font>
+
+550
+01:00:12,200 --> 01:00:13,760
+<font face="Comic Sans MS" color="#ffff80"><b>Mind the boat.</b></font>
+
+551
+01:00:24,800 --> 01:00:27,720
+<font face="Comic Sans MS" color="#ffff80"><b>- Criminy.
+- Odds bodkins!</b></font>
+
+552
+01:00:46,720 --> 01:00:48,720
+<font face="Comic Sans MS" color="#ffff80"><b>Careful! Careful!</b></font>
+
+553
+01:00:50,280 --> 01:00:52,160
+<font face="Comic Sans MS" color="#ffff80"><b>You stupid fish!</b></font>
+
+554
+01:00:52,320 --> 01:00:54,280
+<font face="Comic Sans MS" color="#ffff80"><b>Actually it's a cephalopod.</b></font>
+
+555
+01:00:54,720 --> 01:00:55,960
+<font face="Comic Sans MS" color="#ffff80"><b>Serves you right.</b></font>
+
+556
+01:00:56,080 --> 01:00:59,080
+<font face="Comic Sans MS" color="#ffff80"><b>Pin, I bet people
+would pay a shilling to see this.</b></font>
+
+557
+01:00:59,160 --> 01:01:02,320
+<font face="Comic Sans MS" color="#ffff80"><b>And another shilling
+for a sketch of them sitting atop!</b></font>
+
+558
+01:01:02,360 --> 01:01:05,400
+<font face="Comic Sans MS" color="#ffff80"><b>Pintel and Ragetti, Kraken slayers.</b></font>
+
+559
+01:01:05,480 --> 01:01:08,320
+<font face="Comic Sans MS" color="#ffff80"><b>We could serve up
+a slice as a souvenir.</b></font>
+
+560
+01:01:08,360 --> 01:01:11,000
+<font face="Comic Sans MS" color="#ffff80"><b>Still thinking of running, Jack?</b></font>
+
+561
+01:01:11,760 --> 01:01:14,240
+<font face="Comic Sans MS" color="#ffff80"><b>Think you can outrun the world?</b></font>
+
+562
+01:01:19,920 --> 01:01:23,760
+<font face="Comic Sans MS" color="#ffff80"><b>You know, the problem
+with being the last of anything...</b></font>
+
+563
+01:01:23,840 --> 01:01:26,520
+<font face="Comic Sans MS" color="#ffff80"><b>...by and by, there be none left at all.</b></font>
+
+564
+01:01:27,920 --> 01:01:32,960
+<font face="Comic Sans MS" color="#ffff80"><b>Sometimes things come back, mate.
+We're living proof, you and me.</b></font>
+
+565
+01:01:33,040 --> 01:01:36,160
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, but that's a gamble
+of long odds, ain't it?</b></font>
+
+566
+01:01:36,880 --> 01:01:39,520
+<font face="Comic Sans MS" color="#ffff80"><b>There's never
+a guarantee of coming back.</b></font>
+
+567
+01:01:40,040 --> 01:01:42,720
+<font face="Comic Sans MS" color="#ffff80"><b>But passing on, that's dead certain.</b></font>
+
+568
+01:01:46,040 --> 01:01:49,040
+<font face="Comic Sans MS" color="#ffff80"><b>Summoning the Brethren Court,
+then, is it?</b></font>
+
+569
+01:01:49,120 --> 01:01:50,880
+<font face="Comic Sans MS" color="#ffff80"><b>It's our only hope, lad.</b></font>
+
+570
+01:01:52,240 --> 01:01:55,240
+<font face="Comic Sans MS" color="#ffff80"><b>That's a sad commentary
+in and of itself.</b></font>
+
+571
+01:01:56,880 --> 01:01:59,560
+<font face="Comic Sans MS" color="#ffff80"><b>The world used to be a bigger place.</b></font>
+
+572
+01:02:02,240 --> 01:02:04,160
+<font face="Comic Sans MS" color="#ffff80"><b>The world's still the same.</b></font>
+
+573
+01:02:06,040 --> 01:02:08,840
+<font face="Comic Sans MS" color="#ffff80"><b>There's just... less in it.</b></font>
+
+574
+01:02:31,120 --> 01:02:33,440
+<font face="Comic Sans MS" color="#ffff80"><b>Poisoned. Fouled by the body.</b></font>
+
+575
+01:02:36,240 --> 01:02:40,080
+<font face="Comic Sans MS" color="#ffff80"><b>Eh, I know him. He was in Singapore!</b></font>
+
+576
+01:02:40,120 --> 01:02:42,120
+<font face="Comic Sans MS" color="#ffff80"><b>- Singapore.
+- Captain!</b></font>
+
+577
+01:02:44,960 --> 01:02:46,080
+<font face="Comic Sans MS" color="#ffff80"><b>Hoy!</b></font>
+
+578
+01:02:47,120 --> 01:02:48,920
+<font face="Comic Sans MS" color="#ffff80"><b>We got company!</b></font>
+
+579
+01:03:00,440 --> 01:03:02,120
+<font face="Comic Sans MS" color="#ffff80"><b>He's the captain.</b></font>
+
+580
+01:03:12,600 --> 01:03:13,880
+<font face="Comic Sans MS" color="#ffff80"><b>Sao Feng...</b></font>
+
+581
+01:03:13,960 --> 01:03:18,480
+<font face="Comic Sans MS" color="#ffff80"><b>...you showing up here,
+it is truly a remarkable coincidence.</b></font>
+
+582
+01:03:21,280 --> 01:03:22,880
+<font face="Comic Sans MS" color="#ffff80"><b>Jack Sparrow.</b></font>
+
+583
+01:03:24,840 --> 01:03:26,960
+<font face="Comic Sans MS" color="#ffff80"><b>You paid me great insult once.</b></font>
+
+584
+01:03:27,000 --> 01:03:28,520
+<font face="Comic Sans MS" color="#ffff80"><b>That doesn't sound like me.</b></font>
+
+585
+01:03:33,440 --> 01:03:35,600
+<font face="Comic Sans MS" color="#ffff80"><b>Shall we just call it square, then?</b></font>
+
+586
+01:03:36,160 --> 01:03:37,320
+<font face="Comic Sans MS" color="#ffff80"><b>Release her.</b></font>
+
+587
+01:03:38,120 --> 01:03:41,960
+<font face="Comic Sans MS" color="#ffff80"><b>- She's not part of the bargain.
+- And what bargain be that?</b></font>
+
+588
+01:03:42,800 --> 01:03:44,840
+<font face="Comic Sans MS" color="#ffff80"><b>You heard Captain Turner.</b></font>
+
+589
+01:03:46,320 --> 01:03:48,960
+<font face="Comic Sans MS" color="#ffff80"><b>- Release her!
+- "Captain Turner"?</b></font>
+
+590
+01:03:49,000 --> 01:03:51,800
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, the perfidious rotter
+led a mutiny against us!</b></font>
+
+591
+01:03:51,840 --> 01:03:54,400
+<font face="Comic Sans MS" color="#ffff80"><b>I need the Pearl to free my father.</b></font>
+
+592
+01:03:54,480 --> 01:03:57,000
+<font face="Comic Sans MS" color="#ffff80"><b>That's the only reason
+I came on this voyage.</b></font>
+
+593
+01:03:57,520 --> 01:04:00,320
+<font face="Comic Sans MS" color="#ffff80"><b>Why didn't you tell me
+you were planning this?</b></font>
+
+594
+01:04:00,440 --> 01:04:02,640
+<font face="Comic Sans MS" color="#ffff80"><b>It was my burden to bear.</b></font>
+
+595
+01:04:04,840 --> 01:04:09,200
+<font face="Comic Sans MS" color="#ffff80"><b>He needs the Pearl.
+Captain Turner needs the Pearl.</b></font>
+
+596
+01:04:09,240 --> 01:04:13,320
+<font face="Comic Sans MS" color="#ffff80"><b>And you felt guilty.
+And you and your Brethren Court.</b></font>
+
+597
+01:04:14,360 --> 01:04:17,280
+<font face="Comic Sans MS" color="#ffff80"><b>Did no one come to save me
+just because they missed me?</b></font>
+
+598
+01:04:26,480 --> 01:04:27,960
+<font face="Comic Sans MS" color="#ffff80"><b>I'm standing with them.</b></font>
+
+599
+01:04:30,120 --> 01:04:35,800
+<font face="Comic Sans MS" color="#ffff80"><b>I'm sorry, Jack, but there is an
+old friend who wants to see you first.</b></font>
+
+600
+01:04:35,880 --> 01:04:39,520
+<font face="Comic Sans MS" color="#ffff80"><b>I'm not certain I can survive
+any more visits from old friends.</b></font>
+
+601
+01:04:41,880 --> 01:04:44,120
+<font face="Comic Sans MS" color="#ffff80"><b>Here is your chance to find out.</b></font>
+
+602
+01:04:53,560 --> 01:04:55,240
+<font face="Comic Sans MS" color="#ffff80"><b>Curious.</b></font>
+
+603
+01:04:55,280 --> 01:04:58,440
+<font face="Comic Sans MS" color="#ffff80"><b>Your friends appear
+to be quite desperate, Jack.</b></font>
+
+604
+01:04:58,520 --> 01:05:03,080
+<font face="Comic Sans MS" color="#ffff80"><b>Perhaps they no longer believe that
+a gathering of squabbling pirates</b></font>
+
+605
+01:05:03,120 --> 01:05:05,080
+<font face="Comic Sans MS" color="#ffff80"><b>can defeat the Flying Dutchman.</b></font>
+
+606
+01:05:05,840 --> 01:05:09,240
+<font face="Comic Sans MS" color="#ffff80"><b>And so despair leads to betrayal.</b></font>
+
+607
+01:05:09,680 --> 01:05:13,680
+<font face="Comic Sans MS" color="#ffff80"><b>But you and I are no strangers
+to betrayal, are we?</b></font>
+
+608
+01:05:16,400 --> 01:05:17,920
+<font face="Comic Sans MS" color="#ffff80"><b>It's not here, Jack.</b></font>
+
+609
+01:05:19,320 --> 01:05:20,760
+<font face="Comic Sans MS" color="#ffff80"><b>What? What isn't?</b></font>
+
+610
+01:05:20,800 --> 01:05:25,280
+<font face="Comic Sans MS" color="#ffff80"><b>The heart of Davy Jones.
+It's safely aboard the Dutchman,</b></font>
+
+611
+01:05:25,400 --> 01:05:28,440
+<font face="Comic Sans MS" color="#ffff80"><b>and so unavailable for use as leverage</b></font>
+
+612
+01:05:28,480 --> 01:05:31,120
+<font face="Comic Sans MS" color="#ffff80"><b>to satisfy your debt
+to the good captain.</b></font>
+
+613
+01:05:31,200 --> 01:05:34,480
+<font face="Comic Sans MS" color="#ffff80"><b>By my reckoning,
+that account has been settled.</b></font>
+
+614
+01:05:34,600 --> 01:05:36,680
+<font face="Comic Sans MS" color="#ffff80"><b>By your death?</b></font>
+
+615
+01:05:36,760 --> 01:05:38,800
+<font face="Comic Sans MS" color="#ffff80"><b>And yet here you are.</b></font>
+
+616
+01:05:39,360 --> 01:05:42,000
+<font face="Comic Sans MS" color="#ffff80"><b>Close your eyes
+and pretend it's all a bad dream.</b></font>
+
+617
+01:05:42,080 --> 01:05:43,480
+<font face="Comic Sans MS" color="#ffff80"><b>That's how I get by.</b></font>
+
+618
+01:05:44,400 --> 01:05:48,040
+<font face="Comic Sans MS" color="#ffff80"><b>And if Davy Jones
+were to learn of your survival?</b></font>
+
+619
+01:05:48,600 --> 01:05:50,120
+<font face="Comic Sans MS" color="#ffff80"><b>Ship oars.</b></font>
+
+620
+01:05:50,160 --> 01:05:51,760
+<font face="Comic Sans MS" color="#ffff80"><b>Ship oars.</b></font>
+
+621
+01:05:52,040 --> 01:05:53,600
+<font face="Comic Sans MS" color="#ffff80"><b>Be on your guard, men.</b></font>
+
+622
+01:05:56,280 --> 01:05:58,120
+<font face="Comic Sans MS" color="#ffff80"><b>My men are crew enough.</b></font>
+
+623
+01:05:58,200 --> 01:06:00,360
+<font face="Comic Sans MS" color="#ffff80"><b>Company ship, company crew.</b></font>
+
+624
+01:06:01,440 --> 01:06:04,320
+<font face="Comic Sans MS" color="#ffff80"><b>You agreed.
+The Black Pearl was to be mine.</b></font>
+
+625
+01:06:05,240 --> 01:06:06,640
+<font face="Comic Sans MS" color="#ffff80"><b>And so it was.</b></font>
+
+626
+01:06:09,720 --> 01:06:12,800
+<font face="Comic Sans MS" color="#ffff80"><b>Perhaps you'll consider
+an alternative arrangement.</b></font>
+
+627
+01:06:12,840 --> 01:06:18,080
+<font face="Comic Sans MS" color="#ffff80"><b>One which requires absolutely
+nothing from you but information.</b></font>
+
+628
+01:06:24,520 --> 01:06:29,240
+<font face="Comic Sans MS" color="#ffff80"><b>Regarding the Brethren Court, no doubt.
+In exchange for fair compensation?</b></font>
+
+629
+01:06:30,320 --> 01:06:32,360
+<font face="Comic Sans MS" color="#ffff80"><b>Square my debt with Jones...</b></font>
+
+630
+01:06:33,400 --> 01:06:35,280
+<font face="Comic Sans MS" color="#ffff80"><b>...guarantee my freedom?</b></font>
+
+631
+01:06:35,320 --> 01:06:37,000
+<font face="Comic Sans MS" color="#ffff80"><b>Of course.</b></font>
+
+632
+01:06:37,040 --> 01:06:39,000
+<font face="Comic Sans MS" color="#ffff80"><b>It's just good business.</b></font>
+
+633
+01:06:40,040 --> 01:06:44,840
+<font face="Comic Sans MS" color="#ffff80"><b>Were I in a divulgatory mood,
+what then might I divulge?</b></font>
+
+634
+01:06:44,920 --> 01:06:47,120
+<font face="Comic Sans MS" color="#ffff80"><b>Everything.</b></font>
+
+635
+01:06:47,600 --> 01:06:48,880
+<font face="Comic Sans MS" color="#ffff80"><b>Where are they meeting?</b></font>
+
+636
+01:06:49,680 --> 01:06:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>Who are the pirate lords?</b></font>
+
+637
+01:06:52,680 --> 01:06:55,840
+<font face="Comic Sans MS" color="#ffff80"><b>What is the purpose
+of the nine pieces of eight?</b></font>
+
+638
+01:06:56,520 --> 01:06:59,640
+<font face="Comic Sans MS" color="#ffff80"><b>Prepare the brig.</b></font>
+
+639
+01:07:02,320 --> 01:07:07,200
+<font face="Comic Sans MS" color="#ffff80"><b>Beckett agreed the Black Pearl
+was to be mine.</b></font>
+
+640
+01:07:07,280 --> 01:07:10,960
+<font face="Comic Sans MS" color="#ffff80"><b>He's not going to give up the only ship
+as can outrun the Dutchman, is he?</b></font>
+
+641
+01:07:18,080 --> 01:07:22,440
+<font face="Comic Sans MS" color="#ffff80"><b>Shame they're not bound to honor
+the code of the Brethren, isn't it?</b></font>
+
+642
+01:07:22,560 --> 01:07:25,760
+<font face="Comic Sans MS" color="#ffff80"><b>Because honor's
+a hard thing to come by nowadays.</b></font>
+
+643
+01:07:26,400 --> 01:07:29,640
+<font face="Comic Sans MS" color="#ffff80"><b>There is no honor
+to remaining with the losing side.</b></font>
+
+644
+01:07:29,720 --> 01:07:34,240
+<font face="Comic Sans MS" color="#ffff80"><b>Leaving it for the winning side,
+that's just good business.</b></font>
+
+645
+01:07:34,320 --> 01:07:38,160
+<font face="Comic Sans MS" color="#ffff80"><b>- The losing side, you say?
+- They have the Dutchman.</b></font>
+
+646
+01:07:38,240 --> 01:07:39,720
+<font face="Comic Sans MS" color="#ffff80"><b>Now the Pearl!</b></font>
+
+647
+01:07:40,720 --> 01:07:42,680
+<font face="Comic Sans MS" color="#ffff80"><b>And what do the Brethren have?</b></font>
+
+648
+01:07:43,400 --> 01:07:46,440
+<font face="Comic Sans MS" color="#ffff80"><b>We have Calypso.</b></font>
+
+649
+01:07:54,240 --> 01:07:56,560
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso.</b></font>
+
+650
+01:07:58,640 --> 01:08:00,680
+<font face="Comic Sans MS" color="#ffff80"><b>An old legend.</b></font>
+
+651
+01:08:01,800 --> 01:08:06,760
+<font face="Comic Sans MS" color="#ffff80"><b>No. The goddess herself,
+bound in human form.</b></font>
+
+652
+01:08:07,160 --> 01:08:12,440
+<font face="Comic Sans MS" color="#ffff80"><b>Imagine all the power of the seas
+brought to bear against our enemy.</b></font>
+
+653
+01:08:12,520 --> 01:08:17,800
+<font face="Comic Sans MS" color="#ffff80"><b>I intend to release her.
+But for that I need the Brethren Court.</b></font>
+
+654
+01:08:20,200 --> 01:08:21,760
+<font face="Comic Sans MS" color="#ffff80"><b>All the Court.</b></font>
+
+655
+01:08:23,640 --> 01:08:25,360
+<font face="Comic Sans MS" color="#ffff80"><b>You can keep Barbossa.</b></font>
+
+656
+01:08:25,440 --> 01:08:29,480
+<font face="Comic Sans MS" color="#ffff80"><b>The belligerent homunculus and
+his friend with the wooden eye, both.</b></font>
+
+657
+01:08:29,560 --> 01:08:32,120
+<font face="Comic Sans MS" color="#ffff80"><b>And Turner. Especially Turner.</b></font>
+
+658
+01:08:32,160 --> 01:08:35,600
+<font face="Comic Sans MS" color="#ffff80"><b>The rest go with me on the Pearl.
+I'll lead you to Shipwreck Cove,</b></font>
+
+659
+01:08:35,680 --> 01:08:40,040
+<font face="Comic Sans MS" color="#ffff80"><b>where I will hand you the pirates
+and you will not hand me to Jones.</b></font>
+
+660
+01:08:40,120 --> 01:08:44,640
+<font face="Comic Sans MS" color="#ffff80"><b>- Bloody fair deal, don't you think?
+- And what becomes of Miss Swann?</b></font>
+
+661
+01:08:47,360 --> 01:08:49,520
+<font face="Comic Sans MS" color="#ffff80"><b>What interest is she to you?</b></font>
+
+662
+01:08:52,040 --> 01:08:54,440
+<font face="Comic Sans MS" color="#ffff80"><b>What are you proposing, captain?</b></font>
+
+663
+01:08:54,480 --> 01:08:57,480
+<font face="Comic Sans MS" color="#ffff80"><b>What be accepting, cap'n?</b></font>
+
+664
+01:08:58,960 --> 01:09:01,320
+<font face="Comic Sans MS" color="#ffff80"><b>- The girl.
+- What?</b></font>
+
+665
+01:09:01,400 --> 01:09:02,960
+<font face="Comic Sans MS" color="#ffff80"><b>Jack.</b></font>
+
+666
+01:09:03,640 --> 01:09:05,440
+<font face="Comic Sans MS" color="#ffff80"><b>I've just recalled.</b></font>
+
+667
+01:09:05,480 --> 01:09:10,480
+<font face="Comic Sans MS" color="#ffff80"><b>I've got this wonderful compass,
+which points to whatever I want.</b></font>
+
+668
+01:09:11,040 --> 01:09:13,320
+<font face="Comic Sans MS" color="#ffff80"><b>So for what do I need you?</b></font>
+
+669
+01:09:13,360 --> 01:09:15,400
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth is not part of any bargain.</b></font>
+
+670
+01:09:16,200 --> 01:09:17,520
+<font face="Comic Sans MS" color="#ffff80"><b>Out of the question.</b></font>
+
+671
+01:09:17,600 --> 01:09:19,400
+<font face="Comic Sans MS" color="#ffff80"><b>It was not a question.</b></font>
+
+672
+01:09:19,480 --> 01:09:21,240
+<font face="Comic Sans MS" color="#ffff80"><b>Points to the thing you want most.</b></font>
+
+673
+01:09:21,320 --> 01:09:23,480
+<font face="Comic Sans MS" color="#ffff80"><b>And that is not
+the Brethren Court, is it?</b></font>
+
+674
+01:09:23,600 --> 01:09:26,840
+<font face="Comic Sans MS" color="#ffff80"><b>- Then what is, Jack?
+- Me.</b></font>
+
+675
+01:09:27,760 --> 01:09:29,920
+<font face="Comic Sans MS" color="#ffff80"><b>- Dead.
+- Done.</b></font>
+
+676
+01:09:30,000 --> 01:09:32,680
+<font face="Comic Sans MS" color="#ffff80"><b>What? Not done.</b></font>
+
+677
+01:09:32,720 --> 01:09:35,280
+<font face="Comic Sans MS" color="#ffff80"><b>You got us into this.
+If it frees us, then done!</b></font>
+
+678
+01:09:35,360 --> 01:09:36,480
+<font face="Comic Sans MS" color="#ffff80"><b>Damn.</b></font>
+
+679
+01:09:40,680 --> 01:09:44,440
+<font face="Comic Sans MS" color="#ffff80"><b>Although, if I kill you,
+then I can use the compass</b></font>
+
+680
+01:09:44,520 --> 01:09:49,040
+<font face="Comic Sans MS" color="#ffff80"><b>to find Shipwreck Cove,
+is it, on my own.</b></font>
+
+681
+01:09:49,360 --> 01:09:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>Cut out the middle man, as it were.</b></font>
+
+682
+01:09:51,760 --> 01:09:53,520
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth, they are pirates.</b></font>
+
+683
+01:09:53,560 --> 01:09:57,080
+<font face="Comic Sans MS" color="#ffff80"><b>I have had more than enough
+experience dealing with pirates!</b></font>
+
+684
+01:09:57,680 --> 01:10:00,040
+<font face="Comic Sans MS" color="#ffff80"><b>Then we have an accord?</b></font>
+
+685
+01:10:01,920 --> 01:10:04,480
+<font face="Comic Sans MS" color="#ffff80"><b>With me killed,
+you'd arrive at the cove,</b></font>
+
+686
+01:10:04,520 --> 01:10:07,760
+<font face="Comic Sans MS" color="#ffff80"><b>find it a stronghold,
+nigh impregnable...</b></font>
+
+687
+01:10:07,840 --> 01:10:10,760
+<font face="Comic Sans MS" color="#ffff80"><b>...able to withstand blockade for years.</b></font>
+
+688
+01:10:10,840 --> 01:10:15,360
+<font face="Comic Sans MS" color="#ffff80"><b>Then you'd be wishing, "If only there
+was someone I had not killed inside</b></font>
+
+689
+01:10:15,560 --> 01:10:18,960
+<font face="Comic Sans MS" color="#ffff80"><b>to ensure that the pirates
+then come outside."</b></font>
+
+690
+01:10:19,840 --> 01:10:21,720
+<font face="Comic Sans MS" color="#ffff80"><b>And you can accomplish all this?</b></font>
+
+691
+01:10:23,040 --> 01:10:26,080
+<font face="Comic Sans MS" color="#ffff80"><b>You may kill me,
+but you may never insult me.</b></font>
+
+692
+01:10:26,440 --> 01:10:27,520
+<font face="Comic Sans MS" color="#ffff80"><b>Who am I?</b></font>
+
+693
+01:10:29,800 --> 01:10:31,520
+<font face="Comic Sans MS" color="#ffff80"><b>I'm Captain Jack Sparrow.</b></font>
+
+694
+01:10:35,360 --> 01:10:36,520
+<font face="Comic Sans MS" color="#ffff80"><b>Done!</b></font>
+
+695
+01:11:09,760 --> 01:11:10,920
+<font face="Comic Sans MS" color="#ffff80"><b>Man overboard!</b></font>
+
+696
+01:11:25,040 --> 01:11:26,240
+<font face="Comic Sans MS" color="#ffff80"><b>You're mad.</b></font>
+
+697
+01:11:26,520 --> 01:11:29,800
+<font face="Comic Sans MS" color="#ffff80"><b>Thank goodness.
+If I wasn't, this'd probably never work.</b></font>
+
+698
+01:11:47,480 --> 01:11:50,640
+<font face="Comic Sans MS" color="#ffff80"><b>And that was without
+even a single drop of rum.</b></font>
+
+699
+01:11:58,160 --> 01:12:02,920
+<font face="Comic Sans MS" color="#ffff80"><b>Send this pestilent, traitorous,
+cowhearted, yeasty codpiece to the brig.</b></font>
+
+700
+01:12:05,160 --> 01:12:06,840
+<font face="Comic Sans MS" color="#ffff80"><b>Which ship do we follow?</b></font>
+
+701
+01:12:06,880 --> 01:12:11,520
+<font face="Comic Sans MS" color="#ffff80"><b>Signal the Dutchman to track down
+Sao Feng. We follow the Pearl.</b></font>
+
+702
+01:12:12,480 --> 01:12:15,040
+<font face="Comic Sans MS" color="#ffff80"><b>How soon can we have
+the ship ready to pursue?</b></font>
+
+703
+01:12:17,920 --> 01:12:19,200
+<font face="Comic Sans MS" color="#ffff80"><b>She's going down!</b></font>
+
+704
+01:12:19,280 --> 01:12:20,840
+<font face="Comic Sans MS" color="#ffff80"><b>Stand clear!</b></font>
+
+705
+01:12:24,920 --> 01:12:29,840
+<font face="Comic Sans MS" color="#ffff80"><b>Do you think he plans it all out,
+or just makes it up as he goes along?</b></font>
+
+706
+01:12:31,680 --> 01:12:32,680
+<font face="Comic Sans MS" color="#ffff80"><b>Sir.</b></font>
+
+707
+01:13:15,120 --> 01:13:21,120
+<font face="Comic Sans MS" color="#ffff80"><b>By this time tomorrow, we will arrive
+at Shipwreck Cove and you will be free.</b></font>
+
+708
+01:13:23,640 --> 01:13:25,080
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso.</b></font>
+
+709
+01:13:26,160 --> 01:13:27,600
+<font face="Comic Sans MS" color="#ffff80"><b>Excuse me?</b></font>
+
+710
+01:13:28,640 --> 01:13:32,760
+<font face="Comic Sans MS" color="#ffff80"><b>Not a name you fancy, I imagine,
+out of the many that you have...</b></font>
+
+711
+01:13:33,320 --> 01:13:34,960
+<font face="Comic Sans MS" color="#ffff80"><b>...but it is what we call you.</b></font>
+
+712
+01:13:36,880 --> 01:13:38,080
+<font face="Comic Sans MS" color="#ffff80"><b>We being who?</b></font>
+
+713
+01:13:42,800 --> 01:13:44,600
+<font face="Comic Sans MS" color="#ffff80"><b>You confirm it.</b></font>
+
+714
+01:13:45,960 --> 01:13:47,400
+<font face="Comic Sans MS" color="#ffff80"><b>Confirm what?</b></font>
+
+715
+01:13:48,640 --> 01:13:53,280
+<font face="Comic Sans MS" color="#ffff80"><b>- You've told me nothing.
+- The Brethren Court, not I.</b></font>
+
+716
+01:13:53,320 --> 01:13:57,920
+<font face="Comic Sans MS" color="#ffff80"><b>The First Brethren Court,
+whose decision I would have opposed.</b></font>
+
+717
+01:13:59,040 --> 01:14:00,960
+<font face="Comic Sans MS" color="#ffff80"><b>They bound you to human form</b></font>
+
+718
+01:14:00,960 --> 01:14:04,440
+<font face="Comic Sans MS" color="#ffff80"><b>so the rule of the seas
+would belong to man and not...</b></font>
+
+719
+01:14:04,520 --> 01:14:06,280
+<font face="Comic Sans MS" color="#ffff80"><b>To me.</b></font>
+
+720
+01:14:08,880 --> 01:14:13,760
+<font face="Comic Sans MS" color="#ffff80"><b>But one such as you should never
+be anything less than what you are.</b></font>
+
+721
+01:14:13,800 --> 01:14:16,400
+<font face="Comic Sans MS" color="#ffff80"><b>Pretty speech from a captor.</b></font>
+
+722
+01:14:16,440 --> 01:14:20,480
+<font face="Comic Sans MS" color="#ffff80"><b>But words whispered
+through prison bars lose their charm.</b></font>
+
+723
+01:14:20,800 --> 01:14:23,800
+<font face="Comic Sans MS" color="#ffff80"><b>Can I be blamed for my efforts?</b></font>
+
+724
+01:14:25,800 --> 01:14:30,040
+<font face="Comic Sans MS" color="#ffff80"><b>All men are drawn to the sea,
+perilous though it may be.</b></font>
+
+725
+01:14:30,120 --> 01:14:33,920
+<font face="Comic Sans MS" color="#ffff80"><b>And some men offer desire
+as justification for their crimes.</b></font>
+
+726
+01:14:34,960 --> 01:14:37,480
+<font face="Comic Sans MS" color="#ffff80"><b>I offer simply my desire.</b></font>
+
+727
+01:14:38,960 --> 01:14:40,480
+<font face="Comic Sans MS" color="#ffff80"><b>And in return?</b></font>
+
+728
+01:14:41,560 --> 01:14:45,480
+<font face="Comic Sans MS" color="#ffff80"><b>I would have your gifts,
+should you choose to give them.</b></font>
+
+729
+01:14:49,560 --> 01:14:53,560
+<font face="Comic Sans MS" color="#ffff80"><b>And if I should choose not?</b></font>
+
+730
+01:14:55,080 --> 01:14:57,040
+<font face="Comic Sans MS" color="#ffff80"><b>Then I will take...</b></font>
+
+731
+01:14:58,360 --> 01:14:59,400
+<font face="Comic Sans MS" color="#ffff80"><b>...your fury.</b></font>
+
+732
+01:15:25,200 --> 01:15:26,520
+<font face="Comic Sans MS" color="#ffff80"><b>Sao Feng?</b></font>
+
+733
+01:15:28,080 --> 01:15:29,200
+<font face="Comic Sans MS" color="#ffff80"><b>Here.</b></font>
+
+734
+01:15:29,600 --> 01:15:31,080
+<font face="Comic Sans MS" color="#ffff80"><b>Please.</b></font>
+
+735
+01:15:36,960 --> 01:15:40,480
+<font face="Comic Sans MS" color="#ffff80"><b>With all nine pieces of eight...</b></font>
+
+736
+01:15:42,960 --> 01:15:45,040
+<font face="Comic Sans MS" color="#ffff80"><b>...you will be free.</b></font>
+
+737
+01:15:46,880 --> 01:15:48,000
+<font face="Comic Sans MS" color="#ffff80"><b>Take it!</b></font>
+
+738
+01:15:49,840 --> 01:15:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>You are captain now.</b></font>
+
+739
+01:15:52,840 --> 01:15:53,880
+<font face="Comic Sans MS" color="#ffff80"><b>Me?</b></font>
+
+740
+01:15:56,520 --> 01:16:01,120
+<font face="Comic Sans MS" color="#ffff80"><b>Go in my place to Shipwreck Cove.</b></font>
+
+741
+01:16:03,200 --> 01:16:05,760
+<font face="Comic Sans MS" color="#ffff80"><b>Captain! The ship is taken.
+We cannot...</b></font>
+
+742
+01:16:07,240 --> 01:16:10,760
+<font face="Comic Sans MS" color="#ffff80"><b>Forgive me... Calypso.</b></font>
+
+743
+01:16:20,040 --> 01:16:21,120
+<font face="Comic Sans MS" color="#ffff80"><b>Sao.</b></font>
+
+744
+01:16:26,240 --> 01:16:27,920
+<font face="Comic Sans MS" color="#ffff80"><b>What did he tell you?</b></font>
+
+745
+01:16:33,000 --> 01:16:34,880
+<font face="Comic Sans MS" color="#ffff80"><b>He made me captain.</b></font>
+
+746
+01:16:37,120 --> 01:16:39,400
+<font face="Comic Sans MS" color="#ffff80"><b>Set! Fire!</b></font>
+
+747
+01:16:44,800 --> 01:16:46,840
+<font face="Comic Sans MS" color="#ffff80"><b>You are not my captain.</b></font>
+
+748
+01:16:47,120 --> 01:16:48,440
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth.</b></font>
+
+749
+01:16:49,320 --> 01:16:50,880
+<font face="Comic Sans MS" color="#ffff80"><b>James. James.</b></font>
+
+750
+01:16:55,600 --> 01:16:57,600
+<font face="Comic Sans MS" color="#ffff80"><b>Thank God, you're alive.</b></font>
+
+751
+01:16:58,280 --> 01:16:59,880
+<font face="Comic Sans MS" color="#ffff80"><b>Your father'll be overjoyed</b></font>
+
+752
+01:16:59,960 --> 01:17:02,800
+<font face="Comic Sans MS" color="#ffff80"><b>- to know you're safe.
+- My father's dead.</b></font>
+
+753
+01:17:03,240 --> 01:17:05,960
+<font face="Comic Sans MS" color="#ffff80"><b>No, that can't be true.
+He returned to England.</b></font>
+
+754
+01:17:06,960 --> 01:17:08,920
+<font face="Comic Sans MS" color="#ffff80"><b>Did Lord Beckett tell you that?</b></font>
+
+755
+01:17:10,200 --> 01:17:12,960
+<font face="Comic Sans MS" color="#ffff80"><b>Who among you
+do you name as captain?</b></font>
+
+756
+01:17:13,040 --> 01:17:14,560
+<font face="Comic Sans MS" color="#ffff80"><b>Captain. Her.</b></font>
+
+757
+01:17:14,640 --> 01:17:16,320
+<font face="Comic Sans MS" color="#ffff80"><b>Her.</b></font>
+
+758
+01:17:19,120 --> 01:17:20,280
+<font face="Comic Sans MS" color="#ffff80"><b>Captain?</b></font>
+
+759
+01:17:20,320 --> 01:17:23,960
+<font face="Comic Sans MS" color="#ffff80"><b>Tow the ship.
+Put the prisoners in the brig.</b></font>
+
+760
+01:17:25,320 --> 01:17:27,280
+<font face="Comic Sans MS" color="#ffff80"><b>The captain shall have my quarters.</b></font>
+
+761
+01:17:28,800 --> 01:17:30,320
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you, sir.</b></font>
+
+762
+01:17:30,360 --> 01:17:34,120
+<font face="Comic Sans MS" color="#ffff80"><b>- But I prefer to remain with my crew.
+- Elizabeth.</b></font>
+
+763
+01:17:34,160 --> 01:17:35,640
+<font face="Comic Sans MS" color="#ffff80"><b>I swear.</b></font>
+
+764
+01:17:36,600 --> 01:17:37,640
+<font face="Comic Sans MS" color="#ffff80"><b>I did not know.</b></font>
+
+765
+01:17:37,760 --> 01:17:41,880
+<font face="Comic Sans MS" color="#ffff80"><b>Know what?
+Which side you chose?</b></font>
+
+766
+01:17:49,880 --> 01:17:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>Well, now you do.</b></font>
+
+767
+01:18:00,360 --> 01:18:01,360
+<font face="Comic Sans MS" color="#ffff80"><b>Bootstrap?</b></font>
+
+768
+01:18:09,920 --> 01:18:11,240
+<font face="Comic Sans MS" color="#ffff80"><b>Bootstrap.</b></font>
+
+769
+01:18:11,720 --> 01:18:13,000
+<font face="Comic Sans MS" color="#ffff80"><b>Bill Turner?</b></font>
+
+770
+01:18:14,120 --> 01:18:15,240
+<font face="Comic Sans MS" color="#ffff80"><b>Bootstrap.</b></font>
+
+771
+01:18:24,400 --> 01:18:26,320
+<font face="Comic Sans MS" color="#ffff80"><b>You know my name.</b></font>
+
+772
+01:18:29,840 --> 01:18:31,200
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, I know your son.</b></font>
+
+773
+01:18:33,240 --> 01:18:34,800
+<font face="Comic Sans MS" color="#ffff80"><b>Will Turner.</b></font>
+
+774
+01:18:36,200 --> 01:18:37,360
+<font face="Comic Sans MS" color="#ffff80"><b>William.</b></font>
+
+775
+01:18:43,200 --> 01:18:45,720
+<font face="Comic Sans MS" color="#ffff80"><b>He made it. He's alive.</b></font>
+
+776
+01:18:45,760 --> 01:18:50,000
+<font face="Comic Sans MS" color="#ffff80"><b>And now he sends you to tell me
+that he's coming to get me.</b></font>
+
+777
+01:18:52,000 --> 01:18:54,360
+<font face="Comic Sans MS" color="#ffff80"><b>God's wounds. He's on his way.</b></font>
+
+778
+01:18:54,400 --> 01:18:55,760
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, Will is alive.</b></font>
+
+779
+01:18:57,240 --> 01:18:58,800
+<font face="Comic Sans MS" color="#ffff80"><b>And he wants to help you.</b></font>
+
+780
+01:19:04,240 --> 01:19:07,920
+<font face="Comic Sans MS" color="#ffff80"><b>He can't help me. He won't come.</b></font>
+
+781
+01:19:08,680 --> 01:19:10,240
+<font face="Comic Sans MS" color="#ffff80"><b>But you're his father.</b></font>
+
+782
+01:19:11,080 --> 01:19:12,840
+<font face="Comic Sans MS" color="#ffff80"><b>I know you.</b></font>
+
+783
+01:19:13,680 --> 01:19:15,240
+<font face="Comic Sans MS" color="#ffff80"><b>He spoke of you.</b></font>
+
+784
+01:19:17,200 --> 01:19:20,400
+<font face="Comic Sans MS" color="#ffff80"><b>He can't save me.
+He can't come because of you.</b></font>
+
+785
+01:19:21,760 --> 01:19:22,760
+<font face="Comic Sans MS" color="#ffff80"><b>Me?</b></font>
+
+786
+01:19:24,320 --> 01:19:26,040
+<font face="Comic Sans MS" color="#ffff80"><b>You're Elizabeth.</b></font>
+
+787
+01:19:27,440 --> 01:19:28,880
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, I'm Elizabeth.</b></font>
+
+788
+01:19:30,680 --> 01:19:35,640
+<font face="Comic Sans MS" color="#ffff80"><b>If Jones be slain,
+he who slays him must take his place.</b></font>
+
+789
+01:19:36,240 --> 01:19:39,120
+<font face="Comic Sans MS" color="#ffff80"><b>Captain... Forever.</b></font>
+
+790
+01:19:41,960 --> 01:19:44,960
+<font face="Comic Sans MS" color="#ffff80"><b>The Dutchman
+must always have a captain.</b></font>
+
+791
+01:19:45,600 --> 01:19:47,760
+<font face="Comic Sans MS" color="#ffff80"><b>And if he saves me...</b></font>
+
+792
+01:19:48,960 --> 01:19:50,800
+<font face="Comic Sans MS" color="#ffff80"><b>...he loses you.</b></font>
+
+793
+01:19:53,800 --> 01:19:54,880
+<font face="Comic Sans MS" color="#ffff80"><b>I see.</b></font>
+
+794
+01:19:56,840 --> 01:19:58,720
+<font face="Comic Sans MS" color="#ffff80"><b>He won't pick me.</b></font>
+
+795
+01:19:59,640 --> 01:20:01,800
+<font face="Comic Sans MS" color="#ffff80"><b>I wouldn't pick me.</b></font>
+
+796
+01:20:06,880 --> 01:20:08,440
+<font face="Comic Sans MS" color="#ffff80"><b>Tell him not to come.</b></font>
+
+797
+01:20:10,640 --> 01:20:12,760
+<font face="Comic Sans MS" color="#ffff80"><b>Tell him to stay away.</b></font>
+
+798
+01:20:14,080 --> 01:20:16,120
+<font face="Comic Sans MS" color="#ffff80"><b>Tell him it's too late.</b></font>
+
+799
+01:20:17,640 --> 01:20:19,960
+<font face="Comic Sans MS" color="#ffff80"><b>I'm already a part of the ship...</b></font>
+
+800
+01:20:22,000 --> 01:20:23,640
+<font face="Comic Sans MS" color="#ffff80"><b>...and the crew.</b></font>
+
+801
+01:20:25,840 --> 01:20:26,840
+<font face="Comic Sans MS" color="#ffff80"><b>Bootstrap.</b></font>
+
+802
+01:20:29,880 --> 01:20:31,800
+<font face="Comic Sans MS" color="#ffff80"><b>You know my name.</b></font>
+
+803
+01:20:32,680 --> 01:20:34,800
+<font face="Comic Sans MS" color="#ffff80"><b>You know my name.</b></font>
+
+804
+01:20:36,000 --> 01:20:37,840
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, I know your son.</b></font>
+
+805
+01:20:38,840 --> 01:20:40,560
+<font face="Comic Sans MS" color="#ffff80"><b>William.</b></font>
+
+806
+01:20:43,160 --> 01:20:45,120
+<font face="Comic Sans MS" color="#ffff80"><b>He's coming for me.</b></font>
+
+807
+01:20:45,840 --> 01:20:47,360
+<font face="Comic Sans MS" color="#ffff80"><b>Wait and see.</b></font>
+
+808
+01:20:48,440 --> 01:20:49,760
+<font face="Comic Sans MS" color="#ffff80"><b>You'll see.</b></font>
+
+809
+01:20:51,200 --> 01:20:52,920
+<font face="Comic Sans MS" color="#ffff80"><b>He promised.</b></font>
+
+810
+01:21:09,360 --> 01:21:11,280
+<font face="Comic Sans MS" color="#ffff80"><b>Swing her over.</b></font>
+
+811
+01:21:12,480 --> 01:21:14,240
+<font face="Comic Sans MS" color="#ffff80"><b>Ready those lines.</b></font>
+
+812
+01:21:26,000 --> 01:21:27,160
+<font face="Comic Sans MS" color="#ffff80"><b>Sir.</b></font>
+
+813
+01:21:30,560 --> 01:21:32,400
+<font face="Comic Sans MS" color="#ffff80"><b>A breadcrumb trail.</b></font>
+
+814
+01:21:32,480 --> 01:21:36,800
+<font face="Comic Sans MS" color="#ffff80"><b>- And we're meant to follow.
+- A betrayer among them?</b></font>
+
+815
+01:21:36,880 --> 01:21:42,080
+<font face="Comic Sans MS" color="#ffff80"><b>- Or a trap?
+- A gambit by a skilled opponent.</b></font>
+
+816
+01:21:43,360 --> 01:21:47,360
+<font face="Comic Sans MS" color="#ffff80"><b>- Adjust course, lieutenant.
+- Sir?</b></font>
+
+817
+01:21:49,200 --> 01:21:51,440
+<font face="Comic Sans MS" color="#ffff80"><b>We can only hope
+to reach our destination</b></font>
+
+818
+01:21:51,520 --> 01:21:53,600
+<font face="Comic Sans MS" color="#ffff80"><b>before they run out of bodies.</b></font>
+
+819
+01:22:07,200 --> 01:22:10,280
+<font face="Comic Sans MS" color="#ffff80"><b>You escaped the brig
+even quicker than I expected.</b></font>
+
+820
+01:22:11,200 --> 01:22:14,600
+<font face="Comic Sans MS" color="#ffff80"><b>William, do you notice anything?</b></font>
+
+821
+01:22:16,280 --> 01:22:17,520
+<font face="Comic Sans MS" color="#ffff80"><b>Rather...</b></font>
+
+822
+01:22:17,920 --> 01:22:21,440
+<font face="Comic Sans MS" color="#ffff80"><b>...do you notice something
+that is not there to be noticed?</b></font>
+
+823
+01:22:22,240 --> 01:22:25,240
+<font face="Comic Sans MS" color="#ffff80"><b>- You haven't raised an alarm.
+- Odd, isn't it?</b></font>
+
+824
+01:22:25,280 --> 01:22:26,800
+<font face="Comic Sans MS" color="#ffff80"><b>Not as odd as this.</b></font>
+
+825
+01:22:28,160 --> 01:22:30,600
+<font face="Comic Sans MS" color="#ffff80"><b>Come up with this
+all by your lonesome, did you?</b></font>
+
+826
+01:22:30,720 --> 01:22:33,760
+<font face="Comic Sans MS" color="#ffff80"><b>I said to myself, "Think like Jack."</b></font>
+
+827
+01:22:34,120 --> 01:22:36,280
+<font face="Comic Sans MS" color="#ffff80"><b>This is what you've arrived at?</b></font>
+
+828
+01:22:36,360 --> 01:22:39,720
+<font face="Comic Sans MS" color="#ffff80"><b>Lead Beckett to Shipwreck Cove
+so as to gain his trust...</b></font>
+
+829
+01:22:39,800 --> 01:22:41,640
+<font face="Comic Sans MS" color="#ffff80"><b>...accomplish your own ends?</b></font>
+
+830
+01:22:41,680 --> 01:22:43,440
+<font face="Comic Sans MS" color="#ffff80"><b>It's like you don't know me at all.</b></font>
+
+831
+01:22:46,800 --> 01:22:49,880
+<font face="Comic Sans MS" color="#ffff80"><b>And how does your dearly beloved
+feel about this plan?</b></font>
+
+832
+01:22:51,280 --> 01:22:52,600
+<font face="Comic Sans MS" color="#ffff80"><b>Ah.</b></font>
+
+833
+01:22:53,200 --> 01:22:55,720
+<font face="Comic Sans MS" color="#ffff80"><b>You've not seen fit
+to trust her with it.</b></font>
+
+834
+01:22:59,120 --> 01:23:00,640
+<font face="Comic Sans MS" color="#ffff80"><b>I'm losing her, Jack.</b></font>
+
+835
+01:23:01,400 --> 01:23:05,320
+<font face="Comic Sans MS" color="#ffff80"><b>Every step I make for my father
+is a step away from Elizabeth.</b></font>
+
+836
+01:23:05,800 --> 01:23:09,480
+<font face="Comic Sans MS" color="#ffff80"><b>If you choose to lock your heart away,
+you'll lose her for certain.</b></font>
+
+837
+01:23:10,040 --> 01:23:13,240
+<font face="Comic Sans MS" color="#ffff80"><b>If I might lend a machete
+to your intellectual thicket...</b></font>
+
+838
+01:23:14,400 --> 01:23:16,360
+<font face="Comic Sans MS" color="#ffff80"><b>...avoid the choice altogether.</b></font>
+
+839
+01:23:17,200 --> 01:23:18,680
+<font face="Comic Sans MS" color="#ffff80"><b>Change the facts.</b></font>
+
+840
+01:23:19,760 --> 01:23:22,760
+<font face="Comic Sans MS" color="#ffff80"><b>Let someone else dispatch Jones.</b></font>
+
+841
+01:23:23,520 --> 01:23:24,840
+<font face="Comic Sans MS" color="#ffff80"><b>Who?</b></font>
+
+842
+01:23:29,120 --> 01:23:30,120
+<font face="Comic Sans MS" color="#ffff80"><b>You?</b></font>
+
+843
+01:23:32,480 --> 01:23:35,840
+<font face="Comic Sans MS" color="#ffff80"><b>Death has a curious way
+of reshuffling one's priorities.</b></font>
+
+844
+01:23:35,920 --> 01:23:39,480
+<font face="Comic Sans MS" color="#ffff80"><b>I slip aboard the Dutchman,
+find the heart, stab the beating thing,</b></font>
+
+845
+01:23:39,520 --> 01:23:41,320
+<font face="Comic Sans MS" color="#ffff80"><b>your father's free from his debt,</b></font>
+
+846
+01:23:41,360 --> 01:23:44,120
+<font face="Comic Sans MS" color="#ffff80"><b>you're free to be
+with your charming murderess.</b></font>
+
+847
+01:23:44,200 --> 01:23:48,040
+<font face="Comic Sans MS" color="#ffff80"><b>You're willing to cut out your heart
+and bind yourself to the Dutchman...</b></font>
+
+848
+01:23:48,080 --> 01:23:52,040
+<font face="Comic Sans MS" color="#ffff80"><b>- ...forever?
+- No, mate. I'm free forever.</b></font>
+
+849
+01:23:52,120 --> 01:23:56,160
+<font face="Comic Sans MS" color="#ffff80"><b>Free to sail the seas beyond the edges
+of the map. Free from death itself.</b></font>
+
+850
+01:23:56,480 --> 01:23:58,520
+<font face="Comic Sans MS" color="#ffff80"><b>You have to do the job though, Jack.</b></font>
+
+851
+01:23:58,640 --> 01:24:01,720
+<font face="Comic Sans MS" color="#ffff80"><b>You have to ferry souls
+to the next world.</b></font>
+
+852
+01:24:02,320 --> 01:24:04,920
+<font face="Comic Sans MS" color="#ffff80"><b>Or end up just like Jones.</b></font>
+
+853
+01:24:07,000 --> 01:24:09,000
+<font face="Comic Sans MS" color="#ffff80"><b>I don't have the face for tentacles.</b></font>
+
+854
+01:24:10,840 --> 01:24:13,400
+<font face="Comic Sans MS" color="#ffff80"><b>But immortal has to
+count for something, eh?</b></font>
+
+855
+01:24:17,400 --> 01:24:18,560
+<font face="Comic Sans MS" color="#ffff80"><b>What's this for?</b></font>
+
+856
+01:24:18,640 --> 01:24:21,360
+<font face="Comic Sans MS" color="#ffff80"><b>Think like me. It'll come to you.</b></font>
+
+857
+01:24:34,560 --> 01:24:37,000
+<font face="Comic Sans MS" color="#ffff80"><b>My regards to Davy Jones.</b></font>
+
+858
+01:24:42,240 --> 01:24:43,760
+<font face="Comic Sans MS" color="#ffff80"><b>I hate him.</b></font>
+
+859
+01:24:48,280 --> 01:24:49,440
+<font face="Comic Sans MS" color="#ffff80"><b>Come with me.</b></font>
+
+860
+01:24:53,000 --> 01:24:54,240
+<font face="Comic Sans MS" color="#ffff80"><b>Quickly.</b></font>
+
+861
+01:25:03,280 --> 01:25:04,560
+<font face="Comic Sans MS" color="#ffff80"><b>What are you doing?</b></font>
+
+862
+01:25:06,240 --> 01:25:08,280
+<font face="Comic Sans MS" color="#ffff80"><b>Choosing a side.</b></font>
+
+863
+01:25:32,800 --> 01:25:36,760
+<font face="Comic Sans MS" color="#ffff80"><b>Do not go to Shipwreck Cove. Beckett
+knows of the meeting of the Brethren.</b></font>
+
+864
+01:25:36,800 --> 01:25:39,120
+<font face="Comic Sans MS" color="#ffff80"><b>I fear there may be
+a traitor among them.</b></font>
+
+865
+01:25:40,480 --> 01:25:42,640
+<font face="Comic Sans MS" color="#ffff80"><b>It's too late to earn my forgiveness.</b></font>
+
+866
+01:25:43,840 --> 01:25:46,640
+<font face="Comic Sans MS" color="#ffff80"><b>I had nothing to do
+with your father's death.</b></font>
+
+867
+01:25:48,840 --> 01:25:51,840
+<font face="Comic Sans MS" color="#ffff80"><b>But that does not absolve me
+of my other sins.</b></font>
+
+868
+01:25:55,400 --> 01:25:56,480
+<font face="Comic Sans MS" color="#ffff80"><b>Come with us.</b></font>
+
+869
+01:26:00,520 --> 01:26:02,240
+<font face="Comic Sans MS" color="#ffff80"><b>James, come with me.</b></font>
+
+870
+01:26:03,440 --> 01:26:05,320
+<font face="Comic Sans MS" color="#ffff80"><b>Who goes there?</b></font>
+
+871
+01:26:08,120 --> 01:26:10,040
+<font face="Comic Sans MS" color="#ffff80"><b>Go. I will follow.</b></font>
+
+872
+01:26:11,680 --> 01:26:13,360
+<font face="Comic Sans MS" color="#ffff80"><b>You're lying.</b></font>
+
+873
+01:26:16,040 --> 01:26:18,960
+<font face="Comic Sans MS" color="#ffff80"><b>Our destinies have been entwined,
+Elizabeth...</b></font>
+
+874
+01:26:21,360 --> 01:26:22,840
+<font face="Comic Sans MS" color="#ffff80"><b>...but never joined.</b></font>
+
+875
+01:26:29,360 --> 01:26:31,080
+<font face="Comic Sans MS" color="#ffff80"><b>Go, now.</b></font>
+
+876
+01:26:37,040 --> 01:26:39,200
+<font face="Comic Sans MS" color="#ffff80"><b>Back to your station, sailor.</b></font>
+
+877
+01:26:41,040 --> 01:26:46,320
+<font face="Comic Sans MS" color="#ffff80"><b>- No one leaves the ship.
+- Stand down. That's an order.</b></font>
+
+878
+01:26:46,360 --> 01:26:48,080
+<font face="Comic Sans MS" color="#ffff80"><b>That's an order.</b></font>
+
+879
+01:26:49,160 --> 01:26:51,840
+<font face="Comic Sans MS" color="#ffff80"><b>Part of the crew, part of the ship.</b></font>
+
+880
+01:26:51,880 --> 01:26:54,680
+<font face="Comic Sans MS" color="#ffff80"><b>Part of the crew,
+part of the ship. Part of the crew...</b></font>
+
+881
+01:26:54,720 --> 01:26:57,640
+<font face="Comic Sans MS" color="#ffff80"><b>- Steady, man.
+- Part of the crew, part of the ship.</b></font>
+
+882
+01:26:57,720 --> 01:27:00,080
+<font face="Comic Sans MS" color="#ffff80"><b>All hands, prisoner escape!</b></font>
+
+883
+01:27:00,440 --> 01:27:02,680
+<font face="Comic Sans MS" color="#ffff80"><b>- Belay that!
+- James!</b></font>
+
+884
+01:27:14,400 --> 01:27:16,520
+<font face="Comic Sans MS" color="#ffff80"><b>Prisoner escape!</b></font>
+
+885
+01:27:18,960 --> 01:27:20,600
+<font face="Comic Sans MS" color="#ffff80"><b>James! No!</b></font>
+
+886
+01:27:29,720 --> 01:27:32,480
+<font face="Comic Sans MS" color="#ffff80"><b>- The admiral's dead.
+- Admiral's dead?</b></font>
+
+887
+01:27:32,600 --> 01:27:34,600
+<font face="Comic Sans MS" color="#ffff80"><b>- The admiral's dead.
+- Admiral's dead.</b></font>
+
+888
+01:27:37,800 --> 01:27:40,400
+<font face="Comic Sans MS" color="#ffff80"><b>- To the captain's cabin!
+- Aye!</b></font>
+
+889
+01:27:40,440 --> 01:27:42,440
+<font face="Comic Sans MS" color="#ffff80"><b>Back to the ship.</b></font>
+
+890
+01:27:44,440 --> 01:27:48,360
+<font face="Comic Sans MS" color="#ffff80"><b>James Norrington. Do you fear death?</b></font>
+
+891
+01:27:57,680 --> 01:27:59,760
+<font face="Comic Sans MS" color="#ffff80"><b>I take that as a "no."</b></font>
+
+892
+01:28:04,280 --> 01:28:05,800
+<font face="Comic Sans MS" color="#ffff80"><b>Nice sword.</b></font>
+
+893
+01:28:26,760 --> 01:28:31,800
+<font face="Comic Sans MS" color="#ffff80"><b>The Dutchman is under my command.</b></font>
+
+894
+01:28:34,320 --> 01:28:36,600
+<font face="Comic Sans MS" color="#ffff80"><b>For now.</b></font>
+
+895
+01:28:52,360 --> 01:28:54,440
+<font face="Comic Sans MS" color="#ffff80"><b>Look alive and keep a weather eye.</b></font>
+
+896
+01:28:54,480 --> 01:28:56,920
+<font face="Comic Sans MS" color="#ffff80"><b>Not for naught
+it's called Shipwreck Island.</b></font>
+
+897
+01:28:57,000 --> 01:29:00,440
+<font face="Comic Sans MS" color="#ffff80"><b>Where lies Shipwreck Cove
+and the town of Shipwreck.</b></font>
+
+898
+01:29:00,520 --> 01:29:02,920
+<font face="Comic Sans MS" color="#ffff80"><b>You heard him. Step lively.</b></font>
+
+899
+01:29:03,000 --> 01:29:05,360
+<font face="Comic Sans MS" color="#ffff80"><b>For all that pirates are clever clogs,</b></font>
+
+900
+01:29:05,400 --> 01:29:08,240
+<font face="Comic Sans MS" color="#ffff80"><b>we are unimaginative
+when it comes to naming things.</b></font>
+
+901
+01:29:08,320 --> 01:29:09,520
+<font face="Comic Sans MS" color="#ffff80"><b>Aye.</b></font>
+
+902
+01:29:09,600 --> 01:29:13,720
+<font face="Comic Sans MS" color="#ffff80"><b>I once sailed with a geezer who lost
+both of his arms and part of his eye.</b></font>
+
+903
+01:29:13,800 --> 01:29:15,400
+<font face="Comic Sans MS" color="#ffff80"><b>What'd you call him?</b></font>
+
+904
+01:29:16,560 --> 01:29:17,800
+<font face="Comic Sans MS" color="#ffff80"><b>Larry.</b></font>
+
+905
+01:29:21,520 --> 01:29:24,480
+<font face="Comic Sans MS" color="#ffff80"><b>I do not renege
+on a bargain once struck.</b></font>
+
+906
+01:29:24,520 --> 01:29:26,520
+<font face="Comic Sans MS" color="#ffff80"><b>But we agreed on ends only.</b></font>
+
+907
+01:29:26,600 --> 01:29:29,560
+<font face="Comic Sans MS" color="#ffff80"><b>The means are mine to decide.</b></font>
+
+908
+01:29:29,680 --> 01:29:32,160
+<font face="Comic Sans MS" color="#ffff80"><b>Caution, Barbossa.</b></font>
+
+909
+01:29:32,200 --> 01:29:36,480
+<font face="Comic Sans MS" color="#ffff80"><b>Do not forget it was by my power
+you return from the dead.</b></font>
+
+910
+01:29:36,560 --> 01:29:40,400
+<font face="Comic Sans MS" color="#ffff80"><b>Or what it mean if you fail me.</b></font>
+
+911
+01:29:43,640 --> 01:29:46,520
+<font face="Comic Sans MS" color="#ffff80"><b>Don't you forget
+why you had to bring me back.</b></font>
+
+912
+01:29:46,560 --> 01:29:50,320
+<font face="Comic Sans MS" color="#ffff80"><b>Why I could not leave Jack
+to his well-deserved fate.</b></font>
+
+913
+01:29:51,240 --> 01:29:53,720
+<font face="Comic Sans MS" color="#ffff80"><b>It took nine pirate lords
+to bind you, Calypso.</b></font>
+
+914
+01:29:54,280 --> 01:29:57,560
+<font face="Comic Sans MS" color="#ffff80"><b>And it'll take no less than nine
+to set you free.</b></font>
+
+915
+01:29:57,640 --> 01:29:59,840
+<font face="Comic Sans MS" color="#ffff80"><b>Masters Pintel and Ragetti.</b></font>
+
+916
+01:30:01,680 --> 01:30:04,800
+<font face="Comic Sans MS" color="#ffff80"><b>Take this fishwife to the brig.</b></font>
+
+917
+01:30:06,600 --> 01:30:08,720
+<font face="Comic Sans MS" color="#ffff80"><b>Right this way, Mrs. Fish.</b></font>
+
+918
+01:30:36,600 --> 01:30:40,600
+<font face="Comic Sans MS" color="#ffff80"><b>I cannot be summoned
+like some mongrel pup.</b></font>
+
+919
+01:30:40,640 --> 01:30:42,600
+<font face="Comic Sans MS" color="#ffff80"><b>Apparently, you can.</b></font>
+
+920
+01:30:43,120 --> 01:30:44,760
+<font face="Comic Sans MS" color="#ffff80"><b>I believe you know each other.</b></font>
+
+921
+01:30:49,400 --> 01:30:53,520
+<font face="Comic Sans MS" color="#ffff80"><b>Come to join my crew again,
+Master Turner?</b></font>
+
+922
+01:30:53,600 --> 01:30:54,960
+<font face="Comic Sans MS" color="#ffff80"><b>Not yours.</b></font>
+
+923
+01:30:55,400 --> 01:30:56,640
+<font face="Comic Sans MS" color="#ffff80"><b>His.</b></font>
+
+924
+01:30:57,480 --> 01:30:59,640
+<font face="Comic Sans MS" color="#ffff80"><b>Jack Sparrow sends his regards.</b></font>
+
+925
+01:31:00,760 --> 01:31:02,600
+<font face="Comic Sans MS" color="#ffff80"><b>Sparrow?</b></font>
+
+926
+01:31:04,000 --> 01:31:05,640
+<font face="Comic Sans MS" color="#ffff80"><b>You didn't tell him.</b></font>
+
+927
+01:31:05,680 --> 01:31:08,920
+<font face="Comic Sans MS" color="#ffff80"><b>We rescued Jack from the Locker
+along with the Black Pearl.</b></font>
+
+928
+01:31:09,680 --> 01:31:12,600
+<font face="Comic Sans MS" color="#ffff80"><b>What else have you not told me?</b></font>
+
+929
+01:31:13,360 --> 01:31:17,360
+<font face="Comic Sans MS" color="#ffff80"><b>There is an issue far more troublesome.</b></font>
+
+930
+01:31:18,680 --> 01:31:22,320
+<font face="Comic Sans MS" color="#ffff80"><b>I believe you're familiar
+with a person called Calypso.</b></font>
+
+931
+01:31:24,960 --> 01:31:26,640
+<font face="Comic Sans MS" color="#ffff80"><b>Not a person.</b></font>
+
+932
+01:31:27,360 --> 01:31:28,440
+<font face="Comic Sans MS" color="#ffff80"><b>A heathen god.</b></font>
+
+933
+01:31:28,480 --> 01:31:32,040
+<font face="Comic Sans MS" color="#ffff80"><b>One who delights in cursing men
+with their wildest dreams</b></font>
+
+934
+01:31:32,120 --> 01:31:35,440
+<font face="Comic Sans MS" color="#ffff80"><b>and then revealing them to be
+hollow and naught but ash.</b></font>
+
+935
+01:31:35,480 --> 01:31:38,680
+<font face="Comic Sans MS" color="#ffff80"><b>- The world is well rid of her.
+- Not quite so well, actually.</b></font>
+
+936
+01:31:39,520 --> 01:31:42,160
+<font face="Comic Sans MS" color="#ffff80"><b>The Brethren Court
+intends to release her.</b></font>
+
+937
+01:31:42,960 --> 01:31:44,760
+<font face="Comic Sans MS" color="#ffff80"><b>No! They cannot!</b></font>
+
+938
+01:31:44,840 --> 01:31:47,800
+<font face="Comic Sans MS" color="#ffff80"><b>The First Court
+promised to imprison her forever.</b></font>
+
+939
+01:31:47,840 --> 01:31:50,840
+<font face="Comic Sans MS" color="#ffff80"><b>- That was our agreement.
+- Your agreement?</b></font>
+
+940
+01:31:53,360 --> 01:31:57,360
+<font face="Comic Sans MS" color="#ffff80"><b>I showed them how to bind her.</b></font>
+
+941
+01:31:57,440 --> 01:31:59,400
+<font face="Comic Sans MS" color="#ffff80"><b>She could not be trusted.</b></font>
+
+942
+01:31:59,480 --> 01:32:01,320
+<font face="Comic Sans MS" color="#ffff80"><b>I... She gave me no choice.</b></font>
+
+943
+01:32:01,840 --> 01:32:04,800
+<font face="Comic Sans MS" color="#ffff80"><b>We must act before they release her.</b></font>
+
+944
+01:32:04,840 --> 01:32:06,640
+<font face="Comic Sans MS" color="#ffff80"><b>You loved her.</b></font>
+
+945
+01:32:07,840 --> 01:32:09,840
+<font face="Comic Sans MS" color="#ffff80"><b>She's the one.</b></font>
+
+946
+01:32:09,920 --> 01:32:11,920
+<font face="Comic Sans MS" color="#ffff80"><b>And then you betrayed her.</b></font>
+
+947
+01:32:12,000 --> 01:32:15,800
+<font face="Comic Sans MS" color="#ffff80"><b>She pretended to love me.</b></font>
+
+948
+01:32:15,880 --> 01:32:19,600
+<font face="Comic Sans MS" color="#ffff80"><b>She betrayed me.</b></font>
+
+949
+01:32:22,440 --> 01:32:26,000
+<font face="Comic Sans MS" color="#ffff80"><b>And after which betrayal
+did you cut out your heart, I wonder.</b></font>
+
+950
+01:32:29,240 --> 01:32:31,960
+<font face="Comic Sans MS" color="#ffff80"><b>Do not test me.</b></font>
+
+951
+01:32:32,040 --> 01:32:33,760
+<font face="Comic Sans MS" color="#ffff80"><b>I hadn't finished that.</b></font>
+
+952
+01:32:35,760 --> 01:32:37,880
+<font face="Comic Sans MS" color="#ffff80"><b>You will free my father.</b></font>
+
+953
+01:32:38,600 --> 01:32:41,040
+<font face="Comic Sans MS" color="#ffff80"><b>And you will guarantee
+Elizabeth's safety.</b></font>
+
+954
+01:32:41,160 --> 01:32:42,720
+<font face="Comic Sans MS" color="#ffff80"><b>Along with my own.</b></font>
+
+955
+01:32:42,800 --> 01:32:45,400
+<font face="Comic Sans MS" color="#ffff80"><b>Your terms are steep, Mr. Turner.</b></font>
+
+956
+01:32:45,440 --> 01:32:48,240
+<font face="Comic Sans MS" color="#ffff80"><b>We will expect fair value in return.</b></font>
+
+957
+01:32:48,640 --> 01:32:52,560
+<font face="Comic Sans MS" color="#ffff80"><b>There is only one price I will accept:</b></font>
+
+958
+01:32:52,640 --> 01:32:55,760
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso murdered.</b></font>
+
+959
+01:32:57,600 --> 01:32:59,960
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso's aboard the Black Pearl.</b></font>
+
+960
+01:33:02,040 --> 01:33:05,400
+<font face="Comic Sans MS" color="#ffff80"><b>Jack has sailed
+the Black Pearl to Shipwreck Cove.</b></font>
+
+961
+01:33:06,400 --> 01:33:11,680
+<font face="Comic Sans MS" color="#ffff80"><b>And with you no longer aboard her,
+how do you propose to lead us there?</b></font>
+
+962
+01:33:23,520 --> 01:33:26,120
+<font face="Comic Sans MS" color="#ffff80"><b>What is it you want most?</b></font>
+
+963
+01:33:58,000 --> 01:33:59,600
+<font face="Comic Sans MS" color="#ffff80"><b>Look at them all.</b></font>
+
+964
+01:33:59,640 --> 01:34:03,760
+<font face="Comic Sans MS" color="#ffff80"><b>There's not been a gathering
+like this in our lifetime.</b></font>
+
+965
+01:34:04,560 --> 01:34:06,560
+<font face="Comic Sans MS" color="#ffff80"><b>And I owe them all money.</b></font>
+
+966
+01:34:12,000 --> 01:34:14,440
+<font face="Comic Sans MS" color="#ffff80"><b>As he who issued summons,</b></font>
+
+967
+01:34:14,480 --> 01:34:19,080
+<font face="Comic Sans MS" color="#ffff80"><b>I convene this,
+the Fourth Brethren Court.</b></font>
+
+968
+01:34:23,160 --> 01:34:26,640
+<font face="Comic Sans MS" color="#ffff80"><b>To confirm your lordship
+and right to be heard,</b></font>
+
+969
+01:34:26,720 --> 01:34:31,440
+<font face="Comic Sans MS" color="#ffff80"><b>present now your pieces of eight,
+my fellow cap'ns.</b></font>
+
+970
+01:34:39,600 --> 01:34:42,800
+<font face="Comic Sans MS" color="#ffff80"><b>Those aren't pieces of eight.
+They're just pieces of junk.</b></font>
+
+971
+01:34:42,840 --> 01:34:46,600
+<font face="Comic Sans MS" color="#ffff80"><b>Aye. The original plan was to use
+nine pieces of eight to bind Calypso.</b></font>
+
+972
+01:34:46,680 --> 01:34:51,040
+<font face="Comic Sans MS" color="#ffff80"><b>But when the First Court met,
+the Brethren were to a one skint broke.</b></font>
+
+973
+01:34:51,680 --> 01:34:52,760
+<font face="Comic Sans MS" color="#ffff80"><b>So change the name.</b></font>
+
+974
+01:34:54,000 --> 01:34:58,200
+<font face="Comic Sans MS" color="#ffff80"><b>To "nine pieces of whatever we happened
+to have in our pockets at the time?"</b></font>
+
+975
+01:34:58,240 --> 01:35:00,560
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, yes. That sounds very piratey.</b></font>
+
+976
+01:35:04,200 --> 01:35:06,720
+<font face="Comic Sans MS" color="#ffff80"><b>Master Ragetti, if you will.</b></font>
+
+977
+01:35:07,520 --> 01:35:10,560
+<font face="Comic Sans MS" color="#ffff80"><b>I kept it safe, just like
+you said when you gave it to me.</b></font>
+
+978
+01:35:10,600 --> 01:35:13,720
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, you have.
+But now I need it back.</b></font>
+
+979
+01:35:16,560 --> 01:35:17,680
+<font face="Comic Sans MS" color="#ffff80"><b>Sparrow.</b></font>
+
+980
+01:35:23,760 --> 01:35:27,400
+<font face="Comic Sans MS" color="#ffff80"><b>Might I point out that
+we are still short one pirate lord,</b></font>
+
+981
+01:35:27,480 --> 01:35:31,440
+<font face="Comic Sans MS" color="#ffff80"><b>and I'm as content as a cucumber
+to wait until Sao Feng joins us.</b></font>
+
+982
+01:35:31,520 --> 01:35:33,120
+<font face="Comic Sans MS" color="#ffff80"><b>Sao Feng is dead.</b></font>
+
+983
+01:35:35,240 --> 01:35:37,360
+<font face="Comic Sans MS" color="#ffff80"><b>He fell to the Flying Dutchman.</b></font>
+
+984
+01:35:37,560 --> 01:35:38,720
+<font face="Comic Sans MS" color="#ffff80"><b>The plagued ship.</b></font>
+
+985
+01:35:39,960 --> 01:35:43,360
+<font face="Comic Sans MS" color="#ffff80"><b>He made you captain? They're
+giving the bloody title away now.</b></font>
+
+986
+01:35:43,400 --> 01:35:46,400
+<font face="Comic Sans MS" color="#ffff80"><b>- ¡Qué lo manden al diablo!
+- Listen. Listen to me.</b></font>
+
+987
+01:35:46,440 --> 01:35:48,720
+<font face="Comic Sans MS" color="#ffff80"><b>Our location has been betrayed.</b></font>
+
+988
+01:35:48,760 --> 01:35:52,400
+<font face="Comic Sans MS" color="#ffff80"><b>Jones is under the command of
+Lord Beckett. They're on their way here.</b></font>
+
+989
+01:35:52,480 --> 01:35:56,160
+<font face="Comic Sans MS" color="#ffff80"><b>- Who is this betrayer?
+- Not likely anyone among us.</b></font>
+
+990
+01:35:56,560 --> 01:35:58,600
+<font face="Comic Sans MS" color="#ffff80"><b>- Where's Will?
+- Not among us.</b></font>
+
+991
+01:35:58,640 --> 01:36:01,400
+<font face="Comic Sans MS" color="#ffff80"><b>It matters not how they found us.
+The question is,</b></font>
+
+992
+01:36:01,440 --> 01:36:03,920
+<font face="Comic Sans MS" color="#ffff80"><b>what will we do now that they have?</b></font>
+
+993
+01:36:04,000 --> 01:36:05,520
+<font face="Comic Sans MS" color="#ffff80"><b>We fight.</b></font>
+
+994
+01:36:09,600 --> 01:36:13,040
+<font face="Comic Sans MS" color="#ffff80"><b>Shipwreck Cove is a fortress.</b></font>
+
+995
+01:36:13,120 --> 01:36:15,920
+<font face="Comic Sans MS" color="#ffff80"><b>A well-supplied fortress.</b></font>
+
+996
+01:36:16,480 --> 01:36:20,280
+<font face="Comic Sans MS" color="#ffff80"><b>There is no need to fight
+if they cannot get to us.</b></font>
+
+997
+01:36:21,080 --> 01:36:24,440
+<font face="Comic Sans MS" color="#ffff80"><b>There be a third course.</b></font>
+
+998
+01:36:25,680 --> 01:36:28,120
+<font face="Comic Sans MS" color="#ffff80"><b>In another age, at this very spot,</b></font>
+
+999
+01:36:28,160 --> 01:36:33,680
+<font face="Comic Sans MS" color="#ffff80"><b>the First Brethren Court captured the
+sea goddess and bound her in her bones.</b></font>
+
+1000
+01:36:36,400 --> 01:36:37,840
+<font face="Comic Sans MS" color="#ffff80"><b>That was a mistake.</b></font>
+
+1001
+01:36:38,840 --> 01:36:41,640
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, we tamed the seas
+for ourselves, aye.</b></font>
+
+1002
+01:36:42,600 --> 01:36:45,680
+<font face="Comic Sans MS" color="#ffff80"><b>But opened the door
+to Beckett and his ilk.</b></font>
+
+1003
+01:36:47,680 --> 01:36:50,160
+<font face="Comic Sans MS" color="#ffff80"><b>Better were the days
+when mastery of seas</b></font>
+
+1004
+01:36:50,200 --> 01:36:54,000
+<font face="Comic Sans MS" color="#ffff80"><b>came not from bargains
+struck with eldritch creatures,</b></font>
+
+1005
+01:36:54,120 --> 01:36:58,480
+<font face="Comic Sans MS" color="#ffff80"><b>but from the sweat of a man's brow
+and the strength of his back alone.</b></font>
+
+1006
+01:36:58,520 --> 01:37:00,360
+<font face="Comic Sans MS" color="#ffff80"><b>You all know this to be true.</b></font>
+
+1007
+01:37:01,200 --> 01:37:02,560
+<font face="Comic Sans MS" color="#ffff80"><b>Gentlemen.</b></font>
+
+1008
+01:37:03,640 --> 01:37:04,840
+<font face="Comic Sans MS" color="#ffff80"><b>Ladies.</b></font>
+
+1009
+01:37:09,480 --> 01:37:12,480
+<font face="Comic Sans MS" color="#ffff80"><b>We must free Calypso.</b></font>
+
+1010
+01:37:21,520 --> 01:37:23,920
+<font face="Comic Sans MS" color="#ffff80"><b>- Shoot him.
+- Cut out his tongue!</b></font>
+
+1011
+01:37:24,000 --> 01:37:27,880
+<font face="Comic Sans MS" color="#ffff80"><b>Shoot him, cut out his tongue, then
+shoot his tongue. And trim that beard.</b></font>
+
+1012
+01:37:27,960 --> 01:37:30,520
+<font face="Comic Sans MS" color="#ffff80"><b>Sao Feng would've agreed with Barbossa.</b></font>
+
+1013
+01:37:30,560 --> 01:37:33,480
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso was our enemy then,
+she will be our enemy now.</b></font>
+
+1014
+01:37:33,520 --> 01:37:35,480
+<font face="Comic Sans MS" color="#ffff80"><b>It's unlikely her mood's improved.</b></font>
+
+1015
+01:37:35,520 --> 01:37:39,360
+<font face="Comic Sans MS" color="#ffff80"><b>I would still agree with Sao Feng.
+We release Calypso.</b></font>
+
+1016
+01:37:39,440 --> 01:37:42,360
+<font face="Comic Sans MS" color="#ffff80"><b>- You threaten me?
+- I silence you.</b></font>
+
+1017
+01:37:54,640 --> 01:37:57,800
+<font face="Comic Sans MS" color="#ffff80"><b>- This is madness.
+- This is politics.</b></font>
+
+1018
+01:37:57,880 --> 01:38:00,480
+<font face="Comic Sans MS" color="#ffff80"><b>Meanwhile, our enemies
+are bearing down upon us.</b></font>
+
+1019
+01:38:00,560 --> 01:38:03,040
+<font face="Comic Sans MS" color="#ffff80"><b>If they not be here already.</b></font>
+
+1020
+01:38:39,240 --> 01:38:41,640
+<font face="Comic Sans MS" color="#ffff80"><b>My sweet.</b></font>
+
+1021
+01:38:41,920 --> 01:38:44,080
+<font face="Comic Sans MS" color="#ffff80"><b>You come for me.</b></font>
+
+1022
+01:38:45,040 --> 01:38:50,000
+<font face="Comic Sans MS" color="#ffff80"><b>- You were expecting me.
+- It has been torture.</b></font>
+
+1023
+01:38:50,080 --> 01:38:54,320
+<font face="Comic Sans MS" color="#ffff80"><b>Trapped in this single form.</b></font>
+
+1024
+01:38:54,840 --> 01:38:57,240
+<font face="Comic Sans MS" color="#ffff80"><b>Cut off from the sea.</b></font>
+
+1025
+01:38:57,680 --> 01:39:00,280
+<font face="Comic Sans MS" color="#ffff80"><b>From all that I love.</b></font>
+
+1026
+01:39:01,560 --> 01:39:02,960
+<font face="Comic Sans MS" color="#ffff80"><b>From you.</b></font>
+
+1027
+01:39:03,640 --> 01:39:08,200
+<font face="Comic Sans MS" color="#ffff80"><b>Ten years I devoted
+to the duty you charged to me.</b></font>
+
+1028
+01:39:09,560 --> 01:39:14,960
+<font face="Comic Sans MS" color="#ffff80"><b>Ten years I looked after
+those who died at sea.</b></font>
+
+1029
+01:39:15,600 --> 01:39:20,200
+<font face="Comic Sans MS" color="#ffff80"><b>And, finally,
+when we could be together again...</b></font>
+
+1030
+01:39:21,960 --> 01:39:25,800
+<font face="Comic Sans MS" color="#ffff80"><b>...you weren't there.</b></font>
+
+1031
+01:39:26,160 --> 01:39:28,800
+<font face="Comic Sans MS" color="#ffff80"><b>Why weren't you there?</b></font>
+
+1032
+01:39:32,160 --> 01:39:33,800
+<font face="Comic Sans MS" color="#ffff80"><b>It's my nature.</b></font>
+
+1033
+01:39:35,000 --> 01:39:39,640
+<font face="Comic Sans MS" color="#ffff80"><b>Would you love me
+if I was anything but what I am?</b></font>
+
+1034
+01:39:40,800 --> 01:39:44,600
+<font face="Comic Sans MS" color="#ffff80"><b>I do not love you.</b></font>
+
+1035
+01:39:47,120 --> 01:39:50,840
+<font face="Comic Sans MS" color="#ffff80"><b>Many things you were, Davy Jones.</b></font>
+
+1036
+01:39:51,880 --> 01:39:54,000
+<font face="Comic Sans MS" color="#ffff80"><b>But never cruel.</b></font>
+
+1037
+01:39:54,840 --> 01:39:57,840
+<font face="Comic Sans MS" color="#ffff80"><b>You have corrupted your purpose...</b></font>
+
+1038
+01:39:59,160 --> 01:40:01,800
+<font face="Comic Sans MS" color="#ffff80"><b>...and so your self.</b></font>
+
+1039
+01:40:02,840 --> 01:40:07,720
+<font face="Comic Sans MS" color="#ffff80"><b>And you did hide away
+what should always have been mine.</b></font>
+
+1040
+01:40:27,600 --> 01:40:30,680
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso.</b></font>
+
+1041
+01:40:33,680 --> 01:40:35,560
+<font face="Comic Sans MS" color="#ffff80"><b>I will be free.</b></font>
+
+1042
+01:40:37,520 --> 01:40:41,200
+<font face="Comic Sans MS" color="#ffff80"><b>And when I am,
+I would give you my heart.</b></font>
+
+1043
+01:40:42,000 --> 01:40:45,000
+<font face="Comic Sans MS" color="#ffff80"><b>And we would be together always.</b></font>
+
+1044
+01:40:45,640 --> 01:40:49,000
+<font face="Comic Sans MS" color="#ffff80"><b>If only you had a heart to give.</b></font>
+
+1045
+01:40:53,760 --> 01:40:55,840
+<font face="Comic Sans MS" color="#ffff80"><b>Why did you come?</b></font>
+
+1046
+01:41:13,120 --> 01:41:18,280
+<font face="Comic Sans MS" color="#ffff80"><b>And what fate have you planned
+for your captors?</b></font>
+
+1047
+01:41:18,720 --> 01:41:20,720
+<font face="Comic Sans MS" color="#ffff80"><b>The Brethren Court?</b></font>
+
+1048
+01:41:22,680 --> 01:41:27,440
+<font face="Comic Sans MS" color="#ffff80"><b>All of them, the last thing
+they will learn in this life...</b></font>
+
+1049
+01:41:27,560 --> 01:41:30,240
+<font face="Comic Sans MS" color="#ffff80"><b>...is how cruel I can be.</b></font>
+
+1050
+01:41:34,800 --> 01:41:39,280
+<font face="Comic Sans MS" color="#ffff80"><b>And what of your fate, Davy Jones?</b></font>
+
+1051
+01:41:40,760 --> 01:41:44,280
+<font face="Comic Sans MS" color="#ffff80"><b>My heart will always belong to you.</b></font>
+
+1052
+01:41:57,600 --> 01:42:01,440
+<font face="Comic Sans MS" color="#ffff80"><b>It was the First Court
+what imprisoned Calypso.</b></font>
+
+1053
+01:42:01,480 --> 01:42:03,800
+<font face="Comic Sans MS" color="#ffff80"><b>We should be the ones to set her free.</b></font>
+
+1054
+01:42:03,880 --> 01:42:08,200
+<font face="Comic Sans MS" color="#ffff80"><b>And in her gratitude,
+she will see fit to grant us boons.</b></font>
+
+1055
+01:42:08,280 --> 01:42:10,760
+<font face="Comic Sans MS" color="#ffff80"><b>Whose boons? Your boons?</b></font>
+
+1056
+01:42:10,800 --> 01:42:13,800
+<font face="Comic Sans MS" color="#ffff80"><b>Utterly deceptive twaddle-speak, says I.</b></font>
+
+1057
+01:42:13,880 --> 01:42:18,320
+<font face="Comic Sans MS" color="#ffff80"><b>If you have a better alternative,
+please, share.</b></font>
+
+1058
+01:42:19,560 --> 01:42:20,600
+<font face="Comic Sans MS" color="#ffff80"><b>Cuttlefish.</b></font>
+
+1059
+01:42:21,800 --> 01:42:23,840
+<font face="Comic Sans MS" color="#ffff80"><b>Aye.</b></font>
+
+1060
+01:42:24,800 --> 01:42:27,480
+<font face="Comic Sans MS" color="#ffff80"><b>Let us not, dear friends,</b></font>
+
+1061
+01:42:27,520 --> 01:42:30,520
+<font face="Comic Sans MS" color="#ffff80"><b>forget our dear friends, the cuttlefish.</b></font>
+
+1062
+01:42:31,080 --> 01:42:33,280
+<font face="Comic Sans MS" color="#ffff80"><b>Flipping glorious little sausages.</b></font>
+
+1063
+01:42:33,320 --> 01:42:37,320
+<font face="Comic Sans MS" color="#ffff80"><b>Pen them up together, they'll devour
+each other without a second thought.</b></font>
+
+1064
+01:42:37,360 --> 01:42:38,640
+<font face="Comic Sans MS" color="#ffff80"><b>Human nature, isn't it?</b></font>
+
+1065
+01:42:38,720 --> 01:42:40,760
+<font face="Comic Sans MS" color="#ffff80"><b>Or... Or fish nature.</b></font>
+
+1066
+01:42:40,840 --> 01:42:44,560
+<font face="Comic Sans MS" color="#ffff80"><b>So, yes, we could hole up here
+well-provisioned and well-armed.</b></font>
+
+1067
+01:42:44,640 --> 01:42:46,800
+<font face="Comic Sans MS" color="#ffff80"><b>Half of us would be dead
+within the month.</b></font>
+
+1068
+01:42:46,840 --> 01:42:50,800
+<font face="Comic Sans MS" color="#ffff80"><b>Which seems quite grim to me,
+any way you slice it. Or...</b></font>
+
+1069
+01:42:52,680 --> 01:42:54,000
+<font face="Comic Sans MS" color="#ffff80"><b>Uh...</b></font>
+
+1070
+01:42:55,720 --> 01:43:01,520
+<font face="Comic Sans MS" color="#ffff80"><b>As my learned colleague
+so naively suggests,</b></font>
+
+1071
+01:43:01,560 --> 01:43:05,560
+<font face="Comic Sans MS" color="#ffff80"><b>we can release Calypso, and we
+can pray that she will be merciful.</b></font>
+
+1072
+01:43:07,040 --> 01:43:08,360
+<font face="Comic Sans MS" color="#ffff80"><b>I rather doubt it.</b></font>
+
+1073
+01:43:09,160 --> 01:43:13,160
+<font face="Comic Sans MS" color="#ffff80"><b>Can we pretend she's anything
+other than a woman scorned</b></font>
+
+1074
+01:43:13,200 --> 01:43:16,080
+<font face="Comic Sans MS" color="#ffff80"><b>like which fury hell hath no? We cannot.</b></font>
+
+1075
+01:43:17,240 --> 01:43:20,520
+<font face="Comic Sans MS" color="#ffff80"><b>Res ipsa loquitur, tabula in naufragio.</b></font>
+
+1076
+01:43:20,560 --> 01:43:23,360
+<font face="Comic Sans MS" color="#ffff80"><b>We are left with but one option.</b></font>
+
+1077
+01:43:23,400 --> 01:43:27,280
+<font face="Comic Sans MS" color="#ffff80"><b>I agree with, and I cannot believe
+the words are coming out of me mouth...</b></font>
+
+1078
+01:43:29,600 --> 01:43:32,560
+<font face="Comic Sans MS" color="#ffff80"><b>...Captain Swann. We must fight.</b></font>
+
+1079
+01:43:32,600 --> 01:43:35,840
+<font face="Comic Sans MS" color="#ffff80"><b>- You've always run away from a fight.
+- Have not.</b></font>
+
+1080
+01:43:35,880 --> 01:43:36,960
+<font face="Comic Sans MS" color="#ffff80"><b>- Have so.
+- Have not.</b></font>
+
+1081
+01:43:37,080 --> 01:43:38,160
+<font face="Comic Sans MS" color="#ffff80"><b>- Have so.
+- Have not!</b></font>
+
+1082
+01:43:38,320 --> 01:43:41,480
+<font face="Comic Sans MS" color="#ffff80"><b>- You have so, and you know it.
+- Have not. Slander and calumny.</b></font>
+
+1083
+01:43:41,560 --> 01:43:45,840
+<font face="Comic Sans MS" color="#ffff80"><b>I have only ever embraced that
+oldest and noblest of pirate traditions.</b></font>
+
+1084
+01:43:45,880 --> 01:43:50,120
+<font face="Comic Sans MS" color="#ffff80"><b>I submit that here now
+that is what we all must do:</b></font>
+
+1085
+01:43:50,200 --> 01:43:51,560
+<font face="Comic Sans MS" color="#ffff80"><b>We must fight...</b></font>
+
+1086
+01:43:52,360 --> 01:43:53,840
+<font face="Comic Sans MS" color="#ffff80"><b>...to run away.</b></font>
+
+1087
+01:43:53,920 --> 01:43:56,240
+<font face="Comic Sans MS" color="#ffff80"><b>- Aye!
+- Aye!</b></font>
+
+1088
+01:43:58,040 --> 01:44:02,440
+<font face="Comic Sans MS" color="#ffff80"><b>As per the code, an act of war,
+and this be exactly that,</b></font>
+
+1089
+01:44:02,520 --> 01:44:05,400
+<font face="Comic Sans MS" color="#ffff80"><b>can only be declared by the pirate king.</b></font>
+
+1090
+01:44:05,480 --> 01:44:08,080
+<font face="Comic Sans MS" color="#ffff80"><b>- You made that up.
+- Did I, now?</b></font>
+
+1091
+01:44:08,120 --> 01:44:12,680
+<font face="Comic Sans MS" color="#ffff80"><b>I call on Cap'n Teague,
+keeper of the code.</b></font>
+
+1092
+01:44:13,680 --> 01:44:17,080
+<font face="Comic Sans MS" color="#ffff80"><b>Sri Sumbhajee proclaims
+this all to be folly!</b></font>
+
+1093
+01:44:18,760 --> 01:44:21,280
+<font face="Comic Sans MS" color="#ffff80"><b>Hang the code. Who cares a...?</b></font>
+
+1094
+01:44:29,280 --> 01:44:31,120
+<font face="Comic Sans MS" color="#ffff80"><b>Code is the law.</b></font>
+
+1095
+01:44:43,120 --> 01:44:45,120
+<font face="Comic Sans MS" color="#ffff80"><b>You're in my way, boy.</b></font>
+
+1096
+01:44:54,280 --> 01:44:56,960
+<font face="Comic Sans MS" color="#ffff80"><b>- The code.
+- The code.</b></font>
+
+1097
+01:44:57,000 --> 01:44:59,280
+<font face="Comic Sans MS" color="#ffff80"><b>As set forth by Morgan and Bartholomew.</b></font>
+
+1098
+01:45:17,320 --> 01:45:21,280
+<font face="Comic Sans MS" color="#ffff80"><b>- That can't... How did...
+- Sea turtles, mate.</b></font>
+
+1099
+01:45:24,160 --> 01:45:25,640
+<font face="Comic Sans MS" color="#ffff80"><b>Sea turtles.</b></font>
+
+1100
+01:45:40,440 --> 01:45:43,120
+<font face="Comic Sans MS" color="#ffff80"><b>Ah. Barbossa is right.</b></font>
+
+1101
+01:45:43,160 --> 01:45:44,680
+<font face="Comic Sans MS" color="#ffff80"><b>Hang on a minute.</b></font>
+
+1102
+01:45:46,160 --> 01:45:48,160
+<font face="Comic Sans MS" color="#ffff80"><b>"It shall be the duties, as the king,</b></font>
+
+1103
+01:45:48,160 --> 01:45:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>to declare war,
+parley with shared adversaries..."</b></font>
+
+1104
+01:45:51,720 --> 01:45:52,720
+<font face="Comic Sans MS" color="#ffff80"><b>Fancy that.</b></font>
+
+1105
+01:45:52,800 --> 01:45:55,280
+<font face="Comic Sans MS" color="#ffff80"><b>There has not been a king
+since the First Court.</b></font>
+
+1106
+01:45:55,360 --> 01:45:57,040
+<font face="Comic Sans MS" color="#ffff80"><b>And that's not likely to change.</b></font>
+
+1107
+01:45:57,080 --> 01:45:59,120
+<font face="Comic Sans MS" color="#ffff80"><b>- Not likely.
+- Why not?</b></font>
+
+1108
+01:45:59,240 --> 01:46:01,840
+<font face="Comic Sans MS" color="#ffff80"><b>See, the pirate king
+is elected by popular vote.</b></font>
+
+1109
+01:46:01,960 --> 01:46:05,440
+<font face="Comic Sans MS" color="#ffff80"><b>And each pirate
+only ever votes for hisself.</b></font>
+
+1110
+01:46:05,520 --> 01:46:06,600
+<font face="Comic Sans MS" color="#ffff80"><b>I call for a vote.</b></font>
+
+1111
+01:46:11,400 --> 01:46:13,800
+<font face="Comic Sans MS" color="#ffff80"><b>I vote for Ammand the corsair.</b></font>
+
+1112
+01:46:13,880 --> 01:46:16,400
+<font face="Comic Sans MS" color="#ffff80"><b>Capitaine Chevalle,
+the penniless Frenchman.</b></font>
+
+1113
+01:46:16,800 --> 01:46:19,440
+<font face="Comic Sans MS" color="#ffff80"><b>Sri Sumbhajee
+votes for Sri Sumbhajee.</b></font>
+
+1114
+01:46:20,400 --> 01:46:22,280
+<font face="Comic Sans MS" color="#ffff80"><b>Mistress Ching.</b></font>
+
+1115
+01:46:22,400 --> 01:46:23,760
+<font face="Comic Sans MS" color="#ffff80"><b>Gentleman Jocard.</b></font>
+
+1116
+01:46:24,480 --> 01:46:27,040
+<font face="Comic Sans MS" color="#ffff80"><b>- Elizabeth Swann.
+- Barbossa.</b></font>
+
+1117
+01:46:27,080 --> 01:46:28,880
+<font face="Comic Sans MS" color="#ffff80"><b>Vallenueva!</b></font>
+
+1118
+01:46:29,720 --> 01:46:31,040
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth Swann.</b></font>
+
+1119
+01:46:32,040 --> 01:46:34,000
+<font face="Comic Sans MS" color="#ffff80"><b>- What?
+- I know. Curious, isn't it?</b></font>
+
+1120
+01:46:36,560 --> 01:46:38,200
+<font face="Comic Sans MS" color="#ffff80"><b>Vote for me. Vote for me.</b></font>
+
+1121
+01:46:40,640 --> 01:46:42,080
+<font face="Comic Sans MS" color="#ffff80"><b>What you talking about?</b></font>
+
+1122
+01:46:42,120 --> 01:46:43,240
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+1123
+01:46:43,280 --> 01:46:46,920
+<font face="Comic Sans MS" color="#ffff80"><b>Am I to understand that you lot
+will not be keeping to the code, then?</b></font>
+
+1124
+01:46:55,800 --> 01:46:57,000
+<font face="Comic Sans MS" color="#ffff80"><b>Very well.</b></font>
+
+1125
+01:47:00,360 --> 01:47:05,400
+<font face="Comic Sans MS" color="#ffff80"><b>What say you, Captain Swann,
+king of the Brethren Court?</b></font>
+
+1126
+01:47:07,360 --> 01:47:09,680
+<font face="Comic Sans MS" color="#ffff80"><b>Prepare every vessel that floats.</b></font>
+
+1127
+01:47:10,520 --> 01:47:11,680
+<font face="Comic Sans MS" color="#ffff80"><b>At dawn...</b></font>
+
+1128
+01:47:13,280 --> 01:47:14,440
+<font face="Comic Sans MS" color="#ffff80"><b>...we're at war.</b></font>
+
+1129
+01:47:18,280 --> 01:47:21,840
+<font face="Comic Sans MS" color="#ffff80"><b>And so we shall go to war.</b></font>
+
+1130
+01:47:35,520 --> 01:47:36,560
+<font face="Comic Sans MS" color="#ffff80"><b>What?</b></font>
+
+1131
+01:47:37,480 --> 01:47:40,280
+<font face="Comic Sans MS" color="#ffff80"><b>You've seen it all,
+done it all. You survived.</b></font>
+
+1132
+01:47:40,840 --> 01:47:43,680
+<font face="Comic Sans MS" color="#ffff80"><b>That's the trick, isn't it?
+To survive?</b></font>
+
+1133
+01:47:44,240 --> 01:47:47,720
+<font face="Comic Sans MS" color="#ffff80"><b>It's not just about
+living forever, Jackie.</b></font>
+
+1134
+01:47:51,640 --> 01:47:55,760
+<font face="Comic Sans MS" color="#ffff80"><b>The trick is
+living with yourself forever.</b></font>
+
+1135
+01:47:59,800 --> 01:48:00,960
+<font face="Comic Sans MS" color="#ffff80"><b>How's Mum?</b></font>
+
+1136
+01:48:07,920 --> 01:48:09,440
+<font face="Comic Sans MS" color="#ffff80"><b>She looks great.</b></font>
+
+1137
+01:48:30,840 --> 01:48:34,480
+<font face="Comic Sans MS" color="#ffff80"><b>The enemy is here! Let's take them!</b></font>
+
+1138
+01:48:57,840 --> 01:49:00,320
+<font face="Comic Sans MS" color="#ffff80"><b>Abandon ship. Abandon ship.</b></font>
+
+1139
+01:49:09,240 --> 01:49:10,440
+<font face="Comic Sans MS" color="#ffff80"><b>Parley?</b></font>
+
+1140
+01:50:07,240 --> 01:50:10,880
+<font face="Comic Sans MS" color="#ffff80"><b>You be the cur that led
+these wolves to our door.</b></font>
+
+1141
+01:50:10,960 --> 01:50:15,120
+<font face="Comic Sans MS" color="#ffff80"><b>Don't blame Turner.
+He was merely the tool of your betrayal.</b></font>
+
+1142
+01:50:15,200 --> 01:50:19,760
+<font face="Comic Sans MS" color="#ffff80"><b>If you wish to see its grand architect,
+look to your left.</b></font>
+
+1143
+01:50:23,120 --> 01:50:24,840
+<font face="Comic Sans MS" color="#ffff80"><b>My hands are clean in this.</b></font>
+
+1144
+01:50:25,880 --> 01:50:27,040
+<font face="Comic Sans MS" color="#ffff80"><b>Figuratively.</b></font>
+
+1145
+01:50:27,600 --> 01:50:30,040
+<font face="Comic Sans MS" color="#ffff80"><b>My actions were my own
+and to my own purpose.</b></font>
+
+1146
+01:50:30,120 --> 01:50:33,560
+<font face="Comic Sans MS" color="#ffff80"><b>- Jack had nothing to do with it.
+- Well spoke. Listen to the tool.</b></font>
+
+1147
+01:50:33,640 --> 01:50:35,600
+<font face="Comic Sans MS" color="#ffff80"><b>Will, I've been aboard the Dutchman.</b></font>
+
+1148
+01:50:36,520 --> 01:50:39,840
+<font face="Comic Sans MS" color="#ffff80"><b>I understand the burden you bear,
+but I fear that cause is lost.</b></font>
+
+1149
+01:50:40,680 --> 01:50:44,560
+<font face="Comic Sans MS" color="#ffff80"><b>No cause is lost if there is
+but one fool left to fight for it.</b></font>
+
+1150
+01:50:46,800 --> 01:50:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>If Turner wasn't acting on your behalf,
+then how did he come to give me this?</b></font>
+
+1151
+01:50:52,880 --> 01:50:57,880
+<font face="Comic Sans MS" color="#ffff80"><b>You made a deal with me, Jack, to
+deliver the pirates. And here they are.</b></font>
+
+1152
+01:50:58,640 --> 01:51:02,000
+<font face="Comic Sans MS" color="#ffff80"><b>Don't be bashful. Step up.
+Claim your reward.</b></font>
+
+1153
+01:51:02,080 --> 01:51:06,000
+<font face="Comic Sans MS" color="#ffff80"><b>Your debt to me
+is still to be satisfied.</b></font>
+
+1154
+01:51:06,040 --> 01:51:11,000
+<font face="Comic Sans MS" color="#ffff80"><b>One hundred years in servitude
+aboard the Dutchman. As a start.</b></font>
+
+1155
+01:51:11,680 --> 01:51:14,920
+<font face="Comic Sans MS" color="#ffff80"><b>That debt was paid, mate.
+With some help.</b></font>
+
+1156
+01:51:15,000 --> 01:51:17,400
+<font face="Comic Sans MS" color="#ffff80"><b>- You escaped.
+- Technically.</b></font>
+
+1157
+01:51:17,480 --> 01:51:19,520
+<font face="Comic Sans MS" color="#ffff80"><b>I propose an exchange.</b></font>
+
+1158
+01:51:21,600 --> 01:51:23,480
+<font face="Comic Sans MS" color="#ffff80"><b>Will leaves with us...</b></font>
+
+1159
+01:51:24,200 --> 01:51:25,960
+<font face="Comic Sans MS" color="#ffff80"><b>...and you can take Jack.</b></font>
+
+1160
+01:51:28,080 --> 01:51:29,080
+<font face="Comic Sans MS" color="#ffff80"><b>Done.</b></font>
+
+1161
+01:51:29,720 --> 01:51:31,440
+<font face="Comic Sans MS" color="#ffff80"><b>- Undone.
+- Done.</b></font>
+
+1162
+01:51:31,520 --> 01:51:35,040
+<font face="Comic Sans MS" color="#ffff80"><b>Jack's one of the nine pirate lords.
+You have no right.</b></font>
+
+1163
+01:51:35,120 --> 01:51:36,560
+<font face="Comic Sans MS" color="#ffff80"><b>King.</b></font>
+
+1164
+01:51:39,080 --> 01:51:43,160
+<font face="Comic Sans MS" color="#ffff80"><b>- As you command, your nibs.
+- Blackguard!</b></font>
+
+1165
+01:51:48,360 --> 01:51:52,040
+<font face="Comic Sans MS" color="#ffff80"><b>If ye have something to say,
+I might be saying something as well.</b></font>
+
+1166
+01:51:54,720 --> 01:51:56,760
+<font face="Comic Sans MS" color="#ffff80"><b>First to the finish, then?</b></font>
+
+1167
+01:52:18,080 --> 01:52:20,600
+<font face="Comic Sans MS" color="#ffff80"><b>Do you fear death?</b></font>
+
+1168
+01:52:22,160 --> 01:52:23,920
+<font face="Comic Sans MS" color="#ffff80"><b>You've no idea.</b></font>
+
+1169
+01:52:26,880 --> 01:52:28,760
+<font face="Comic Sans MS" color="#ffff80"><b>Advise your Brethren,</b></font>
+
+1170
+01:52:28,800 --> 01:52:31,920
+<font face="Comic Sans MS" color="#ffff80"><b>you can fight, and all of you will die.</b></font>
+
+1171
+01:52:31,960 --> 01:52:36,520
+<font face="Comic Sans MS" color="#ffff80"><b>Or you can not fight,
+in which case only most of you will die.</b></font>
+
+1172
+01:52:37,080 --> 01:52:39,160
+<font face="Comic Sans MS" color="#ffff80"><b>You murdered my father.</b></font>
+
+1173
+01:52:40,560 --> 01:52:42,560
+<font face="Comic Sans MS" color="#ffff80"><b>He chose his own fate.</b></font>
+
+1174
+01:52:43,200 --> 01:52:45,920
+<font face="Comic Sans MS" color="#ffff80"><b>And you have chosen yours.</b></font>
+
+1175
+01:52:45,960 --> 01:52:48,080
+<font face="Comic Sans MS" color="#ffff80"><b>We will fight.</b></font>
+
+1176
+01:52:48,640 --> 01:52:50,440
+<font face="Comic Sans MS" color="#ffff80"><b>And you will die.</b></font>
+
+1177
+01:52:55,280 --> 01:52:56,880
+<font face="Comic Sans MS" color="#ffff80"><b>So be it.</b></font>
+
+1178
+01:53:02,920 --> 01:53:04,280
+<font face="Comic Sans MS" color="#ffff80"><b>King?</b></font>
+
+1179
+01:53:04,320 --> 01:53:07,160
+<font face="Comic Sans MS" color="#ffff80"><b>Of the Brethren Court.
+Courtesy of Jack.</b></font>
+
+1180
+01:53:07,680 --> 01:53:10,000
+<font face="Comic Sans MS" color="#ffff80"><b>Maybe he really
+does know what he's doing.</b></font>
+
+1181
+01:53:16,480 --> 01:53:17,480
+<font face="Comic Sans MS" color="#ffff80"><b>Bravo!</b></font>
+
+1182
+01:53:18,480 --> 01:53:22,680
+<font face="Comic Sans MS" color="#ffff80"><b>You've successfully arrived aboard
+the Dutchman as per the overall scheme.</b></font>
+
+1183
+01:53:22,760 --> 01:53:24,480
+<font face="Comic Sans MS" color="#ffff80"><b>- Look
+- Oh, yes. Chapeau, mate.</b></font>
+
+1184
+01:53:24,560 --> 01:53:27,640
+<font face="Comic Sans MS" color="#ffff80"><b>Except for this sojourn in the brig,
+it's utter clockwork.</b></font>
+
+1185
+01:53:28,880 --> 01:53:30,080
+<font face="Comic Sans MS" color="#ffff80"><b>Go away.</b></font>
+
+1186
+01:53:30,160 --> 01:53:33,320
+<font face="Comic Sans MS" color="#ffff80"><b>- What, back to the Locker?
+- Not without you, Jackie.</b></font>
+
+1187
+01:53:34,160 --> 01:53:35,240
+<font face="Comic Sans MS" color="#ffff80"><b>Stab the heart.</b></font>
+
+1188
+01:53:41,120 --> 01:53:46,240
+<font face="Comic Sans MS" color="#ffff80"><b>Live forever as captain
+of the Flying Dutchman.</b></font>
+
+1189
+01:53:50,040 --> 01:53:51,680
+<font face="Comic Sans MS" color="#ffff80"><b>Then again...</b></font>
+
+1190
+01:53:52,480 --> 01:53:54,160
+<font face="Comic Sans MS" color="#ffff80"><b>...if you're in the brig...</b></font>
+
+1191
+01:53:55,680 --> 01:53:57,680
+<font face="Comic Sans MS" color="#ffff80"><b>...who's to stab the heart?</b></font>
+
+1192
+01:54:00,160 --> 01:54:03,040
+<font face="Comic Sans MS" color="#ffff80"><b>Does seem to put immortality
+a bit out of reach.</b></font>
+
+1193
+01:54:04,800 --> 01:54:06,480
+<font face="Comic Sans MS" color="#ffff80"><b>Peanut.</b></font>
+
+1194
+01:54:06,600 --> 01:54:09,920
+<font face="Comic Sans MS" color="#ffff80"><b>We'll need to use the Black Pearl
+as a flagship to lead the attack.</b></font>
+
+1195
+01:54:10,000 --> 01:54:14,200
+<font face="Comic Sans MS" color="#ffff80"><b>- Oh, will we now?
+- All right, Mrs. Fish. Come on.</b></font>
+
+1196
+01:54:14,760 --> 01:54:18,200
+<font face="Comic Sans MS" color="#ffff80"><b>Barbossa, you can't release her.</b></font>
+
+1197
+01:54:18,280 --> 01:54:20,200
+<font face="Comic Sans MS" color="#ffff80"><b>We need to give Jack a chance.</b></font>
+
+1198
+01:54:20,760 --> 01:54:25,680
+<font face="Comic Sans MS" color="#ffff80"><b>Apologies, Your Majesty. Too long
+my fate has not been in me own hands.</b></font>
+
+1199
+01:54:28,560 --> 01:54:29,880
+<font face="Comic Sans MS" color="#ffff80"><b>No longer.</b></font>
+
+1200
+01:54:31,880 --> 01:54:33,600
+<font face="Comic Sans MS" color="#ffff80"><b>The enemy...</b></font>
+
+1201
+01:54:34,760 --> 01:54:37,080
+<font face="Comic Sans MS" color="#ffff80"><b>...has opted for oblivion.</b></font>
+
+1202
+01:54:40,200 --> 01:54:41,880
+<font face="Comic Sans MS" color="#ffff80"><b>Ready the fleet.</b></font>
+
+1203
+01:54:42,080 --> 01:54:44,840
+<font face="Comic Sans MS" color="#ffff80"><b>- To your stations.
+- To your stations.</b></font>
+
+1204
+01:54:51,320 --> 01:54:54,480
+<font face="Comic Sans MS" color="#ffff80"><b>Be there some manner
+of rite or incantation?</b></font>
+
+1205
+01:54:54,560 --> 01:54:55,800
+<font face="Comic Sans MS" color="#ffff80"><b>Aye.</b></font>
+
+1206
+01:54:56,240 --> 01:54:59,520
+<font face="Comic Sans MS" color="#ffff80"><b>The items brought together, done.</b></font>
+
+1207
+01:54:59,560 --> 01:55:02,000
+<font face="Comic Sans MS" color="#ffff80"><b>Items to be burned...</b></font>
+
+1208
+01:55:02,640 --> 01:55:04,800
+<font face="Comic Sans MS" color="#ffff80"><b>...and someone must speak the words:</b></font>
+
+1209
+01:55:04,920 --> 01:55:08,400
+<font face="Comic Sans MS" color="#ffff80"><b>"Calypso, I release you
+from your human bonds."</b></font>
+
+1210
+01:55:08,440 --> 01:55:09,440
+<font face="Comic Sans MS" color="#ffff80"><b>Is that it?</b></font>
+
+1211
+01:55:10,040 --> 01:55:14,080
+<font face="Comic Sans MS" color="#ffff80"><b>'Tis said it must be spoken
+as if to a lover.</b></font>
+
+1212
+01:55:14,160 --> 01:55:15,880
+<font face="Comic Sans MS" color="#ffff80"><b>Ooh!</b></font>
+
+1213
+01:55:19,920 --> 01:55:25,240
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso, I release you
+from your human bonds!</b></font>
+
+1214
+01:55:34,800 --> 01:55:38,880
+<font face="Comic Sans MS" color="#ffff80"><b>- Is that it?
+- No, no, no. He didn't say it right.</b></font>
+
+1215
+01:55:43,800 --> 01:55:44,880
+<font face="Comic Sans MS" color="#ffff80"><b>He didn't...</b></font>
+
+1216
+01:55:45,320 --> 01:55:47,200
+<font face="Comic Sans MS" color="#ffff80"><b>You have to say it right.</b></font>
+
+1217
+01:55:55,800 --> 01:55:56,800
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso...</b></font>
+
+1218
+01:56:02,160 --> 01:56:04,640
+<font face="Comic Sans MS" color="#ffff80"><b>...I release you from your human bonds.</b></font>
+
+1219
+01:56:23,200 --> 01:56:24,880
+<font face="Comic Sans MS" color="#ffff80"><b>Tia Dalma.</b></font>
+
+1220
+01:56:27,320 --> 01:56:28,640
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso.</b></font>
+
+1221
+01:56:31,160 --> 01:56:35,320
+<font face="Comic Sans MS" color="#ffff80"><b>When the Brethren Court imprisoned you,
+who was it that told them how?</b></font>
+
+1222
+01:56:37,760 --> 01:56:41,680
+<font face="Comic Sans MS" color="#ffff80"><b>- Who was it that betrayed you?
+- Name him.</b></font>
+
+1223
+01:56:42,920 --> 01:56:44,680
+<font face="Comic Sans MS" color="#ffff80"><b>Davy Jones.</b></font>
+
+1224
+01:56:58,680 --> 01:57:02,520
+<font face="Comic Sans MS" color="#ffff80"><b>This is it! This is it!</b></font>
+
+1225
+01:57:45,160 --> 01:57:46,880
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso!</b></font>
+
+1226
+01:57:49,120 --> 01:57:54,240
+<font face="Comic Sans MS" color="#ffff80"><b>I come before you as but a servant,
+humble and contrite.</b></font>
+
+1227
+01:57:56,160 --> 01:58:01,040
+<font face="Comic Sans MS" color="#ffff80"><b>I have fulfilled me vow
+and now ask your favor.</b></font>
+
+1228
+01:58:04,080 --> 01:58:07,080
+<font face="Comic Sans MS" color="#ffff80"><b>Spare meself, me ship, me crew...</b></font>
+
+1229
+01:58:07,440 --> 01:58:11,920
+<font face="Comic Sans MS" color="#ffff80"><b>...but unleash your fury upon those who
+dare pretend themselves your masters...</b></font>
+
+1230
+01:58:12,440 --> 01:58:13,600
+<font face="Comic Sans MS" color="#ffff80"><b>...or mine.</b></font>
+
+1231
+01:59:11,520 --> 01:59:12,800
+<font face="Comic Sans MS" color="#ffff80"><b>Is that it?</b></font>
+
+1232
+01:59:15,520 --> 01:59:17,520
+<font face="Comic Sans MS" color="#ffff80"><b>Why, she's no help at all.</b></font>
+
+1233
+01:59:21,240 --> 01:59:22,520
+<font face="Comic Sans MS" color="#ffff80"><b>What now?</b></font>
+
+1234
+01:59:23,440 --> 01:59:24,720
+<font face="Comic Sans MS" color="#ffff80"><b>Nothing.</b></font>
+
+1235
+01:59:25,480 --> 01:59:28,480
+<font face="Comic Sans MS" color="#ffff80"><b>Our final hope has failed us.</b></font>
+
+1236
+01:59:55,920 --> 01:59:58,920
+<font face="Comic Sans MS" color="#ffff80"><b>- It's not over.
+- There's still a fight to be had.</b></font>
+
+1237
+01:59:59,000 --> 02:00:02,920
+<font face="Comic Sans MS" color="#ffff80"><b>We've an armada against us, and
+with the Dutchman, there's no chance.</b></font>
+
+1238
+02:00:03,000 --> 02:00:05,280
+<font face="Comic Sans MS" color="#ffff80"><b>There's only a fool's chance.</b></font>
+
+1239
+02:00:05,360 --> 02:00:08,120
+<font face="Comic Sans MS" color="#ffff80"><b>Revenge won't bring
+your father back, Miss Swann,</b></font>
+
+1240
+02:00:08,200 --> 02:00:11,440
+<font face="Comic Sans MS" color="#ffff80"><b>and it's not something
+I'm intending to die for.</b></font>
+
+1241
+02:00:16,440 --> 02:00:17,920
+<font face="Comic Sans MS" color="#ffff80"><b>You're right.</b></font>
+
+1242
+02:00:23,320 --> 02:00:25,280
+<font face="Comic Sans MS" color="#ffff80"><b>Then what shall we die for?</b></font>
+
+1243
+02:00:28,960 --> 02:00:30,400
+<font face="Comic Sans MS" color="#ffff80"><b>You will listen to me.</b></font>
+
+1244
+02:00:31,120 --> 02:00:32,400
+<font face="Comic Sans MS" color="#ffff80"><b>Listen!</b></font>
+
+1245
+02:00:35,320 --> 02:00:40,400
+<font face="Comic Sans MS" color="#ffff80"><b>The Brethren will still be looking here
+to us, to the Black Pearl, to lead.</b></font>
+
+1246
+02:00:40,960 --> 02:00:42,400
+<font face="Comic Sans MS" color="#ffff80"><b>And what will they see?</b></font>
+
+1247
+02:00:42,920 --> 02:00:46,240
+<font face="Comic Sans MS" color="#ffff80"><b>Frightened bilge rats
+aboard a derelict ship? No.</b></font>
+
+1248
+02:00:46,280 --> 02:00:50,560
+<font face="Comic Sans MS" color="#ffff80"><b>No, they will see free men and freedom!</b></font>
+
+1249
+02:00:50,600 --> 02:00:54,040
+<font face="Comic Sans MS" color="#ffff80"><b>And what the enemy will see
+is the flash of our cannons.</b></font>
+
+1250
+02:00:54,080 --> 02:00:59,360
+<font face="Comic Sans MS" color="#ffff80"><b>They will hear the ring of our swords,
+and they will know what we can do.</b></font>
+
+1251
+02:01:02,040 --> 02:01:04,360
+<font face="Comic Sans MS" color="#ffff80"><b>By the sweat of our brows,</b></font>
+
+1252
+02:01:04,440 --> 02:01:06,760
+<font face="Comic Sans MS" color="#ffff80"><b>and the strength of our backs...</b></font>
+
+1253
+02:01:07,120 --> 02:01:10,160
+<font face="Comic Sans MS" color="#ffff80"><b>...and the courage of our hearts.</b></font>
+
+1254
+02:01:12,840 --> 02:01:14,360
+<font face="Comic Sans MS" color="#ffff80"><b>Gentlemen...</b></font>
+
+1255
+02:01:17,080 --> 02:01:18,520
+<font face="Comic Sans MS" color="#ffff80"><b>...hoist the colors.</b></font>
+
+1256
+02:01:20,560 --> 02:01:22,000
+<font face="Comic Sans MS" color="#ffff80"><b>Hoist the colors.</b></font>
+
+1257
+02:01:22,080 --> 02:01:24,360
+<font face="Comic Sans MS" color="#ffff80"><b>- Hoist the colors.
+- Hoist the colors!</b></font>
+
+1258
+02:01:24,440 --> 02:01:26,480
+<font face="Comic Sans MS" color="#ffff80"><b>Aye.</b></font>
+
+1259
+02:01:26,560 --> 02:01:30,240
+<font face="Comic Sans MS" color="#ffff80"><b>The wind's on our side, boys.
+That's all we need!</b></font>
+
+1260
+02:01:32,200 --> 02:01:34,280
+<font face="Comic Sans MS" color="#ffff80"><b>Hoist the colors!</b></font>
+
+1261
+02:02:25,360 --> 02:02:27,560
+<font face="Comic Sans MS" color="#ffff80"><b>We have a favorable wind, sir.</b></font>
+
+1262
+02:02:28,320 --> 02:02:29,520
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, so we do.</b></font>
+
+1263
+02:02:30,160 --> 02:02:33,120
+<font face="Comic Sans MS" color="#ffff80"><b>Signal Jones to give no quarter.</b></font>
+
+1264
+02:02:34,160 --> 02:02:36,200
+<font face="Comic Sans MS" color="#ffff80"><b>That should brighten his day.</b></font>
+
+1265
+02:02:40,160 --> 02:02:44,080
+<font face="Comic Sans MS" color="#ffff80"><b>To arms! We give no quarter!</b></font>
+
+1266
+02:02:53,320 --> 02:02:55,120
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso.</b></font>
+
+1267
+02:03:21,720 --> 02:03:24,680
+<font face="Comic Sans MS" color="#ffff80"><b>Have you noticed,
+on top of everything, it's raining?</b></font>
+
+1268
+02:03:24,720 --> 02:03:25,840
+<font face="Comic Sans MS" color="#ffff80"><b>That's a bad sign.</b></font>
+
+1269
+02:03:25,920 --> 02:03:30,840
+<font face="Comic Sans MS" color="#ffff80"><b>Man the capstan. Raise the main topyard.
+Keep that powder dry.</b></font>
+
+1270
+02:03:45,440 --> 02:03:47,280
+<font face="Comic Sans MS" color="#ffff80"><b>Maelstrom!</b></font>
+
+1271
+02:03:50,480 --> 02:03:52,520
+<font face="Comic Sans MS" color="#ffff80"><b>Captain Barbossa!</b></font>
+
+1272
+02:03:53,440 --> 02:03:55,480
+<font face="Comic Sans MS" color="#ffff80"><b>We need you at the helm.</b></font>
+
+1273
+02:03:58,000 --> 02:04:00,360
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, that be true.</b></font>
+
+1274
+02:04:02,640 --> 02:04:07,600
+<font face="Comic Sans MS" color="#ffff80"><b>Brace up yards,
+you cack-handed deck apes.</b></font>
+
+1275
+02:04:07,880 --> 02:04:11,800
+<font face="Comic Sans MS" color="#ffff80"><b>Dying is the day worth living for.</b></font>
+
+1276
+02:04:22,080 --> 02:04:23,720
+<font face="Comic Sans MS" color="#ffff80"><b>Veer off!</b></font>
+
+1277
+02:04:23,800 --> 02:04:26,040
+<font face="Comic Sans MS" color="#ffff80"><b>She'll not harm us.</b></font>
+
+1278
+02:04:26,560 --> 02:04:28,880
+<font face="Comic Sans MS" color="#ffff80"><b>Full-bore and into the abyss.</b></font>
+
+1279
+02:04:29,600 --> 02:04:30,920
+<font face="Comic Sans MS" color="#ffff80"><b>Are you mad?</b></font>
+
+1280
+02:04:30,960 --> 02:04:33,960
+<font face="Comic Sans MS" color="#ffff80"><b>Ha! You afraid to get wet?</b></font>
+
+1281
+02:04:43,480 --> 02:04:45,840
+<font face="Comic Sans MS" color="#ffff80"><b>She's on our stern and gaining.</b></font>
+
+1282
+02:04:45,960 --> 02:04:51,480
+<font face="Comic Sans MS" color="#ffff80"><b>More speed!
+Haul your wind and hold your water.</b></font>
+
+1283
+02:04:58,480 --> 02:05:00,880
+<font face="Comic Sans MS" color="#ffff80"><b>Bow cannons!</b></font>
+
+1284
+02:05:01,360 --> 02:05:03,840
+<font face="Comic Sans MS" color="#ffff80"><b>Blow the cannons!</b></font>
+
+1285
+02:05:14,720 --> 02:05:17,640
+<font face="Comic Sans MS" color="#ffff80"><b>Take us out or they'll overbear us.</b></font>
+
+1286
+02:05:17,680 --> 02:05:22,600
+<font face="Comic Sans MS" color="#ffff80"><b>Nay. Further in.
+We'll cut across to faster waters.</b></font>
+
+1287
+02:05:23,800 --> 02:05:25,920
+<font face="Comic Sans MS" color="#ffff80"><b>Prepare to broadside.</b></font>
+
+1288
+02:05:36,360 --> 02:05:38,640
+<font face="Comic Sans MS" color="#ffff80"><b>Captain the guns. Bear a hand.</b></font>
+
+1289
+02:05:38,720 --> 02:05:42,560
+<font face="Comic Sans MS" color="#ffff80"><b>Muster your courage, men.
+At the ready.</b></font>
+
+1290
+02:05:49,720 --> 02:05:53,280
+<font face="Comic Sans MS" color="#ffff80"><b>Think like the whelp. Think like
+the whelp. Think like the whelp.</b></font>
+
+1291
+02:05:53,400 --> 02:05:55,560
+<font face="Comic Sans MS" color="#ffff80"><b>Hinges. Hinges.</b></font>
+
+1292
+02:05:55,640 --> 02:05:56,920
+<font face="Comic Sans MS" color="#ffff80"><b>Think like the whelp.</b></font>
+
+1293
+02:05:57,000 --> 02:05:58,440
+<font face="Comic Sans MS" color="#ffff80"><b>Half-barrel hinges.</b></font>
+
+1294
+02:05:58,560 --> 02:05:59,840
+<font face="Comic Sans MS" color="#ffff80"><b>Leverage.</b></font>
+
+1295
+02:06:04,800 --> 02:06:07,080
+<font face="Comic Sans MS" color="#ffff80"><b>Wish us luck, boys. We'll need it.</b></font>
+
+1296
+02:06:08,520 --> 02:06:11,360
+<font face="Comic Sans MS" color="#ffff80"><b>- I miss him already.
+- He is quite charming, isn't he?</b></font>
+
+1297
+02:06:11,400 --> 02:06:13,000
+<font face="Comic Sans MS" color="#ffff80"><b>Nobody move.</b></font>
+
+1298
+02:06:14,080 --> 02:06:15,840
+<font face="Comic Sans MS" color="#ffff80"><b>I dropped me brain.</b></font>
+
+1299
+02:06:25,720 --> 02:06:28,480
+<font face="Comic Sans MS" color="#ffff80"><b>Batten down the hatches!</b></font>
+
+1300
+02:06:29,760 --> 02:06:31,800
+<font face="Comic Sans MS" color="#ffff80"><b>Stand to your guns.</b></font>
+
+1301
+02:06:32,400 --> 02:06:34,880
+<font face="Comic Sans MS" color="#ffff80"><b>Midship cannoneers, sight the masts.</b></font>
+
+1302
+02:06:39,080 --> 02:06:41,560
+<font face="Comic Sans MS" color="#ffff80"><b>Main battery at the ready!</b></font>
+
+1303
+02:06:46,120 --> 02:06:50,400
+<font face="Comic Sans MS" color="#ffff80"><b>Hold there!
+Wait till we're board-and-board.</b></font>
+
+1304
+02:06:54,960 --> 02:06:56,720
+<font face="Comic Sans MS" color="#ffff80"><b>Fire!</b></font>
+
+1305
+02:06:57,080 --> 02:07:01,400
+<font face="Comic Sans MS" color="#ffff80"><b>- Fire!
+- Fire! Fire all!</b></font>
+
+1306
+02:07:02,320 --> 02:07:03,480
+<font face="Comic Sans MS" color="#ffff80"><b>Fire!</b></font>
+
+1307
+02:07:07,360 --> 02:07:08,960
+<font face="Comic Sans MS" color="#ffff80"><b>Fire!</b></font>
+
+1308
+02:07:18,520 --> 02:07:19,960
+<font face="Comic Sans MS" color="#ffff80"><b>Come on, men.</b></font>
+
+1309
+02:07:30,000 --> 02:07:34,640
+<font face="Comic Sans MS" color="#ffff80"><b>It be too late
+to alter course now, mateys.</b></font>
+
+1310
+02:07:39,000 --> 02:07:41,240
+<font face="Comic Sans MS" color="#ffff80"><b>Halt there or we'll shoot.</b></font>
+
+1311
+02:07:42,760 --> 02:07:43,880
+<font face="Comic Sans MS" color="#ffff80"><b>Good one.</b></font>
+
+1312
+02:07:46,320 --> 02:07:48,360
+<font face="Comic Sans MS" color="#ffff80"><b>I just come to get me effects.</b></font>
+
+1313
+02:07:50,000 --> 02:07:54,160
+<font face="Comic Sans MS" color="#ffff80"><b>Admirable though it may be, why are
+you here when you could be elsewhere?</b></font>
+
+1314
+02:07:54,240 --> 02:07:56,520
+<font face="Comic Sans MS" color="#ffff80"><b>Someone has to stay
+and guard the chest.</b></font>
+
+1315
+02:07:58,000 --> 02:08:02,560
+<font face="Comic Sans MS" color="#ffff80"><b>There's no question, there's a breakdown
+in military discipline on this vessel.</b></font>
+
+1316
+02:08:02,640 --> 02:08:04,320
+<font face="Comic Sans MS" color="#ffff80"><b>I blame the fish people.</b></font>
+
+1317
+02:08:04,360 --> 02:08:08,720
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, so fish people,
+by dint of being fish people,</b></font>
+
+1318
+02:08:08,800 --> 02:08:12,040
+<font face="Comic Sans MS" color="#ffff80"><b>automatically aren't
+as disciplined as non-fish people?</b></font>
+
+1319
+02:08:12,120 --> 02:08:14,480
+<font face="Comic Sans MS" color="#ffff80"><b>Seems contributory,
+is all I'm suggesting.</b></font>
+
+1320
+02:08:14,520 --> 02:08:19,440
+<font face="Comic Sans MS" color="#ffff80"><b>It's true, if there were no fish people,
+there'd be no need to guard the chest.</b></font>
+
+1321
+02:08:19,520 --> 02:08:22,960
+<font face="Comic Sans MS" color="#ffff80"><b>And if there were no chest
+we wouldn't need to be here to guard it.</b></font>
+
+1322
+02:08:30,480 --> 02:08:32,560
+<font face="Comic Sans MS" color="#ffff80"><b>Prepare to board!</b></font>
+
+1323
+02:08:34,160 --> 02:08:35,360
+<font face="Comic Sans MS" color="#ffff80"><b>Cover!</b></font>
+
+1324
+02:08:52,040 --> 02:08:53,720
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+1325
+02:09:19,680 --> 02:09:24,640
+<font face="Comic Sans MS" color="#ffff80"><b>Lookee here, boys. A lost bird.</b></font>
+
+1326
+02:09:24,720 --> 02:09:28,600
+<font face="Comic Sans MS" color="#ffff80"><b>A lost bird that never learned to fly.</b></font>
+
+1327
+02:09:29,920 --> 02:09:31,680
+<font face="Comic Sans MS" color="#ffff80"><b>To my great regret.</b></font>
+
+1328
+02:09:32,960 --> 02:09:34,120
+<font face="Comic Sans MS" color="#ffff80"><b>But...</b></font>
+
+1329
+02:09:36,880 --> 02:09:38,880
+<font face="Comic Sans MS" color="#ffff80"><b>...never too late to learn, eh?</b></font>
+
+1330
+02:09:47,040 --> 02:09:48,480
+<font face="Comic Sans MS" color="#ffff80"><b>Whoa!</b></font>
+
+1331
+02:09:55,120 --> 02:09:58,480
+<font face="Comic Sans MS" color="#ffff80"><b>The chest, hand it over.</b></font>
+
+1332
+02:09:58,560 --> 02:10:00,400
+<font face="Comic Sans MS" color="#ffff80"><b>I can set you free, mate.</b></font>
+
+1333
+02:10:00,480 --> 02:10:03,480
+<font face="Comic Sans MS" color="#ffff80"><b>My freedom was forfeit long ago.</b></font>
+
+1334
+02:10:50,520 --> 02:10:51,840
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth.</b></font>
+
+1335
+02:10:55,640 --> 02:10:56,840
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth.</b></font>
+
+1336
+02:10:57,920 --> 02:10:59,280
+<font face="Comic Sans MS" color="#ffff80"><b>Will you marry me?</b></font>
+
+1337
+02:11:01,080 --> 02:11:02,920
+<font face="Comic Sans MS" color="#ffff80"><b>I don't think now's the best time.</b></font>
+
+1338
+02:11:06,720 --> 02:11:08,800
+<font face="Comic Sans MS" color="#ffff80"><b>Now may be the only time.</b></font>
+
+1339
+02:11:14,000 --> 02:11:15,200
+<font face="Comic Sans MS" color="#ffff80"><b>I love you.</b></font>
+
+1340
+02:11:21,120 --> 02:11:23,680
+<font face="Comic Sans MS" color="#ffff80"><b>I've made my choice. What's yours?</b></font>
+
+1341
+02:11:24,520 --> 02:11:25,800
+<font face="Comic Sans MS" color="#ffff80"><b>Barbossa.</b></font>
+
+1342
+02:11:27,280 --> 02:11:28,720
+<font face="Comic Sans MS" color="#ffff80"><b>Marry us.</b></font>
+
+1343
+02:11:29,800 --> 02:11:32,480
+<font face="Comic Sans MS" color="#ffff80"><b>I'm a little busy at the moment.</b></font>
+
+1344
+02:11:38,680 --> 02:11:40,680
+<font face="Comic Sans MS" color="#ffff80"><b>Barbossa, now.</b></font>
+
+1345
+02:11:42,360 --> 02:11:43,680
+<font face="Comic Sans MS" color="#ffff80"><b>Fine, then.</b></font>
+
+1346
+02:11:54,560 --> 02:11:57,720
+<font face="Comic Sans MS" color="#ffff80"><b>Dearly beloved,
+we be gathered here today...</b></font>
+
+1347
+02:11:58,400 --> 02:12:01,920
+<font face="Comic Sans MS" color="#ffff80"><b>To nail your gizzards
+to the mast, you poxy cur.</b></font>
+
+1348
+02:12:06,800 --> 02:12:09,840
+<font face="Comic Sans MS" color="#ffff80"><b>Elizabeth Swann,
+do you take me to be your husband?</b></font>
+
+1349
+02:12:09,920 --> 02:12:11,880
+<font face="Comic Sans MS" color="#ffff80"><b>- I do.
+- Great.</b></font>
+
+1350
+02:12:18,360 --> 02:12:20,600
+<font face="Comic Sans MS" color="#ffff80"><b>Will Turner, do you take me...</b></font>
+
+1351
+02:12:21,920 --> 02:12:23,600
+<font face="Comic Sans MS" color="#ffff80"><b>...to be your wife...</b></font>
+
+1352
+02:12:28,040 --> 02:12:30,000
+<font face="Comic Sans MS" color="#ffff80"><b>...in sickness and in health...</b></font>
+
+1353
+02:12:30,920 --> 02:12:33,120
+<font face="Comic Sans MS" color="#ffff80"><b>...with health being the less likely?</b></font>
+
+1354
+02:12:40,320 --> 02:12:41,600
+<font face="Comic Sans MS" color="#ffff80"><b>I do.</b></font>
+
+1355
+02:12:43,840 --> 02:12:46,760
+<font face="Comic Sans MS" color="#ffff80"><b>As captain, I now pronounce you...</b></font>
+
+1356
+02:12:49,720 --> 02:12:51,560
+<font face="Comic Sans MS" color="#ffff80"><b>You may kiss...</b></font>
+
+1357
+02:13:00,440 --> 02:13:01,840
+<font face="Comic Sans MS" color="#ffff80"><b>You may kiss...</b></font>
+
+1358
+02:13:06,800 --> 02:13:08,480
+<font face="Comic Sans MS" color="#ffff80"><b>Just kiss.</b></font>
+
+1359
+02:13:47,200 --> 02:13:48,880
+<font face="Comic Sans MS" color="#ffff80"><b>Leave it.</b></font>
+
+1360
+02:14:01,120 --> 02:14:03,800
+<font face="Comic Sans MS" color="#ffff80"><b>You can do nothing without the key.</b></font>
+
+1361
+02:14:03,880 --> 02:14:05,320
+<font face="Comic Sans MS" color="#ffff80"><b>I already have the key.</b></font>
+
+1362
+02:14:06,600 --> 02:14:08,040
+<font face="Comic Sans MS" color="#ffff80"><b>No, you don't.</b></font>
+
+1363
+02:14:09,560 --> 02:14:10,840
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, that key.</b></font>
+
+1364
+02:14:46,920 --> 02:14:47,920
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+1365
+02:15:14,960 --> 02:15:17,440
+<font face="Comic Sans MS" color="#ffff80"><b>Oi. My pistol.</b></font>
+
+1366
+02:15:45,160 --> 02:15:46,560
+<font face="Comic Sans MS" color="#ffff80"><b>Turner.</b></font>
+
+1367
+02:15:51,560 --> 02:15:52,560
+<font face="Comic Sans MS" color="#ffff80"><b>Fire!</b></font>
+
+1368
+02:15:58,480 --> 02:16:00,080
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you, Jack.</b></font>
+
+1369
+02:16:29,880 --> 02:16:31,440
+<font face="Comic Sans MS" color="#ffff80"><b>Stop! It's me.</b></font>
+
+1370
+02:16:33,960 --> 02:16:36,880
+<font face="Comic Sans MS" color="#ffff80"><b>It's Will. Your son.</b></font>
+
+1371
+02:17:05,640 --> 02:17:07,000
+<font face="Comic Sans MS" color="#ffff80"><b>Ha!</b></font>
+
+1372
+02:17:37,960 --> 02:17:39,440
+<font face="Comic Sans MS" color="#ffff80"><b>Go!</b></font>
+
+1373
+02:17:57,840 --> 02:18:01,960
+<font face="Comic Sans MS" color="#ffff80"><b>Harridan! You'll see no mercy from me.</b></font>
+
+1374
+02:18:02,000 --> 02:18:04,320
+<font face="Comic Sans MS" color="#ffff80"><b>That's why I brought this.</b></font>
+
+1375
+02:18:23,760 --> 02:18:26,960
+<font face="Comic Sans MS" color="#ffff80"><b>I'm not going to kill you.
+I made you a promise.</b></font>
+
+1376
+02:18:35,600 --> 02:18:36,960
+<font face="Comic Sans MS" color="#ffff80"><b>Missed.</b></font>
+
+1377
+02:18:38,160 --> 02:18:43,000
+<font face="Comic Sans MS" color="#ffff80"><b>Did you forget?
+I'm a heartless wretch.</b></font>
+
+1378
+02:18:59,560 --> 02:19:02,840
+<font face="Comic Sans MS" color="#ffff80"><b>Ah. Love.</b></font>
+
+1379
+02:19:03,200 --> 02:19:06,720
+<font face="Comic Sans MS" color="#ffff80"><b>A dreadful bond.</b></font>
+
+1380
+02:19:07,520 --> 02:19:12,520
+<font face="Comic Sans MS" color="#ffff80"><b>And yet, so easily severed.</b></font>
+
+1381
+02:19:12,560 --> 02:19:17,760
+<font face="Comic Sans MS" color="#ffff80"><b>Tell me, William Turner,
+do you fear death?</b></font>
+
+1382
+02:19:17,840 --> 02:19:19,280
+<font face="Comic Sans MS" color="#ffff80"><b>Do you?</b></font>
+
+1383
+02:19:30,040 --> 02:19:33,720
+<font face="Comic Sans MS" color="#ffff80"><b>Heady tonic, holding life and death
+in the palm of one's hand.</b></font>
+
+1384
+02:19:34,320 --> 02:19:38,720
+<font face="Comic Sans MS" color="#ffff80"><b>You're a cruel man, Jack Sparrow.</b></font>
+
+1385
+02:19:39,600 --> 02:19:42,040
+<font face="Comic Sans MS" color="#ffff80"><b>Cruel is a matter of perspective.</b></font>
+
+1386
+02:19:42,600 --> 02:19:44,160
+<font face="Comic Sans MS" color="#ffff80"><b>Is it?</b></font>
+
+1387
+02:20:09,920 --> 02:20:11,080
+<font face="Comic Sans MS" color="#ffff80"><b>Will?</b></font>
+
+1388
+02:20:12,640 --> 02:20:15,240
+<font face="Comic Sans MS" color="#ffff80"><b>Look at me! Stay with me!
+You're all right.</b></font>
+
+1389
+02:20:21,120 --> 02:20:22,800
+<font face="Comic Sans MS" color="#ffff80"><b>William?</b></font>
+
+1390
+02:20:23,240 --> 02:20:24,920
+<font face="Comic Sans MS" color="#ffff80"><b>My son.</b></font>
+
+1391
+02:20:36,800 --> 02:20:40,320
+<font face="Comic Sans MS" color="#ffff80"><b>Will? Will?
+Look at me. Look at me!</b></font>
+
+1392
+02:20:44,040 --> 02:20:47,960
+<font face="Comic Sans MS" color="#ffff80"><b>You will not forestall my judgment.</b></font>
+
+1393
+02:21:03,720 --> 02:21:05,360
+<font face="Comic Sans MS" color="#ffff80"><b>Calypso.</b></font>
+
+1394
+02:21:11,200 --> 02:21:16,680
+<font face="Comic Sans MS" color="#ffff80"><b>She's taking us down! Make quick
+or it's the Locker for us all!</b></font>
+
+1395
+02:21:47,680 --> 02:21:48,720
+<font face="Comic Sans MS" color="#ffff80"><b>No.</b></font>
+
+1396
+02:21:52,840 --> 02:21:54,360
+<font face="Comic Sans MS" color="#ffff80"><b>No, no.</b></font>
+
+1397
+02:21:54,400 --> 02:21:56,160
+<font face="Comic Sans MS" color="#ffff80"><b>No!</b></font>
+
+1398
+02:21:57,400 --> 02:22:01,680
+<font face="Comic Sans MS" color="#ffff80"><b>Part of the crew.
+Part of the ship, part of the crew.</b></font>
+
+1399
+02:22:01,760 --> 02:22:05,280
+<font face="Comic Sans MS" color="#ffff80"><b>Part of the ship, part of the crew.</b></font>
+
+1400
+02:22:05,360 --> 02:22:07,360
+<font face="Comic Sans MS" color="#ffff80"><b>Don't leave me.</b></font>
+
+1401
+02:22:08,680 --> 02:22:10,360
+<font face="Comic Sans MS" color="#ffff80"><b>Don't. No!</b></font>
+
+1402
+02:22:10,440 --> 02:22:12,320
+<font face="Comic Sans MS" color="#ffff80"><b>I won't leave you.</b></font>
+
+1403
+02:22:22,400 --> 02:22:24,640
+<font face="Comic Sans MS" color="#ffff80"><b>The Dutchman must have a captain.</b></font>
+
+1404
+02:22:27,960 --> 02:22:28,960
+<font face="Comic Sans MS" color="#ffff80"><b>Hold on.</b></font>
+
+1405
+02:23:23,680 --> 02:23:25,360
+<font face="Comic Sans MS" color="#ffff80"><b>Thank goodness, Jack.</b></font>
+
+1406
+02:23:25,440 --> 02:23:29,400
+<font face="Comic Sans MS" color="#ffff80"><b>The armada's still out there. The
+Endeavor's coming up hard to starboard,</b></font>
+
+1407
+02:23:29,440 --> 02:23:33,560
+<font face="Comic Sans MS" color="#ffff80"><b>and I think it's time we embrace that
+oldest and noblest of pirate traditions.</b></font>
+
+1408
+02:23:33,600 --> 02:23:36,280
+<font face="Comic Sans MS" color="#ffff80"><b>Never actually been one for tradition.</b></font>
+
+1409
+02:23:41,240 --> 02:23:44,280
+<font face="Comic Sans MS" color="#ffff80"><b>Close haul her.
+Luff the sails and lay her in irons.</b></font>
+
+1410
+02:23:44,320 --> 02:23:46,640
+<font face="Comic Sans MS" color="#ffff80"><b>Belay that,
+or we'll be a sitting duck.</b></font>
+
+1411
+02:23:46,680 --> 02:23:48,000
+<font face="Comic Sans MS" color="#ffff80"><b>Belay that "belay that."</b></font>
+
+1412
+02:23:48,080 --> 02:23:49,840
+<font face="Comic Sans MS" color="#ffff80"><b>- But the arma...
+- Belay.</b></font>
+
+1413
+02:23:49,960 --> 02:23:52,200
+<font face="Comic Sans MS" color="#ffff80"><b>- The Endeav...
+- Stow. Shut it.</b></font>
+
+1414
+02:24:05,320 --> 02:24:07,320
+<font face="Comic Sans MS" color="#ffff80"><b>What are they waiting for?</b></font>
+
+1415
+02:24:08,320 --> 02:24:11,280
+<font face="Comic Sans MS" color="#ffff80"><b>He expects us to honor our agreement.</b></font>
+
+1416
+02:24:13,440 --> 02:24:16,280
+<font face="Comic Sans MS" color="#ffff80"><b>Ready guns and gun ports.</b></font>
+
+1417
+02:24:20,000 --> 02:24:24,920
+<font face="Comic Sans MS" color="#ffff80"><b>It's nothing personal, Jack.
+It's just good business.</b></font>
+
+1418
+02:24:51,760 --> 02:24:54,280
+<font face="Comic Sans MS" color="#ffff80"><b>Ah, she survived.</b></font>
+
+1419
+02:25:19,400 --> 02:25:22,760
+<font face="Comic Sans MS" color="#ffff80"><b>- Ready on the guns.
+- Guns ready.</b></font>
+
+1420
+02:25:23,400 --> 02:25:25,560
+<font face="Comic Sans MS" color="#ffff80"><b>Full canvas.</b></font>
+
+1421
+02:25:25,640 --> 02:25:28,000
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, full canvas.</b></font>
+
+1422
+02:25:52,560 --> 02:25:53,840
+<font face="Comic Sans MS" color="#ffff80"><b>Orders, sir.</b></font>
+
+1423
+02:25:57,280 --> 02:25:58,440
+<font face="Comic Sans MS" color="#ffff80"><b>Sir!</b></font>
+
+1424
+02:25:59,080 --> 02:26:00,080
+<font face="Comic Sans MS" color="#ffff80"><b>Cap'n.</b></font>
+
+1425
+02:26:00,520 --> 02:26:03,120
+<font face="Comic Sans MS" color="#ffff80"><b>- Fire.
+- Fire!</b></font>
+
+1426
+02:26:03,200 --> 02:26:05,280
+<font face="Comic Sans MS" color="#ffff80"><b>- Fire!
+- Fire!</b></font>
+
+1427
+02:26:05,360 --> 02:26:07,320
+<font face="Comic Sans MS" color="#ffff80"><b>Fire, all!</b></font>
+
+1428
+02:26:17,920 --> 02:26:20,800
+<font face="Comic Sans MS" color="#ffff80"><b>Orders? Orders, sir?</b></font>
+
+1429
+02:26:33,160 --> 02:26:34,640
+<font face="Comic Sans MS" color="#ffff80"><b>Sir, what do you command?</b></font>
+
+1430
+02:26:35,280 --> 02:26:36,640
+<font face="Comic Sans MS" color="#ffff80"><b>It's just...</b></font>
+
+1431
+02:26:38,720 --> 02:26:40,440
+<font face="Comic Sans MS" color="#ffff80"><b>...good business.</b></font>
+
+1432
+02:26:42,120 --> 02:26:43,480
+<font face="Comic Sans MS" color="#ffff80"><b>Abandon ship!</b></font>
+
+1433
+02:26:43,520 --> 02:26:47,560
+<font face="Comic Sans MS" color="#ffff80"><b>- Abandon ship!
+- All hands, abandon ship!</b></font>
+
+1434
+02:28:13,320 --> 02:28:15,040
+<font face="Comic Sans MS" color="#ffff80"><b>They're turning away!</b></font>
+
+1435
+02:28:27,400 --> 02:28:29,240
+<font face="Comic Sans MS" color="#ffff80"><b>Wind in your sails.</b></font>
+
+1436
+02:28:34,480 --> 02:28:36,560
+<font face="Comic Sans MS" color="#ffff80"><b>Shiver me timbers.</b></font>
+
+1437
+02:28:57,560 --> 02:28:59,600
+<font face="Comic Sans MS" color="#ffff80"><b>Captain Turner!</b></font>
+
+1438
+02:29:14,280 --> 02:29:16,360
+<font face="Comic Sans MS" color="#ffff80"><b>- Mr. Gibbs.
+- Cap'n?</b></font>
+
+1439
+02:29:17,600 --> 02:29:20,600
+<font face="Comic Sans MS" color="#ffff80"><b>- You may throw my hat if you like.
+- Aye, aye, cap'n.</b></font>
+
+1440
+02:29:20,640 --> 02:29:22,320
+<font face="Comic Sans MS" color="#ffff80"><b>Hooray!</b></font>
+
+1441
+02:29:24,600 --> 02:29:26,320
+<font face="Comic Sans MS" color="#ffff80"><b>Now go and get it.</b></font>
+
+1442
+02:29:44,760 --> 02:29:46,360
+<font face="Comic Sans MS" color="#ffff80"><b>Orders, sir?</b></font>
+
+1443
+02:29:50,640 --> 02:29:54,640
+<font face="Comic Sans MS" color="#ffff80"><b>You're no longer bound
+to the Dutchman. You're free.</b></font>
+
+1444
+02:29:54,760 --> 02:29:56,760
+<font face="Comic Sans MS" color="#ffff80"><b>Aye.</b></font>
+
+1445
+02:29:56,840 --> 02:29:59,200
+<font face="Comic Sans MS" color="#ffff80"><b>That's a fine thing, but...</b></font>
+
+1446
+02:30:00,840 --> 02:30:05,520
+<font face="Comic Sans MS" color="#ffff80"><b>...by my reckoning,
+I still have a debt that has to be paid.</b></font>
+
+1447
+02:30:05,600 --> 02:30:07,160
+<font face="Comic Sans MS" color="#ffff80"><b>If you'll have me.</b></font>
+
+1448
+02:30:11,200 --> 02:30:13,080
+<font face="Comic Sans MS" color="#ffff80"><b>On the wheel, then, Mr. Turner.</b></font>
+
+1449
+02:30:14,480 --> 02:30:16,480
+<font face="Comic Sans MS" color="#ffff80"><b>Aye, Captain Turner.</b></font>
+
+1450
+02:30:31,400 --> 02:30:34,080
+<font face="Comic Sans MS" color="#ffff80"><b>This ship
+has a purpose again.</b></font>
+
+1451
+02:30:34,160 --> 02:30:36,200
+<font face="Comic Sans MS" color="#ffff80"><b>And where we are bound...</b></font>
+
+1452
+02:30:36,880 --> 02:30:39,320
+<font face="Comic Sans MS" color="#ffff80"><b>...she cannot come.</b></font>
+
+1453
+02:30:39,360 --> 02:30:41,360
+<font face="Comic Sans MS" color="#ffff80"><b>One day ashore.</b></font>
+
+1454
+02:30:41,400 --> 02:30:43,560
+<font face="Comic Sans MS" color="#ffff80"><b>Ten years at sea.</b></font>
+
+1455
+02:30:44,480 --> 02:30:47,320
+<font face="Comic Sans MS" color="#ffff80"><b>That's a steep price
+for what's been done.</b></font>
+
+1456
+02:30:49,520 --> 02:30:51,520
+<font face="Comic Sans MS" color="#ffff80"><b>Depends on the one day.</b></font>
+
+1457
+02:30:54,240 --> 02:30:56,840
+<font face="Comic Sans MS" color="#ffff80"><b>Your chariot awaits, Your Highness.</b></font>
+
+1458
+02:31:00,640 --> 02:31:02,640
+<font face="Comic Sans MS" color="#ffff80"><b>The oars are inside.</b></font>
+
+1459
+02:31:14,240 --> 02:31:16,240
+<font face="Comic Sans MS" color="#ffff80"><b>Mrs. Turner.</b></font>
+
+1460
+02:31:21,120 --> 02:31:22,720
+<font face="Comic Sans MS" color="#ffff80"><b>Goodbye, poppet.</b></font>
+
+1461
+02:31:28,520 --> 02:31:29,800
+<font face="Comic Sans MS" color="#ffff80"><b>Jack.</b></font>
+
+1462
+02:31:31,040 --> 02:31:33,600
+<font face="Comic Sans MS" color="#ffff80"><b>It would never
+have worked out between us.</b></font>
+
+1463
+02:31:36,920 --> 02:31:39,400
+<font face="Comic Sans MS" color="#ffff80"><b>Keep telling yourself that, darling.</b></font>
+
+1464
+02:31:42,800 --> 02:31:44,680
+<font face="Comic Sans MS" color="#ffff80"><b>Once was quite enough.</b></font>
+
+1465
+02:31:47,120 --> 02:31:49,120
+<font face="Comic Sans MS" color="#ffff80"><b>Thank you.</b></font>
+
+1466
+02:32:08,400 --> 02:32:10,400
+<font face="Comic Sans MS" color="#ffff80"><b>I'm going to need the other one.</b></font>
+
+1467
+02:32:42,400 --> 02:32:44,400
+<font face="Comic Sans MS" color="#ffff80"><b>It's nearly sunset.</b></font>
+
+1468
+02:33:03,560 --> 02:33:05,280
+<font face="Comic Sans MS" color="#ffff80"><b>It's always belonged to you.</b></font>
+
+1469
+02:33:11,040 --> 02:33:12,600
+<font face="Comic Sans MS" color="#ffff80"><b>Will you keep it safe?</b></font>
+
+1470
+02:33:14,400 --> 02:33:15,560
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+
+1471
+02:33:19,560 --> 02:33:20,720
+<font face="Comic Sans MS" color="#ffff80"><b>Yes.</b></font>
+
+1472
+02:33:40,600 --> 02:33:41,600
+<font face="Comic Sans MS" color="#ffff80"><b>Will!</b></font>
+
+1473
+02:33:57,200 --> 02:33:59,360
+<font face="Comic Sans MS" color="#ffff80"><b>Keep a weather eye on the horizon.</b></font>
+
+1474
+02:34:28,240 --> 02:34:31,520
+<font face="Comic Sans MS" color="#ffff80"><b>Granted it tends to list to port,
+and has been, on occasion,</b></font>
+
+1475
+02:34:31,600 --> 02:34:33,800
+<font face="Comic Sans MS" color="#ffff80"><b>known to frighten young women.</b></font>
+
+1476
+02:34:33,880 --> 02:34:38,280
+<font face="Comic Sans MS" color="#ffff80"><b>But I promise you,
+you will not be disappointed.</b></font>
+
+1477
+02:34:38,960 --> 02:34:40,120
+<font face="Comic Sans MS" color="#ffff80"><b>Is that it?</b></font>
+
+1478
+02:34:40,680 --> 02:34:42,240
+<font face="Comic Sans MS" color="#ffff80"><b>The Black Pearl?</b></font>
+
+1479
+02:34:42,880 --> 02:34:44,960
+<font face="Comic Sans MS" color="#ffff80"><b>It's not very big.</b></font>
+
+1480
+02:34:45,040 --> 02:34:47,440
+<font face="Comic Sans MS" color="#ffff80"><b>Love, that is a dinghy.</b></font>
+
+1481
+02:34:47,480 --> 02:34:52,880
+<font face="Comic Sans MS" color="#ffff80"><b>My vessel is magnificent
+and fierce and huge-ish and...</b></font>
+
+1482
+02:34:53,320 --> 02:34:56,480
+<font face="Comic Sans MS" color="#ffff80"><b>...gone. Why is it gone?</b></font>
+
+1483
+02:34:57,440 --> 02:34:59,000
+<font face="Comic Sans MS" color="#ffff80"><b>Is that it there?</b></font>
+
+1484
+02:35:00,200 --> 02:35:01,360
+<font face="Comic Sans MS" color="#ffff80"><b>Yes, there it is.</b></font>
+
+1485
+02:35:02,360 --> 02:35:03,600
+<font face="Comic Sans MS" color="#ffff80"><b>Why is it there?</b></font>
+
+1486
+02:35:04,960 --> 02:35:06,520
+<font face="Comic Sans MS" color="#ffff80"><b>It's much larger up close.</b></font>
+
+1487
+02:35:06,600 --> 02:35:08,960
+<font face="Comic Sans MS" color="#ffff80"><b>Jack, you promised
+to take us for a ride.</b></font>
+
+1488
+02:35:09,000 --> 02:35:12,960
+<font face="Comic Sans MS" color="#ffff80"><b>- I was to be given the first ride.
+- What? You?</b></font>
+
+1489
+02:35:13,040 --> 02:35:15,640
+<font face="Comic Sans MS" color="#ffff80"><b>- Not what he said.
+- I never!</b></font>
+
+1490
+02:35:17,440 --> 02:35:21,560
+<font face="Comic Sans MS" color="#ffff80"><b>Mr. Gibbs? Any particular reason
+why my ship is gone?</b></font>
+
+1491
+02:35:21,640 --> 02:35:24,480
+<font face="Comic Sans MS" color="#ffff80"><b>The ship? We're on the ship.</b></font>
+
+1492
+02:35:27,120 --> 02:35:30,000
+<font face="Comic Sans MS" color="#ffff80"><b>Jack! The ship's gone!</b></font>
+
+1493
+02:35:30,040 --> 02:35:31,120
+<font face="Comic Sans MS" color="#ffff80"><b>Really?</b></font>
+
+1494
+02:35:33,160 --> 02:35:36,400
+<font face="Comic Sans MS" color="#ffff80"><b>Ladies! Will you please shut it?</b></font>
+
+1495
+02:35:36,480 --> 02:35:39,840
+<font face="Comic Sans MS" color="#ffff80"><b>Listen to me.
+Yes, I lied to you.</b></font>
+
+1496
+02:35:39,920 --> 02:35:41,440
+<font face="Comic Sans MS" color="#ffff80"><b>No, I don't love you.</b></font>
+
+1497
+02:35:41,520 --> 02:35:44,600
+<font face="Comic Sans MS" color="#ffff80"><b>Of course it makes you look fat.
+I've never been to Brussels.</b></font>
+
+1498
+02:35:44,680 --> 02:35:47,400
+<font face="Comic Sans MS" color="#ffff80"><b>It is pronounced "egregious."</b></font>
+
+1499
+02:35:47,480 --> 02:35:51,520
+<font face="Comic Sans MS" color="#ffff80"><b>By the way, no, I've never actually
+met Pizarro, but I love his pies.</b></font>
+
+1500
+02:35:51,560 --> 02:35:54,280
+<font face="Comic Sans MS" color="#ffff80"><b>And all of this pales
+to utter insignificance</b></font>
+
+1501
+02:35:54,360 --> 02:35:58,080
+<font face="Comic Sans MS" color="#ffff80"><b>in light of the fact that
+my ship is once again gone. Savvy?</b></font>
+
+1502
+02:36:10,640 --> 02:36:13,520
+<font face="Comic Sans MS" color="#ffff80"><b>- Take what you can.
+- Give nothing back.</b></font>
+
+1503
+02:36:17,440 --> 02:36:21,520
+<font face="Comic Sans MS" color="#ffff80"><b>Tell me, ladies,
+what do you know of sea turtles?</b></font>
+
+1504
+02:36:21,560 --> 02:36:22,680
+<font face="Comic Sans MS" color="#ffff80"><b>Sea turtles?</b></font>
+
+1505
+02:36:22,920 --> 02:36:25,160
+<font face="Comic Sans MS" color="#ffff80"><b>Let me tell you
+the amazing story of Cap...</b></font>
+
+1506
+02:36:25,200 --> 02:36:27,880
+<font face="Comic Sans MS" color="#ffff80"><b>All men up the ratlines.</b></font>
+
+1507
+02:36:28,320 --> 02:36:31,080
+<font face="Comic Sans MS" color="#ffff80"><b>All men up the ratlines!</b></font>
+
+1508
+02:36:36,240 --> 02:36:38,480
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, you want a taste of this?</b></font>
+
+1509
+02:36:40,000 --> 02:36:43,200
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, that's a good boy!
+You're Daddy's boy.</b></font>
+
+1510
+02:36:43,240 --> 02:36:45,920
+<font face="Comic Sans MS" color="#ffff80"><b>Oh, yes, you are.
+Oh, yes, you are.</b></font>
+
+1511
+02:36:45,960 --> 02:36:46,960
+<font face="Comic Sans MS" color="#ffff80"><b>Sir?</b></font>
+
+1512
+02:36:48,320 --> 02:36:50,880
+<font face="Comic Sans MS" color="#ffff80"><b>Some of the men don't feel
+entirely settled</b></font>
+
+1513
+02:36:50,920 --> 02:36:53,400
+<font face="Comic Sans MS" color="#ffff80"><b>- about leaving Captain Jack behind.
+- Again.</b></font>
+
+1514
+02:36:53,600 --> 02:36:56,440
+<font face="Comic Sans MS" color="#ffff80"><b>- Again.
+- Is that so?</b></font>
+
+1515
+02:36:56,760 --> 02:37:00,400
+<font face="Comic Sans MS" color="#ffff80"><b>It would make us feel a whole lot
+better regarding our fortunes</b></font>
+
+1516
+02:37:00,480 --> 02:37:03,160
+<font face="Comic Sans MS" color="#ffff80"><b>if we could see that item
+you told us about.</b></font>
+
+1517
+02:37:03,240 --> 02:37:05,440
+<font face="Comic Sans MS" color="#ffff80"><b>- On the charts.
+- Aye.</b></font>
+
+1518
+02:37:05,520 --> 02:37:06,920
+<font face="Comic Sans MS" color="#ffff80"><b>With our own eyes.</b></font>
+
+1519
+02:37:06,960 --> 02:37:10,600
+<font face="Comic Sans MS" color="#ffff80"><b>To help put an ease
+to our burden of guilt, so to speak.</b></font>
+
+1520
+02:37:11,000 --> 02:37:12,840
+<font face="Comic Sans MS" color="#ffff80"><b>Ah.</b></font>
+
+1521
+02:37:12,920 --> 02:37:15,120
+<font face="Comic Sans MS" color="#ffff80"><b>Feast your eyes upon this, mateys.</b></font>
+
+1522
+02:37:15,560 --> 02:37:18,120
+<font face="Comic Sans MS" color="#ffff80"><b>There's more than one way
+to live forever.</b></font>
+
+1523
+02:37:18,160 --> 02:37:21,920
+<font face="Comic Sans MS" color="#ffff80"><b>Gents, I give you
+the Fountain of Youth.</b></font>
+
+1524
+02:37:32,640 --> 02:37:34,520
+<font face="Comic Sans MS" color="#ffff80"><b>Sparrow.</b></font>
+
+1525
+02:37:35,040 --> 02:37:39,640
+<font face="Comic Sans MS" color="#ffff80"><b>Yo ho, yo ho
+A pirate's life for me</b></font>
+
+1526
+02:38:05,480 --> 02:38:10,160
+<font face="Comic Sans MS" color="#ffff80"><b>We're devils and black sheep
+Really bad eggs</b></font>
+
+1527
+02:38:29,200 --> 02:38:31,840
+<font face="Comic Sans MS" color="#ffff80"><b>Drink up, me hearties
+Yo ho</b></font>
+
+1528
+02:47:04,280 --> 02:47:09,160
+<font face="Comic Sans MS" color="#ffff80"><b>Yo ho, yo ho
+A pirate's life for me</b></font>
+
+1529
+02:47:09,200 --> 02:47:12,320
+<font face="Comic Sans MS" color="#ffff80"><b>We pillage, we plunder
+We rifle and loot</b></font>
+
+1530
+02:47:12,360 --> 02:47:14,200
+<font face="Comic Sans MS" color="#ffff80"><b>Drink up, me hearties
+Yo ho</b></font>
+
+1531
+02:47:14,240 --> 02:47:16,880
+<font face="Comic Sans MS" color="#ffff80"><b>We kidnap and ravage
+And don't give a hoot</b></font>
+
+1532
+02:47:16,960 --> 02:47:18,800
+<font face="Comic Sans MS" color="#ffff80"><b>Drink up, me hearties
+Yo ho</b></font>
+
+1533
+02:47:18,880 --> 02:47:24,480
+<font face="Comic Sans MS" color="#ffff80"><b>Yo ho, yo ho
+A pirate's life for me</b></font>
+
