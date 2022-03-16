@@ -20,14 +20,14 @@ subtitles <- as.data.frame(subtitles)
 subtitles <- unite(subtitles, col = "subtitles", 1:ncol(subtitles), remove = TRUE, sep = " ")
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
-                                                                                           # The first column is
-                                                                                           # row indexes, therefor
-                                                                                           # the argument row.names
-                                                                                           # is needed.
+                                                                                # The first column is
+                                                                                # row indexes, therefor
+                                                                                # the argument row.names
+                                                                                # is needed.
 
 DB$Subtitles <- NA
 
-number_of_subtitles_files <- 152
+number_of_subtitles_files <- 205
 
 progress_bar <- txtProgressBar(min = 0,
                                max = number_of_subtitles_files,
