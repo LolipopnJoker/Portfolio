@@ -1,0 +1,3320 @@
+﻿1
+00:00:46,524 --> 00:00:51,443
+<i>♪ Out there...
+There's a world outside of Yonkers ♪</i>
+
+2
+00:00:51,820 --> 00:00:56,282
+<i>♪ Way out there
+beyond this hick town, Barnaby ♪</i>
+
+3
+00:00:56,700 --> 00:01:00,786
+<i>♪ There's a slick town, Barnaby ♪</i>
+
+4
+00:01:01,079 --> 00:01:03,914
+<i>♪ Out there...
+Full of shine and full of sparkle ♪</i>
+
+5
+00:01:06,334 --> 00:01:11,463
+<i>♪ Close your eyes
+and see it glisten, Barnaby ♪</i>
+
+6
+00:01:12,048 --> 00:01:15,801
+<i>♪ Listen, Barnaby ♪</i>
+
+7
+00:01:21,016 --> 00:01:25,728
+<i>♪ Put on your Sunday clothes
+There's lots of world out there ♪</i>
+
+8
+00:01:25,812 --> 00:01:30,149
+<i>♪ Get out the brilliantine
+and dime cigars ♪</i>
+
+9
+00:01:30,650 --> 00:01:35,613
+<i>♪ We're gonna find adventure
+in the evening air ♪</i>
+
+10
+00:01:35,697 --> 00:01:37,781
+<i>♪ Girls in white in a perfumed night ♪</i>
+
+11
+00:01:37,866 --> 00:01:40,909
+<i>♪ Where the lights are
+bright as the stars ♪</i>
+
+12
+00:01:41,119 --> 00:01:45,664
+<i>♪ Put on your Sunday clothes
+We're gonna ride through town ♪</i>
+
+13
+00:01:45,874 --> 00:01:50,294
+<i>♪ In one of those new
+horse-drawn open cars ♪</i>
+
+14
+00:01:50,378 --> 00:01:52,838
+<i>♪ We'll see the shows at Delmonico's ♪</i>
+
+15
+00:01:52,922 --> 00:01:55,424
+<i>♪ And we'll close the town in a whirl ♪</i>
+
+16
+00:01:55,508 --> 00:02:00,095
+<i>♪ And we won't come home
+until we've kissed a girl ♪</i>
+
+17
+00:02:07,270 --> 00:02:09,438
+<i>♪... ride through town ♪</i>
+
+18
+00:02:09,898 --> 00:02:14,360
+<i>♪ In one of those new
+horse-drawn open cars ♪</i>
+
+19
+00:02:14,444 --> 00:02:16,779
+<i>♪ We'll see the shows
+at Delmonico's... ♪</i>
+
+20
+00:02:20,158 --> 00:02:24,536
+<i>♪ And we won't come home
+until we've kissed a girl ♪</i>
+
+21
+00:02:53,066 --> 00:02:54,400
+Oh!
+
+22
+00:03:21,052 --> 00:03:22,052
+Huh.
+
+23
+00:03:53,918 --> 00:03:56,420
+♪ Buy N Large is your superstore ♪
+
+24
+00:03:56,504 --> 00:04:01,175
+♪ We got all you need
+and so much more ♪
+
+25
+00:05:00,944 --> 00:05:02,569
+Too much garbage in your face?
+
+26
+00:05:02,654 --> 00:05:05,030
+There's plenty of space out in space!
+
+27
+00:05:05,115 --> 00:05:07,658
+BNL star liners leaving each day.
+
+28
+00:05:07,742 --> 00:05:09,910
+We'll clean up the mess
+while you're away!
+
+29
+00:05:14,624 --> 00:05:18,043
+The jewel of the BNL fleet, the Axiom.
+
+30
+00:05:18,128 --> 00:05:20,212
+Spend your five-year cruise in style,
+
+31
+00:05:20,297 --> 00:05:23,924
+waited on 24 hours a day
+by our fully automated crew,
+
+32
+00:05:24,009 --> 00:05:25,759
+while your captain and autopilot
+
+33
+00:05:25,844 --> 00:05:28,971
+chart a course for non-stop
+entertainment, fine dining,
+
+34
+00:05:29,055 --> 00:05:33,309
+and with our all-access hoverchairs,
+even Grandma can join the fun.
+
+35
+00:05:33,393 --> 00:05:35,060
+There's no need to walk.
+
+36
+00:05:35,145 --> 00:05:38,772
+The Axiom. Putting the
+star in executive star liner.
+
+37
+00:05:38,857 --> 00:05:43,319
+Because at BNL,
+space is the final fun-tier!
+
+38
+00:06:46,841 --> 00:06:49,051
+<i>♪ No Monday in your Sunday ♪</i>
+
+39
+00:06:49,135 --> 00:06:53,681
+<i>♪ No Monday in your
+Sunday clothes ♪</i>
+
+40
+00:06:55,725 --> 00:06:58,644
+<i>♪ Put on your Sunday clothes
+when you feel down and out ♪</i>
+
+41
+00:06:59,521 --> 00:07:03,023
+<i>♪ Strut down the street
+and have your picture took ♪</i>
+
+42
+00:07:04,651 --> 00:07:08,988
+<i>♪ Dressed like a dream
+Your spirits seem to turn about ♪</i>
+
+43
+00:07:09,322 --> 00:07:10,572
+<i>♪ That Sunday shine is a certain sign ♪</i>
+
+44
+00:07:10,657 --> 00:07:11,824
+Oh-ho!
+
+45
+00:07:11,908 --> 00:07:14,118
+<i>♪ That you feel as fine as you look ♪</i>
+
+46
+00:07:19,708 --> 00:07:21,292
+<i>♪ And we'll recall ♪</i>
+
+47
+00:07:21,376 --> 00:07:22,376
+Wow!
+
+48
+00:07:24,838 --> 00:07:27,756
+<i>♪ When time runs out ♪</i>
+
+49
+00:07:27,841 --> 00:07:29,758
+Ahh.
+
+50
+00:07:33,596 --> 00:07:34,596
+Whoa.
+
+51
+00:07:34,681 --> 00:07:39,226
+<i>♪ That it only ♪</i>
+
+52
+00:07:39,686 --> 00:07:46,025
+<i>♪ took a moment ♪</i>
+
+53
+00:07:46,568 --> 00:07:51,405
+<i>♪ to be loved ♪</i>
+
+54
+00:07:51,698 --> 00:07:57,578
+<i>♪ a whole life ♪</i>
+
+55
+00:07:58,163 --> 00:08:02,916
+<i>♪ long ♪</i>
+
+56
+00:08:19,392 --> 00:08:24,355
+<i>♪ And that is all ♪</i>
+
+57
+00:08:24,689 --> 00:08:26,065
+<i>♪ that love's about ♪</i>
+
+58
+00:08:27,484 --> 00:08:28,484
+Uh-oh.
+
+59
+00:08:33,990 --> 00:08:34,990
+Oh...
+
+60
+00:08:51,883 --> 00:08:54,468
+<i>♪... a moment ♪</i>
+
+61
+00:08:57,138 --> 00:09:01,892
+<i>♪ to be loved ♪</i>
+
+62
+00:09:02,102 --> 00:09:07,481
+<i>♪ a whole life ♪</i>
+
+63
+00:09:08,775 --> 00:09:13,737
+<i>♪ long ♪</i>
+
+64
+00:10:21,014 --> 00:10:22,097
+Aw!
+
+65
+00:10:46,748 --> 00:10:48,082
+Whoa!
+
+66
+00:11:05,517 --> 00:11:06,517
+Whoa.
+
+67
+00:11:15,735 --> 00:11:16,777
+Ooh!
+
+68
+00:11:43,013 --> 00:11:44,346
+Ooh!
+
+69
+00:12:26,389 --> 00:12:27,556
+Huh?
+
+70
+00:12:38,193 --> 00:12:39,193
+Whoa!
+
+71
+00:12:46,910 --> 00:12:47,910
+Ha!
+
+72
+00:13:20,694 --> 00:13:21,735
+Aha!
+
+73
+00:13:28,702 --> 00:13:30,077
+Uh...
+
+74
+00:15:34,995 --> 00:15:36,787
+Whoa!
+
+75
+00:16:46,858 --> 00:16:47,858
+Whoa!
+
+76
+00:18:53,443 --> 00:18:54,443
+Ooh!
+
+77
+00:19:04,829 --> 00:19:05,955
+Who are you?
+
+78
+00:19:09,000 --> 00:19:10,000
+Who are you?
+
+79
+00:19:10,293 --> 00:19:11,335
+Who are you?
+
+80
+00:20:01,636 --> 00:20:06,307
+<i>♪ Hold me close and hold me fast ♪</i>
+
+81
+00:20:06,599 --> 00:20:09,852
+<i>♪ The magic spell you cast ♪</i>
+
+82
+00:20:10,103 --> 00:20:13,188
+<i>♪ This is la vie en rose ♪</i>
+
+83
+00:20:15,358 --> 00:20:20,112
+<i>♪ When you kiss me heaven sighs ♪</i>
+
+84
+00:20:20,322 --> 00:20:23,824
+<i>♪ And though I close my eyes ♪</i>
+
+85
+00:20:23,908 --> 00:20:26,785
+<i>♪ I see la vie en rose ♪</i>
+
+86
+00:20:26,870 --> 00:20:27,870
+Whoa!
+
+87
+00:20:29,205 --> 00:20:32,833
+<i>♪ When you press me to your heart ♪</i>
+
+88
+00:20:34,127 --> 00:20:37,463
+<i>♪ I'm in a world apart ♪</i>
+
+89
+00:20:37,547 --> 00:20:41,508
+<i>♪ A world where roses bloom ♪</i>
+
+90
+00:20:42,677 --> 00:20:48,682
+<i>♪ And when you speak
+Angels sing from above ♪</i>
+
+91
+00:20:49,684 --> 00:20:56,607
+<i>♪ Everyday words seem
+to turn into love songs ♪</i>
+
+92
+00:21:01,696 --> 00:21:02,696
+Hmm.
+
+93
+00:21:24,511 --> 00:21:25,511
+Uh-oh.
+
+94
+00:22:27,866 --> 00:22:28,824
+Huh?
+
+95
+00:22:30,452 --> 00:22:31,493
+Directive?
+
+96
+00:22:31,578 --> 00:22:32,620
+Oh!
+
+97
+00:22:32,704 --> 00:22:33,954
+Directive?
+
+98
+00:22:42,839 --> 00:22:43,839
+Ta-da!
+
+99
+00:22:44,215 --> 00:22:45,215
+Ooh!
+
+100
+00:22:45,508 --> 00:22:49,928
+- Directive?
+- Directive?
+
+101
+00:22:50,930 --> 00:22:52,306
+Classified.
+
+102
+00:22:52,390 --> 00:22:53,390
+Oh.
+
+103
+00:22:53,933 --> 00:22:55,601
+Name?
+
+104
+00:22:58,438 --> 00:23:00,439
+WALL-E.
+
+105
+00:23:00,774 --> 00:23:01,774
+WALL-E.
+
+106
+00:23:03,693 --> 00:23:04,944
+WALL-E.
+
+107
+00:23:06,237 --> 00:23:07,696
+EVE.
+
+108
+00:23:09,282 --> 00:23:10,783
+EVE.
+
+109
+00:23:10,867 --> 00:23:12,743
+E... Ah!
+
+110
+00:23:12,994 --> 00:23:16,413
+"EVE. EVE."
+
+111
+00:23:16,498 --> 00:23:17,957
+EVE.
+
+112
+00:23:20,251 --> 00:23:21,752
+EVE.
+
+113
+00:23:22,754 --> 00:23:24,004
+"EVE."
+
+114
+00:23:31,012 --> 00:23:32,262
+EVE...
+
+115
+00:23:32,347 --> 00:23:33,681
+EVE! EVE! EVE!
+
+116
+00:23:41,231 --> 00:23:45,693
+WALL-E! WALL-E!
+
+117
+00:23:59,666 --> 00:24:00,666
+Oh.
+
+118
+00:24:12,053 --> 00:24:13,345
+EVE.
+
+119
+00:24:24,899 --> 00:24:25,899
+Ooh!
+
+120
+00:24:27,777 --> 00:24:28,777
+<i>♪ Here is a little song I wrote ♪</i>
+
+121
+00:24:29,946 --> 00:24:32,406
+<i>♪... note for note
+Don't worry ♪</i>
+
+122
+00:24:34,326 --> 00:24:35,784
+<i>♪ Be happy ♪</i>
+
+123
+00:24:41,041 --> 00:24:42,207
+Here.
+
+124
+00:24:50,216 --> 00:24:51,258
+Look.
+
+125
+00:24:52,552 --> 00:24:53,594
+Pop.
+
+126
+00:24:54,346 --> 00:24:55,554
+You pop.
+
+127
+00:25:05,565 --> 00:25:06,649
+Ooh!
+
+128
+00:25:21,998 --> 00:25:23,207
+Oops.
+
+129
+00:25:35,595 --> 00:25:37,638
+<i>♪ Monday in your Sunday ♪</i>
+
+130
+00:25:39,057 --> 00:25:40,391
+Ooh!
+
+131
+00:25:40,642 --> 00:25:44,436
+<i>♪ No Monday in your Sunday clothes ♪</i>
+
+132
+00:25:45,271 --> 00:25:49,775
+<i>♪ Put on your Sunday clothes
+when you feel down and out ♪</i>
+
+133
+00:25:51,778 --> 00:25:53,570
+<i>♪ Strut down the street
+and have your picture took ♪</i>
+
+134
+00:25:55,699 --> 00:25:59,660
+<i>♪ Dressed like a dream
+Your spirits seem to turn about ♪</i>
+
+135
+00:26:00,287 --> 00:26:02,413
+<i>♪ That Sunday shine is a certain sign ♪</i>
+
+136
+00:26:02,497 --> 00:26:04,707
+<i>♪ That you feel as fine as you look ♪</i>
+
+137
+00:26:12,007 --> 00:26:15,009
+<i>♪... new down to your toes ♪</i>
+
+138
+00:26:15,176 --> 00:26:16,593
+<i>♪ Get out your feathers
+Your patent leathers ♪</i>
+
+139
+00:26:17,804 --> 00:26:20,180
+<i>♪ Your beads and buckles and bows ♪</i>
+
+140
+00:26:25,729 --> 00:26:26,937
+WALL-E?
+
+141
+00:26:39,492 --> 00:26:40,826
+Whoa! Uh-oh!
+
+142
+00:26:46,458 --> 00:26:47,458
+Whoa!
+
+143
+00:26:47,709 --> 00:26:48,709
+Uh...
+
+144
+00:27:03,850 --> 00:27:04,892
+Ha!
+
+145
+00:27:14,402 --> 00:27:15,527
+Ooh!
+
+146
+00:27:22,452 --> 00:27:24,119
+Oh!
+
+147
+00:27:25,330 --> 00:27:30,334
+<i>♪ And that is all ♪</i>
+
+148
+00:27:30,418 --> 00:27:35,631
+<i>♪ that love's about ♪</i>
+
+149
+00:27:35,715 --> 00:27:40,761
+<i>♪ And we'll recall ♪</i>
+
+150
+00:27:40,845 --> 00:27:47,726
+<i>♪ When time runs out ♪</i>
+
+151
+00:27:49,062 --> 00:27:54,525
+<i>♪ That it only ♪</i>
+
+152
+00:27:56,069 --> 00:27:57,152
+Ooh!
+
+153
+00:27:57,237 --> 00:28:01,991
+<i>♪ took a moment ♪</i>
+
+154
+00:28:02,742 --> 00:28:05,035
+<i>♪ to be loved ♪</i>
+
+155
+00:28:05,120 --> 00:28:06,287
+EVE!
+
+156
+00:28:07,747 --> 00:28:13,502
+<i>♪ a whole life ♪</i>
+
+157
+00:28:13,586 --> 00:28:14,545
+<i>♪ long ♪</i>
+
+158
+00:28:27,767 --> 00:28:28,851
+Hmm?
+
+159
+00:28:30,937 --> 00:28:32,021
+Ooh!
+
+160
+00:28:52,083 --> 00:28:53,083
+Whoa.
+
+161
+00:28:55,629 --> 00:28:57,004
+EVE.
+
+162
+00:28:59,215 --> 00:29:00,633
+EVE?
+
+163
+00:29:05,430 --> 00:29:10,309
+EVE!
+
+164
+00:29:11,394 --> 00:29:14,313
+EVE!
+
+165
+00:29:54,980 --> 00:29:55,980
+Whoa!
+
+166
+00:30:50,160 --> 00:30:51,243
+Ah!
+
+167
+00:32:02,315 --> 00:32:03,315
+Uh-oh.
+
+168
+00:32:19,499 --> 00:32:33,512
+EVE!
+
+169
+00:32:37,183 --> 00:32:38,183
+EVE!
+
+170
+00:32:42,522 --> 00:32:43,564
+No!
+
+171
+00:32:45,984 --> 00:32:46,984
+Whoa!
+
+172
+00:33:05,629 --> 00:33:07,921
+EVE.
+
+173
+00:33:13,595 --> 00:33:16,555
+Whoa!
+
+174
+00:33:32,906 --> 00:33:34,615
+Oh! Uh-oh.
+
+175
+00:33:58,056 --> 00:33:59,056
+Oh!
+
+176
+00:34:01,643 --> 00:34:02,768
+EVE.
+
+177
+00:34:45,562 --> 00:34:47,229
+Whoa!
+
+178
+00:35:57,550 --> 00:35:58,550
+Whoa!
+
+179
+00:36:25,704 --> 00:36:26,829
+EVE.
+
+180
+00:36:27,914 --> 00:36:28,914
+Oh!
+
+181
+00:36:50,520 --> 00:36:51,520
+Foreign contaminant.
+
+182
+00:36:51,604 --> 00:36:52,938
+Oh!
+
+183
+00:36:59,946 --> 00:37:00,946
+Uh-oh.
+
+184
+00:37:10,624 --> 00:37:12,166
+- Foreign contaminant.
+- Whoa!
+
+185
+00:37:13,793 --> 00:37:15,753
+Whoa, whoa, whoa, whoa, whoa.
+
+186
+00:37:16,796 --> 00:37:17,796
+Huh?
+
+187
+00:38:19,025 --> 00:38:20,025
+EVE!
+
+188
+00:38:24,281 --> 00:38:25,281
+Huh?
+
+189
+00:38:28,118 --> 00:38:29,868
+Foreign contaminant.
+
+190
+00:38:51,641 --> 00:38:52,641
+EVE.
+
+191
+00:39:27,802 --> 00:39:28,927
+EVE!
+
+192
+00:39:31,139 --> 00:39:32,514
+I've been in my cabin all morning,
+
+193
+00:39:32,599 --> 00:39:36,185
+so let's hover over to the driving range
+and hit a few virtual balls into space.
+
+194
+00:39:37,562 --> 00:39:39,772
+No, we did that yesterday.
+I don't want to do that.
+
+195
+00:39:39,856 --> 00:39:43,651
+- Well, then what do you want to do?
+- I don't know. Something.
+
+196
+00:39:44,444 --> 00:39:45,444
+Whoa!
+
+197
+00:39:52,452 --> 00:39:56,205
+Look, I'm tired of having
+the same argument over and over.
+
+198
+00:40:04,255 --> 00:40:06,131
+Bot, over here.
+
+199
+00:40:07,926 --> 00:40:08,926
+Whoa!
+
+200
+00:40:13,848 --> 00:40:17,893
+- I'm in a tunnel. I can't hear you.
+- There you are.
+
+201
+00:40:19,938 --> 00:40:21,313
+Buy N Large.
+
+202
+00:40:21,398 --> 00:40:23,482
+Everything you need to be happy.
+
+203
+00:40:23,566 --> 00:40:26,485
+Your day is very important to us.
+
+204
+00:40:27,862 --> 00:40:29,029
+Hey, drink-bot.
+
+205
+00:40:30,240 --> 00:40:31,699
+Here, take the cup.
+Hey, take the cup!
+
+206
+00:40:31,783 --> 00:40:33,158
+- Whoa!
+- Uh-oh.
+
+207
+00:40:36,079 --> 00:40:37,746
+Please remain stationary.
+
+208
+00:40:37,831 --> 00:40:40,833
+A service-bot will be here
+to assist you momentarily.
+
+209
+00:40:40,917 --> 00:40:43,460
+Stewards! Hello!
+
+210
+00:40:43,545 --> 00:40:45,087
+- Please remain stationary.
+- Help.
+
+211
+00:40:45,171 --> 00:40:47,548
+A service-bot will be here
+to assist you momentarily.
+
+212
+00:40:48,883 --> 00:40:50,259
+What's that? What's going on?
+
+213
+00:40:53,638 --> 00:40:55,139
+WALL-E.
+
+214
+00:40:55,515 --> 00:40:56,682
+Uh...
+
+215
+00:40:57,100 --> 00:40:59,018
+- John.
+- EVE?
+
+216
+00:40:59,311 --> 00:41:01,270
+Uh, no. John.
+
+217
+00:41:03,857 --> 00:41:05,065
+EVE!
+
+218
+00:41:05,483 --> 00:41:06,609
+Bye, WALL-E.
+
+219
+00:41:12,991 --> 00:41:16,493
+"A" is for Axiom,
+your home sweet home.
+
+220
+00:41:16,578 --> 00:41:20,164
+"B" is for Buy N Large,
+your very best friend.
+
+221
+00:41:21,207 --> 00:41:22,625
+Mmm!
+
+222
+00:41:22,709 --> 00:41:25,377
+Time for lunch in a cup.
+
+223
+00:41:31,551 --> 00:41:32,801
+Feel beautiful.
+
+224
+00:41:32,886 --> 00:41:34,470
+- It's the new you. Stunning.
+- You look great.
+
+225
+00:41:34,554 --> 00:41:36,055
+- I know, honey. Men.
+- Men.
+
+226
+00:41:36,139 --> 00:41:39,141
+Attention, Axiom shoppers.
+Try blue.
+
+227
+00:41:39,225 --> 00:41:40,893
+It's the new red.
+
+228
+00:41:41,394 --> 00:41:42,394
+Ooh!
+
+229
+00:41:44,814 --> 00:41:46,190
+Love blue.
+
+230
+00:41:48,234 --> 00:41:49,193
+Date?
+
+231
+00:41:49,277 --> 00:41:50,527
+Don't get me started
+on the date.
+
+232
+00:41:50,612 --> 00:41:54,239
+Every holo-date I have been on
+has been a virtual disaster.
+
+233
+00:41:54,324 --> 00:41:59,161
+If I could just meet one,
+one who wasn't so superficial.
+
+234
+00:41:59,245 --> 00:42:01,080
+There are no good men out there.
+
+235
+00:42:02,290 --> 00:42:04,333
+I know. I know because I've...
+
+236
+00:42:04,417 --> 00:42:05,459
+What the...
+
+237
+00:42:05,543 --> 00:42:06,543
+Whoa!
+
+238
+00:42:11,216 --> 00:42:12,591
+Huh?
+
+239
+00:42:13,468 --> 00:42:16,512
+Yoo-hoo. WALL-E.
+
+240
+00:42:16,596 --> 00:42:17,596
+Uh...
+
+241
+00:42:17,681 --> 00:42:19,723
+- Mary.
+- EVE.
+
+242
+00:42:20,475 --> 00:42:22,142
+Huh? Oh!
+
+243
+00:42:22,227 --> 00:42:24,436
+Oh! Oh. Um, sure. You go ahead.
+
+244
+00:42:26,273 --> 00:42:27,356
+EVE.
+
+245
+00:42:34,322 --> 00:42:35,531
+Shade!
+
+246
+00:42:50,463 --> 00:42:52,673
+I didn't know we had a pool!
+
+247
+00:43:58,740 --> 00:44:01,367
+Captain, you are needed on the bridge.
+
+248
+00:44:23,306 --> 00:44:24,974
+All hands on deck!
+
+249
+00:44:26,393 --> 00:44:27,643
+Morning.
+
+250
+00:44:28,311 --> 00:44:29,728
+Just a trim?
+
+251
+00:44:30,397 --> 00:44:32,898
+♪ ...find adventure in the evening air ♪
+
+252
+00:44:34,401 --> 00:44:35,609
+Uh-huh.
+
+253
+00:44:35,694 --> 00:44:38,988
+I see. I know, honey. I know.
+
+254
+00:44:39,072 --> 00:44:41,991
+I'm good, I am good.
+You look gorgeous.
+
+255
+00:44:45,745 --> 00:44:46,745
+Oh!
+
+256
+00:44:46,871 --> 00:44:49,081
+♪ ...horse-drawn open cars ♪
+
+257
+00:45:02,220 --> 00:45:03,679
+- Sir?
+- Coffee.
+
+258
+00:45:13,523 --> 00:45:15,190
+Sir, the annual...
+
+259
+00:45:15,942 --> 00:45:18,527
+Protocol, Auto.
+First things first.
+
+260
+00:45:19,279 --> 00:45:21,030
+Computer, status report.
+
+261
+00:45:23,199 --> 00:45:25,200
+- Mechanical systems.
+- Unchanged.
+
+262
+00:45:25,285 --> 00:45:27,536
+- Reactor core temperature.
+- Unchanged.
+
+263
+00:45:27,621 --> 00:45:29,246
+- Passenger count.
+- Unchanged.
+
+264
+00:45:29,331 --> 00:45:31,582
+- Regenerative food buffet.
+- Unchanged.
+
+265
+00:45:31,666 --> 00:45:33,626
+- Jacuzzi pH balance.
+- Unchanged.
+
+266
+00:45:33,710 --> 00:45:35,753
+- Atmospheric conditions.
+- Unchanged.
+
+267
+00:45:35,837 --> 00:45:36,879
+- Captain.
+- Laundry service volume.
+
+268
+00:45:36,963 --> 00:45:39,214
+- Unchanged.
+- Okay, Auto.
+
+269
+00:45:39,299 --> 00:45:42,176
+- Sir, the annual reconnaissance...
+- 12:30!
+
+270
+00:45:42,260 --> 00:45:44,178
+Auto, why didn't you wake me
+for morning announcements?
+
+271
+00:45:46,306 --> 00:45:49,058
+Honestly, it's the one thing
+I get to do on this ship.
+
+272
+00:45:57,984 --> 00:46:00,152
+Well, good morning, everybody,
+
+273
+00:46:00,236 --> 00:46:05,908
+and welcome to day 255,642
+aboard the Axiom.
+
+274
+00:46:05,992 --> 00:46:10,204
+As always, the weather is a balmy
+72 degrees and sunny and...
+
+275
+00:46:10,497 --> 00:46:14,792
+Oh, I see the ship's log is showing
+that today is our 700th anniversary
+
+276
+00:46:14,876 --> 00:46:16,377
+of our five-year cruise.
+
+277
+00:46:16,461 --> 00:46:21,006
+Well, I'm sure our forefathers would
+be proud to know that 700 years later
+
+278
+00:46:21,091 --> 00:46:24,802
+we'd be doing the exact same thing
+they were doing.
+
+279
+00:46:25,011 --> 00:46:25,970
+Fore!
+
+280
+00:46:26,054 --> 00:46:29,598
+So, be sure next mealtime
+to ask for your "free
+
+281
+00:46:29,683 --> 00:46:34,353
+septuacentennial
+cupcake in a cup."
+
+282
+00:46:34,437 --> 00:46:35,771
+Wow, look at that!
+
+283
+00:46:35,855 --> 00:46:36,855
+Also today we have a...
+
+284
+00:46:39,943 --> 00:46:42,444
+Hey, Auto, what's that flashing button?
+
+285
+00:46:42,529 --> 00:46:45,572
+Captain, Probe One
+has returned positive.
+
+286
+00:46:46,866 --> 00:46:48,158
+Positive?
+
+287
+00:46:58,253 --> 00:46:59,253
+EVE.
+
+288
+00:47:00,714 --> 00:47:03,215
+But no probe's
+
+289
+00:47:03,967 --> 00:47:07,636
+ever come back positive before.
+
+290
+00:47:16,730 --> 00:47:18,856
+♪ Buy N Large ♪
+
+291
+00:47:19,107 --> 00:47:22,443
+Greetings and congratulations,
+Captain.
+
+292
+00:47:22,527 --> 00:47:23,694
+If you are seeing this,
+
+293
+00:47:23,778 --> 00:47:27,364
+that means your
+Extraterrestrial Vegetation Evaluator,
+
+294
+00:47:27,449 --> 00:47:30,826
+or EVE probe, has returned from Earth
+
+295
+00:47:30,910 --> 00:47:35,205
+with a confirmed specimen
+of ongoing photosynthesis.
+
+296
+00:47:35,290 --> 00:47:39,084
+That's right. It means it's time
+to go back home.
+
+297
+00:47:39,210 --> 00:47:42,087
+Home? We're going back?
+
+298
+00:47:42,505 --> 00:47:45,674
+Now that Earth has been restored
+to a life-sustaining status,
+
+299
+00:47:45,759 --> 00:47:49,345
+by golly,
+we can begin "Operation Re-colonize".
+
+300
+00:47:58,647 --> 00:48:00,731
+Simply follow
+this manual's instructions
+
+301
+00:48:00,815 --> 00:48:04,026
+to place the plant
+in your ship's holo-detector
+
+302
+00:48:04,110 --> 00:48:09,031
+and the Axiom will immediately
+navigate your return to Earth.
+
+303
+00:48:09,115 --> 00:48:10,783
+- It's that easy.
+- Huh!
+
+304
+00:48:10,867 --> 00:48:13,661
+Now, due to the effects of microgravity,
+
+305
+00:48:13,745 --> 00:48:16,330
+you and your passengers
+may have suffered some
+
+306
+00:48:16,748 --> 00:48:17,873
+slight bone loss.
+
+307
+00:48:19,125 --> 00:48:22,878
+But I'm sure a few laps
+around the ship's jogging track
+
+308
+00:48:22,963 --> 00:48:25,047
+will get you back in shape in no time.
+
+309
+00:48:25,131 --> 00:48:26,173
+We have a jogging track?
+
+310
+00:48:26,257 --> 00:48:28,050
+If you have any further questions,
+
+311
+00:48:28,134 --> 00:48:31,095
+just consult your operation manual.
+
+312
+00:48:31,179 --> 00:48:33,305
+See you back home real soon.
+
+313
+00:48:37,018 --> 00:48:39,144
+"Operate Manuel."
+
+314
+00:48:40,188 --> 00:48:41,230
+Uh...
+
+315
+00:48:41,314 --> 00:48:44,608
+Manuel, relay instructions.
+
+316
+00:48:46,319 --> 00:48:47,486
+Manuel?
+
+317
+00:48:54,744 --> 00:48:57,371
+Wow. Will you look at that?
+
+318
+00:48:58,832 --> 00:48:59,915
+Let's see.
+
+319
+00:49:01,501 --> 00:49:02,501
+Huh?
+
+320
+00:49:02,752 --> 00:49:03,877
+EVE.
+
+321
+00:49:04,296 --> 00:49:05,421
+WALL-E!
+
+322
+00:49:09,843 --> 00:49:11,343
+EVE.
+
+323
+00:49:15,390 --> 00:49:17,558
+Well, let's open her up.
+
+324
+00:49:18,184 --> 00:49:20,853
+"Step one.
+Voice command, 'Confirm acquisition'."
+
+325
+00:49:21,604 --> 00:49:23,355
+- Confirm acquisition.
+- Ooh!
+
+326
+00:49:34,701 --> 00:49:36,243
+Voice authorization required.
+
+327
+00:49:36,328 --> 00:49:37,578
+- Uh...
+- Uh...
+
+328
+00:49:37,662 --> 00:49:38,912
+Accepted.
+
+329
+00:49:53,053 --> 00:49:54,053
+Ooh.
+
+330
+00:49:57,349 --> 00:49:59,350
+- Where's the thingy?
+- Plant.
+
+331
+00:49:59,434 --> 00:50:01,727
+Plant. Right. Right. Where is it?
+
+332
+00:50:03,063 --> 00:50:04,355
+Maybe we missed a step.
+
+333
+00:50:04,439 --> 00:50:06,065
+- Show me how you change...
+- Plant.
+
+334
+00:50:06,566 --> 00:50:08,442
+- Okay.
+- WALL-E.
+
+335
+00:50:08,568 --> 00:50:09,568
+WALL-E!
+
+336
+00:50:12,405 --> 00:50:14,657
+- EVE?
+- Plant!
+
+337
+00:50:15,575 --> 00:50:16,867
+Why don't you
+scan her to be sure?
+
+338
+00:50:23,917 --> 00:50:28,212
+Contains no specimen.
+Probe's memory is faulty.
+
+339
+00:50:28,296 --> 00:50:33,050
+- So then, we're not going to Earth?
+- Negative.
+
+340
+00:50:33,134 --> 00:50:35,427
+I guess things go back to normal, huh?
+
+341
+00:50:35,512 --> 00:50:37,346
+Correct, Captain.
+
+342
+00:50:37,430 --> 00:50:39,556
+- Well, false alarm!
+- False alarm.
+
+343
+00:50:41,768 --> 00:50:43,519
+The probe must be defective.
+
+344
+00:50:44,688 --> 00:50:47,273
+GO-4, send her to the repair ward,
+
+345
+00:50:47,899 --> 00:50:50,818
+and have them run diagnostics on her.
+Make sure she's not...
+
+346
+00:50:50,902 --> 00:50:51,902
+Ah!
+
+347
+00:50:59,536 --> 00:51:00,744
+WALL-E.
+
+348
+00:51:05,875 --> 00:51:08,585
+Have, uh, WALL-E cleaned.
+
+349
+00:51:13,174 --> 00:51:14,383
+Yoo-hoo!
+
+350
+00:51:14,467 --> 00:51:15,551
+EVE.
+
+351
+00:51:17,971 --> 00:51:19,179
+Analyze.
+
+352
+00:51:20,974 --> 00:51:23,684
+Analysis.
+Foreign contaminant.
+
+353
+00:51:23,768 --> 00:51:25,769
+Substance is a three-phase system
+
+354
+00:51:25,854 --> 00:51:27,855
+composed of various combinations
+of naturally derived solids.
+
+355
+00:51:29,608 --> 00:51:33,652
+Subject is most commonly
+referred to as soil, dirt, or earth.
+
+356
+00:51:33,737 --> 00:51:34,987
+"Earth?"
+
+357
+00:51:35,989 --> 00:51:36,989
+Hmm.
+
+358
+00:51:37,532 --> 00:51:39,742
+Define: "earth".
+
+359
+00:51:44,456 --> 00:51:46,582
+Earth, the surface of the world
+
+360
+00:51:46,666 --> 00:51:48,792
+as distinct from the sky or sea.
+
+361
+00:51:48,877 --> 00:51:50,294
+Wow.
+
+362
+00:51:50,920 --> 00:51:52,838
+Define: "sea".
+
+363
+00:51:54,174 --> 00:51:56,508
+Sea, an expanse of salt water
+
+364
+00:51:56,593 --> 00:52:00,971
+that covers most of the Earth's surface
+and surrounds its landmasses.
+
+365
+00:52:11,066 --> 00:52:12,149
+Foreign contaminant.
+
+366
+00:52:12,651 --> 00:52:13,859
+Whoa!
+
+367
+00:52:34,798 --> 00:52:36,465
+EVE.
+
+368
+00:52:39,052 --> 00:52:40,052
+Whoa!
+
+369
+00:52:41,012 --> 00:52:42,388
+Just a trim?
+
+370
+00:52:43,056 --> 00:52:44,181
+You look gorgeous.
+
+371
+00:53:01,283 --> 00:53:07,579
+Fore!
+
+372
+00:53:17,132 --> 00:53:18,132
+EVE!
+
+373
+00:53:19,968 --> 00:53:22,553
+Clear, clear, clear.
+
+374
+00:53:42,282 --> 00:53:43,282
+Whoa!
+
+375
+00:53:47,746 --> 00:53:49,455
+Ooh!
+
+376
+00:53:51,791 --> 00:53:52,791
+Whoa!
+
+377
+00:53:57,380 --> 00:53:59,632
+EVE! EVE!
+
+378
+00:54:01,301 --> 00:54:02,301
+Ah!
+
+379
+00:54:04,429 --> 00:54:06,472
+WALL-E.
+
+380
+00:54:23,323 --> 00:54:24,531
+WALL-E!
+
+381
+00:54:43,635 --> 00:54:45,386
+WALL-E!
+
+382
+00:54:59,776 --> 00:55:00,985
+Oh, my.
+
+383
+00:55:02,279 --> 00:55:03,362
+Halt!
+
+384
+00:55:10,996 --> 00:55:11,996
+WALL-E!
+
+385
+00:55:15,250 --> 00:55:17,626
+Caution. Rogue robots.
+
+386
+00:55:19,337 --> 00:55:23,757
+Caution. Rogue robots.
+
+387
+00:55:25,010 --> 00:55:26,010
+WALL-E!
+
+388
+00:55:29,889 --> 00:55:31,015
+Halt! Halt!
+
+389
+00:55:37,147 --> 00:55:39,857
+Caution. Rogue robots.
+
+390
+00:55:39,941 --> 00:55:41,150
+WALL-E!
+
+391
+00:55:45,780 --> 00:55:46,947
+Clear.
+
+392
+00:55:51,244 --> 00:55:52,453
+Ooh!
+
+393
+00:55:57,250 --> 00:55:59,293
+Caution. Rogue robots.
+
+394
+00:55:59,377 --> 00:56:00,419
+Uh-oh.
+
+395
+00:56:00,503 --> 00:56:01,587
+EVE.
+
+396
+00:56:22,943 --> 00:56:24,360
+EVE?
+
+397
+00:56:29,366 --> 00:56:34,036
+Earth.
+
+398
+00:56:36,581 --> 00:56:37,581
+Oh!
+
+399
+00:56:46,132 --> 00:56:47,341
+Ah.
+
+400
+00:56:50,387 --> 00:56:51,553
+Directive.
+
+401
+00:56:57,060 --> 00:56:58,394
+WALL-E.
+
+402
+00:57:05,110 --> 00:57:06,318
+WALL-E!
+
+403
+00:57:07,737 --> 00:57:08,821
+Uh-oh.
+
+404
+00:57:29,634 --> 00:57:31,010
+Plant!
+
+405
+00:57:37,142 --> 00:57:38,350
+WALL-E.
+
+406
+00:57:40,353 --> 00:57:42,521
+- EVE.
+- WALL-E!
+
+407
+00:57:58,163 --> 00:57:59,663
+Cruising speed.
+
+408
+00:58:01,541 --> 00:58:03,250
+You are now free
+to move about the cabin.
+
+409
+00:58:07,797 --> 00:58:08,797
+Huh?
+
+410
+00:58:13,178 --> 00:58:14,178
+Oh!
+
+411
+00:58:15,347 --> 00:58:17,056
+Twenty seconds to self-destruct.
+
+412
+00:58:25,774 --> 00:58:27,775
+Ten seconds to self-destruct.
+
+413
+00:58:29,402 --> 00:58:33,989
+Ten, nine, eight, seven,
+
+414
+00:58:34,074 --> 00:58:36,825
+six, five, four,
+
+415
+00:58:37,953 --> 00:58:38,994
+three,
+
+416
+00:58:40,121 --> 00:58:40,871
+two...
+
+417
+00:58:47,712 --> 00:58:49,421
+No. No.
+
+418
+00:58:53,593 --> 00:58:55,010
+EVE!
+
+419
+00:58:56,179 --> 00:58:57,388
+WALL-E!
+
+420
+00:59:02,602 --> 00:59:03,686
+Whoa!
+
+421
+00:59:05,563 --> 00:59:07,106
+WALL-E!
+
+422
+00:59:09,442 --> 00:59:10,442
+Oh!
+
+423
+00:59:11,611 --> 00:59:12,861
+EVE.
+
+424
+00:59:27,585 --> 00:59:28,794
+WALL-E.
+
+425
+00:59:30,338 --> 00:59:31,422
+EVE.
+
+426
+00:59:35,760 --> 00:59:37,428
+WALL-E!
+
+427
+00:59:54,487 --> 00:59:55,529
+WALL-E.
+
+428
+01:00:01,578 --> 01:00:03,329
+Whee!
+
+429
+01:00:38,782 --> 01:00:41,033
+Oh, so many stars.
+
+430
+01:00:41,701 --> 01:00:42,785
+Oh.
+
+431
+01:00:45,080 --> 01:00:48,290
+- Hey! Hey! That's what's-his-name!
+- Hey! What the...
+
+432
+01:00:48,375 --> 01:00:50,668
+- Look! Look at that.
+- Huh? What?
+
+433
+01:00:51,211 --> 01:00:56,173
+Hey. I know that guy. It's, uh, WALL-E.
+
+434
+01:00:56,257 --> 01:01:00,094
+- Hey, WALL-E! It's your buddy John.
+- Hi, WALL-E!
+
+435
+01:01:05,892 --> 01:01:09,061
+Hi.
+
+436
+01:01:19,239 --> 01:01:21,615
+Define: "hoedown".
+
+437
+01:01:21,700 --> 01:01:23,617
+Hoedown,
+a social gathering
+
+438
+01:01:23,702 --> 01:01:25,911
+at which lively dancing
+would take place.
+
+439
+01:01:26,830 --> 01:01:30,582
+Auto, Earth is amazing!
+These are called "farms".
+
+440
+01:01:30,667 --> 01:01:34,003
+Humans would put seeds
+in the ground, pour water on them,
+
+441
+01:01:34,087 --> 01:01:36,213
+and they grow food, like pizza.
+
+442
+01:01:36,298 --> 01:01:38,048
+Good night, Captain.
+
+443
+01:01:42,804 --> 01:01:44,722
+Psst! Computer.
+
+444
+01:01:45,640 --> 01:01:47,266
+Define: "dancing".
+
+445
+01:01:47,767 --> 01:01:51,687
+Dancing, a series of
+movements involving two partners
+
+446
+01:01:51,771 --> 01:01:55,441
+where speed and rhythm
+match harmoniously with music.
+
+447
+01:01:57,527 --> 01:01:58,944
+Uh-huh. Uh...
+
+448
+01:02:01,656 --> 01:02:02,948
+EVE.
+
+449
+01:02:03,575 --> 01:02:04,658
+Home.
+
+450
+01:02:12,709 --> 01:02:13,709
+Uh-oh.
+
+451
+01:02:15,045 --> 01:02:19,173
+The "Lido Deck" is now closing.
+The "Lido Deck" is now closing.
+
+452
+01:02:22,302 --> 01:02:24,136
+- Stop that.
+- Make me.
+
+453
+01:02:24,220 --> 01:02:25,804
+I didn't know we had a pool.
+
+454
+01:02:26,139 --> 01:02:28,307
+No splashing. No diving.
+
+455
+01:02:28,892 --> 01:02:31,310
+- Oh, go on.
+- No splashing. No...
+
+456
+01:03:00,173 --> 01:03:01,215
+EVE.
+
+457
+01:03:01,299 --> 01:03:03,342
+<i>♪ ...it only takes a moment ♪</i>
+
+458
+01:03:03,426 --> 01:03:04,426
+Shh!
+
+459
+01:03:11,768 --> 01:03:13,102
+Directive.
+
+460
+01:03:25,532 --> 01:03:26,865
+Prepare for landing.
+
+461
+01:03:29,995 --> 01:03:31,078
+"We're here, everybody."
+
+462
+01:03:31,162 --> 01:03:34,623
+"Yay, Captain! Captain, we're home!
+It's so beautiful!"
+
+463
+01:03:34,708 --> 01:03:37,710
+"No. It's nothing.
+I was pleased to do this."
+
+464
+01:03:37,794 --> 01:03:39,795
+"It's all about you people.
+It's not about me."
+
+465
+01:03:45,677 --> 01:03:47,219
+How?
+
+466
+01:03:47,304 --> 01:03:49,054
+How did you find it?
+
+467
+01:03:53,226 --> 01:03:56,478
+We can go back home!
+For the first time!
+
+468
+01:03:56,813 --> 01:03:58,355
+- What's it like now?
+- Oh!
+
+469
+01:03:58,440 --> 01:04:01,275
+No, no, no. Don't tell me.
+I want to see for myself.
+
+470
+01:04:10,076 --> 01:04:12,578
+Wait. That doesn't look like Earth.
+
+471
+01:04:15,498 --> 01:04:17,333
+Where's the blue sky?
+
+472
+01:04:27,594 --> 01:04:29,428
+Where's the grass?
+
+473
+01:04:35,101 --> 01:04:39,355
+<i>♪... Sunday clothes
+when you feel down and out ♪</i>
+
+474
+01:04:39,439 --> 01:04:41,357
+I know that song.
+
+475
+01:04:41,441 --> 01:04:43,525
+<i>♪ Strut down the street
+and have your picture took ♪</i>
+
+476
+01:04:43,610 --> 01:04:44,777
+They're, um,
+
+477
+01:04:46,029 --> 01:04:47,279
+dancing.
+
+478
+01:04:47,364 --> 01:04:49,198
+Yes, dancing.
+
+479
+01:04:49,532 --> 01:04:54,286
+<i>♪ That Sunday shine is a certain sign
+That you feel as fine as you look ♪</i>
+
+480
+01:04:55,080 --> 01:04:57,122
+<i>♪ Beneath your parasol... ♪</i>
+
+481
+01:04:57,207 --> 01:05:01,001
+You made it somehow, huh, little guy?
+You didn't give up, did you?
+
+482
+01:05:04,422 --> 01:05:06,173
+Okay, then. Come on.
+
+483
+01:05:08,051 --> 01:05:09,551
+Wait a minute.
+
+484
+01:05:09,636 --> 01:05:15,391
+<i>♪ ...when time runs out ♪</i>
+
+485
+01:05:16,726 --> 01:05:23,315
+<i>♪ That it only... ♪</i>
+
+486
+01:05:25,485 --> 01:05:26,610
+Huh?
+
+487
+01:05:30,156 --> 01:05:31,407
+EVE?
+
+488
+01:05:32,117 --> 01:05:34,076
+EVE!
+
+489
+01:05:40,000 --> 01:05:41,000
+Uh-oh!
+
+490
+01:05:46,631 --> 01:05:47,965
+WALL-E.
+
+491
+01:05:51,928 --> 01:05:52,970
+EVE.
+
+492
+01:05:53,638 --> 01:05:57,558
+EVE.
+
+493
+01:05:58,893 --> 01:05:59,893
+Pathetic.
+
+494
+01:06:03,440 --> 01:06:04,523
+EVE.
+
+495
+01:06:12,866 --> 01:06:14,366
+EVE!
+
+496
+01:06:15,535 --> 01:06:16,535
+Oh!
+
+497
+01:06:31,551 --> 01:06:32,551
+Huh?
+
+498
+01:06:33,887 --> 01:06:35,638
+Foreign contaminant.
+
+499
+01:06:43,563 --> 01:06:45,564
+There you go, little guy.
+
+500
+01:06:45,649 --> 01:06:48,484
+You came a long way
+for a drink of water.
+
+501
+01:06:48,568 --> 01:06:51,320
+Just needed someone
+to look after you, that's...
+
+502
+01:07:04,793 --> 01:07:06,543
+We have to go back.
+
+503
+01:07:08,630 --> 01:07:11,465
+- Auto, come down here.
+- Aye, aye, sir.
+
+504
+01:07:12,008 --> 01:07:13,008
+WALL-E.
+
+505
+01:07:14,511 --> 01:07:15,719
+WALL-E.
+
+506
+01:07:18,515 --> 01:07:21,350
+Auto, EVE found the plant.
+Fire up the holo-detector.
+
+507
+01:07:21,434 --> 01:07:24,186
+Not necessary, Captain.
+You may give it to me.
+
+508
+01:07:24,270 --> 01:07:27,731
+- You know what? I should do it myself.
+- Captain.
+
+509
+01:07:28,942 --> 01:07:32,194
+Sir, I insist you give me the plant.
+
+510
+01:07:32,279 --> 01:07:35,739
+- Auto, get out of my way.
+- We cannot go home.
+
+511
+01:07:35,824 --> 01:07:39,618
+- What are you talking about? Why not?
+- That is classified, Captain.
+
+512
+01:07:39,703 --> 01:07:42,037
+- Give me the plant.
+- What do you mean, "classified"?
+
+513
+01:07:42,122 --> 01:07:43,580
+You don't keep a secret
+from the captain.
+
+514
+01:07:43,665 --> 01:07:44,790
+Give me the plant.
+
+515
+01:07:44,874 --> 01:07:47,209
+- Tell me what's classified.
+- The plant.
+
+516
+01:07:47,294 --> 01:07:49,169
+Tell me, Auto! That's an order.
+
+517
+01:07:52,966 --> 01:07:54,466
+Aye, aye, sir.
+
+518
+01:07:58,346 --> 01:08:03,726
+<i>♪ Buy N Large is your superstore
+We got all you need ♪</i>
+
+519
+01:08:03,810 --> 01:08:04,977
+Just cut it off, will you?
+
+520
+01:08:06,313 --> 01:08:10,107
+Hey, there, autopilots.
+Got some bad news.
+
+521
+01:08:10,650 --> 01:08:11,817
+Um...
+
+522
+01:08:12,986 --> 01:08:14,612
+Operation Cleanup has,
+
+523
+01:08:15,447 --> 01:08:16,947
+well, failed.
+
+524
+01:08:17,699 --> 01:08:20,576
+Wouldn't you know, rising
+toxicity levels have made life
+
+525
+01:08:20,660 --> 01:08:22,411
+unsustainable on Earth.
+
+526
+01:08:22,495 --> 01:08:24,496
+"Unsustainable"? What?
+
+527
+01:08:25,248 --> 01:08:28,626
+Darn it all, we're going to have
+to cancel "Operation Re-colonize".
+
+528
+01:08:28,710 --> 01:08:29,752
+So,
+
+529
+01:08:30,920 --> 01:08:32,254
+just stay the course.
+
+530
+01:08:32,339 --> 01:08:33,422
+Um...
+
+531
+01:08:33,506 --> 01:08:35,549
+Rather than try and fix this problem,
+
+532
+01:08:35,634 --> 01:08:38,927
+it'll just be easier
+for everyone to remain in space.
+
+533
+01:08:39,012 --> 01:08:40,220
+"Easier"?
+
+534
+01:08:40,305 --> 01:08:41,930
+- Mr. President?
+- I think...
+
+535
+01:08:42,015 --> 01:08:42,973
+- Huh?
+- Sir, time to go.
+
+536
+01:08:43,058 --> 01:08:47,603
+Okay. I'm giving
+Override Directive A113.
+
+537
+01:08:47,687 --> 01:08:50,230
+Go to full autopilot.
+
+538
+01:08:50,357 --> 01:08:53,776
+Take control of everything,
+and do not return to Earth.
+
+539
+01:08:53,860 --> 01:08:56,070
+Repeat, do not return to Earth.
+
+540
+01:08:56,196 --> 01:08:57,696
+Let's get
+the heck out of here.
+
+541
+01:09:02,160 --> 01:09:04,453
+Now, the plant.
+
+542
+01:09:04,537 --> 01:09:06,497
+No. Wait a minute.
+
+543
+01:09:06,581 --> 01:09:08,958
+Computer, when was that message
+sent out to the Axiom?
+
+544
+01:09:09,042 --> 01:09:11,502
+Message received
+in the year 2110.
+
+545
+01:09:11,586 --> 01:09:15,005
+That's... That's nearly 700 years ago!
+
+546
+01:09:15,090 --> 01:09:18,133
+Auto, things have changed!
+We've got to go back.
+
+547
+01:09:18,218 --> 01:09:20,928
+Sir, orders are: "Do not return to Earth."
+
+548
+01:09:21,012 --> 01:09:25,975
+But life is sustainable now.
+Look at this plant. Green and growing.
+
+549
+01:09:26,059 --> 01:09:29,395
+- It's living proof he was wrong.
+- Irrelevant, Captain.
+
+550
+01:09:29,479 --> 01:09:33,482
+What? It's completely relevant!
+Out there is our home.
+
+551
+01:09:33,566 --> 01:09:34,858
+Home, Auto.
+
+552
+01:09:34,943 --> 01:09:38,696
+And it's in trouble.
+I can't just sit here and do nothing.
+
+553
+01:09:38,780 --> 01:09:40,114
+That's all I've ever done.
+
+554
+01:09:40,198 --> 01:09:43,492
+That's all anyone on this blasted ship
+has ever done. Nothing!
+
+555
+01:09:43,576 --> 01:09:45,953
+On the Axiom you will survive.
+
+556
+01:09:46,037 --> 01:09:50,749
+- I don't want to survive. I want to live!
+- Must follow my directive.
+
+557
+01:10:08,810 --> 01:10:11,353
+I'm the captain of the Axiom.
+
+558
+01:10:11,438 --> 01:10:14,106
+We are going home today.
+
+559
+01:10:19,779 --> 01:10:20,946
+GO-4?
+
+560
+01:10:21,781 --> 01:10:23,699
+Hey! That's not...
+
+561
+01:10:23,783 --> 01:10:26,410
+This is mutiny! EVE, arrest him.
+
+562
+01:10:32,626 --> 01:10:36,503
+EVE, you are to put this plant
+straight in the holo-detector.
+
+563
+01:10:37,172 --> 01:10:38,213
+No!
+
+564
+01:10:48,475 --> 01:10:49,516
+Huh?
+
+565
+01:10:51,311 --> 01:10:53,729
+- EVE?
+- WALL-E!
+
+566
+01:10:53,813 --> 01:10:55,481
+EVE!
+
+567
+01:10:57,067 --> 01:10:58,317
+- Oh!
+- WALL-E, the plant!
+
+568
+01:10:58,401 --> 01:10:59,818
+- WALL-E!
+- Over here. Throw it.
+
+569
+01:10:59,903 --> 01:11:00,903
+Ahhh!
+
+570
+01:11:01,237 --> 01:11:02,237
+EVE!
+
+571
+01:11:03,406 --> 01:11:05,032
+Give me the plant.
+
+572
+01:11:21,508 --> 01:11:23,258
+WALL-E!
+
+573
+01:11:33,353 --> 01:11:35,646
+All communications are terminated.
+
+574
+01:11:35,730 --> 01:11:37,439
+You are confined to quarters.
+
+575
+01:11:37,524 --> 01:11:38,857
+No! Mutiny!
+
+576
+01:11:39,317 --> 01:11:40,484
+Mutiny!
+
+577
+01:11:59,879 --> 01:12:00,838
+WALL-E?
+
+578
+01:12:00,922 --> 01:12:03,966
+Caution.
+Activating airlock disposal.
+
+579
+01:12:04,050 --> 01:12:05,926
+WALL-E!
+
+580
+01:12:06,886 --> 01:12:09,054
+Activating airlock disposal.
+
+581
+01:12:15,353 --> 01:12:16,562
+WALL-E?
+
+582
+01:12:19,441 --> 01:12:26,322
+Ah!
+
+583
+01:12:43,757 --> 01:12:46,133
+EVE.
+
+584
+01:12:46,217 --> 01:12:47,426
+WALL-E!
+
+585
+01:12:48,595 --> 01:12:51,597
+Caution.
+Activating airlock disposal.
+
+586
+01:12:52,390 --> 01:12:54,683
+Activating airlock disposal.
+
+587
+01:13:00,565 --> 01:13:01,774
+WALL-E!
+
+588
+01:13:07,864 --> 01:13:09,114
+Foreign contaminant.
+
+589
+01:13:09,741 --> 01:13:10,824
+Whoa!
+
+590
+01:13:34,641 --> 01:13:35,891
+Whoa.
+
+591
+01:13:44,484 --> 01:13:45,734
+WALL-E.
+
+592
+01:14:04,129 --> 01:14:05,129
+Huh?
+
+593
+01:14:14,848 --> 01:14:16,265
+All clean. All clean.
+
+594
+01:14:21,563 --> 01:14:23,522
+WALL-E.
+
+595
+01:14:26,067 --> 01:14:27,151
+M-O.
+
+596
+01:14:30,697 --> 01:14:33,073
+- M-O?
+- M-O.
+
+597
+01:14:34,701 --> 01:14:35,784
+M-O.
+
+598
+01:14:37,704 --> 01:14:38,704
+Mmm?
+
+599
+01:14:39,372 --> 01:14:40,372
+Mmm.
+
+600
+01:14:46,212 --> 01:14:49,006
+Directive.
+
+601
+01:15:03,396 --> 01:15:04,897
+Directive.
+
+602
+01:15:21,039 --> 01:15:26,293
+Earth.
+
+603
+01:15:29,547 --> 01:15:32,883
+- Earth.
+- Earth.
+
+604
+01:15:39,057 --> 01:15:40,641
+Earth? Earth!
+
+605
+01:15:42,519 --> 01:15:44,311
+- M-O.
+- WALL-E!
+
+606
+01:16:03,290 --> 01:16:04,456
+Wrong.
+
+607
+01:16:18,638 --> 01:16:20,306
+Please hold.
+We are currently having...
+
+608
+01:16:20,807 --> 01:16:21,807
+EVE!
+
+609
+01:16:21,891 --> 01:16:22,891
+Whoops.
+
+610
+01:16:22,976 --> 01:16:25,060
+Caution. Rogue robots.
+
+611
+01:16:37,198 --> 01:16:38,824
+That style suits you.
+
+612
+01:16:44,164 --> 01:16:45,164
+Clear.
+
+613
+01:16:51,046 --> 01:16:53,255
+Caution. Rogue robots.
+
+614
+01:16:54,466 --> 01:16:56,800
+Caution. Rogue robots.
+
+615
+01:16:58,011 --> 01:17:00,346
+- Not possible.
+- Caution. Rogue robots.
+
+616
+01:17:12,192 --> 01:17:13,984
+Auto! Auto!
+
+617
+01:17:14,069 --> 01:17:15,945
+Mutiny. Mutiny.
+
+618
+01:17:17,238 --> 01:17:19,031
+Stupid wheel.
+
+619
+01:17:19,115 --> 01:17:21,367
+Caution. Rogue robots.
+
+620
+01:17:21,743 --> 01:17:26,455
+Caution. Rogue robots.
+
+621
+01:17:26,539 --> 01:17:27,498
+The plant!
+
+622
+01:17:31,753 --> 01:17:33,754
+We'll see who's powerless now.
+
+623
+01:17:39,719 --> 01:17:42,221
+Testing, testing.
+Is this thing on?
+
+624
+01:17:43,348 --> 01:17:47,726
+This is the captain.
+I am locked in my room.
+
+625
+01:17:47,811 --> 01:17:51,355
+EVE, WALL-E,
+bring the plant to the "Lido Deck".
+
+626
+01:17:52,190 --> 01:17:54,817
+I'll have activated the holo-detector.
+Now, hurry.
+
+627
+01:17:54,901 --> 01:17:57,653
+- Auto's probably going to cut me off...
+- Halt.
+
+628
+01:17:58,321 --> 01:17:59,321
+Ah!
+
+629
+01:18:00,907 --> 01:18:02,074
+Halt.
+
+630
+01:18:02,450 --> 01:18:03,659
+Oh, my.
+
+631
+01:18:05,161 --> 01:18:06,328
+Clear.
+
+632
+01:18:08,039 --> 01:18:09,081
+Oh!
+
+633
+01:18:11,376 --> 01:18:12,418
+Halt, halt.
+
+634
+01:18:21,052 --> 01:18:23,429
+- Look what I got, Auto.
+- Not possible.
+
+635
+01:18:23,513 --> 01:18:27,057
+That's right. The plant.
+
+636
+01:18:27,142 --> 01:18:29,935
+You want it? Come and get it, blinky.
+
+637
+01:18:30,812 --> 01:18:31,854
+No.
+
+638
+01:18:35,650 --> 01:18:38,611
+Captain? Captain?
+
+639
+01:18:42,574 --> 01:18:43,782
+Let go.
+
+640
+01:18:44,618 --> 01:18:46,744
+- Let go.
+- Too heavy for you? Huh?
+
+641
+01:18:49,289 --> 01:18:50,247
+Get off.
+
+642
+01:18:50,332 --> 01:18:52,041
+You're not getting away
+from me, one-eye.
+
+643
+01:18:52,125 --> 01:18:54,084
+- Get off.
+- Is that all you got?
+
+644
+01:19:08,266 --> 01:19:09,350
+Halt.
+
+645
+01:19:13,146 --> 01:19:14,897
+- That's it. A little closer.
+- Cease and desist.
+
+646
+01:19:14,981 --> 01:19:16,941
+- Not good.
+- Got you.
+
+647
+01:19:42,384 --> 01:19:43,676
+Whoa!
+
+648
+01:19:53,687 --> 01:19:56,689
+Remain calm. Remain calm.
+
+649
+01:20:07,158 --> 01:20:10,244
+Ladies and gentlemen,
+this is your captain speaking.
+
+650
+01:20:10,328 --> 01:20:13,998
+We're having a slight malfunction
+with the autopilot.
+
+651
+01:20:14,833 --> 01:20:15,791
+Please remain calm.
+
+652
+01:20:19,796 --> 01:20:20,796
+Ah!
+
+653
+01:20:23,717 --> 01:20:24,883
+Enough.
+
+654
+01:20:30,515 --> 01:20:32,099
+Hey. What? John?
+
+655
+01:20:32,517 --> 01:20:33,976
+Whoa!
+
+656
+01:20:51,494 --> 01:20:52,911
+No! No, no, no!
+
+657
+01:20:59,002 --> 01:21:00,294
+I gotcha!
+
+658
+01:21:03,882 --> 01:21:06,300
+John, get ready to have some kids!
+
+659
+01:21:20,523 --> 01:21:21,607
+- Look out!
+- Ah!
+
+660
+01:21:32,035 --> 01:21:33,035
+Oh!
+
+661
+01:21:40,961 --> 01:21:41,961
+No.
+
+662
+01:21:47,676 --> 01:21:49,134
+WALL-E!
+
+663
+01:21:59,187 --> 01:22:00,229
+No!
+
+664
+01:22:01,815 --> 01:22:02,815
+Uh-oh.
+
+665
+01:22:05,402 --> 01:22:06,402
+Oh, no!
+
+666
+01:22:31,303 --> 01:22:32,386
+Auto?
+
+667
+01:22:37,350 --> 01:22:38,559
+WALL-E!
+
+668
+01:22:48,236 --> 01:22:50,321
+Auto, you are relieved of duty.
+
+669
+01:22:52,657 --> 01:22:54,825
+No.
+
+670
+01:23:04,294 --> 01:23:07,254
+Plant! Plant!
+
+671
+01:23:16,306 --> 01:23:17,389
+Foreign contaminant.
+
+672
+01:23:18,975 --> 01:23:20,726
+- Plant!
+- EVE!
+
+673
+01:23:34,199 --> 01:23:36,075
+Plant origin verified.
+
+674
+01:23:43,083 --> 01:23:44,124
+WALL-E.
+
+675
+01:23:44,209 --> 01:23:46,001
+Course set for Earth.
+
+676
+01:23:46,962 --> 01:23:49,713
+Ten seconds to hyper-jump. Nine...
+
+677
+01:23:49,798 --> 01:23:51,507
+- No.
+eight...
+
+678
+01:23:51,591 --> 01:23:55,010
+- WALL-E!
+...seven, six, five, four...
+
+679
+01:23:55,095 --> 01:23:56,595
+Oh, no. WALL-E.
+
+680
+01:23:56,680 --> 01:24:00,599
+...three, two, one, zero.
+
+681
+01:24:08,817 --> 01:24:10,943
+WALL-E!
+
+682
+01:25:36,488 --> 01:25:37,488
+WALL-E.
+
+683
+01:25:39,783 --> 01:25:40,950
+EVE!
+
+684
+01:26:21,950 --> 01:26:23,325
+Huh?
+
+685
+01:26:47,183 --> 01:26:48,392
+WALL-E.
+
+686
+01:26:57,819 --> 01:26:59,320
+EVE.
+
+687
+01:27:02,949 --> 01:27:03,949
+Ooh!
+
+688
+01:27:09,539 --> 01:27:10,748
+WALL-E?
+
+689
+01:27:16,129 --> 01:27:17,129
+Ooh!
+
+690
+01:27:19,549 --> 01:27:23,844
+♪ Put on your Sunday clothes
+when you feel down and out ♪
+
+691
+01:27:26,848 --> 01:27:28,140
+WALL-E?
+
+692
+01:27:51,414 --> 01:27:52,623
+WALL-E.
+
+693
+01:27:53,166 --> 01:27:54,708
+WALL-E!
+
+694
+01:29:06,364 --> 01:29:09,158
+- EVE?
+- WALL-E?
+
+695
+01:29:13,371 --> 01:29:14,413
+EVE!
+
+696
+01:29:17,000 --> 01:29:22,046
+<i>♪ And that is all ♪</i>
+
+697
+01:29:22,130 --> 01:29:26,884
+<i>♪ That love's about ♪</i>
+
+698
+01:29:28,261 --> 01:29:31,013
+- Whee!
+- You're kidding!
+
+699
+01:29:31,097 --> 01:29:32,931
+Go, go, go. Go, go.
+
+700
+01:29:33,391 --> 01:29:37,186
+<i>♪ And we'll recall
+When time runs out ♪</i>
+
+701
+01:29:37,270 --> 01:29:39,229
+This is called farming!
+
+702
+01:29:39,314 --> 01:29:41,899
+You kids are going to grow
+all kinds of plants.
+
+703
+01:29:41,983 --> 01:29:44,276
+Vegetable plants. Pizza plants!
+
+704
+01:29:45,487 --> 01:29:47,488
+It's good to be home!
+
+705
+01:29:47,572 --> 01:29:53,619
+<i>♪ Took a moment ♪</i>
+
+706
+01:29:54,371 --> 01:29:59,124
+<i>♪ to be loved ♪</i>
+
+707
+01:29:59,459 --> 01:30:05,005
+<i>♪ a whole life ♪</i>
+
+708
+01:30:05,924 --> 01:30:12,096
+<i>♪ long ♪</i>
+
+709
+01:30:44,337 --> 01:30:48,632
+<i>♪ Did you think that your feet
+had been bound ♪</i>
+
+710
+01:30:50,176 --> 01:30:54,805
+<i>♪ By what gravity brings
+to the ground? ♪</i>
+
+711
+01:30:56,725 --> 01:31:02,062
+<i>♪ Did you feel you were tricked
+by the future you picked? ♪</i>
+
+712
+01:31:02,314 --> 01:31:04,189
+<i>♪ Well, come on down ♪</i>
+
+713
+01:31:08,695 --> 01:31:14,491
+<i>♪ All these rules don't apply
+When you're high in the sky ♪</i>
+
+714
+01:31:14,576 --> 01:31:16,452
+<i>♪ So come on down ♪</i>
+
+715
+01:31:17,829 --> 01:31:19,455
+<i>♪ Come on down ♪</i>
+
+716
+01:31:20,332 --> 01:31:23,626
+<i>♪ We're coming down to the ground ♪</i>
+
+717
+01:31:23,960 --> 01:31:26,837
+<i>♪ There's no better place to go ♪</i>
+
+718
+01:31:27,005 --> 01:31:30,049
+<i>♪ We got snow up on the mountains ♪</i>
+
+719
+01:31:30,133 --> 01:31:32,509
+<i>♪ We got rivers down below ♪</i>
+
+720
+01:31:32,594 --> 01:31:35,804
+<i>♪ We're coming down to the ground ♪</i>
+
+721
+01:31:36,014 --> 01:31:39,058
+<i>♪ We hear the birds sing in the trees ♪</i>
+
+722
+01:31:39,225 --> 01:31:41,977
+<i>♪ And the land will be looked after ♪</i>
+
+723
+01:31:42,062 --> 01:31:44,939
+<i>♪ We'll send the seeds
+out in the breeze ♪</i>
+
+724
+01:31:52,948 --> 01:31:57,159
+<i>♪ Did you think
+you'd escaped from routine ♪</i>
+
+725
+01:31:59,204 --> 01:32:03,290
+<i>♪ By changing the script
+and the scene? ♪</i>
+
+726
+01:32:05,460 --> 01:32:08,045
+<i>♪ Despite all you made of it ♪</i>
+
+727
+01:32:08,463 --> 01:32:12,716
+<i>♪ You're always afraid
+of the change ♪</i>
+
+728
+01:32:17,138 --> 01:32:20,099
+<i>♪ You've got a lot on your chest ♪</i>
+
+729
+01:32:20,183 --> 01:32:23,018
+<i>♪ Well, you can come as my guest ♪</i>
+
+730
+01:32:23,103 --> 01:32:24,853
+<i>♪ So come on down ♪</i>
+
+731
+01:32:26,523 --> 01:32:28,274
+<i>♪ Come on down ♪</i>
+
+732
+01:32:28,984 --> 01:32:30,442
+<i>♪ We're coming down to the ground ♪</i>
+
+733
+01:32:32,570 --> 01:32:35,447
+<i>♪ There's no better place to go ♪</i>
+
+734
+01:32:35,615 --> 01:32:38,659
+<i>♪ We got snow up on the mountains ♪</i>
+
+735
+01:32:38,743 --> 01:32:41,287
+<i>♪ We got rivers down below ♪</i>
+
+736
+01:32:41,371 --> 01:32:44,498
+<i>♪ We're coming down to the ground ♪</i>
+
+737
+01:32:44,666 --> 01:32:47,710
+<i>♪ We hear the birds sing in the trees ♪</i>
+
+738
+01:32:47,794 --> 01:32:50,713
+<i>♪ And the land will be looked after ♪</i>
+
+739
+01:32:50,797 --> 01:32:53,632
+<i>♪ We'll send the seeds
+out in the breeze ♪</i>
+
+740
+01:32:58,054 --> 01:33:00,472
+<i>♪ Like the fish in the ocean ♪</i>
+
+741
+01:33:01,975 --> 01:33:04,226
+<i>♪ We felt at home in the sea ♪</i>
+
+742
+01:33:05,979 --> 01:33:08,689
+<i>♪ We learned to live off the good land ♪</i>
+
+743
+01:33:10,066 --> 01:33:12,318
+<i>♪ We learned to climb up a tree ♪</i>
+
+744
+01:33:14,112 --> 01:33:16,697
+<i>♪ Then we got up on two legs ♪</i>
+
+745
+01:33:18,366 --> 01:33:20,951
+<i>♪ But we wanted to fly ♪</i>
+
+746
+01:33:22,287 --> 01:33:24,997
+<i>♪ And when we messed up
+our homeland ♪</i>
+
+747
+01:33:26,333 --> 01:33:28,959
+<i>♪ We set sail for the sky ♪</i>
+
+748
+01:33:29,586 --> 01:33:32,671
+<i>♪ We're coming down to the ground ♪</i>
+
+749
+01:33:33,089 --> 01:33:35,924
+<i>♪ There's no better place to go ♪</i>
+
+750
+01:33:36,051 --> 01:33:39,178
+<i>♪ We got snow up on the mountains ♪</i>
+
+751
+01:33:39,262 --> 01:33:41,680
+<i>♪ We got rivers down below ♪</i>
+
+752
+01:33:41,765 --> 01:33:45,017
+<i>♪ We're coming down to the ground ♪</i>
+
+753
+01:33:45,101 --> 01:33:48,270
+<i>♪ We hear the birds sing in the trees ♪</i>
+
+754
+01:33:48,355 --> 01:33:51,231
+<i>♪ And the land will be looked after ♪</i>
+
+755
+01:33:51,316 --> 01:33:53,817
+<i>♪ We'll send the seeds
+out in the breeze ♪</i>
+
+756
+01:33:53,902 --> 01:33:55,861
+<i>♪ We're coming down ♪</i>
+
+757
+01:33:57,030 --> 01:33:59,073
+<i>♪ Coming down to Earth ♪</i>
+
+758
+01:34:00,116 --> 01:34:02,368
+<i>♪ Like babies at birth ♪</i>
+
+759
+01:34:03,161 --> 01:34:05,120
+<i>♪ Coming down to Earth ♪</i>
+
+760
+01:34:06,164 --> 01:34:08,666
+<i>♪ We define new priorities ♪</i>
+
+761
+01:34:09,042 --> 01:34:12,044
+<i>♪ These are extraordinary qualities ♪</i>
+
+762
+01:34:18,343 --> 01:34:21,345
+<i>♪ We're coming down to the ground ♪</i>
+
+763
+01:34:21,721 --> 01:34:24,807
+<i>♪ There's no better place to go ♪</i>
+
+764
+01:34:24,891 --> 01:34:28,018
+<i>♪ We got snow up on the mountains ♪</i>
+
+765
+01:34:28,103 --> 01:34:30,521
+<i>♪ We got rivers down below ♪</i>
+
+766
+01:34:30,605 --> 01:34:33,565
+<i>♪ We're coming down to the ground ♪</i>
+
+767
+01:34:33,984 --> 01:34:36,986
+<i>♪ We hear the birds sing in the trees ♪</i>
+
+768
+01:34:37,070 --> 01:34:40,155
+<i>♪ And the land will be looked after ♪</i>
+
+769
+01:34:40,240 --> 01:34:42,658
+<i>♪ We send the seeds
+out in the breeze ♪</i>
+
+770
+01:34:42,742 --> 01:34:45,828
+<i>♪ We're coming down to the ground ♪</i>
+
+771
+01:34:46,329 --> 01:34:49,081
+<i>♪ There's no better place to go ♪</i>
+
+772
+01:34:49,332 --> 01:34:52,293
+<i>♪ We got snow up on the mountains ♪</i>
+
+773
+01:34:52,377 --> 01:34:54,962
+<i>♪ We got rivers down below ♪</i>
+
+774
+01:34:55,046 --> 01:34:58,007
+<i>♪ We're coming down to the ground ♪</i>
+
+775
+01:34:58,383 --> 01:35:01,302
+<i>♪ We hear the birds sing in the trees ♪</i>
+
+776
+01:35:01,678 --> 01:35:04,596
+<i>♪ And the land will be looked after ♪</i>
+
+777
+01:35:04,723 --> 01:35:07,099
+<i>♪ We send the seeds
+out in the breeze ♪</i>
+
+778
+01:35:07,183 --> 01:35:09,935
+<i>♪ We define new priorities ♪</i>
+
+779
+01:35:10,020 --> 01:35:13,188
+<i>♪ These are extraordinary qualities ♪</i>
+

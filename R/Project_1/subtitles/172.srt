@@ -1,0 +1,7238 @@
+1
+00:00:02,000 --> 00:00:06,000
+23.976 English with italics
+
+2
+00:00:46,964 --> 00:00:50,425
+<i>Once upon a time
+in a faraway land
+
+3
+00:00:50,425 --> 00:00:54,263
+<i>a young prince lived
+in a shining castle.
+
+4
+00:00:54,263 --> 00:00:57,891
+<i>Although he had
+everything his heart desired
+
+5
+00:00:57,891 --> 00:01:02,980
+<i>the prince was spoiled,
+selfish and unkind.
+
+6
+00:01:02,980 --> 00:01:05,440
+<i>But then, one winter's night
+
+7
+00:01:05,440 --> 00:01:08,777
+<i>an old beggar woman
+came to the castle
+
+8
+00:01:08,777 --> 00:01:11,405
+<i>and offered him a single rose
+
+9
+00:01:11,405 --> 00:01:15,242
+<i>in return for shelter
+from the bitter cold.
+
+10
+00:01:15,242 --> 00:01:17,828
+<i>Repulsed by
+her haggard appearance
+
+11
+00:01:17,828 --> 00:01:22,749
+<i>the prince sneered at the gift
+and turned the old woman away
+
+12
+00:01:22,749 --> 00:01:26,920
+<i>but she warned him not to be
+deceived by appearances
+
+13
+00:01:26,920 --> 00:01:29,047
+<i>for beauty is found within
+
+14
+00:01:29,047 --> 00:01:31,675
+<i>and when he dismissed her again
+
+15
+00:01:31,675 --> 00:01:34,678
+<i>the old woman's ugliness
+melted away
+
+16
+00:01:34,678 --> 00:01:37,431
+<i>to reveal
+a beautiful enchantress.
+
+17
+00:01:37,431 --> 00:01:41,018
+<i>The prince tried to apologize,
+but it was too late
+
+18
+00:01:41,018 --> 00:01:44,688
+<i>for she had seen that there was
+no love in his heart
+
+19
+00:01:44,688 --> 00:01:47,441
+<i>and as punishment,
+she transformed him
+
+20
+00:01:47,441 --> 00:01:49,067
+<i>into a hideous beast
+
+21
+00:01:49,067 --> 00:01:52,362
+<i>and placed a powerful spell
+on the castle
+
+22
+00:01:52,362 --> 00:01:54,364
+<i>and all who lived there.
+
+23
+00:01:54,364 --> 00:01:56,783
+<i>Ashamed of his monstrous form
+
+24
+00:01:56,783 --> 00:02:00,370
+<i>the Beast concealed himself
+inside his castle
+
+25
+00:02:00,370 --> 00:02:03,457
+<i>with a magic mirror
+as his only window
+
+26
+00:02:03,457 --> 00:02:05,209
+<i>to the outside world.
+
+27
+00:02:05,209 --> 00:02:10,339
+<i>The rose she had offered
+was truly an enchanted rose
+
+28
+00:02:10,339 --> 00:02:14,092
+<i>which would bloom
+until his 21st year.
+
+29
+00:02:14,092 --> 00:02:16,970
+<i>lf he could learn
+to love another
+
+30
+00:02:16,970 --> 00:02:22,226
+<i>and earn her love in return
+by the time the last petal fell
+
+31
+00:02:22,226 --> 00:02:25,270
+<i>then the spell would be broken.
+
+32
+00:02:25,270 --> 00:02:30,734
+<i>lf not, he would be doomed
+to remain a beast for all time.
+
+33
+00:02:32,736 --> 00:02:36,990
+<i>As the years passed,
+he fell into despair
+
+34
+00:02:36,990 --> 00:02:40,077
+<i>and lost all hope
+
+35
+00:02:40,077 --> 00:02:47,334
+<i>for who could ever learn
+to love a beast?
+
+36
+00:03:11,108 --> 00:03:16,572
+# Little town,
+it's a quiet village #
+
+37
+00:03:16,572 --> 00:03:21,368
+# Every day
+like the one before #
+
+38
+00:03:21,368 --> 00:03:25,873
+# Little town,
+full of little people #
+
+39
+00:03:25,873 --> 00:03:31,503
+# Waking up... to... say... #
+
+40
+00:03:31,503 --> 00:03:33,297
+<i>Bonjour!
+
+41
+00:03:33,297 --> 00:03:34,298
+<i>- Bonjour!
+- Bonjour!
+
+42
+00:03:34,298 --> 00:03:34,965
+<i>Bonjour!
+
+43
+00:03:34,965 --> 00:03:36,633
+# There goes the baker #
+
+44
+00:03:36,633 --> 00:03:39,511
+# With his tray like always #
+
+45
+00:03:39,511 --> 00:03:42,764
+# The same old bread
+and rolls to sell #
+
+46
+00:03:42,764 --> 00:03:44,641
+# Every morning just the same #
+
+47
+00:03:44,641 --> 00:03:46,226
+# Since the morning
+that we came #
+
+48
+00:03:46,226 --> 00:03:47,936
+# To this poor
+provincial town... #
+
+49
+00:03:47,936 --> 00:03:48,979
+Good morning, Belle.
+
+50
+00:03:48,979 --> 00:03:49,980
+Good morning, <i>Monsieur.
+
+51
+00:03:49,980 --> 00:03:50,981
+Where are you off to?
+
+52
+00:03:50,981 --> 00:03:51,982
+The bookshop.
+
+53
+00:03:51,982 --> 00:03:54,276
+l just finished
+the most wonderful story
+
+54
+00:03:54,276 --> 00:03:56,153
+about a beanstalk
+and an ogre, and...
+
+55
+00:03:56,153 --> 00:03:57,321
+That's nice.
+
+56
+00:03:57,321 --> 00:03:58,614
+Marie! The baguettes.
+
+57
+00:03:58,614 --> 00:04:00,157
+Hurry up!
+
+58
+00:04:00,157 --> 00:04:01,158
+# Look, there she goes #
+
+59
+00:04:01,158 --> 00:04:03,660
+# The girl is strange,
+no question #
+
+60
+00:04:03,660 --> 00:04:07,164
+# Dazed and distracted,
+can't you tell? #
+
+61
+00:04:07,164 --> 00:04:08,957
+# Never part of any crowd #
+
+62
+00:04:08,957 --> 00:04:10,834
+# 'Cause her head's
+up on some cloud #
+
+63
+00:04:10,834 --> 00:04:14,838
+# No denying she's a funny girl,
+that Belle #
+
+64
+00:04:14,838 --> 00:04:16,006
+# <i>Bonjour #
+
+65
+00:04:16,006 --> 00:04:17,007
+# Good day #
+
+66
+00:04:17,007 --> 00:04:18,800
+# How is your family? #
+
+67
+00:04:18,800 --> 00:04:19,801
+# <i>Bonjour #
+
+68
+00:04:19,801 --> 00:04:20,844
+# Good day #
+
+69
+00:04:20,844 --> 00:04:22,763
+# How is your wife? #
+
+70
+00:04:22,763 --> 00:04:24,556
+# l need six eggs #
+
+71
+00:04:24,598 --> 00:04:26,058
+# That's too expensive #
+
+72
+00:04:26,099 --> 00:04:30,354
+# There must be more
+than this provincial life... #
+
+73
+00:04:30,395 --> 00:04:31,897
+Ah, Belle.
+
+74
+00:04:31,939 --> 00:04:32,940
+Good morning.
+
+75
+00:04:32,981 --> 00:04:34,816
+l've come to return
+the book l borrowed.
+
+76
+00:04:34,858 --> 00:04:35,817
+Finished already?
+
+77
+00:04:35,859 --> 00:04:37,027
+Oh, l couldn't put it down.
+
+78
+00:04:37,069 --> 00:04:38,153
+Have you got anything new?
+
+79
+00:04:39,238 --> 00:04:40,322
+Not since yesterday.
+
+80
+00:04:40,364 --> 00:04:41,698
+That's all right.
+
+81
+00:04:41,740 --> 00:04:43,784
+l'll borrow... this one.
+
+82
+00:04:43,825 --> 00:04:44,868
+That one?
+
+83
+00:04:44,910 --> 00:04:46,328
+But you've read it twice.
+
+84
+00:04:46,370 --> 00:04:48,580
+Well, it's my favorite--
+far-off places
+
+85
+00:04:48,622 --> 00:04:49,998
+daring sword fights
+
+86
+00:04:50,040 --> 00:04:51,834
+magic spells, a
+prince in disguise.
+
+87
+00:04:51,875 --> 00:04:55,087
+lf you like it
+all that much, it's yours.
+
+88
+00:04:55,128 --> 00:04:57,172
+-But, sir...
+-l insist.
+
+89
+00:04:57,214 --> 00:04:58,173
+Well, thank you.
+
+90
+00:04:58,257 --> 00:04:59,466
+Thank you very much.
+
+91
+00:04:59,508 --> 00:05:01,051
+# Look, there she goes #
+
+92
+00:05:01,093 --> 00:05:03,679
+# That girl is so peculiar #
+
+93
+00:05:03,720 --> 00:05:07,015
+# l wonder
+if she's feeling well #
+
+94
+00:05:07,057 --> 00:05:08,809
+# With a dreamy, far-off look #
+
+95
+00:05:08,851 --> 00:05:10,561
+# And her nose stuck in a book #
+
+96
+00:05:10,602 --> 00:05:14,690
+# What a puzzle to the rest
+of us is Belle #
+
+97
+00:05:14,731 --> 00:05:20,612
+# Oh, isn't this amazing? #
+
+98
+00:05:20,654 --> 00:05:30,122
+# lt's my favorite part
+because you'll see #
+
+99
+00:05:30,247 --> 00:05:36,336
+# Here's where she meets
+Prince Charming #
+
+100
+00:05:36,378 --> 00:05:40,090
+# But she won't discover
+that it's him #
+
+101
+00:05:40,132 --> 00:05:43,552
+# Till Chapter Three #
+
+102
+00:05:43,594 --> 00:05:45,554
+Hey! Hey! Hey! Hey! Hey!
+
+103
+00:05:45,596 --> 00:05:49,141
+# Now, it's no wonder
+that her name means beauty #
+
+104
+00:05:49,224 --> 00:05:52,394
+# Her looks have got
+no parallel #
+
+105
+00:05:52,436 --> 00:05:54,271
+# But behind
+that fair facade #
+
+106
+00:05:54,313 --> 00:05:56,398
+# l'm afraid
+she's rather odd #
+
+107
+00:05:56,440 --> 00:05:58,400
+# Very different
+from the rest of us #
+
+108
+00:05:58,442 --> 00:06:00,235
+# She's nothing like
+the rest of us #
+
+109
+00:06:00,277 --> 00:06:04,072
+# Yes, different
+from the rest of us is Belle #
+
+110
+00:06:08,952 --> 00:06:10,913
+Wow, you didn't miss
+a shot, Gaston.
+
+111
+00:06:10,954 --> 00:06:12,039
+You're the greatest hunter
+
+112
+00:06:12,080 --> 00:06:13,248
+in the whole world.
+
+113
+00:06:13,290 --> 00:06:14,917
+l know.
+
+114
+00:06:14,958 --> 00:06:16,960
+No beast alive
+stands a chance against you
+
+115
+00:06:16,960 --> 00:06:18,921
+and no girl,
+for that matter.
+
+116
+00:06:18,962 --> 00:06:19,922
+lt's true, Lefou
+
+117
+00:06:19,963 --> 00:06:22,341
+and l've got my sights set
+on that one.
+
+118
+00:06:22,382 --> 00:06:24,092
+The inventor's daughter?
+
+119
+00:06:24,218 --> 00:06:26,929
+She's the one-- the lucky girl
+l'm going to marry.
+
+120
+00:06:26,970 --> 00:06:28,055
+But, she...
+
+121
+00:06:28,096 --> 00:06:29,389
+The most beautiful girl in town.
+
+122
+00:06:29,431 --> 00:06:30,557
+l know, but...
+
+123
+00:06:30,599 --> 00:06:32,351
+That makes her the best
+
+124
+00:06:32,392 --> 00:06:34,061
+and don't l
+deserve the best?
+
+125
+00:06:34,102 --> 00:06:35,187
+Well, of course.
+
+126
+00:06:35,187 --> 00:06:36,396
+l mean, you do, but...
+
+127
+00:06:36,396 --> 00:06:39,650
+# Right from the moment
+when l met her, saw her #
+
+128
+00:06:39,650 --> 00:06:43,570
+# l said, "She's gorgeous,"
+and l fell #
+
+129
+00:06:43,570 --> 00:06:47,574
+# Here in town there's only she
+who is beautiful as me #
+
+130
+00:06:47,616 --> 00:06:51,620
+# So, l'm making plans
+to woo and marry Belle #
+
+131
+00:06:51,662 --> 00:06:55,624
+# Look, there he goes,
+isn't he dreamy? #
+
+132
+00:06:55,666 --> 00:06:58,752
+# <i>Monsieur Gaston,
+oh, he's so cute #
+
+133
+00:06:58,794 --> 00:07:02,422
+# Be still, my heart,
+l'm hardly breathing #
+
+134
+00:07:02,464 --> 00:07:05,968
+# He's such a tall, dark,
+strong and handsome brute #
+
+135
+00:07:06,009 --> 00:07:08,262
+-# <i>Bonjour # # Pardon #
+-# Good day # # Mais oui #
+
+136
+00:07:08,303 --> 00:07:10,222
+-# You call this bacon? #
+-# What lovely grapes #
+
+137
+00:07:10,264 --> 00:07:11,849
+-# Ten yards # # Some cheese #
+-# 'Scuse me # # One pound #
+
+138
+00:07:11,890 --> 00:07:12,850
+# l'll get the knife #
+
+139
+00:07:12,891 --> 00:07:13,892
+# Please let me through #
+
+140
+00:07:13,934 --> 00:07:14,977
+# This bread # # Those fish #
+
+141
+00:07:15,018 --> 00:07:16,019
+# lt's stale # # They smell #
+
+142
+00:07:16,061 --> 00:07:17,104
+# <i>Madame's mistaken #
+
+143
+00:07:17,145 --> 00:07:18,355
+# There must be more #
+
+144
+00:07:18,397 --> 00:07:20,858
+# Than this provincial life #
+
+145
+00:07:20,983 --> 00:07:24,653
+# Just watch, l'm going
+to make Belle my wife #
+
+146
+00:07:24,736 --> 00:07:25,737
+# Look, there she goes #
+
+147
+00:07:25,737 --> 00:07:28,448
+# A girl who's strange
+but special #
+
+148
+00:07:28,448 --> 00:07:31,785
+# A most peculiar <i>mademoiselle #
+
+149
+00:07:31,785 --> 00:07:33,370
+# lt's a pity and a sin #
+
+150
+00:07:33,370 --> 00:07:35,205
+# She doesn't quite fit in #
+
+151
+00:07:35,205 --> 00:07:36,957
+# 'Cause she really is
+a funny girl #
+
+152
+00:07:36,957 --> 00:07:39,293
+# A beauty but a funny girl #
+
+153
+00:07:39,293 --> 00:07:44,339
+# She really is a funny girl #
+
+154
+00:07:44,339 --> 00:07:47,509
+# That Belle... #
+
+155
+00:07:47,509 --> 00:07:50,429
+# <i>Bonjour, bonjour. #
+
+156
+00:07:53,640 --> 00:07:54,850
+Hello, Belle.
+
+157
+00:07:54,892 --> 00:07:56,602
+<i>Bonjour, Gaston.
+
+158
+00:07:56,643 --> 00:07:58,770
+Gaston,
+may l have my book, please?
+
+159
+00:07:58,812 --> 00:07:59,938
+How can you read this?
+
+160
+00:07:59,980 --> 00:08:01,064
+There's no pictures.
+
+161
+00:08:01,106 --> 00:08:03,192
+Well, some people
+use their imagination.
+
+162
+00:08:03,233 --> 00:08:05,277
+Belle, it's about time
+you got your head
+
+163
+00:08:05,319 --> 00:08:06,320
+out of those books
+
+164
+00:08:06,361 --> 00:08:09,072
+and paid attention
+to more important things...
+
+165
+00:08:09,156 --> 00:08:10,240
+like me.
+
+166
+00:08:12,201 --> 00:08:14,620
+The whole town's
+talking about it.
+
+167
+00:08:14,661 --> 00:08:16,705
+lt's not right
+for a woman to read.
+
+168
+00:08:16,747 --> 00:08:19,499
+Soon she starts getting ideas,
+and thinking...
+
+169
+00:08:19,541 --> 00:08:21,043
+Gaston,
+you are positively primeval.
+
+170
+00:08:21,084 --> 00:08:22,711
+Why, thank you, Belle.
+
+171
+00:08:22,753 --> 00:08:24,004
+What do you say you and me
+
+172
+00:08:24,046 --> 00:08:25,506
+take a walk over to the tavern
+
+173
+00:08:25,547 --> 00:08:27,090
+and take a look
+at my trophies?
+
+174
+00:08:27,132 --> 00:08:28,884
+Maybe some other time.
+
+175
+00:08:28,926 --> 00:08:30,052
+What's wrong with her?
+
+176
+00:08:30,093 --> 00:08:31,094
+She's crazy.
+
+177
+00:08:31,136 --> 00:08:32,679
+He's gorgeous.
+
+178
+00:08:32,721 --> 00:08:34,056
+Please, Gaston, l can't.
+
+179
+00:08:34,097 --> 00:08:36,308
+l have to get home
+to help my father.
+
+180
+00:08:36,350 --> 00:08:37,309
+Good-bye.
+
+181
+00:08:37,351 --> 00:08:38,852
+That crazy old loon--
+
+182
+00:08:38,894 --> 00:08:40,312
+he needs all the
+help he can get.
+
+183
+00:08:41,355 --> 00:08:43,023
+Don't talk about my father
+
+184
+00:08:43,065 --> 00:08:43,941
+that way.
+
+185
+00:08:44,024 --> 00:08:46,568
+Yeah, don't talk
+about her father that way.
+
+186
+00:08:46,735 --> 00:08:48,445
+My father is not crazy.
+
+187
+00:08:48,445 --> 00:08:49,530
+He's a genius.
+
+188
+00:08:52,950 --> 00:08:56,411
+Ooh!
+
+189
+00:09:02,459 --> 00:09:04,211
+Papa?
+
+190
+00:09:04,253 --> 00:09:06,713
+How on earth did that happen?
+
+191
+00:09:06,755 --> 00:09:08,215
+Doggone it!
+
+192
+00:09:08,257 --> 00:09:10,092
+Are you all right, Papa?
+
+193
+00:09:10,133 --> 00:09:13,887
+l'm about ready to give
+up on this hunk of junk.
+
+194
+00:09:13,929 --> 00:09:15,722
+You always say that.
+
+195
+00:09:15,764 --> 00:09:16,932
+l mean it this time.
+
+196
+00:09:16,974 --> 00:09:17,891
+l'll never get
+
+197
+00:09:17,933 --> 00:09:20,269
+this boneheaded contraption
+to work!
+
+198
+00:09:20,310 --> 00:09:21,436
+Yes, you will
+
+199
+00:09:21,478 --> 00:09:23,772
+and you'll win first prize
+at the fair tomorrow.
+
+200
+00:09:23,814 --> 00:09:24,773
+Humph!
+
+201
+00:09:24,815 --> 00:09:27,734
+And become
+a world-famous inventor.
+
+202
+00:09:27,776 --> 00:09:29,736
+You really believe that?
+
+203
+00:09:29,778 --> 00:09:31,280
+l always have.
+
+204
+00:09:31,321 --> 00:09:33,448
+Well, what are we waiting for?
+
+205
+00:09:33,490 --> 00:09:36,118
+l'll have this thing fixed
+in no time.
+
+206
+00:09:36,159 --> 00:09:37,536
+Hand me that, uh...
+
+207
+00:09:37,578 --> 00:09:39,288
+dog-legged clincher, there.
+
+208
+00:09:39,329 --> 00:09:42,124
+So, did you have a
+good time in town today?
+
+209
+00:09:42,207 --> 00:09:44,293
+l got a new book.
+
+210
+00:09:44,334 --> 00:09:47,671
+Papa, do you think l'm odd?
+
+211
+00:09:47,796 --> 00:09:48,881
+My daughter? Odd?
+
+212
+00:09:49,047 --> 00:09:52,009
+Where would you get
+an idea like that?
+
+213
+00:09:52,009 --> 00:09:53,135
+Oh, l don't know.
+
+214
+00:09:53,135 --> 00:09:56,013
+lt's just that l'm not sure
+l fit in here.
+
+215
+00:09:56,013 --> 00:09:58,515
+There's no one
+l can really talk to.
+
+216
+00:09:58,515 --> 00:10:00,309
+What about that Gaston?
+
+217
+00:10:00,309 --> 00:10:02,060
+He's a handsome fellow.
+
+218
+00:10:02,060 --> 00:10:05,939
+He's handsome, all right,
+and rude, and conceited, and...
+
+219
+00:10:05,939 --> 00:10:07,691
+Oh, Papa, he's not for me.
+
+220
+00:10:07,691 --> 00:10:09,109
+Well, don't you worry
+
+221
+00:10:09,109 --> 00:10:12,070
+'cause this invention's
+going to be the start
+
+222
+00:10:12,070 --> 00:10:13,530
+of a new life for us.
+
+223
+00:10:13,530 --> 00:10:15,157
+l think that's done it.
+
+224
+00:10:15,157 --> 00:10:17,034
+Now, let's give it a try.
+
+225
+00:10:31,173 --> 00:10:32,549
+lt works!
+
+226
+00:10:32,549 --> 00:10:34,885
+lt does?
+
+227
+00:10:34,885 --> 00:10:36,094
+lt does!
+
+228
+00:10:36,094 --> 00:10:37,095
+You did it!
+
+229
+00:10:37,095 --> 00:10:38,388
+You really did it!
+
+230
+00:10:38,388 --> 00:10:40,182
+Hitch up Philippe, girl.
+
+231
+00:10:40,182 --> 00:10:42,476
+l'm off to the fair!
+
+232
+00:10:43,936 --> 00:10:45,229
+Good-bye, Papa.
+
+233
+00:10:45,229 --> 00:10:46,647
+Good luck.
+
+234
+00:10:46,647 --> 00:10:52,778
+Good-bye, Belle,
+and take care while l'm gone.
+
+235
+00:11:07,584 --> 00:11:08,669
+We should be there
+by now.
+
+236
+00:11:09,753 --> 00:11:11,922
+Maybe we've missed
+the turn.
+
+237
+00:11:11,964 --> 00:11:13,882
+l guess l should have taken...
+
+238
+00:11:13,924 --> 00:11:15,342
+Wait a minute.
+
+239
+00:11:19,471 --> 00:11:21,765
+Let's go this way.
+
+240
+00:11:32,526 --> 00:11:34,486
+Come on, Philippe,
+it's a shortcut.
+
+241
+00:11:34,528 --> 00:11:36,029
+We'll be there in no time.
+
+242
+00:11:54,798 --> 00:11:56,383
+This can't be right.
+
+243
+00:11:56,425 --> 00:11:59,094
+Where have you taken us,
+Philippe?
+
+244
+00:11:59,136 --> 00:12:01,930
+We'd better turn around.
+
+245
+00:12:03,432 --> 00:12:04,850
+Whoa...
+
+246
+00:12:04,892 --> 00:12:07,311
+Whoa, boy, whoa, whoa, Philippe.
+
+247
+00:12:08,645 --> 00:12:10,272
+Oh...!
+
+248
+00:12:10,355 --> 00:12:12,065
+Oh, look out!
+
+249
+00:12:15,819 --> 00:12:17,446
+Whoa!
+
+250
+00:12:17,487 --> 00:12:19,489
+Whoa, boy!
+
+251
+00:12:19,489 --> 00:12:22,326
+Back up, back up, back up!
+
+252
+00:12:22,367 --> 00:12:24,453
+Good boy, good boy.
+
+253
+00:12:24,494 --> 00:12:25,495
+That's it.
+
+254
+00:12:25,537 --> 00:12:26,580
+Back up!
+
+255
+00:12:26,622 --> 00:12:28,332
+Steady, steady.
+
+256
+00:12:28,373 --> 00:12:29,458
+Now, steady.
+
+257
+00:12:31,877 --> 00:12:33,629
+Philippe, no!
+
+258
+00:12:39,593 --> 00:12:40,928
+Philippe.
+
+259
+00:12:43,805 --> 00:12:45,599
+Oh...
+
+260
+00:13:06,703 --> 00:13:08,664
+Help!
+
+261
+00:13:08,705 --> 00:13:10,958
+ls someone there?!
+
+262
+00:13:11,041 --> 00:13:12,501
+Help!
+
+263
+00:13:16,880 --> 00:13:18,632
+Oh!
+
+264
+00:13:38,569 --> 00:13:41,029
+What...?
+
+265
+00:13:41,029 --> 00:13:44,074
+Oh...
+
+266
+00:13:47,703 --> 00:13:53,375
+Hello?
+
+267
+00:13:53,417 --> 00:13:56,753
+Poor fellow, must have
+lost his way in the woods.
+
+268
+00:13:56,753 --> 00:13:59,089
+Keep quiet; maybe
+he'll go away.
+
+269
+00:13:59,089 --> 00:14:01,425
+ls someone there?
+
+270
+00:14:01,425 --> 00:14:05,220
+Not a word, Lumiere;
+not one word.
+
+271
+00:14:05,220 --> 00:14:09,141
+l don't mean to intrude,
+but l've lost my horse
+
+272
+00:14:09,141 --> 00:14:11,393
+and l need a place to stay
+
+273
+00:14:11,393 --> 00:14:12,519
+for the night.
+
+274
+00:14:12,519 --> 00:14:14,563
+Oh, Cogsworth, have a heart.
+
+275
+00:14:14,563 --> 00:14:16,231
+Shh!
+
+276
+00:14:18,275 --> 00:14:20,944
+Of course, <i>Monsieur,
+you are welcome here.
+
+277
+00:14:20,944 --> 00:14:22,571
+Who said that?
+
+278
+00:14:22,571 --> 00:14:24,573
+Over here.
+
+279
+00:14:24,573 --> 00:14:25,866
+Where?
+
+280
+00:14:25,866 --> 00:14:26,783
+<i>Allo.
+
+281
+00:14:30,245 --> 00:14:31,997
+lncredible.
+
+282
+00:14:31,997 --> 00:14:34,750
+Well, now you've done it,
+Lumiere.
+
+283
+00:14:34,750 --> 00:14:36,835
+Splendid, just peachy. Ah!
+
+284
+00:14:36,835 --> 00:14:38,295
+How is this accomplished?
+
+285
+00:14:38,295 --> 00:14:39,546
+Put me down at once!
+
+286
+00:14:39,546 --> 00:14:40,547
+Stop that!
+
+287
+00:14:41,632 --> 00:14:42,925
+Stop that, l say.
+
+288
+00:14:44,927 --> 00:14:45,886
+Ow!
+
+289
+00:14:48,305 --> 00:14:51,016
+Huh... Close that at once.
+
+290
+00:14:51,058 --> 00:14:52,518
+Do you mind?!
+
+291
+00:14:52,559 --> 00:14:53,936
+l-l beg your pardon.
+
+292
+00:14:53,977 --> 00:14:56,897
+lt's, it's just
+that l've never seen a...
+
+293
+00:15:05,989 --> 00:15:08,116
+Oh, you are soaked to the bone,
+<i>Monsieur.
+
+294
+00:15:08,200 --> 00:15:10,285
+Come, warm yourself by the fire.
+
+295
+00:15:10,327 --> 00:15:11,328
+Thank you.
+
+296
+00:15:11,328 --> 00:15:12,621
+No, no, no.
+
+297
+00:15:12,663 --> 00:15:15,958
+You know what the master will do
+if he finds him here.
+
+298
+00:15:15,999 --> 00:15:19,753
+l demand
+that you stop right there.
+
+299
+00:15:19,795 --> 00:15:21,004
+Oh, no, no!
+
+300
+00:15:21,004 --> 00:15:22,923
+Not the master's chair.
+
+301
+00:15:24,633 --> 00:15:25,843
+l'm not seeing this!
+
+302
+00:15:25,843 --> 00:15:27,094
+l am not seeing this!
+
+303
+00:15:27,094 --> 00:15:31,682
+Well, hello there, boy.
+
+304
+00:15:35,894 --> 00:15:37,145
+What service.
+
+305
+00:15:37,145 --> 00:15:39,940
+All right,
+this has gone far enough.
+
+306
+00:15:39,940 --> 00:15:41,525
+l'm in charge here.
+
+307
+00:15:41,525 --> 00:15:43,861
+How would you like
+a nice spot of tea, sir?
+
+308
+00:15:43,861 --> 00:15:45,487
+lt'll warm you up
+in no time.
+
+309
+00:15:45,487 --> 00:15:47,489
+No. No tea.
+
+310
+00:15:47,489 --> 00:15:50,325
+No tea!
+
+311
+00:15:51,535 --> 00:15:53,078
+His mustache tickles, Mama.
+
+312
+00:15:53,078 --> 00:15:54,079
+Oh!
+
+313
+00:15:55,372 --> 00:15:56,540
+Hello.
+
+314
+00:16:01,545 --> 00:16:03,255
+Uh-oh.
+
+315
+00:16:03,255 --> 00:16:07,676
+Oh...
+
+316
+00:16:11,180 --> 00:16:12,055
+Ah...
+
+317
+00:16:12,055 --> 00:16:14,057
+There's a stranger here.
+
+318
+00:16:14,057 --> 00:16:15,601
+Master, allow me to explain.
+
+319
+00:16:15,601 --> 00:16:17,686
+The gentleman
+was lost in the woods.
+
+320
+00:16:17,686 --> 00:16:18,937
+He was cold and wet...
+
+321
+00:16:20,856 --> 00:16:23,358
+Master, l'd like
+to take this moment to say
+
+322
+00:16:23,358 --> 00:16:25,319
+l was against this
+from the start.
+
+323
+00:16:25,319 --> 00:16:26,570
+lt was all his fault.
+
+324
+00:16:26,570 --> 00:16:29,740
+l tried to stop them,
+but would they listen to me? No.
+
+325
+00:16:35,787 --> 00:16:36,872
+Who are you?
+
+326
+00:16:36,872 --> 00:16:38,123
+What are you doing here?
+
+327
+00:16:38,123 --> 00:16:40,626
+l-l-l was lost in the woods,
+and, and...
+
+328
+00:16:40,626 --> 00:16:41,585
+You're not welcome here!
+
+329
+00:16:41,585 --> 00:16:44,755
+l-l-l'm sorry.
+
+330
+00:16:44,755 --> 00:16:45,923
+What are you staring at?!
+
+331
+00:16:45,923 --> 00:16:46,965
+N-Nothing.
+
+332
+00:16:46,965 --> 00:16:49,259
+So, you've come to stare
+
+333
+00:16:49,259 --> 00:16:50,719
+at the Beast, have you?!
+
+334
+00:16:50,719 --> 00:16:52,054
+Please, l meant no harm!
+
+335
+00:16:52,054 --> 00:16:53,931
+l just needed
+a place to stay.
+
+336
+00:16:53,931 --> 00:16:55,891
+l'll give you
+a place to stay.
+
+337
+00:16:55,891 --> 00:16:57,059
+Oh, no...!
+
+338
+00:16:57,059 --> 00:16:58,393
+Please! Oh, no!
+
+339
+00:17:04,107 --> 00:17:06,902
+Oh, boy, Belle's going to get
+the surprise of her life
+
+340
+00:17:06,944 --> 00:17:08,278
+huh, Gaston?
+
+341
+00:17:08,320 --> 00:17:10,948
+Yep. This is her lucky day.
+
+342
+00:17:14,326 --> 00:17:17,412
+l'd like to thank you all
+for coming to my wedding.
+
+343
+00:17:17,454 --> 00:17:20,082
+But first l'd better go in there
+and propose to the girl.
+
+344
+00:17:23,168 --> 00:17:24,753
+And you, Lefou--
+now, when
+
+345
+00:17:24,795 --> 00:17:26,380
+Belle and l come
+out that door...
+
+346
+00:17:26,421 --> 00:17:27,339
+Oh, l know, l know!
+
+347
+00:17:27,381 --> 00:17:28,799
+l-l strike up the band.
+
+348
+00:17:32,261 --> 00:17:33,387
+Not yet!
+
+349
+00:17:33,428 --> 00:17:35,097
+Sorry.
+
+350
+00:17:46,400 --> 00:17:47,693
+Gaston.
+
+351
+00:17:47,734 --> 00:17:49,486
+What a pleasant surprise.
+
+352
+00:17:49,528 --> 00:17:50,779
+lsn't it, though?
+
+353
+00:17:50,821 --> 00:17:52,948
+l'm just full of surprises.
+
+354
+00:17:52,990 --> 00:17:55,117
+You know, Belle, there's
+not a girl in town
+
+355
+00:17:55,158 --> 00:17:57,160
+who wouldn't love
+to be in your shoes.
+
+356
+00:17:57,160 --> 00:17:59,329
+This is the day...
+
+357
+00:17:59,371 --> 00:18:00,873
+Hmm.
+
+358
+00:18:00,914 --> 00:18:02,124
+Yeah.
+
+359
+00:18:02,165 --> 00:18:04,334
+This is the day your
+dreams come true.
+
+360
+00:18:04,376 --> 00:18:07,713
+What do you know
+about my dreams, Gaston?
+
+361
+00:18:07,713 --> 00:18:11,258
+Plenty. Here, picture this:
+
+362
+00:18:11,258 --> 00:18:13,343
+A rustic hunting lodge
+
+363
+00:18:13,343 --> 00:18:16,513
+my latest kill
+roasting on the fire
+
+364
+00:18:16,513 --> 00:18:19,641
+and my little wife,
+massaging my feet
+
+365
+00:18:19,641 --> 00:18:21,018
+while the little ones
+
+366
+00:18:21,018 --> 00:18:22,769
+play on the floor
+with the dogs.
+
+367
+00:18:22,769 --> 00:18:23,979
+We'll have six or seven.
+
+368
+00:18:23,979 --> 00:18:24,855
+Dogs?
+
+369
+00:18:24,855 --> 00:18:25,856
+No, Belle!
+
+370
+00:18:25,856 --> 00:18:27,107
+Strapping boys,
+like me.
+
+371
+00:18:27,107 --> 00:18:28,108
+lmagine that.
+
+372
+00:18:28,108 --> 00:18:29,109
+And do you know
+
+373
+00:18:29,109 --> 00:18:30,694
+who that little
+wife will be?
+
+374
+00:18:30,694 --> 00:18:31,695
+Let me think.
+
+375
+00:18:31,695 --> 00:18:32,779
+You, Belle.
+
+376
+00:18:32,779 --> 00:18:33,947
+Gaston, l'm...
+
+377
+00:18:33,947 --> 00:18:35,282
+l'm...
+
+378
+00:18:35,282 --> 00:18:36,617
+speechless.
+
+379
+00:18:36,617 --> 00:18:39,161
+l really don't
+know what to say.
+
+380
+00:18:39,161 --> 00:18:40,204
+Say you'll marry me.
+
+381
+00:18:40,204 --> 00:18:43,373
+l'm very sorry,
+Gaston, but...
+
+382
+00:18:43,373 --> 00:18:44,374
+but...
+
+383
+00:18:44,374 --> 00:18:45,709
+l just don't deserve you.
+
+384
+00:18:45,709 --> 00:18:47,544
+Whoa!
+
+385
+00:19:00,641 --> 00:19:02,643
+So, how'd it go?
+
+386
+00:19:04,061 --> 00:19:07,439
+l'll have Belle for my wife.
+
+387
+00:19:07,439 --> 00:19:10,234
+Make no mistake about that!
+
+388
+00:19:10,234 --> 00:19:12,236
+Touchy.
+
+389
+00:19:19,284 --> 00:19:22,079
+ls he gone?
+
+390
+00:19:23,247 --> 00:19:24,623
+Can you imagine?
+
+391
+00:19:24,623 --> 00:19:26,542
+He asked me to marry him.
+
+392
+00:19:26,542 --> 00:19:30,087
+Me, the wife of that boorish,
+brainless...
+
+393
+00:19:30,087 --> 00:19:32,840
+# <i>Madame Gaston #
+
+394
+00:19:32,840 --> 00:19:34,508
+# Can't you just see it? #
+
+395
+00:19:34,508 --> 00:19:35,968
+# <i>Madame Gaston #
+
+396
+00:19:35,968 --> 00:19:37,344
+# His little wife #
+
+397
+00:19:38,554 --> 00:19:41,223
+# No, sir, not me #
+
+398
+00:19:41,223 --> 00:19:42,558
+# l guarantee it #
+
+399
+00:19:42,558 --> 00:19:49,106
+# l want much more
+than this provincial life #
+
+400
+00:19:55,279 --> 00:20:00,284
+# l want adventure
+in the great, wide somewhere #
+
+401
+00:20:00,325 --> 00:20:03,996
+# l want it more
+than l can tell #
+
+402
+00:20:04,037 --> 00:20:08,834
+# And for once
+it might be grand #
+
+403
+00:20:08,876 --> 00:20:12,337
+# To have someone understand #
+
+404
+00:20:12,379 --> 00:20:19,011
+# l want so much more
+than they've got planned. #
+
+405
+00:20:22,931 --> 00:20:24,099
+Philippe!
+What are you doing here?
+
+406
+00:20:24,183 --> 00:20:25,642
+Where's...?
+
+407
+00:20:25,642 --> 00:20:26,810
+Where's Papa?
+
+408
+00:20:26,810 --> 00:20:28,228
+Where is he, Philippe?
+
+409
+00:20:28,228 --> 00:20:29,479
+What happened?
+
+410
+00:20:29,479 --> 00:20:30,898
+Oh, we have to find him.
+
+411
+00:20:30,898 --> 00:20:33,775
+You have to take me to him.
+
+412
+00:20:46,163 --> 00:20:47,664
+What is this place?
+
+413
+00:20:50,083 --> 00:20:51,084
+Philippe, please!
+
+414
+00:20:51,084 --> 00:20:52,169
+Steady!
+
+415
+00:20:53,795 --> 00:20:55,130
+Steady.
+
+416
+00:20:58,175 --> 00:21:00,469
+Papa.
+
+417
+00:21:00,469 --> 00:21:03,388
+Couldn't keep quiet, could we?
+
+418
+00:21:03,388 --> 00:21:05,724
+Just had to invite him
+to stay, didn't we?
+
+419
+00:21:05,724 --> 00:21:07,309
+Serve him tea.
+
+420
+00:21:07,309 --> 00:21:08,894
+Sit in the master's chair.
+
+421
+00:21:08,894 --> 00:21:10,312
+Pet the pooch.
+
+422
+00:21:10,312 --> 00:21:12,314
+l was trying
+to be hospitable.
+
+423
+00:21:13,273 --> 00:21:14,900
+Hello?
+
+424
+00:21:14,900 --> 00:21:17,778
+ls anyone here?
+
+425
+00:21:17,778 --> 00:21:21,532
+Hello? Papa?
+
+426
+00:21:21,532 --> 00:21:23,700
+Papa?
+
+427
+00:21:23,700 --> 00:21:25,869
+Are you here?
+
+428
+00:21:25,869 --> 00:21:28,872
+Mama, there's a girl
+in the castle.
+
+429
+00:21:28,872 --> 00:21:32,292
+Now, Chip, l'll not have you
+making up such wild stories.
+
+430
+00:21:32,292 --> 00:21:33,836
+Really, Mama.
+l saw her.
+
+431
+00:21:33,836 --> 00:21:34,795
+Not another word.
+
+432
+00:21:34,795 --> 00:21:35,796
+But...
+
+433
+00:21:35,796 --> 00:21:36,797
+lnto the tub.
+
+434
+00:21:36,797 --> 00:21:37,798
+Woop...
+
+435
+00:21:37,798 --> 00:21:39,800
+Well! l saw a girl
+in the castle!
+
+436
+00:21:39,800 --> 00:21:42,386
+See? l told you.
+
+437
+00:21:42,386 --> 00:21:44,388
+lrresponsible,
+devil-may-care
+
+438
+00:21:44,388 --> 00:21:46,390
+waxy-eared,
+slack-jawed...
+
+439
+00:21:46,390 --> 00:21:49,309
+Papa?
+
+440
+00:21:49,309 --> 00:21:51,728
+Did you see that?
+
+441
+00:21:52,813 --> 00:21:54,231
+lt's a girl!
+
+442
+00:21:54,231 --> 00:21:55,566
+l know it's a girl.
+
+443
+00:21:55,566 --> 00:21:56,483
+Don't you see?
+
+444
+00:21:56,483 --> 00:21:57,693
+She's the one--
+
+445
+00:21:57,693 --> 00:21:59,403
+the girl we have
+been waiting for.
+
+446
+00:21:59,403 --> 00:22:00,821
+She has come
+to break the spell!
+
+447
+00:22:00,821 --> 00:22:05,158
+Wait a minute!
+Wait a minute!
+
+448
+00:22:05,868 --> 00:22:07,369
+Papa?
+
+449
+00:22:08,662 --> 00:22:11,874
+Papa?
+
+450
+00:22:11,874 --> 00:22:13,083
+Hello?
+
+451
+00:22:13,083 --> 00:22:15,085
+ls someone here?
+
+452
+00:22:15,085 --> 00:22:16,378
+Wait!
+
+453
+00:22:16,420 --> 00:22:18,422
+l'm looking for
+my father. l...
+
+454
+00:22:20,924 --> 00:22:22,092
+That's funny.
+
+455
+00:22:22,092 --> 00:22:26,096
+l'm sure there was someone.
+
+456
+00:22:26,096 --> 00:22:27,598
+l-ls anyone here?
+
+457
+00:22:27,598 --> 00:22:28,932
+Belle?
+
+458
+00:22:28,932 --> 00:22:32,269
+Papa!
+
+459
+00:22:32,269 --> 00:22:33,562
+H-How did you find me?
+
+460
+00:22:33,562 --> 00:22:35,105
+Oh, your hands
+are like ice.
+
+461
+00:22:36,273 --> 00:22:37,733
+l have to get
+you out of there.
+
+462
+00:22:37,733 --> 00:22:39,401
+Belle, l want you
+to leave this place.
+
+463
+00:22:39,401 --> 00:22:40,527
+Who's done this to you?
+
+464
+00:22:40,527 --> 00:22:41,945
+No time to explain.
+
+465
+00:22:41,945 --> 00:22:42,946
+You must go! Now!
+
+466
+00:22:42,946 --> 00:22:44,031
+l won't leave you!
+
+467
+00:22:44,031 --> 00:22:45,574
+What are you doing here?
+
+468
+00:22:45,574 --> 00:22:46,491
+Run, Belle!
+
+469
+00:22:46,533 --> 00:22:48,160
+Who's there?
+Who are you?
+
+470
+00:22:48,202 --> 00:22:49,953
+The master of this castle.
+
+471
+00:22:50,787 --> 00:22:52,581
+l've come for my father.
+
+472
+00:22:52,581 --> 00:22:54,041
+Please let him out.
+
+473
+00:22:54,041 --> 00:22:55,292
+Can't you see he's sick?
+
+474
+00:22:55,292 --> 00:22:57,461
+Then he shouldn't have
+trespassed here!
+
+475
+00:22:57,461 --> 00:22:59,046
+But he could die.
+
+476
+00:22:59,046 --> 00:23:00,380
+Please, l-l'll do anything.
+
+477
+00:23:00,380 --> 00:23:03,008
+There's nothing you can do.
+
+478
+00:23:03,008 --> 00:23:04,218
+He's my prisoner.
+
+479
+00:23:04,218 --> 00:23:06,720
+Oh, there must be
+some way l can...
+
+480
+00:23:06,720 --> 00:23:10,807
+Wait!
+
+481
+00:23:13,393 --> 00:23:15,187
+Take me instead.
+
+482
+00:23:15,187 --> 00:23:17,981
+You?!
+
+483
+00:23:17,981 --> 00:23:19,983
+You would...
+
+484
+00:23:19,983 --> 00:23:21,485
+take his place?
+
+485
+00:23:21,485 --> 00:23:22,486
+Belle, no!
+
+486
+00:23:22,486 --> 00:23:24,488
+You don't know
+what you're doing!
+
+487
+00:23:24,488 --> 00:23:26,740
+lf l did,
+would you let him go?
+
+488
+00:23:26,740 --> 00:23:33,705
+Yes. But you must promise
+to stay here forever.
+
+489
+00:23:33,705 --> 00:23:38,168
+Come into the light.
+
+490
+00:23:47,010 --> 00:23:48,220
+No, Belle!
+
+491
+00:23:48,220 --> 00:23:52,850
+l won't let you do this!
+
+492
+00:23:52,850 --> 00:23:54,017
+You have my word.
+
+493
+00:23:54,017 --> 00:23:56,019
+Done!
+
+494
+00:23:59,565 --> 00:24:01,024
+No, Belle,
+listen to me.
+
+495
+00:24:01,024 --> 00:24:02,651
+l'm old.
+l've lived my life.
+
+496
+00:24:02,651 --> 00:24:03,694
+Wait.
+
+497
+00:24:03,694 --> 00:24:04,361
+Belle!
+
+498
+00:24:04,403 --> 00:24:05,112
+Wait!
+
+499
+00:24:05,153 --> 00:24:07,865
+No, please spare my daughter.
+
+500
+00:24:07,865 --> 00:24:09,032
+Please!
+
+501
+00:24:09,032 --> 00:24:10,409
+She's no longer
+your concern.
+
+502
+00:24:11,535 --> 00:24:12,995
+Take him
+to the village.
+
+503
+00:24:12,995 --> 00:24:13,996
+Let me out!
+
+504
+00:24:13,996 --> 00:24:15,289
+Please let me out!
+
+505
+00:24:15,289 --> 00:24:17,082
+Let me out!
+
+506
+00:24:17,082 --> 00:24:19,877
+Please! Oh, please!
+
+507
+00:24:25,007 --> 00:24:26,049
+Master?
+
+508
+00:24:26,049 --> 00:24:27,092
+What?
+
+509
+00:24:27,092 --> 00:24:29,553
+Since the girl is going
+to be with us
+
+510
+00:24:29,553 --> 00:24:30,888
+for quite some time
+
+511
+00:24:30,888 --> 00:24:34,016
+l was thinking that you
+might want to offer her
+
+512
+00:24:34,016 --> 00:24:35,684
+a more comfortable room.
+
+513
+00:24:37,394 --> 00:24:39,271
+Then again, maybe not.
+
+514
+00:24:40,731 --> 00:24:44,693
+You didn't even let me
+say good-bye.
+
+515
+00:24:44,693 --> 00:24:46,737
+l'll never see him
+again.
+
+516
+00:24:46,737 --> 00:24:49,907
+l didn't get
+to say good-bye.
+
+517
+00:24:49,907 --> 00:24:51,742
+l'll show you to your room.
+
+518
+00:24:51,742 --> 00:24:53,202
+My room?
+
+519
+00:24:53,202 --> 00:24:54,661
+But l thought...
+
+520
+00:24:54,661 --> 00:24:56,747
+You want to stay in the tower?
+
+521
+00:24:56,747 --> 00:24:57,497
+No.
+
+522
+00:24:57,539 --> 00:24:58,707
+Then follow me.
+
+523
+00:25:18,685 --> 00:25:21,563
+Say something to her.
+
+524
+00:25:21,563 --> 00:25:23,607
+Huh? Oh.
+
+525
+00:25:23,607 --> 00:25:28,737
+l, uh, hope you like it here.
+
+526
+00:25:28,737 --> 00:25:32,324
+The castle is your home now,
+so you can go anywhere you like
+
+527
+00:25:32,324 --> 00:25:33,700
+except the west wing.
+
+528
+00:25:33,700 --> 00:25:34,576
+What's in the west...?
+
+529
+00:25:34,576 --> 00:25:39,498
+lt's forbidden!
+
+530
+00:25:42,793 --> 00:25:44,753
+Now, if you need anything
+
+531
+00:25:44,753 --> 00:25:46,797
+my servants will attend you.
+
+532
+00:25:46,797 --> 00:25:48,298
+Dinner.
+lnvite her to dinner.
+
+533
+00:25:48,298 --> 00:25:51,051
+You will join me
+for dinner.
+
+534
+00:25:51,051 --> 00:25:53,220
+That's not a request!
+
+535
+00:26:11,321 --> 00:26:13,240
+<i>Who does she think she is?
+
+536
+00:26:13,282 --> 00:26:16,118
+<i>That girl has tangled
+with the wrong man.
+
+537
+00:26:16,159 --> 00:26:18,120
+No one says no
+to Gaston.
+
+538
+00:26:18,161 --> 00:26:19,204
+Darn right.
+
+539
+00:26:19,246 --> 00:26:21,456
+Dismissed, rejected...
+
+540
+00:26:21,498 --> 00:26:23,041
+publicly humiliated.
+
+541
+00:26:23,083 --> 00:26:25,460
+Why, it's more
+than l can bear.
+
+542
+00:26:25,502 --> 00:26:26,503
+More beer?
+
+543
+00:26:26,545 --> 00:26:27,462
+What for?
+
+544
+00:26:27,504 --> 00:26:28,797
+Nothing helps.
+
+545
+00:26:28,839 --> 00:26:30,132
+l'm disgraced.
+
+546
+00:26:30,215 --> 00:26:31,383
+Who, you?
+
+547
+00:26:31,425 --> 00:26:33,719
+Never!
+
+548
+00:26:33,719 --> 00:26:36,680
+Gaston, you've got
+to pull yourself together.
+
+549
+00:26:36,680 --> 00:26:39,558
+# Gosh, it disturbs me
+to see you, Gaston #
+
+550
+00:26:39,600 --> 00:26:41,518
+# Looking so down
+in the dumps #
+
+551
+00:26:43,061 --> 00:26:46,148
+# Every guy here'd
+love to be you, Gaston #
+
+552
+00:26:46,190 --> 00:26:49,484
+# Even when taking
+your lumps #
+
+553
+00:26:49,526 --> 00:26:52,446
+# There's no man in town
+as admired as you #
+
+554
+00:26:52,487 --> 00:26:56,241
+# You're everyone's
+favorite guy #
+
+555
+00:26:56,283 --> 00:26:59,286
+# Everyone's awed and
+inspired by you #
+
+556
+00:26:59,328 --> 00:27:06,084
+# And it's not very hard
+to see why #
+
+557
+00:27:08,212 --> 00:27:11,215
+# No... one's... #
+
+558
+00:27:11,215 --> 00:27:12,591
+# Slick as Gaston #
+
+559
+00:27:12,591 --> 00:27:14,510
+# No one's quick
+as Gaston #
+
+560
+00:27:14,510 --> 00:27:17,846
+# No one's neck's as incredibly
+thick as Gaston #
+
+561
+00:27:17,846 --> 00:27:21,600
+# For there's no man in town
+half as manly #
+
+562
+00:27:21,600 --> 00:27:24,144
+# Perfect, a pure paragon #
+
+563
+00:27:24,144 --> 00:27:27,606
+# You can ask any Tom, Dick
+or Stanley #
+
+564
+00:27:27,606 --> 00:27:29,233
+# And they'll tell you
+whose team #
+
+565
+00:27:29,233 --> 00:27:31,818
+# They prefer to be on #
+
+566
+00:27:31,818 --> 00:27:32,903
+Ooh!
+
+567
+00:27:32,903 --> 00:27:37,115
+# No... one's...
+been like Gaston #
+
+568
+00:27:37,115 --> 00:27:38,784
+# A kingpin like Gaston #
+
+569
+00:27:38,784 --> 00:27:40,786
+# No one's got a full cleft #
+
+570
+00:27:40,786 --> 00:27:42,371
+# ln his chin
+like Gaston #
+
+571
+00:27:42,371 --> 00:27:46,124
+# As a specimen, yes,
+l'm intimidating #
+
+572
+00:27:46,166 --> 00:27:49,294
+# My, what a guy, that Gaston #
+
+573
+00:27:49,336 --> 00:27:50,838
+# Give five "hurrahs!" #
+
+574
+00:27:50,879 --> 00:27:52,714
+# Give 12 "hip-hips!" #
+
+575
+00:27:52,798 --> 00:27:57,511
+# Gaston is the best
+and the rest is all drips #
+
+576
+00:27:57,553 --> 00:28:01,056
+# No... one... #
+
+577
+00:28:01,098 --> 00:28:02,516
+# Fights like Gaston #
+
+578
+00:28:02,558 --> 00:28:04,268
+# Douses lights like Gaston #
+
+579
+00:28:04,309 --> 00:28:07,563
+# ln a wrestling match,
+nobody bites like Gaston #
+
+580
+00:28:07,604 --> 00:28:10,858
+# For there's no one
+as burly and brawny #
+
+581
+00:28:10,899 --> 00:28:14,278
+# As you see,
+l've got biceps to spare #
+
+582
+00:28:14,278 --> 00:28:16,780
+# Not a bit of him
+scraggly or scrawny #
+
+583
+00:28:16,822 --> 00:28:18,198
+# That's right #
+
+584
+00:28:18,240 --> 00:28:21,451
+# And every last inch of me's
+covered with hair #
+
+585
+00:28:21,493 --> 00:28:22,828
+# No one hits like Gaston #
+
+586
+00:28:22,870 --> 00:28:24,288
+# Matches wits like Gaston #
+
+587
+00:28:24,329 --> 00:28:28,458
+# ln a spitting match,
+nobody spits like Gaston #
+
+588
+00:28:28,500 --> 00:28:30,836
+# l'm especially good
+at expectorating #
+
+589
+00:28:30,878 --> 00:28:31,795
+# Ptooey! #
+
+590
+00:28:31,837 --> 00:28:34,840
+# Ten points for Gaston! #
+
+591
+00:28:34,882 --> 00:28:36,300
+# When l was a lad #
+
+592
+00:28:36,300 --> 00:28:38,302
+# l ate four dozen eggs #
+
+593
+00:28:38,302 --> 00:28:41,430
+# Every morning
+to help me get large #
+
+594
+00:28:41,471 --> 00:28:42,806
+# And now
+that l'm grown #
+
+595
+00:28:42,848 --> 00:28:44,600
+# l eat
+five dozen eggs #
+
+596
+00:28:44,641 --> 00:28:50,606
+# So l'm roughly
+the size of a barge #
+
+597
+00:28:50,647 --> 00:28:53,901
+# No... one... #
+
+598
+00:28:53,942 --> 00:28:55,569
+# Shoots like Gaston #
+
+599
+00:28:55,611 --> 00:28:57,362
+# Makes those beauts
+like Gaston #
+
+600
+00:28:57,446 --> 00:29:00,324
+# Then goes tromping around
+wearing boots like Gaston #
+
+601
+00:29:00,324 --> 00:29:04,578
+# l use antlers
+in all of my decorating #
+
+602
+00:29:04,578 --> 00:29:06,997
+# My, what a guy #
+
+603
+00:29:06,997 --> 00:29:11,502
+# Gaston! #
+
+604
+00:29:17,174 --> 00:29:19,092
+Help!
+Someone help me!
+
+605
+00:29:19,176 --> 00:29:20,093
+Maurice?
+
+606
+00:29:20,177 --> 00:29:20,636
+Please, please!
+
+607
+00:29:20,677 --> 00:29:21,887
+l need your help.
+
+608
+00:29:21,929 --> 00:29:23,055
+He's got her...
+
+609
+00:29:23,096 --> 00:29:24,765
+He's got her locked
+in the dungeon.
+
+610
+00:29:24,806 --> 00:29:25,766
+Who?
+
+611
+00:29:25,807 --> 00:29:26,767
+Belle. We must go.
+
+612
+00:29:26,808 --> 00:29:28,769
+N-Not a minute to lose.
+
+613
+00:29:28,852 --> 00:29:29,895
+Whoa!
+
+614
+00:29:29,937 --> 00:29:31,188
+Slow down, Maurice.
+
+615
+00:29:31,230 --> 00:29:33,232
+Who's got Belle locked
+in a dungeon?
+
+616
+00:29:33,273 --> 00:29:34,566
+A beast!
+
+617
+00:29:34,608 --> 00:29:37,277
+A horrible, monstrous
+beast.
+
+618
+00:29:40,864 --> 00:29:43,033
+ls it a big beast?
+
+619
+00:29:43,075 --> 00:29:44,076
+Huge!
+
+620
+00:29:44,117 --> 00:29:45,577
+With a long ugly snout?
+
+621
+00:29:45,619 --> 00:29:46,745
+Hideously ugly.
+
+622
+00:29:46,787 --> 00:29:48,413
+And sharp,
+cruel fangs?
+
+623
+00:29:48,455 --> 00:29:49,498
+Yes, yes.
+
+624
+00:29:49,540 --> 00:29:51,041
+Will you help me?
+
+625
+00:29:51,041 --> 00:29:52,125
+All right,
+old man.
+
+626
+00:29:52,209 --> 00:29:53,502
+We'll help you out.
+
+627
+00:29:53,544 --> 00:29:55,504
+You will?
+Oh, thank you.
+
+628
+00:29:55,546 --> 00:29:57,422
+Thank you.
+Thank you!
+
+629
+00:29:57,464 --> 00:29:59,424
+Oh!
+
+630
+00:29:59,466 --> 00:30:02,511
+Crazy old Maurice.
+
+631
+00:30:02,553 --> 00:30:04,638
+He's always good
+for a laugh.
+
+632
+00:30:05,722 --> 00:30:08,684
+Crazy old Maurice, hmm?
+
+633
+00:30:08,725 --> 00:30:12,688
+Crazy old Maurice... hmm.
+
+634
+00:30:12,729 --> 00:30:16,817
+# Lefou, l'm afraid
+l've been thinking #
+
+635
+00:30:16,859 --> 00:30:18,151
+# A dangerous pastime... #
+
+636
+00:30:18,235 --> 00:30:20,153
+# l know #
+
+637
+00:30:20,237 --> 00:30:22,823
+# But that wacky old coot
+is Belle's father #
+
+638
+00:30:22,865 --> 00:30:25,617
+# And his sanity's
+only so-so #
+
+639
+00:30:25,659 --> 00:30:28,161
+# Now the wheels
+in my head #
+
+640
+00:30:28,245 --> 00:30:29,788
+# Have been turning #
+
+641
+00:30:29,830 --> 00:30:32,583
+# Since l looked at
+that loony old man #
+
+642
+00:30:32,624 --> 00:30:34,543
+# See, l promised myself #
+
+643
+00:30:34,585 --> 00:30:36,670
+# l'd be married to Belle #
+
+644
+00:30:36,753 --> 00:30:40,757
+# And right now,
+l'm evolving a plan #
+
+645
+00:30:40,757 --> 00:30:41,758
+lf l...
+
+646
+00:30:42,801 --> 00:30:43,802
+Yes?
+
+647
+00:30:43,802 --> 00:30:44,887
+Then we...
+
+648
+00:30:44,887 --> 00:30:45,929
+No! Would she...?
+
+649
+00:30:45,929 --> 00:30:46,889
+Guess!
+
+650
+00:30:46,889 --> 00:30:47,973
+Now l get it!
+
+651
+00:30:47,973 --> 00:30:49,808
+Let's go!
+
+652
+00:30:49,808 --> 00:30:52,853
+# No... one... #
+
+653
+00:30:52,853 --> 00:30:54,521
+# Plots like Gaston #
+
+654
+00:30:54,521 --> 00:30:56,440
+# Takes cheap shots
+like Gaston #
+
+655
+00:30:56,440 --> 00:30:59,484
+# Plans to persecute
+harmless crackpots like Gaston #
+
+656
+00:30:59,484 --> 00:31:05,032
+# So his marriage
+we soon will be celebrating #
+
+657
+00:31:05,032 --> 00:31:07,618
+# My, what a guy! #
+
+658
+00:31:07,618 --> 00:31:14,416
+# Gaston! #
+
+659
+00:31:14,416 --> 00:31:18,337
+Will no one help me?
+
+660
+00:31:26,553 --> 00:31:27,721
+Who is it?
+
+661
+00:31:27,721 --> 00:31:30,557
+Mrs. Potts, dear.
+
+662
+00:31:30,557 --> 00:31:33,185
+l thought you might
+like a spot of tea.
+
+663
+00:31:33,185 --> 00:31:35,229
+But you're... you're a...
+
+664
+00:31:35,229 --> 00:31:36,522
+Ooh!
+
+665
+00:31:36,522 --> 00:31:37,523
+Careful.
+
+666
+00:31:37,523 --> 00:31:38,482
+This is impossible.
+
+667
+00:31:38,482 --> 00:31:40,025
+l know it is.
+
+668
+00:31:40,025 --> 00:31:41,902
+But here we are.
+
+669
+00:31:41,902 --> 00:31:44,655
+l told you she was pretty, Mama,
+didn't l?
+
+670
+00:31:44,655 --> 00:31:47,032
+All right, Chip,
+now, that'll do.
+
+671
+00:31:47,032 --> 00:31:48,116
+Slowly now.
+
+672
+00:31:48,116 --> 00:31:49,660
+Don't spill.
+
+673
+00:31:49,660 --> 00:31:51,328
+Thank you.
+
+674
+00:31:51,328 --> 00:31:54,039
+Want to see me
+do a trick?
+
+675
+00:31:55,207 --> 00:31:56,458
+Chip!
+
+676
+00:31:56,458 --> 00:31:58,502
+Oops. Sorry.
+
+677
+00:31:58,502 --> 00:32:01,129
+That was a very brave thing
+you did, my dear.
+
+678
+00:32:01,129 --> 00:32:02,840
+We all think so.
+
+679
+00:32:02,840 --> 00:32:04,383
+But l've lost my father
+
+680
+00:32:04,383 --> 00:32:06,385
+my dreams... everything.
+
+681
+00:32:06,385 --> 00:32:08,011
+Cheer up, child.
+
+682
+00:32:08,011 --> 00:32:09,388
+lt'll turn out
+
+683
+00:32:09,388 --> 00:32:11,431
+all right
+in the end.
+
+684
+00:32:11,431 --> 00:32:12,683
+You'll see.
+
+685
+00:32:12,683 --> 00:32:13,892
+Oh, listen to me.
+
+686
+00:32:13,892 --> 00:32:15,352
+Jabbering on while
+there's a supper
+
+687
+00:32:15,352 --> 00:32:16,436
+to get on the table.
+
+688
+00:32:16,436 --> 00:32:18,438
+Chip!
+
+689
+00:32:18,438 --> 00:32:19,773
+Bye.
+
+690
+00:32:19,773 --> 00:32:22,442
+Well, now, what shall we
+dress you in for dinner?
+
+691
+00:32:22,442 --> 00:32:24,987
+Oh, let's see what l got
+in my drawers.
+
+692
+00:32:24,987 --> 00:32:27,531
+Ooh! How embarrassing.
+
+693
+00:32:29,700 --> 00:32:31,368
+Ah, here we are.
+
+694
+00:32:31,368 --> 00:32:32,870
+You'll look ravishing
+
+695
+00:32:32,870 --> 00:32:34,204
+in this one.
+
+696
+00:32:34,204 --> 00:32:35,831
+That's very kind
+of you, but...
+
+697
+00:32:35,831 --> 00:32:37,291
+l'm not going
+to dinner.
+
+698
+00:32:37,374 --> 00:32:40,002
+Oh, but you must.
+
+699
+00:32:42,421 --> 00:32:45,299
+Dinner is served.
+
+700
+00:32:47,426 --> 00:32:49,178
+What's taking so long?
+
+701
+00:32:49,178 --> 00:32:51,054
+l told her to come down.
+
+702
+00:32:51,054 --> 00:32:52,389
+Why isn't she here yet?
+
+703
+00:32:52,389 --> 00:32:54,183
+Oh, try to be
+patient, sir.
+
+704
+00:32:54,183 --> 00:32:56,059
+The girl has
+lost her father
+
+705
+00:32:56,059 --> 00:32:58,228
+and her freedom,
+all in one day.
+
+706
+00:32:58,228 --> 00:32:59,563
+Master, have you thought
+
+707
+00:32:59,563 --> 00:33:02,608
+that perhaps this girl could
+be the one to break the spell?
+
+708
+00:33:02,608 --> 00:33:04,067
+Of course l have.
+
+709
+00:33:04,067 --> 00:33:05,444
+l'm not a fool.
+
+710
+00:33:05,444 --> 00:33:06,820
+Good!
+
+711
+00:33:06,820 --> 00:33:09,615
+So, you fall in love with her,
+she falls in love with you
+
+712
+00:33:09,615 --> 00:33:11,950
+and poof!
+The spell is broken.
+
+713
+00:33:11,950 --> 00:33:13,952
+We'll be human again
+by midnight.
+
+714
+00:33:13,952 --> 00:33:15,787
+Ooh, it's not
+that easy, Lumiere.
+
+715
+00:33:15,787 --> 00:33:17,080
+These things take time.
+
+716
+00:33:17,080 --> 00:33:19,208
+But the rose has already
+begun to wilt.
+
+717
+00:33:19,208 --> 00:33:21,251
+Oh, it's no use.
+
+718
+00:33:21,251 --> 00:33:24,046
+She's so beautiful, and l'm...
+
+719
+00:33:24,046 --> 00:33:27,299
+Well, look at me!
+
+720
+00:33:27,299 --> 00:33:30,344
+Oh, you must help her
+to see past all that.
+
+721
+00:33:30,427 --> 00:33:31,762
+l don't know how.
+
+722
+00:33:31,803 --> 00:33:33,138
+Well, you can start
+
+723
+00:33:33,222 --> 00:33:34,806
+by making yourself
+more presentable.
+
+724
+00:33:34,848 --> 00:33:36,058
+Straighten up.
+
+725
+00:33:36,099 --> 00:33:37,768
+Try to act like
+a gentleman.
+
+726
+00:33:37,809 --> 00:33:39,269
+Ah, yes.
+When she comes in
+
+727
+00:33:39,311 --> 00:33:41,271
+give her a dashing,
+debonair smile.
+
+728
+00:33:41,313 --> 00:33:43,023
+Come, come,
+show me the smile.
+
+729
+00:33:44,274 --> 00:33:45,984
+But don't frighten
+the poor girl.
+
+730
+00:33:46,026 --> 00:33:47,736
+lmpress her
+with your rapier wit.
+
+731
+00:33:47,778 --> 00:33:49,571
+But be gentle.
+
+732
+00:33:49,613 --> 00:33:51,114
+Shower her
+with compliments.
+
+733
+00:33:51,156 --> 00:33:52,157
+But be sincere.
+
+734
+00:33:52,199 --> 00:33:53,158
+And above all...
+
+735
+00:33:53,200 --> 00:33:55,035
+You must control your temper!
+
+736
+00:33:56,203 --> 00:33:59,248
+Here she is!
+
+737
+00:33:59,289 --> 00:34:00,958
+Good evening.
+
+738
+00:34:00,958 --> 00:34:04,086
+Well, where is she?
+
+739
+00:34:04,086 --> 00:34:05,045
+Who? Oh.
+
+740
+00:34:06,213 --> 00:34:07,589
+The girl, yes.
+
+741
+00:34:07,631 --> 00:34:08,882
+The... girl.
+
+742
+00:34:08,924 --> 00:34:12,094
+Well, actually,
+she's in the process of...
+
+743
+00:34:12,177 --> 00:34:15,764
+Circumstances being
+what they are...
+
+744
+00:34:15,806 --> 00:34:17,349
+She's not coming.
+
+745
+00:34:17,391 --> 00:34:19,560
+What?!
+
+746
+00:34:19,601 --> 00:34:20,936
+But, your grace...!
+
+747
+00:34:20,978 --> 00:34:23,105
+Your eminence!
+
+748
+00:34:27,776 --> 00:34:29,695
+l thought l told you
+to come down to dinner!
+
+749
+00:34:29,736 --> 00:34:31,071
+l'm not hungry.
+
+750
+00:34:31,113 --> 00:34:33,073
+You come out, or l'll...
+
+751
+00:34:33,115 --> 00:34:34,908
+l'll... l'll break down
+the door!
+
+752
+00:34:34,950 --> 00:34:36,118
+Master...
+
+753
+00:34:36,159 --> 00:34:38,662
+l could be wrong,
+but that may not be
+
+754
+00:34:38,704 --> 00:34:41,623
+the best way
+to win the girl's affections.
+
+755
+00:34:41,665 --> 00:34:45,127
+Please attempt
+to be a gentleman.
+
+756
+00:34:45,252 --> 00:34:48,088
+But she is being so difficult.
+
+757
+00:34:48,130 --> 00:34:49,715
+Gently, gently.
+
+758
+00:34:52,009 --> 00:34:53,468
+Will you come down to dinner?
+
+759
+00:34:53,510 --> 00:34:54,678
+No.
+
+760
+00:34:54,720 --> 00:34:55,971
+Hmm?
+
+761
+00:34:56,013 --> 00:34:57,139
+Ah, ah, ah!
+
+762
+00:34:57,181 --> 00:34:58,432
+Suave, genteel.
+
+763
+00:34:58,473 --> 00:35:01,393
+lt would give me
+great pleasure
+
+764
+00:35:01,435 --> 00:35:03,478
+if you would join
+me for dinner.
+
+765
+00:35:04,688 --> 00:35:05,814
+We say please.
+
+766
+00:35:05,856 --> 00:35:07,441
+Please.
+
+767
+00:35:07,482 --> 00:35:08,275
+No, thank you!
+
+768
+00:35:08,317 --> 00:35:09,818
+You can't stay in there forever!
+
+769
+00:35:09,860 --> 00:35:11,195
+Yes, l can.
+
+770
+00:35:11,236 --> 00:35:14,948
+Fine. Then go ahead
+and starve!
+
+771
+00:35:14,990 --> 00:35:17,242
+lf she doesn't eat with me
+
+772
+00:35:17,284 --> 00:35:19,786
+then she doesn't eat at all.
+
+773
+00:35:22,831 --> 00:35:24,291
+Oh, dear.
+
+774
+00:35:24,333 --> 00:35:26,001
+That didn't go very well
+at all, did it?
+
+775
+00:35:26,126 --> 00:35:28,879
+Lumiere, stand watch
+at the door
+
+776
+00:35:28,921 --> 00:35:30,797
+and inform me at once
+
+777
+00:35:30,797 --> 00:35:32,549
+if there is
+the slightest change.
+
+778
+00:35:32,549 --> 00:35:34,510
+You can count on me,
+<i>mon capitan.
+
+779
+00:35:34,510 --> 00:35:36,970
+Well, we might as well
+go downstairs
+
+780
+00:35:36,970 --> 00:35:40,015
+and start cleaning up.
+
+781
+00:35:40,015 --> 00:35:43,685
+l ask nicely,
+but she refuses.
+
+782
+00:35:43,685 --> 00:35:47,314
+Well, what does
+she want me to do... beg?
+
+783
+00:35:47,314 --> 00:35:51,401
+Show me the girl.
+
+784
+00:35:51,401 --> 00:35:53,320
+Well, the master's
+really not so bad
+
+785
+00:35:53,320 --> 00:35:54,613
+once you get
+to know him.
+
+786
+00:35:54,613 --> 00:35:56,323
+Why don't you
+give him a chance?
+
+787
+00:35:56,323 --> 00:35:58,033
+l don't want to
+get to know him.
+
+788
+00:35:58,033 --> 00:35:59,451
+l don't want to
+have anything
+
+789
+00:35:59,535 --> 00:36:01,245
+to do with him!
+
+790
+00:36:03,121 --> 00:36:05,207
+l'm just fooling myself.
+
+791
+00:36:05,249 --> 00:36:08,293
+She'll never see me
+as anything...
+
+792
+00:36:08,335 --> 00:36:11,046
+but a monster.
+
+793
+00:36:15,050 --> 00:36:17,511
+lt's hopeless.
+
+794
+00:36:34,736 --> 00:36:35,821
+Oh, no!
+
+795
+00:36:35,863 --> 00:36:36,989
+Oh, yes!
+
+796
+00:36:37,030 --> 00:36:38,073
+Oh, no!
+
+797
+00:36:38,115 --> 00:36:39,283
+Oh, yes, yes, yes!
+
+798
+00:36:39,324 --> 00:36:41,618
+l've been burned
+by you before.
+
+799
+00:36:45,205 --> 00:36:47,291
+<i>Zut, alors!
+She has emerged!
+
+800
+00:36:51,837 --> 00:36:53,547
+Come on, Chip,
+into the cupboard
+
+801
+00:36:53,589 --> 00:36:55,132
+with your brothers
+and sisters.
+
+802
+00:36:56,842 --> 00:36:58,719
+But l'm not sleepy.
+
+803
+00:36:58,719 --> 00:37:00,387
+Yes, you are.
+
+804
+00:37:00,387 --> 00:37:03,056
+No, l'm not.
+
+805
+00:37:03,056 --> 00:37:05,225
+l work and l slave all
+day long and for what?
+
+806
+00:37:05,225 --> 00:37:08,353
+A culinary masterpiece
+gone to waste.
+
+807
+00:37:08,353 --> 00:37:09,646
+Oh, stop your grousing.
+
+808
+00:37:09,646 --> 00:37:11,648
+lt's been a long night
+for all of us.
+
+809
+00:37:11,648 --> 00:37:14,610
+Well, if you ask me,
+she was just being stubborn.
+
+810
+00:37:14,610 --> 00:37:16,403
+After all,
+he did say please.
+
+811
+00:37:16,403 --> 00:37:18,405
+But if the master doesn't learn
+to control that temper
+
+812
+00:37:18,405 --> 00:37:19,990
+he'll never break...
+
+813
+00:37:19,990 --> 00:37:21,825
+Splendid to see you
+out and about, <i>Mademoiselle.
+
+814
+00:37:21,825 --> 00:37:26,788
+l am Cogsworth,
+head of the household.
+
+815
+00:37:26,788 --> 00:37:29,166
+This is Lumiere.
+
+816
+00:37:29,166 --> 00:37:31,418
+<i>Enchante, cherie.
+
+817
+00:37:31,418 --> 00:37:32,878
+lf there's...
+Stop that!
+
+818
+00:37:32,878 --> 00:37:34,379
+...anything we...
+Please!
+
+819
+00:37:34,379 --> 00:37:36,882
+can do to make your
+stay more comfortable.
+
+820
+00:37:36,882 --> 00:37:37,966
+Ow!
+
+821
+00:37:37,966 --> 00:37:39,343
+l am a little hungry.
+
+822
+00:37:39,343 --> 00:37:40,344
+You are?
+
+823
+00:37:40,344 --> 00:37:42,012
+Hear that?
+She's hungry.
+
+824
+00:37:42,012 --> 00:37:43,013
+Stoke the fire.
+
+825
+00:37:43,013 --> 00:37:43,805
+Break out
+the silver.
+
+826
+00:37:43,805 --> 00:37:45,307
+Wake the china.
+
+827
+00:37:45,307 --> 00:37:47,851
+Remember what the master said.
+
+828
+00:37:47,851 --> 00:37:48,977
+Oh, pishposh.
+
+829
+00:37:48,977 --> 00:37:51,188
+l'm not about to let
+the poor child go hungry.
+
+830
+00:37:51,188 --> 00:37:52,356
+All right, fine.
+
+831
+00:37:52,356 --> 00:37:54,233
+Glass of water, crust
+of bread, and then...
+
+832
+00:37:54,233 --> 00:37:56,652
+Cogsworth, l am
+surprised at you.
+
+833
+00:37:56,652 --> 00:37:59,363
+She is not a prisoner.
+She's our guest.
+
+834
+00:37:59,363 --> 00:38:01,532
+We must make her
+feel welcome here.
+
+835
+00:38:01,532 --> 00:38:03,283
+Right this way,
+<i>Mademoiselle.
+
+836
+00:38:03,283 --> 00:38:04,409
+Well, keep it down.
+
+837
+00:38:04,409 --> 00:38:06,453
+lf the master finds out
+about this
+
+838
+00:38:06,453 --> 00:38:07,663
+it will be
+our necks.
+
+839
+00:38:07,704 --> 00:38:10,040
+Of course, of course.
+
+840
+00:38:10,040 --> 00:38:12,876
+But what is dinner
+without a little music?
+
+841
+00:38:12,876 --> 00:38:14,795
+Music?
+
+842
+00:38:14,795 --> 00:38:17,631
+<i>Ma chere
+mademoiselle.
+
+843
+00:38:17,631 --> 00:38:21,885
+lt is with deepest pride
+and greatest pleasure
+
+844
+00:38:21,885 --> 00:38:24,054
+that we welcome you tonight.
+
+845
+00:38:24,054 --> 00:38:25,097
+And now
+
+846
+00:38:25,180 --> 00:38:26,515
+we invite you
+to relax.
+
+847
+00:38:26,557 --> 00:38:27,891
+Let us
+pull up a chair
+
+848
+00:38:27,933 --> 00:38:30,602
+as the dining room
+proudly presents...
+
+849
+00:38:30,644 --> 00:38:32,646
+your dinner.
+
+850
+00:38:34,356 --> 00:38:37,025
+# Be... our... guest #
+
+851
+00:38:37,067 --> 00:38:38,485
+# Be our guest #
+
+852
+00:38:38,527 --> 00:38:41,488
+# Put our service
+to the test #
+
+853
+00:38:41,572 --> 00:38:43,365
+# Tie your napkin 'round
+your neck, <i>cherie #
+
+854
+00:38:43,407 --> 00:38:46,034
+# And we provide the rest #
+
+855
+00:38:46,076 --> 00:38:48,620
+# Soup <i>du jour,
+Hot hors d'oeuvres #
+
+856
+00:38:48,662 --> 00:38:50,539
+# Why, we only live
+to serve #
+
+857
+00:38:50,581 --> 00:38:51,957
+# Try the gray stuff #
+
+858
+00:38:51,999 --> 00:38:53,125
+# lt's delicious #
+
+859
+00:38:53,166 --> 00:38:55,419
+# Don't believe me,
+ask the dishes #
+
+860
+00:38:55,460 --> 00:38:57,629
+# They can sing,
+they can dance #
+
+861
+00:38:57,671 --> 00:39:00,007
+# After all, Miss,
+this is France #
+
+862
+00:39:00,048 --> 00:39:04,052
+# And a dinner here
+is never second best #
+
+863
+00:39:04,136 --> 00:39:06,597
+# Go on, unfold your menu #
+
+864
+00:39:06,638 --> 00:39:08,765
+# Take a glance and then #
+
+865
+00:39:08,807 --> 00:39:09,808
+# You'll be our guest #
+
+866
+00:39:09,850 --> 00:39:11,059
+# <i>Oui, our guest #
+
+867
+00:39:11,101 --> 00:39:13,061
+# Be our guest #
+
+868
+00:39:13,103 --> 00:39:15,439
+# Beef ragout,
+cheese souffle #
+
+869
+00:39:15,480 --> 00:39:17,441
+# Pie and pudding
+<i>en flambe #
+
+870
+00:39:17,482 --> 00:39:19,568
+# We'll prepare and serve
+with flair #
+
+871
+00:39:19,610 --> 00:39:21,737
+# A culinary cabaret #
+
+872
+00:39:21,778 --> 00:39:23,947
+# You're alone
+and you're scared #
+
+873
+00:39:23,989 --> 00:39:26,074
+# But the banquet's
+all prepared #
+
+874
+00:39:26,158 --> 00:39:28,118
+# No one's gloomy
+or complaining #
+
+875
+00:39:28,118 --> 00:39:30,245
+# While the flatware's
+entertaining #
+
+876
+00:39:30,287 --> 00:39:32,497
+# We tell jokes,
+l do tricks #
+
+877
+00:39:32,539 --> 00:39:34,791
+# With my fellow candlesticks #
+
+878
+00:39:34,833 --> 00:39:38,795
+# And it's all in perfect taste,
+that you can bet #
+
+879
+00:39:38,837 --> 00:39:40,923
+# Come on and lift your glass #
+
+880
+00:39:40,964 --> 00:39:42,591
+# You've won your own
+free pass #
+
+881
+00:39:42,633 --> 00:39:43,759
+# To be our guest-- #
+
+882
+00:39:43,800 --> 00:39:45,260
+# lf you're stressed #
+
+883
+00:39:45,302 --> 00:39:47,429
+# lt's fine dining
+we suggest-- #
+
+884
+00:39:47,471 --> 00:39:49,806
+# Be our guest,
+be our guest #
+
+885
+00:39:49,848 --> 00:39:51,642
+# Be our guest! #
+
+886
+00:39:51,683 --> 00:39:54,978
+# Life is so unnerving #
+
+887
+00:39:55,020 --> 00:39:58,065
+# For a servant
+who's not serving #
+
+888
+00:39:58,106 --> 00:40:01,318
+# He's not whole
+without a soul to wait upon #
+
+889
+00:40:01,360 --> 00:40:03,111
+Get off!
+
+890
+00:40:03,237 --> 00:40:06,657
+# Ah, those good old days
+when we were useful #
+
+891
+00:40:06,698 --> 00:40:08,242
+Huh?
+
+892
+00:40:08,283 --> 00:40:10,244
+# Suddenly, those good
+old days are gone #
+
+893
+00:40:10,327 --> 00:40:13,121
+Oh!
+
+894
+00:40:13,205 --> 00:40:15,165
+# Ten years
+we've been rusting #
+
+895
+00:40:15,165 --> 00:40:17,459
+# Needing so much more
+than dusting #
+
+896
+00:40:17,501 --> 00:40:19,545
+# Needing exercise #
+
+897
+00:40:19,586 --> 00:40:21,129
+# A chance
+to use our skills #
+
+898
+00:40:22,673 --> 00:40:26,385
+# Most days we just
+lay around the castle #
+
+899
+00:40:27,469 --> 00:40:28,887
+# Flabby, fat and lazy #
+
+900
+00:40:28,929 --> 00:40:31,056
+# You walked in
+and oops-a-daisy! #
+
+901
+00:40:31,098 --> 00:40:32,975
+# lt's a guest, it's a guest! #
+
+902
+00:40:33,016 --> 00:40:34,810
+# Sakes alive,
+well, l'll be blessed #
+
+903
+00:40:34,852 --> 00:40:36,854
+# Wine's been poured, #
+And thank the lord #
+
+904
+00:40:36,895 --> 00:40:38,814
+# l've had the napkins
+freshly pressed #
+
+905
+00:40:38,856 --> 00:40:41,149
+# With dessert,
+she'll want tea #
+
+906
+00:40:41,275 --> 00:40:42,776
+# And, my dear,
+that's fine with me #
+
+907
+00:40:42,818 --> 00:40:44,945
+# While the cups
+do their soft-shoeing #
+
+908
+00:40:44,987 --> 00:40:46,989
+# l'll be bubbling,
+l'll be brewing #
+
+909
+00:40:47,030 --> 00:40:48,824
+# l'll get warm,
+piping hot #
+
+910
+00:40:48,866 --> 00:40:50,951
+# Heaven's sake,
+is that a spot? #
+
+911
+00:40:50,993 --> 00:40:53,704
+# Clean it up, we want
+the company impressed #
+
+912
+00:40:53,745 --> 00:40:55,914
+# We've got a lot to do #
+
+913
+00:40:55,956 --> 00:40:57,791
+# ls it one lump or two? #
+
+914
+00:40:57,833 --> 00:40:58,542
+# For you, our guest #
+
+915
+00:40:58,584 --> 00:40:59,710
+# She's our guest #
+
+916
+00:40:59,751 --> 00:41:01,003
+# She's our guest #
+
+917
+00:41:01,044 --> 00:41:02,546
+# She's our guest #
+
+918
+00:41:02,588 --> 00:41:05,257
+People, fun's over,
+over here, line up...
+
+919
+00:41:06,717 --> 00:41:08,594
+# lt's ten years since
+we've had anybody here #
+
+920
+00:41:08,635 --> 00:41:09,636
+# And we're obsessed #
+
+921
+00:41:09,678 --> 00:41:11,889
+# With your meal,
+with your ease #
+
+922
+00:41:11,930 --> 00:41:13,765
+# Yes, indeed,
+we aim to please #
+
+923
+00:41:13,807 --> 00:41:16,143
+# While the candlelight's
+still glowing #
+
+924
+00:41:16,226 --> 00:41:20,564
+# Let us help you,
+we'll keep going #
+
+925
+00:41:20,606 --> 00:41:24,818
+# Course... by... course #
+
+926
+00:41:24,860 --> 00:41:26,904
+# One by one #
+
+927
+00:41:26,945 --> 00:41:29,615
+# Till you shout,
+"Enough, l'm done!" #
+
+928
+00:41:29,656 --> 00:41:33,994
+# Then we'll sing you
+off to sleep as you digest #
+
+929
+00:41:34,036 --> 00:41:36,121
+# Tonight you'll prop
+your feet up #
+
+930
+00:41:36,163 --> 00:41:37,706
+# But for now, let's eat up #
+
+931
+00:41:37,748 --> 00:41:41,877
+# Be our guest,
+be our guest #
+
+932
+00:41:41,919 --> 00:41:43,754
+# Be our guest #
+
+933
+00:41:43,795 --> 00:41:52,262
+# Please be our guest! #
+
+934
+00:41:54,556 --> 00:41:55,682
+Bravo!
+
+935
+00:41:55,724 --> 00:41:57,059
+That was wonderful.
+
+936
+00:41:57,100 --> 00:41:58,185
+Thank you.
+
+937
+00:41:58,227 --> 00:42:00,395
+Thank you, <i>Mademoiselle.
+
+938
+00:42:00,437 --> 00:42:02,314
+Good show, wasn't it?
+
+939
+00:42:02,356 --> 00:42:03,774
+Yes, everyone.
+
+940
+00:42:03,815 --> 00:42:07,110
+My goodness, look at the time.
+
+941
+00:42:07,194 --> 00:42:09,071
+Now it's off to bed,
+off to bed.
+
+942
+00:42:09,112 --> 00:42:11,615
+Oh, l couldn't possibly
+go to bed now.
+
+943
+00:42:11,657 --> 00:42:13,700
+lt's my first time
+in an enchanted castle.
+
+944
+00:42:13,742 --> 00:42:14,785
+Enchanted!
+
+945
+00:42:15,869 --> 00:42:16,912
+Who said anything
+
+946
+00:42:16,954 --> 00:42:18,830
+about the castle
+being enchanted?
+
+947
+00:42:18,872 --> 00:42:20,874
+lt was you, wasn't it?
+
+948
+00:42:20,958 --> 00:42:22,668
+l figured it out for myself.
+
+949
+00:42:25,587 --> 00:42:27,840
+l'd like to look around,
+if that's all right.
+
+950
+00:42:27,840 --> 00:42:29,466
+Oh, would you
+like a tour?
+
+951
+00:42:29,466 --> 00:42:31,134
+Wait a second,
+wait a second.
+
+952
+00:42:31,134 --> 00:42:32,970
+l'm not sure that's
+such a good idea.
+
+953
+00:42:32,970 --> 00:42:35,347
+We can't let her
+go poking around
+
+954
+00:42:35,347 --> 00:42:38,433
+in certain places, if
+you know what l mean.
+
+955
+00:42:38,433 --> 00:42:39,935
+Perhaps you'd like
+to take me.
+
+956
+00:42:39,935 --> 00:42:41,353
+l'm sure you know
+everything
+
+957
+00:42:41,353 --> 00:42:43,146
+there is to know
+about the castle.
+
+958
+00:42:43,146 --> 00:42:46,149
+Oh, well, actually, l, uh...
+
+959
+00:42:46,149 --> 00:42:48,443
+Yes, l do.
+
+960
+00:42:48,443 --> 00:42:49,653
+As you can see
+
+961
+00:42:49,653 --> 00:42:52,531
+the pseudo-facade
+was stripped away
+
+962
+00:42:52,531 --> 00:42:54,867
+to reveal a minimalist
+rococo design.
+
+963
+00:42:54,867 --> 00:42:58,078
+Note the unusual
+inverted vaulted ceilings.
+
+964
+00:42:58,078 --> 00:42:59,496
+This is yet another example
+
+965
+00:42:59,496 --> 00:43:01,540
+of the late neoclassic
+baroque period.
+
+966
+00:43:01,540 --> 00:43:02,958
+and, as l always say
+
+967
+00:43:02,958 --> 00:43:05,169
+if it's not baroque,
+don't fix it.
+
+968
+00:43:07,087 --> 00:43:10,090
+Uh, where was l?
+
+969
+00:43:10,090 --> 00:43:12,217
+As you were.
+
+970
+00:43:12,217 --> 00:43:14,678
+Now, then, if l may
+draw your attention
+
+971
+00:43:14,678 --> 00:43:17,014
+to the flying buttresses
+above the...
+
+972
+00:43:17,014 --> 00:43:20,058
+Uh, <i>Mademoiselle?
+
+973
+00:43:24,229 --> 00:43:25,856
+What's up there?
+
+974
+00:43:25,856 --> 00:43:26,857
+Where? There?
+Oh, nothing.
+
+975
+00:43:26,857 --> 00:43:28,233
+Absolutely nothing
+of interest at all
+
+976
+00:43:28,233 --> 00:43:29,568
+in the west wing.
+
+977
+00:43:29,568 --> 00:43:31,612
+Dusty, dull, very boring.
+
+978
+00:43:31,612 --> 00:43:34,198
+Ah, so <i>that's the west wing.
+
+979
+00:43:34,198 --> 00:43:35,991
+Nice going.
+
+980
+00:43:35,991 --> 00:43:38,994
+l wonder what
+he's hiding up there?
+
+981
+00:43:38,994 --> 00:43:39,995
+Hiding?
+
+982
+00:43:39,995 --> 00:43:41,496
+The master is
+hiding nothing.
+
+983
+00:43:41,496 --> 00:43:43,332
+Then it wouldn't
+be forbidden.
+
+984
+00:43:43,332 --> 00:43:45,792
+Perhaps, uh,
+<i>Mademoiselle would like to
+
+985
+00:43:45,792 --> 00:43:47,544
+uh-uh, uh...
+see something else.
+
+986
+00:43:47,544 --> 00:43:50,297
+We have exquisite tapestries
+dating all the way back to...
+
+987
+00:43:50,297 --> 00:43:51,340
+maybe later.
+
+988
+00:43:51,340 --> 00:43:52,758
+Th-The gardens or-or
+
+989
+00:43:52,758 --> 00:43:54,718
+the-the-the-the
+library, perhaps.
+
+990
+00:43:54,718 --> 00:43:56,011
+You have a library?
+
+991
+00:43:56,011 --> 00:43:57,638
+Yes, oh, indeed.
+
+992
+00:43:57,638 --> 00:43:58,764
+With books.
+
+993
+00:43:58,764 --> 00:44:00,015
+Scads of books!
+
+994
+00:44:00,015 --> 00:44:01,058
+Mountains of books!
+
+995
+00:44:01,058 --> 00:44:02,100
+Forests of books!
+
+996
+00:44:02,100 --> 00:44:03,185
+-Cascades!
+-Longboats!
+
+997
+00:44:03,185 --> 00:44:04,228
+Swamps of books!
+
+998
+00:44:04,228 --> 00:44:06,188
+More books than you'll
+
+999
+00:44:06,188 --> 00:44:08,273
+ever be able
+to read in a lifetime.
+
+1000
+00:44:08,273 --> 00:44:10,776
+Books on every subject ever
+studied, by every author
+
+1001
+00:44:10,817 --> 00:44:12,819
+who ever set pen
+to paper.
+
+1002
+00:45:04,746 --> 00:45:06,123
+Oh!
+
+1003
+00:45:51,835 --> 00:45:53,879
+Why did you come here?
+
+1004
+00:45:53,879 --> 00:45:55,839
+l'm... l'm sorry.
+
+1005
+00:45:55,839 --> 00:45:58,509
+l warned you never
+to come here.
+
+1006
+00:45:58,509 --> 00:45:59,760
+l didn't mean any harm.
+
+1007
+00:45:59,760 --> 00:46:03,013
+Do you realize
+what you could have done?!
+
+1008
+00:46:03,013 --> 00:46:04,681
+Please, stop.
+
+1009
+00:46:04,681 --> 00:46:06,517
+Get out!
+
+1010
+00:46:06,517 --> 00:46:08,268
+No!
+
+1011
+00:46:08,268 --> 00:46:15,192
+Get... out!
+
+1012
+00:46:23,742 --> 00:46:24,910
+Where are you going?
+
+1013
+00:46:24,910 --> 00:46:26,245
+Promise or no promise
+
+1014
+00:46:26,245 --> 00:46:28,038
+l can't stay here
+another minute.
+
+1015
+00:46:28,038 --> 00:46:30,415
+Oh, no, wait,
+please.
+
+1016
+00:46:30,415 --> 00:46:31,542
+Please wait.
+
+1017
+00:47:10,914 --> 00:47:14,501
+Oh!
+
+1018
+00:47:43,071 --> 00:47:46,658
+Oh!
+
+1019
+00:48:57,020 --> 00:48:58,897
+Here now.
+
+1020
+00:48:58,939 --> 00:49:00,399
+Oh, don't do that.
+
+1021
+00:49:03,652 --> 00:49:06,488
+Just hold still.
+
+1022
+00:49:07,865 --> 00:49:08,949
+That hurts!
+
+1023
+00:49:09,032 --> 00:49:10,951
+lf you'd hold still,
+it wouldn't hurt as much!
+
+1024
+00:49:11,034 --> 00:49:12,452
+Well, if you hadn't
+have run away
+
+1025
+00:49:12,494 --> 00:49:13,620
+this wouldn't
+have happened!
+
+1026
+00:49:13,662 --> 00:49:16,707
+lf you hadn't frightened me,
+l wouldn't have run away!
+
+1027
+00:49:16,748 --> 00:49:19,668
+Well, you shouldn't have
+been in the west wing!
+
+1028
+00:49:19,710 --> 00:49:21,962
+Well, you should learn
+to control your temper!
+
+1029
+00:49:24,047 --> 00:49:26,466
+Now hold still.
+
+1030
+00:49:26,508 --> 00:49:28,343
+This might sting a little.
+
+1031
+00:49:28,385 --> 00:49:29,469
+Hmm?
+
+1032
+00:49:30,888 --> 00:49:34,183
+By the way, thank you.
+
+1033
+00:49:34,224 --> 00:49:36,143
+For saving my life.
+
+1034
+00:49:39,855 --> 00:49:42,524
+You're welcome.
+
+1035
+00:49:49,364 --> 00:49:51,325
+l don't usually
+leave the asylum
+
+1036
+00:49:51,408 --> 00:49:52,993
+in the middle
+of the night
+
+1037
+00:49:53,035 --> 00:49:56,205
+but he said you'd make it
+worth my while.
+
+1038
+00:49:57,414 --> 00:49:58,916
+Ah.
+
+1039
+00:49:58,999 --> 00:50:00,292
+l'm listening.
+
+1040
+00:50:00,334 --> 00:50:01,752
+lt's like this.
+
+1041
+00:50:01,793 --> 00:50:04,922
+l've got my heart set
+on marrying Belle
+
+1042
+00:50:04,963 --> 00:50:07,925
+but she needs a little...
+persuasion.
+
+1043
+00:50:09,218 --> 00:50:11,386
+Turned him down flat.
+
+1044
+00:50:11,428 --> 00:50:13,138
+Everyone knows
+her father's a lunatic.
+
+1045
+00:50:13,180 --> 00:50:14,181
+He was in here tonight
+
+1046
+00:50:14,223 --> 00:50:17,059
+raving about a beast
+in a castle.
+
+1047
+00:50:17,100 --> 00:50:18,769
+Maurice is harmless.
+
+1048
+00:50:18,810 --> 00:50:21,480
+The point is,
+Belle would do anything
+
+1049
+00:50:21,522 --> 00:50:23,899
+to keep him
+from being locked up.
+
+1050
+00:50:25,776 --> 00:50:27,277
+Yeah. Even marry <i>him.
+
+1051
+00:50:29,988 --> 00:50:31,198
+So you want me
+
+1052
+00:50:31,198 --> 00:50:33,367
+to throw her father
+into the asylum
+
+1053
+00:50:33,450 --> 00:50:36,203
+unless she agrees
+to marry you.
+
+1054
+00:50:36,245 --> 00:50:38,497
+Oh, that is despicable.
+
+1055
+00:50:39,873 --> 00:50:41,250
+l love it!
+
+1056
+00:50:42,709 --> 00:50:44,962
+<i>lf no one will help me
+
+1057
+00:50:45,087 --> 00:50:46,713
+then l'll go back alone.
+
+1058
+00:50:46,755 --> 00:50:48,465
+Yes, is that everything?
+
+1059
+00:50:48,507 --> 00:50:50,342
+l don't care
+what it takes.
+
+1060
+00:50:50,384 --> 00:50:52,886
+l'll find that castle,
+and somehow
+
+1061
+00:50:52,970 --> 00:50:54,763
+l'll get her out of there.
+
+1062
+00:51:00,519 --> 00:51:02,229
+Belle? Maurice?
+
+1063
+00:51:02,271 --> 00:51:03,188
+Oh, well.
+
+1064
+00:51:04,231 --> 00:51:06,024
+l guess it's not going
+to work after all.
+
+1065
+00:51:06,066 --> 00:51:08,527
+They have to come
+back sometime.
+
+1066
+00:51:08,569 --> 00:51:12,197
+And when they do,
+we'll be ready for them.
+
+1067
+00:51:12,239 --> 00:51:13,574
+Lefou...
+
+1068
+00:51:13,615 --> 00:51:16,618
+don't move
+from that spot
+
+1069
+00:51:16,660 --> 00:51:18,453
+until Belle and
+her father come home.
+
+1070
+00:51:18,495 --> 00:51:20,664
+But, but, l...
+
+1071
+00:51:22,082 --> 00:51:24,001
+Aw, nuts.
+
+1072
+00:51:46,815 --> 00:51:51,278
+l've never felt this way
+about anyone.
+
+1073
+00:51:51,320 --> 00:51:53,655
+l want to do something for her.
+
+1074
+00:51:53,697 --> 00:51:55,240
+But what?
+
+1075
+00:51:55,282 --> 00:51:57,326
+Well, there's the usual things.
+
+1076
+00:51:57,367 --> 00:51:58,660
+Flowers, chocolates.
+
+1077
+00:51:58,702 --> 00:52:00,495
+Promises you don't intend
+to keep.
+
+1078
+00:52:00,537 --> 00:52:02,331
+Ah, no, no.
+
+1079
+00:52:02,372 --> 00:52:04,750
+lt has to be something
+very special.
+
+1080
+00:52:04,791 --> 00:52:07,044
+Something that sparks
+her interest.
+
+1081
+00:52:07,085 --> 00:52:08,337
+Wait a minute!
+
+1082
+00:52:11,173 --> 00:52:15,135
+Belle, there's something
+l want to show you.
+
+1083
+00:52:15,219 --> 00:52:19,264
+But first, you have
+to close your eyes.
+
+1084
+00:52:21,308 --> 00:52:22,809
+lt's a surprise.
+
+1085
+00:52:34,029 --> 00:52:35,489
+Can l open them?
+
+1086
+00:52:35,572 --> 00:52:37,533
+No, no. Not yet.
+
+1087
+00:52:37,574 --> 00:52:40,244
+Wait here.
+
+1088
+00:52:44,414 --> 00:52:45,874
+Now can l open them?
+
+1089
+00:52:45,916 --> 00:52:47,543
+All right.
+
+1090
+00:52:47,584 --> 00:52:48,836
+Now.
+
+1091
+00:52:57,469 --> 00:52:59,888
+l can't believe it!
+
+1092
+00:53:00,013 --> 00:53:02,224
+l've never seen
+so many books in all my life!
+
+1093
+00:53:02,266 --> 00:53:03,892
+You-You like it?
+
+1094
+00:53:03,934 --> 00:53:05,602
+lt's wonderful!
+
+1095
+00:53:05,644 --> 00:53:07,563
+Then it's yours.
+
+1096
+00:53:07,604 --> 00:53:09,523
+Oh, thank you
+so much.
+
+1097
+00:53:09,565 --> 00:53:11,233
+Oh, would you
+look at that!
+
+1098
+00:53:11,275 --> 00:53:13,277
+l knew it would work.
+
+1099
+00:53:13,277 --> 00:53:14,444
+What?
+What worked?
+
+1100
+00:53:14,486 --> 00:53:17,239
+lt's very
+encouraging.
+
+1101
+00:53:17,281 --> 00:53:18,907
+lsn't this exciting?
+
+1102
+00:53:19,032 --> 00:53:20,409
+l didn't see anything.
+
+1103
+00:53:20,450 --> 00:53:21,577
+Come along, Chip.
+
+1104
+00:53:21,618 --> 00:53:23,328
+There's chores to be done
+in the kitchen.
+
+1105
+00:53:23,412 --> 00:53:24,788
+But what are
+they talking about?
+
+1106
+00:53:24,830 --> 00:53:26,206
+What's going on?
+Come on, Mom.
+
+1107
+00:54:13,629 --> 00:54:15,672
+# There's something sweet #
+
+1108
+00:54:15,714 --> 00:54:17,382
+# And almost kind #
+
+1109
+00:54:17,424 --> 00:54:18,634
+# But he was mean #
+
+1110
+00:54:18,675 --> 00:54:21,011
+# And he was coarse
+and unrefined #
+
+1111
+00:54:21,053 --> 00:54:25,057
+# And now he's dear,
+and so unsure #
+
+1112
+00:54:25,098 --> 00:54:27,726
+# l wonder why l didn't see it
+there before #
+
+1113
+00:54:42,282 --> 00:54:44,535
+# She glanced this way #
+
+1114
+00:54:44,576 --> 00:54:46,119
+# l thought l saw #
+
+1115
+00:54:46,203 --> 00:54:47,788
+# And when we touched #
+
+1116
+00:54:47,829 --> 00:54:49,915
+# She didn't shudder
+at my paw #
+
+1117
+00:54:49,957 --> 00:54:51,625
+# No, it can't be #
+
+1118
+00:54:51,667 --> 00:54:53,710
+# l'll just ignore #
+
+1119
+00:54:53,752 --> 00:54:57,756
+# But then she's never looked
+at me that way before #
+
+1120
+00:55:00,342 --> 00:55:06,390
+# New and a bit alarming #
+
+1121
+00:55:06,431 --> 00:55:14,898
+# Who'd have ever thought
+that this could be? #
+
+1122
+00:55:14,940 --> 00:55:21,697
+# True that he's no
+Prince Charming #
+
+1123
+00:55:21,738 --> 00:55:24,366
+# But there's something
+in him #
+
+1124
+00:55:24,408 --> 00:55:29,872
+# That l simply didn't see... #
+
+1125
+00:55:29,913 --> 00:55:31,081
+# Well, who'd
+have thought? #
+
+1126
+00:55:31,123 --> 00:55:32,082
+# Well, bless my soul #
+
+1127
+00:55:32,124 --> 00:55:33,250
+# Well, who'd
+have known? #
+
+1128
+00:55:33,292 --> 00:55:34,209
+# Well, who indeed? #
+
+1129
+00:55:34,251 --> 00:55:35,335
+# And who'd
+have guessed #
+
+1130
+00:55:35,377 --> 00:55:36,795
+# They'd come together
+on their own? #
+
+1131
+00:55:36,837 --> 00:55:37,754
+# lt's so peculiar #
+
+1132
+00:55:37,796 --> 00:55:38,755
+# We'll wait and see #
+
+1133
+00:55:38,797 --> 00:55:41,633
+# A few days more #
+
+1134
+00:55:41,675 --> 00:55:46,096
+# There may be something there
+that wasn't there before... #
+
+1135
+00:55:46,138 --> 00:55:47,931
+You know,
+perhaps there is
+
+1136
+00:55:48,015 --> 00:55:51,143
+# Something there
+that wasn't there before #
+
+1137
+00:55:51,185 --> 00:55:52,895
+What?
+
+1138
+00:55:52,936 --> 00:55:56,398
+# There may be something there
+that wasn't there before. #
+
+1139
+00:55:56,440 --> 00:55:58,025
+What's there, Mama?
+
+1140
+00:55:58,066 --> 00:55:59,401
+Shh!
+
+1141
+00:55:59,443 --> 00:56:01,069
+l'll tell you
+when you're older.
+
+1142
+00:56:03,447 --> 00:56:04,406
+Right, then!
+
+1143
+00:56:04,448 --> 00:56:06,241
+You all know why we're here.
+
+1144
+00:56:06,283 --> 00:56:09,786
+We have exactly 12 hours,
+36 minutes and 15 seconds
+
+1145
+00:56:09,828 --> 00:56:11,705
+to create the most magical
+
+1146
+00:56:11,747 --> 00:56:14,499
+spontaneous, romantic atmosphere
+known to man or beast.
+
+1147
+00:56:15,792 --> 00:56:17,169
+"Or beast..."
+
+1148
+00:56:19,838 --> 00:56:21,590
+Right.
+
+1149
+00:56:21,632 --> 00:56:23,091
+Need l remind you
+
+1150
+00:56:23,133 --> 00:56:26,762
+that if the last petal falls
+from this rose
+
+1151
+00:56:26,803 --> 00:56:28,013
+the spell will never be...
+
+1152
+00:56:28,055 --> 00:56:29,932
+broken!
+
+1153
+00:56:29,973 --> 00:56:31,433
+Very well.
+
+1154
+00:56:31,475 --> 00:56:33,477
+You all know your assignments.
+
+1155
+00:56:33,519 --> 00:56:35,437
+Half of you to the west wing.
+
+1156
+00:56:35,479 --> 00:56:37,314
+Half of you to the east wing.
+
+1157
+00:56:37,356 --> 00:56:39,399
+The rest of you, come with me.
+
+1158
+00:56:43,987 --> 00:56:45,447
+Oh, lighten up, Cogsworth
+
+1159
+00:56:45,489 --> 00:56:47,449
+and let nature take its course.
+
+1160
+00:56:47,491 --> 00:56:50,160
+lt's obvious there's
+a spark between them.
+
+1161
+00:56:50,202 --> 00:56:54,122
+Yes, but there's no harm
+in fanning the flames.
+
+1162
+00:56:54,164 --> 00:56:55,999
+You know... a little.
+
+1163
+00:56:55,999 --> 00:56:57,209
+Besides, they must fall in love
+
+1164
+00:56:57,251 --> 00:56:59,044
+tonight if we ever expect
+to be human again.
+
+1165
+00:56:59,086 --> 00:57:00,504
+Ah, human again.
+
+1166
+00:57:00,546 --> 00:57:02,089
+Human again.
+
+1167
+00:57:02,130 --> 00:57:05,133
+Yes, think
+what that means.
+
+1168
+00:57:08,053 --> 00:57:10,639
+# l'll be cooking again #
+
+1169
+00:57:10,681 --> 00:57:12,599
+# Be good looking again #
+
+1170
+00:57:12,641 --> 00:57:16,436
+# With a <i>mademoiselle
+on each arm #
+
+1171
+00:57:16,478 --> 00:57:19,147
+# When l'm human again #
+
+1172
+00:57:19,189 --> 00:57:20,816
+# Only human again #
+
+1173
+00:57:20,858 --> 00:57:24,361
+# Poised and polished
+and gleaming with charm #
+
+1174
+00:57:24,403 --> 00:57:26,154
+# l'll be courting again #
+
+1175
+00:57:26,196 --> 00:57:28,073
+# Chic and sporting again #
+
+1176
+00:57:28,115 --> 00:57:31,076
+# Which should cause
+several husbands alarm #
+
+1177
+00:57:31,118 --> 00:57:33,787
+# Ha, ha!
+l'll hop down off this shelf #
+
+1178
+00:57:33,829 --> 00:57:35,664
+# And <i>tout de suite be myself #
+
+1179
+00:57:35,706 --> 00:57:38,792
+# l can't wait
+to be human again #
+
+1180
+00:57:40,752 --> 00:57:42,921
+# When we're human again #
+
+1181
+00:57:43,005 --> 00:57:44,798
+# Only human again #
+
+1182
+00:57:44,840 --> 00:57:47,718
+# When we're knickknacks
+and whatnots no more #
+
+1183
+00:57:47,759 --> 00:57:52,598
+# When we're human again,
+good and human again #
+
+1184
+00:57:52,639 --> 00:57:55,184
+# Oh, <i>cherie,
+won't it all be top drawer? #
+
+1185
+00:57:55,225 --> 00:57:57,227
+# l'll wear lipstick and rouge #
+
+1186
+00:57:57,269 --> 00:57:58,604
+# And l won't be so huge #
+
+1187
+00:57:58,645 --> 00:58:02,274
+# Why, l'll easily fit
+through that door #
+
+1188
+00:58:02,316 --> 00:58:04,193
+# l'll exude <i>savoir faire #
+
+1189
+00:58:04,234 --> 00:58:06,195
+# l'll wear gowns,
+l'll have hair #
+
+1190
+00:58:06,236 --> 00:58:09,364
+# lt's my prayer
+to be human again #
+
+1191
+00:58:14,494 --> 00:58:16,079
+# When we're human again #
+
+1192
+00:58:16,121 --> 00:58:17,998
+# Only human again #
+
+1193
+00:58:18,040 --> 00:58:21,376
+# When the world once more
+starts making sense #
+
+1194
+00:58:21,376 --> 00:58:23,003
+# l'll unwind, for a change #
+
+1195
+00:58:23,086 --> 00:58:24,630
+# Really? That'd be strange #
+
+1196
+00:58:24,671 --> 00:58:27,883
+# Can l help it
+if l'm t-t-tense? #
+
+1197
+00:58:27,925 --> 00:58:29,384
+# ln a shack by the sea #
+
+1198
+00:58:29,426 --> 00:58:31,220
+# l'll sit back, sipping tea #
+
+1199
+00:58:31,261 --> 00:58:34,556
+# Let my early
+retirement commence #
+
+1200
+00:58:34,598 --> 00:58:36,308
+# Far from fools made of wax #
+
+1201
+00:58:36,350 --> 00:58:40,062
+# l'll get down to brass tacks
+and relax! #
+
+1202
+00:58:40,103 --> 00:58:43,815
+# When l'm human again #
+
+1203
+00:58:43,857 --> 00:58:47,361
+# So sweep the dust
+from the floor #
+
+1204
+00:58:47,402 --> 00:58:50,906
+# Let's let some light
+in the room #
+
+1205
+00:58:50,989 --> 00:58:52,616
+# l can feel, l can tell #
+
+1206
+00:58:52,658 --> 00:58:55,702
+# Someone might break the spell
+any day now #
+
+1207
+00:58:57,412 --> 00:59:00,874
+# Shine up the brass
+on the door #
+
+1208
+00:59:00,958 --> 00:59:03,752
+# Alert the dust pail
+and broom #
+
+1209
+00:59:03,794 --> 00:59:05,879
+# lf it all goes as planned #
+
+1210
+00:59:05,921 --> 00:59:11,260
+# Our time may be at hand
+any day now #
+
+1211
+00:59:11,301 --> 00:59:14,680
+# Open the shutters,
+and let in some air #
+
+1212
+00:59:14,721 --> 00:59:18,684
+# Put these here,
+and put those over there #
+
+1213
+00:59:18,725 --> 00:59:22,104
+# Sweep up the years
+of sadness and tears #
+
+1214
+00:59:22,145 --> 00:59:24,857
+# And throw them away #
+
+1215
+00:59:30,988 --> 00:59:33,740
+# We'll be human again #
+
+1216
+00:59:33,782 --> 00:59:35,951
+# Only human again #
+
+1217
+00:59:35,993 --> 00:59:38,662
+# When the girl
+finally sets us all free #
+
+1218
+00:59:38,704 --> 00:59:41,248
+# Cheeks a-blooming again #
+
+1219
+00:59:41,331 --> 00:59:43,166
+# We're assuming again #
+
+1220
+00:59:43,208 --> 00:59:46,170
+# We'll resume our
+long lost <i>joie de vivre #
+
+1221
+00:59:46,211 --> 00:59:47,421
+# We'll be playing again #
+
+1222
+00:59:47,462 --> 00:59:49,756
+# Holidaying again #
+
+1223
+00:59:49,798 --> 00:59:51,800
+# And we're praying
+it's ASAP #
+
+1224
+00:59:53,010 --> 00:59:54,970
+# We will push, we will shove #
+
+1225
+00:59:55,095 --> 00:59:56,930
+# They will both fall in love #
+
+1226
+00:59:57,014 --> 01:00:00,809
+# And we'll finally
+be human again... #
+
+1227
+01:00:02,477 --> 01:00:04,938
+For never was a story
+of more woe
+
+1228
+01:00:04,980 --> 01:00:07,566
+Than this of Juliet
+and her Romeo.
+
+1229
+01:00:08,984 --> 01:00:11,486
+Could you read it again?
+
+1230
+01:00:11,528 --> 01:00:13,697
+Well, here, why don't
+you read it to me?
+
+1231
+01:00:13,739 --> 01:00:15,908
+Uh, all right.
+
+1232
+01:00:15,949 --> 01:00:18,827
+Uh...
+
+1233
+01:00:18,827 --> 01:00:20,954
+Uh... l can't.
+
+1234
+01:00:20,996 --> 01:00:23,707
+You mean,
+you never learned?
+
+1235
+01:00:23,749 --> 01:00:25,959
+l learned... a little.
+
+1236
+01:00:26,001 --> 01:00:28,670
+lt's just been so long.
+
+1237
+01:00:28,712 --> 01:00:30,964
+Well, here, l'll help you.
+
+1238
+01:00:31,048 --> 01:00:32,633
+Let's start here.
+
+1239
+01:00:32,674 --> 01:00:35,385
+Here.
+
+1240
+01:00:35,427 --> 01:00:37,387
+Okay, "Twoe..."
+
+1241
+01:00:37,429 --> 01:00:38,388
+"Two."
+
+1242
+01:00:38,430 --> 01:00:40,557
+"Two... l knew that.
+
+1243
+01:00:40,599 --> 01:00:43,268
+Two households..."
+
+1244
+01:00:43,310 --> 01:00:47,356
+# We'll be dancing again #
+
+1245
+01:00:47,397 --> 01:00:49,066
+# We'll be twirling again #
+
+1246
+01:00:49,107 --> 01:00:52,653
+# We'll be whirling around
+with such ease #
+
+1247
+01:00:52,694 --> 01:00:53,987
+# When we're human again #
+
+1248
+01:00:54,071 --> 01:00:55,697
+# Only human again #
+
+1249
+01:00:55,739 --> 01:00:59,409
+# We'll go waltzing
+those old one, two, threes #
+
+1250
+01:00:59,451 --> 01:01:01,370
+# We'll be floating again #
+
+1251
+01:01:01,411 --> 01:01:02,704
+# We'll be gliding again #
+
+1252
+01:01:02,704 --> 01:01:06,375
+# Stepping, striding
+as fine as you please #
+
+1253
+01:01:06,416 --> 01:01:09,753
+# Like a real human does #
+
+1254
+01:01:09,795 --> 01:01:13,340
+# l'll be all that l was #
+
+1255
+01:01:13,382 --> 01:01:17,886
+# On that glorious morn
+when we're finally reborn #
+
+1256
+01:01:17,928 --> 01:01:21,515
+# And we're all #
+
+1257
+01:01:21,557 --> 01:01:26,770
+# Human again! #
+
+1258
+01:01:39,491 --> 01:01:42,452
+Tonight is
+the night.
+
+1259
+01:01:42,494 --> 01:01:45,247
+l'm not sure l can do this.
+
+1260
+01:01:45,289 --> 01:01:46,874
+You don't have time to be timid.
+
+1261
+01:01:46,915 --> 01:01:49,209
+You must be bold, daring.
+
+1262
+01:01:49,251 --> 01:01:50,961
+Bold, daring.
+
+1263
+01:01:53,881 --> 01:01:56,133
+There will be music...
+
+1264
+01:01:56,175 --> 01:01:58,594
+romantic candlelight...
+
+1265
+01:01:58,594 --> 01:02:00,596
+provided by myself.
+
+1266
+01:02:00,596 --> 01:02:02,097
+And when the moment
+is right
+
+1267
+01:02:02,139 --> 01:02:03,932
+you confess your love.
+
+1268
+01:02:03,932 --> 01:02:05,934
+Yes, l con...
+
+1269
+01:02:05,976 --> 01:02:08,812
+l-l... No, l can't.
+
+1270
+01:02:08,854 --> 01:02:10,272
+You care for the girl,
+don't you?
+
+1271
+01:02:10,314 --> 01:02:12,608
+More than anything.
+
+1272
+01:02:12,608 --> 01:02:14,359
+Well, then,
+you must tell her.
+
+1273
+01:02:16,445 --> 01:02:17,779
+<i>Voila!
+
+1274
+01:02:17,779 --> 01:02:20,115
+Oh, you look so... so...
+
+1275
+01:02:20,157 --> 01:02:22,117
+Stupid.
+
+1276
+01:02:22,117 --> 01:02:25,245
+Not quite the word
+l was looking for.
+
+1277
+01:02:25,329 --> 01:02:27,331
+Perhaps a little more
+off the top?
+
+1278
+01:02:29,791 --> 01:02:33,128
+Your lady awaits.
+
+1279
+01:02:57,778 --> 01:03:02,991
+# Tale as old as time #
+
+1280
+01:03:03,033 --> 01:03:07,246
+# True as it can be #
+
+1281
+01:03:08,455 --> 01:03:11,458
+# Barely even friends #
+
+1282
+01:03:11,500 --> 01:03:14,086
+# Then somebody bends #
+
+1283
+01:03:14,127 --> 01:03:16,004
+# Unexpectedly #
+
+1284
+01:03:17,714 --> 01:03:20,425
+# Just a little change #
+
+1285
+01:03:23,554 --> 01:03:26,181
+# Small, to say the least #
+
+1286
+01:03:26,223 --> 01:03:28,809
+# Both a little scared #
+
+1287
+01:03:28,851 --> 01:03:32,020
+# Neither one prepared #
+
+1288
+01:03:32,062 --> 01:03:34,857
+# Beauty and the Beast #
+
+1289
+01:03:37,734 --> 01:03:39,611
+# Ever just the same #
+
+1290
+01:03:42,739 --> 01:03:45,325
+# Ever a surprise #
+
+1291
+01:03:45,367 --> 01:03:47,494
+Huh? Huh? Huh?
+
+1292
+01:03:47,578 --> 01:03:50,289
+# Ever as before #
+
+1293
+01:03:50,330 --> 01:03:52,708
+# Ever just as sure #
+
+1294
+01:03:52,749 --> 01:03:56,295
+# As the sun will rise #
+
+1295
+01:03:57,796 --> 01:04:02,551
+# Tale as old as time #
+
+1296
+01:04:02,593 --> 01:04:07,181
+# Tune as old as song #
+
+1297
+01:04:07,222 --> 01:04:10,392
+# Bittersweet and strange #
+
+1298
+01:04:10,434 --> 01:04:12,895
+# Finding you can change #
+
+1299
+01:04:13,020 --> 01:04:15,898
+# Learning you were wrong #
+
+1300
+01:04:17,900 --> 01:04:22,571
+# Certain as the sun #
+
+1301
+01:04:22,613 --> 01:04:25,532
+# Rising in the east #
+
+1302
+01:04:25,574 --> 01:04:27,784
+# Tale as old as time #
+
+1303
+01:04:27,826 --> 01:04:30,579
+# Song as old as rhyme #
+
+1304
+01:04:30,621 --> 01:04:33,665
+# Beauty and the Beast #
+
+1305
+01:04:33,707 --> 01:04:35,459
+Shh!
+
+1306
+01:04:36,627 --> 01:04:40,214
+# Tale as old as time #
+
+1307
+01:04:40,255 --> 01:04:44,426
+# Song as old as rhyme #
+
+1308
+01:04:44,468 --> 01:04:51,600
+# Beauty and the Beast. #
+
+1309
+01:04:51,642 --> 01:04:53,810
+Off to the cupboard
+with you now, Chip.
+
+1310
+01:04:53,852 --> 01:04:55,187
+lt's past your bedtime.
+
+1311
+01:04:57,606 --> 01:04:59,983
+Good night, love.
+
+1312
+01:05:23,423 --> 01:05:26,927
+Belle?
+
+1313
+01:05:26,969 --> 01:05:30,556
+Are you... happy
+here with me?
+
+1314
+01:05:30,597 --> 01:05:32,474
+Yes.
+
+1315
+01:05:36,478 --> 01:05:38,939
+What is it?
+
+1316
+01:05:38,981 --> 01:05:41,692
+lf only l could see
+my father again
+
+1317
+01:05:41,733 --> 01:05:43,360
+just for a moment.
+
+1318
+01:05:43,402 --> 01:05:44,820
+l miss him so much.
+
+1319
+01:05:50,409 --> 01:05:53,328
+There is a way.
+
+1320
+01:05:54,580 --> 01:05:57,124
+This mirror will show
+you anything...
+
+1321
+01:05:57,165 --> 01:06:00,586
+anything
+you wish to see.
+
+1322
+01:06:00,627 --> 01:06:03,463
+l'd like to see
+my father, please.
+
+1323
+01:06:10,345 --> 01:06:11,555
+Papa?
+
+1324
+01:06:11,597 --> 01:06:12,848
+Oh, no.
+
+1325
+01:06:12,848 --> 01:06:15,142
+He's sick.
+
+1326
+01:06:15,184 --> 01:06:16,810
+He may be dying
+
+1327
+01:06:16,852 --> 01:06:18,812
+and he's all alone.
+
+1328
+01:06:24,026 --> 01:06:27,487
+Then, you must go to him.
+
+1329
+01:06:27,529 --> 01:06:28,822
+What did you say?
+
+1330
+01:06:28,864 --> 01:06:29,907
+l release you.
+
+1331
+01:06:29,948 --> 01:06:32,367
+You are no longer my prisoner.
+
+1332
+01:06:32,409 --> 01:06:33,869
+You mean...
+
+1333
+01:06:33,869 --> 01:06:35,037
+l'm free?
+
+1334
+01:06:35,078 --> 01:06:37,164
+Yes.
+
+1335
+01:06:37,206 --> 01:06:39,374
+Oh, thank you.
+
+1336
+01:06:39,416 --> 01:06:41,585
+Hold on, Papa.
+
+1337
+01:06:41,627 --> 01:06:43,879
+l'm on my way.
+
+1338
+01:06:43,921 --> 01:06:45,714
+Take it with you
+
+1339
+01:06:45,756 --> 01:06:50,177
+so you'll always have
+a way to look back
+
+1340
+01:06:50,219 --> 01:06:52,054
+and remember me.
+
+1341
+01:06:54,723 --> 01:06:56,308
+Thank you for
+understanding
+
+1342
+01:06:56,350 --> 01:06:57,684
+how much he needs me.
+
+1343
+01:07:06,318 --> 01:07:08,487
+Well, Your Highness,
+l must say
+
+1344
+01:07:08,529 --> 01:07:11,073
+everything is going
+just swimmingly.
+
+1345
+01:07:11,114 --> 01:07:12,282
+l knew you had it in you.
+
+1346
+01:07:13,617 --> 01:07:15,118
+l let her go.
+
+1347
+01:07:16,495 --> 01:07:17,829
+Yes, yes.
+
+1348
+01:07:17,871 --> 01:07:18,872
+Splen...
+
+1349
+01:07:18,997 --> 01:07:21,917
+You what?
+
+1350
+01:07:21,959 --> 01:07:23,460
+How could you do that?
+
+1351
+01:07:23,502 --> 01:07:24,920
+l had to.
+
+1352
+01:07:25,003 --> 01:07:26,004
+Yes, but...
+
+1353
+01:07:27,047 --> 01:07:27,923
+Why?
+
+1354
+01:07:28,006 --> 01:07:31,718
+Because... l love her.
+
+1355
+01:07:31,760 --> 01:07:33,220
+He did what?
+
+1356
+01:07:33,262 --> 01:07:34,471
+Yes.
+
+1357
+01:07:34,513 --> 01:07:36,223
+l'm afraid it's true.
+
+1358
+01:07:36,265 --> 01:07:37,683
+She's going away?
+
+1359
+01:07:37,724 --> 01:07:39,768
+But he was so close.
+
+1360
+01:07:39,810 --> 01:07:41,562
+After all this time
+
+1361
+01:07:41,603 --> 01:07:44,273
+he's finally learned to love.
+
+1362
+01:07:44,314 --> 01:07:47,025
+That's it, then.
+That should break the spell.
+
+1363
+01:07:47,067 --> 01:07:48,610
+But it's not enough.
+
+1364
+01:07:48,652 --> 01:07:51,071
+She has to love him
+in return.
+
+1365
+01:07:51,113 --> 01:07:54,408
+Now it's too late.
+
+1366
+01:08:02,916 --> 01:08:05,752
+Papa! Papa!
+
+1367
+01:08:18,640 --> 01:08:20,851
+Ooh.
+
+1368
+01:08:20,893 --> 01:08:23,020
+They're back.
+
+1369
+01:08:24,313 --> 01:08:25,564
+Belle?
+
+1370
+01:08:25,606 --> 01:08:26,607
+Shh.
+
+1371
+01:08:26,648 --> 01:08:28,025
+lt's all right, Papa.
+
+1372
+01:08:28,066 --> 01:08:30,152
+l'm home.
+
+1373
+01:08:30,194 --> 01:08:31,403
+l thought l'd never
+
+1374
+01:08:31,445 --> 01:08:33,989
+see you again.
+
+1375
+01:08:34,031 --> 01:08:35,908
+l missed you so much.
+
+1376
+01:08:35,991 --> 01:08:36,909
+but the Beast?
+
+1377
+01:08:36,992 --> 01:08:38,911
+Did you...
+How did you escape?
+
+1378
+01:08:38,952 --> 01:08:40,245
+l didn't escape, Papa.
+
+1379
+01:08:40,287 --> 01:08:41,496
+He let me go.
+
+1380
+01:08:41,538 --> 01:08:42,915
+That horrible beast?
+
+1381
+01:08:42,998 --> 01:08:46,043
+But he's different now, Papa.
+
+1382
+01:08:46,084 --> 01:08:48,337
+He's changed somehow.
+
+1383
+01:08:52,382 --> 01:08:53,634
+Hi.
+
+1384
+01:08:53,675 --> 01:08:56,553
+Oh. A stowaway.
+
+1385
+01:08:56,595 --> 01:09:00,057
+Why, hello there, little fella.
+
+1386
+01:09:00,098 --> 01:09:01,892
+Didn't think
+l'd see you again.
+
+1387
+01:09:01,934 --> 01:09:03,435
+Belle, why'd you go away?
+
+1388
+01:09:03,477 --> 01:09:05,062
+Don't you like us anymore?
+
+1389
+01:09:05,103 --> 01:09:07,231
+Oh, Chip, of course l do.
+
+1390
+01:09:07,272 --> 01:09:08,607
+lt's just...
+
+1391
+01:09:13,237 --> 01:09:14,446
+May l help you?
+
+1392
+01:09:14,488 --> 01:09:16,406
+l've come to collect
+your father.
+
+1393
+01:09:16,448 --> 01:09:17,950
+My father?
+
+1394
+01:09:17,991 --> 01:09:19,952
+Don't worry, <i>Mademoiselle.
+
+1395
+01:09:19,993 --> 01:09:22,204
+We'll take good care of him.
+
+1396
+01:09:23,539 --> 01:09:24,706
+My father's not crazy.
+
+1397
+01:09:24,748 --> 01:09:26,583
+He was raving like a lunatic.
+
+1398
+01:09:26,625 --> 01:09:28,418
+We all heard him, didn't we?
+
+1399
+01:09:31,380 --> 01:09:32,965
+No, l won't let you.
+
+1400
+01:09:33,048 --> 01:09:33,966
+Belle?
+
+1401
+01:09:34,007 --> 01:09:36,677
+Maurice, tell us again, old man.
+
+1402
+01:09:36,718 --> 01:09:38,679
+Just how big
+was the beast?
+
+1403
+01:09:40,430 --> 01:09:43,976
+He was... l mean, he was...
+he was... enormous.
+
+1404
+01:09:44,059 --> 01:09:45,769
+l-l'd say
+at least eight...
+
+1405
+01:09:45,811 --> 01:09:47,229
+No, more like ten feet.
+
+1406
+01:09:48,230 --> 01:09:52,317
+Well, you don't get
+much crazier than that.
+
+1407
+01:09:53,610 --> 01:09:55,821
+lt's true, l tell you.
+
+1408
+01:09:55,863 --> 01:09:57,781
+Get him
+out of here.
+
+1409
+01:09:57,823 --> 01:09:59,157
+Let go of me.
+
+1410
+01:09:59,199 --> 01:10:00,284
+No!
+
+1411
+01:10:00,325 --> 01:10:02,369
+You can't do this.
+
+1412
+01:10:02,411 --> 01:10:03,579
+Poor Belle.
+
+1413
+01:10:03,620 --> 01:10:06,081
+lt's a shame
+about your father.
+
+1414
+01:10:06,123 --> 01:10:07,875
+You know he's
+not crazy, Gaston.
+
+1415
+01:10:07,916 --> 01:10:10,794
+Hmm, l might be able
+to clear up this...
+
+1416
+01:10:10,836 --> 01:10:12,588
+little misunderstanding.
+
+1417
+01:10:12,588 --> 01:10:13,714
+lf...
+
+1418
+01:10:13,755 --> 01:10:14,590
+lf what?
+
+1419
+01:10:14,590 --> 01:10:16,550
+lf you marry me.
+
+1420
+01:10:16,592 --> 01:10:17,551
+What?
+
+1421
+01:10:17,593 --> 01:10:19,219
+One little word, Belle.
+That's all it takes.
+
+1422
+01:10:19,261 --> 01:10:20,262
+Never.
+
+1423
+01:10:20,304 --> 01:10:21,930
+Have it your way.
+
+1424
+01:10:22,014 --> 01:10:22,806
+Belle.
+
+1425
+01:10:24,474 --> 01:10:26,059
+Let go of me.
+
+1426
+01:10:26,101 --> 01:10:27,519
+My father's not crazy
+
+1427
+01:10:27,561 --> 01:10:28,729
+and l can prove it.
+
+1428
+01:10:28,770 --> 01:10:30,981
+Show me the Beast.
+
+1429
+01:10:35,611 --> 01:10:36,945
+ls it dangerous?
+
+1430
+01:10:37,029 --> 01:10:39,823
+Oh, no, no, he'd
+never hurt anyone.
+
+1431
+01:10:39,865 --> 01:10:42,284
+Please, l know he looks vicious
+
+1432
+01:10:42,326 --> 01:10:43,952
+but he's really
+kind and gentle.
+
+1433
+01:10:44,077 --> 01:10:45,579
+He's my friend.
+
+1434
+01:10:45,621 --> 01:10:46,830
+lf l didn't know better
+
+1435
+01:10:46,872 --> 01:10:49,416
+l'd think you had feelings
+for this monster.
+
+1436
+01:10:49,458 --> 01:10:52,002
+He's no monster, Gaston.
+You are.
+
+1437
+01:10:53,212 --> 01:10:56,256
+She's as crazy
+as the old man.
+
+1438
+01:10:56,256 --> 01:10:59,635
+The Beast will make off
+with your children.
+
+1439
+01:10:59,635 --> 01:11:00,511
+-He'll come after them
+in the night.
+-No!
+
+1440
+01:11:00,552 --> 01:11:01,512
+We're not safe
+
+1441
+01:11:01,553 --> 01:11:03,096
+till his head
+is mounted on my wall.
+
+1442
+01:11:03,138 --> 01:11:04,932
+l say we kill the Beast!
+
+1443
+01:11:05,974 --> 01:11:07,809
+# We're not safe
+until he's dead #
+
+1444
+01:11:07,809 --> 01:11:09,436
+# He'll come stalking us
+at night #
+
+1445
+01:11:09,478 --> 01:11:11,355
+# Set to sacrifice
+our children #
+
+1446
+01:11:11,396 --> 01:11:13,148
+# To his monstrous appetite #
+
+1447
+01:11:13,190 --> 01:11:15,025
+# He'll wreak havoc
+on our village #
+
+1448
+01:11:15,067 --> 01:11:16,610
+# lf we let him wander free #
+
+1449
+01:11:16,652 --> 01:11:20,322
+# So it's time to take
+some action, boys #
+
+1450
+01:11:20,364 --> 01:11:25,494
+# lt's time to follow me #
+
+1451
+01:11:27,246 --> 01:11:29,122
+# Through the mist,
+through the woods #
+
+1452
+01:11:29,164 --> 01:11:30,958
+# Through the darkness
+and the shadows #
+
+1453
+01:11:31,041 --> 01:11:33,418
+# lt's a nightmare,
+but it's one exciting ride #
+
+1454
+01:11:33,460 --> 01:11:36,880
+# Say a prayer, then we're there
+at the drawbridge of a castle #
+
+1455
+01:11:36,922 --> 01:11:40,342
+# And there's something
+truly terrible inside #
+
+1456
+01:11:40,384 --> 01:11:43,095
+# lt's a beast, he's got fangs,
+razor-sharp ones #
+
+1457
+01:11:43,136 --> 01:11:46,473
+# Massive paws, killer claws
+for the feast #
+
+1458
+01:11:46,515 --> 01:11:48,475
+# Hear him roar, see him foam #
+
+1459
+01:11:48,517 --> 01:11:50,185
+# But we're not coming home #
+
+1460
+01:11:50,227 --> 01:11:51,645
+# Till he's dead #
+
+1461
+01:11:51,687 --> 01:11:53,397
+# Good and dead #
+
+1462
+01:11:53,438 --> 01:11:54,523
+# Kill the Beast! #
+
+1463
+01:11:54,565 --> 01:11:56,149
+No, l won't
+let you do this.
+
+1464
+01:11:56,191 --> 01:11:58,735
+lf you're not with us,
+you're against us.
+
+1465
+01:11:58,777 --> 01:11:59,820
+Bring the old man.
+
+1466
+01:11:59,862 --> 01:12:01,488
+Get your hands off me.
+
+1467
+01:12:01,530 --> 01:12:03,907
+We can't have them running off
+to warn the creature.
+
+1468
+01:12:04,032 --> 01:12:05,284
+Let us out!
+
+1469
+01:12:05,325 --> 01:12:08,036
+We'll rid the village
+of this beast.
+
+1470
+01:12:08,036 --> 01:12:09,079
+Who's with me?
+
+1471
+01:12:10,706 --> 01:12:12,749
+# Raise your torch,
+mount your horse #
+
+1472
+01:12:12,791 --> 01:12:15,127
+# Screw your courage
+to the sticking place #
+
+1473
+01:12:15,169 --> 01:12:17,588
+# We're counting on Gaston
+to lead the way #
+
+1474
+01:12:17,629 --> 01:12:19,423
+# Through the mist,
+through the wood #
+
+1475
+01:12:19,464 --> 01:12:21,091
+# Where,
+within a haunted castle #
+
+1476
+01:12:21,133 --> 01:12:23,760
+# Something's lurking
+that you don't see every day #
+
+1477
+01:12:23,802 --> 01:12:27,347
+# lt's a beast,
+one as tall as a mountain #
+
+1478
+01:12:27,389 --> 01:12:30,559
+# We won't rest
+till he's good and deceased #
+
+1479
+01:12:30,601 --> 01:12:32,394
+# Sally forth, tally ho #
+
+1480
+01:12:32,436 --> 01:12:34,062
+# Grab your sword,
+grab your bow #
+
+1481
+01:12:34,104 --> 01:12:35,606
+# Praise the lord,
+and here we go. #
+
+1482
+01:12:35,647 --> 01:12:39,067
+We'll lay siege to the castle
+and bring back his head!
+
+1483
+01:12:39,109 --> 01:12:41,403
+l have to warn the Beast.
+
+1484
+01:12:41,403 --> 01:12:43,322
+This is all my fault.
+
+1485
+01:12:43,363 --> 01:12:45,282
+Oh, Papa, what are
+we going to do?
+
+1486
+01:12:45,324 --> 01:12:46,658
+Now, now.
+
+1487
+01:12:46,700 --> 01:12:48,202
+We'll think of something.
+
+1488
+01:12:51,288 --> 01:12:52,497
+Ah!
+
+1489
+01:12:55,417 --> 01:12:57,836
+# We don't like
+what we don't understand #
+
+1490
+01:12:57,878 --> 01:12:59,588
+# ln fact, it scares us #
+
+1491
+01:12:59,630 --> 01:13:02,216
+# And this monster
+is mysterious at least #
+
+1492
+01:13:02,257 --> 01:13:03,759
+# Bring your guns,
+bring your knives #
+
+1493
+01:13:03,800 --> 01:13:05,344
+# Save your children
+and your wives #
+
+1494
+01:13:05,385 --> 01:13:08,472
+# We'll save our village
+and our lives #
+
+1495
+01:13:08,514 --> 01:13:09,932
+# We'll kill the Beast! #
+
+1496
+01:13:10,015 --> 01:13:11,433
+l knew it.
+
+1497
+01:13:11,433 --> 01:13:13,852
+l knew it was foolish
+to get our hopes up.
+
+1498
+01:13:13,894 --> 01:13:16,647
+Maybe it would have been better
+if she'd never come at all.
+
+1499
+01:13:17,940 --> 01:13:19,191
+Could it be?
+
+1500
+01:13:19,233 --> 01:13:20,025
+ls it she?
+
+1501
+01:13:20,067 --> 01:13:21,443
+<i>Sacre bleu!
+
+1502
+01:13:21,485 --> 01:13:22,528
+lnvaders.
+
+1503
+01:13:22,569 --> 01:13:23,779
+Encroachers.
+
+1504
+01:13:23,820 --> 01:13:25,197
+And they have
+the mirror.
+
+1505
+01:13:25,239 --> 01:13:26,240
+Warn the master.
+
+1506
+01:13:26,281 --> 01:13:28,242
+lf it's a fight they want,
+we'll be ready for them.
+
+1507
+01:13:28,283 --> 01:13:29,243
+Who's with me?
+
+1508
+01:13:29,284 --> 01:13:30,285
+Ah!
+
+1509
+01:13:30,327 --> 01:13:32,329
+Take whatever booty
+you can find
+
+1510
+01:13:32,371 --> 01:13:35,457
+but remember,
+the Beast is mine!
+
+1511
+01:13:35,499 --> 01:13:37,251
+# Lights ablaze, banners high #
+
+1512
+01:13:37,292 --> 01:13:38,961
+# We go marching into battle #
+
+1513
+01:13:39,002 --> 01:13:41,713
+# Unafraid, although
+the danger just increased #
+
+1514
+01:13:41,755 --> 01:13:43,465
+# Raise the flag,
+sing the song #
+
+1515
+01:13:43,507 --> 01:13:44,842
+# Here we come,
+we're 50 strong #
+
+1516
+01:13:44,883 --> 01:13:47,427
+# And 50 Frenchmen
+can't be wrong #
+
+1517
+01:13:47,469 --> 01:13:49,263
+# Let's kill the Beast! #
+
+1518
+01:13:50,222 --> 01:13:53,392
+-Pardon me, Master?
+-Leave me in peace.
+
+1519
+01:13:53,433 --> 01:13:55,936
+But, sir, the castle
+is under attack.
+
+1520
+01:13:57,271 --> 01:13:59,106
+Kill the Beast!
+Kill the Beast!
+
+1521
+01:13:59,147 --> 01:14:00,899
+This isn't working.
+
+1522
+01:14:00,983 --> 01:14:03,443
+Oh, Lumiere,
+we must do something.
+
+1523
+01:14:03,485 --> 01:14:05,904
+Wait, l know.
+
+1524
+01:14:08,282 --> 01:14:11,118
+What shall
+we do, Master?
+
+1525
+01:14:11,159 --> 01:14:13,662
+lt doesn't matter now.
+
+1526
+01:14:13,704 --> 01:14:15,789
+Just let them come.
+
+1527
+01:14:15,831 --> 01:14:19,168
+Kill the Beast!
+Kill the Beast!
+
+1528
+01:14:19,168 --> 01:14:20,377
+Kill the Beast!
+
+1529
+01:14:33,348 --> 01:14:34,016
+Now!
+
+1530
+01:14:55,120 --> 01:14:56,371
+Yes!
+
+1531
+01:15:00,000 --> 01:15:01,668
+Here we go.
+
+1532
+01:15:05,005 --> 01:15:06,590
+What the devil?
+
+1533
+01:15:07,716 --> 01:15:08,967
+Belle, look out!
+
+1534
+01:15:15,224 --> 01:15:18,352
+You guys got to try this thing.
+
+1535
+01:15:22,940 --> 01:15:24,733
+Up here
+
+1536
+01:15:24,733 --> 01:15:27,069
+you scurvy scum! Now!
+
+1537
+01:15:45,462 --> 01:15:46,755
+Oh!
+
+1538
+01:16:37,139 --> 01:16:39,600
+And stay out!
+
+1539
+01:16:41,476 --> 01:16:43,103
+Eww!
+
+1540
+01:17:09,046 --> 01:17:10,297
+Get up.
+
+1541
+01:17:11,673 --> 01:17:14,343
+Get up!
+
+1542
+01:17:14,384 --> 01:17:16,428
+What's the matter, Beast?
+
+1543
+01:17:17,846 --> 01:17:20,766
+Too kind and gentle
+to fight back?
+
+1544
+01:17:27,397 --> 01:17:28,815
+No!
+
+1545
+01:17:32,444 --> 01:17:33,195
+Belle...
+
+1546
+01:17:33,195 --> 01:17:35,656
+No! Gaston, don't!
+
+1547
+01:17:41,411 --> 01:17:42,788
+Let's go, Philippe.
+
+1548
+01:18:07,896 --> 01:18:09,565
+Come on out and fight!
+
+1549
+01:18:12,150 --> 01:18:15,070
+Were you in love with her,
+Beast?
+
+1550
+01:18:15,112 --> 01:18:17,906
+Did you honestly think
+she'd want you
+
+1551
+01:18:17,948 --> 01:18:20,325
+when she had someone like me?
+
+1552
+01:18:31,211 --> 01:18:33,881
+lt's over, Beast.
+
+1553
+01:18:33,922 --> 01:18:35,632
+Belle is mine!
+
+1554
+01:18:41,096 --> 01:18:42,723
+Let me go. Let me go.
+
+1555
+01:18:42,764 --> 01:18:44,474
+Please, don't hurt me.
+
+1556
+01:18:44,516 --> 01:18:45,559
+l'll do anything.
+
+1557
+01:18:45,601 --> 01:18:47,227
+Anything!
+
+1558
+01:19:00,616 --> 01:19:03,327
+Get out.
+
+1559
+01:19:03,368 --> 01:19:05,579
+Beast!
+
+1560
+01:19:05,621 --> 01:19:06,747
+Belle?
+
+1561
+01:19:14,671 --> 01:19:16,882
+Belle?
+
+1562
+01:19:22,638 --> 01:19:24,973
+You came back.
+
+1563
+01:20:03,136 --> 01:20:06,098
+You...
+
+1564
+01:20:06,139 --> 01:20:07,808
+You came back.
+
+1565
+01:20:07,850 --> 01:20:09,476
+Of course l came back.
+
+1566
+01:20:09,518 --> 01:20:11,311
+l couldn't let them...
+
+1567
+01:20:11,353 --> 01:20:13,272
+Oh, this is all my fault.
+
+1568
+01:20:13,313 --> 01:20:15,691
+lf only l'd gotten
+here sooner.
+
+1569
+01:20:15,732 --> 01:20:19,236
+Maybe... it's better...
+
+1570
+01:20:19,278 --> 01:20:20,571
+it's better this way.
+
+1571
+01:20:20,612 --> 01:20:22,948
+Don't talk like that.
+
+1572
+01:20:22,990 --> 01:20:24,616
+You'll be all right.
+
+1573
+01:20:25,826 --> 01:20:26,827
+We're together now.
+
+1574
+01:20:26,869 --> 01:20:28,328
+Everything's
+going to be fine.
+
+1575
+01:20:28,370 --> 01:20:30,539
+You'll see.
+
+1576
+01:20:30,581 --> 01:20:33,876
+And... at least...
+
+1577
+01:20:33,876 --> 01:20:36,628
+l got to see you...
+
+1578
+01:20:36,670 --> 01:20:38,380
+one last time.
+
+1579
+01:20:49,099 --> 01:20:50,726
+No. No.
+
+1580
+01:20:50,767 --> 01:20:54,730
+Please... Please...
+
+1581
+01:20:54,771 --> 01:20:56,732
+Please, don't leave me.
+
+1582
+01:20:58,942 --> 01:21:02,821
+l love you.
+
+1583
+01:22:40,294 --> 01:22:41,712
+Belle.
+
+1584
+01:22:41,753 --> 01:22:43,422
+lt's me.
+
+1585
+01:22:58,687 --> 01:23:00,397
+lt <i>is you.
+
+1586
+01:23:33,055 --> 01:23:35,390
+Lumiere.
+
+1587
+01:23:35,432 --> 01:23:38,060
+Cogsworth!
+
+1588
+01:23:38,101 --> 01:23:40,312
+Mrs. Potts!
+
+1589
+01:23:40,354 --> 01:23:41,522
+Look at us.
+
+1590
+01:23:41,563 --> 01:23:43,065
+Mama, Mama.
+
+1591
+01:23:48,570 --> 01:23:49,905
+My goodness.
+
+1592
+01:23:49,905 --> 01:23:51,782
+lt is a miracle.
+
+1593
+01:24:02,584 --> 01:24:03,961
+<i>L'amour.
+
+1594
+01:24:07,840 --> 01:24:10,133
+Well, Lumiere,
+old friend.
+
+1595
+01:24:10,175 --> 01:24:11,468
+Shall we let bygones
+be bygones?
+
+1596
+01:24:11,510 --> 01:24:12,469
+Of course, <i>mon ami.
+
+1597
+01:24:12,511 --> 01:24:14,137
+l told you she would
+break the spell.
+
+1598
+01:24:14,179 --> 01:24:16,807
+l beg your pardon,
+old friend
+
+1599
+01:24:16,849 --> 01:24:19,184
+but l believe
+l told you.
+
+1600
+01:24:19,226 --> 01:24:20,894
+No, you didn't--
+l told you.
+
+1601
+01:24:20,936 --> 01:24:23,272
+You most certainly
+did not, you pompous
+
+1602
+01:24:23,272 --> 01:24:24,857
+paraffin-headed
+peabrain.
+
+1603
+01:24:24,898 --> 01:24:27,609
+<i>En garde, you-you
+overgrown pocket watch.
+
+1604
+01:24:27,651 --> 01:24:28,819
+Take that.
+
+1605
+01:24:32,823 --> 01:24:36,743
+Are they going to live
+happily ever after, Mama?
+
+1606
+01:24:36,785 --> 01:24:38,745
+Of course, my dear.
+
+1607
+01:24:38,787 --> 01:24:40,914
+Of course.
+
+1608
+01:24:40,956 --> 01:24:44,042
+Do l still have
+to sleep in the cupboard?
+
+1609
+01:24:46,628 --> 01:24:52,759
+# Certain as the sun #
+
+1610
+01:24:52,801 --> 01:24:55,179
+# Rising in the east #
+
+1611
+01:24:55,220 --> 01:24:58,140
+# Tale as old as time #
+
+1612
+01:24:58,182 --> 01:25:00,475
+# Song as old as rhyme #
+
+1613
+01:25:00,475 --> 01:25:06,815
+# Beauty and the Beast #
+
+1614
+01:25:06,857 --> 01:25:09,443
+# Tale as old as time #
+
+1615
+01:25:09,484 --> 01:25:12,821
+# Song as old as rhyme #
+
+1616
+01:25:12,821 --> 01:25:19,536
+# Beauty and the Beast. #
+
+1617
+01:25:34,510 --> 01:25:39,223
+# Ooh-ooh-ooh-ooh, ooh, ooh #
+
+1618
+01:25:43,519 --> 01:25:49,858
+# Tale as old as time #
+
+1619
+01:25:49,858 --> 01:25:55,531
+# True as it can be #
+
+1620
+01:25:55,531 --> 01:25:59,159
+# Barely even friends #
+
+1621
+01:25:59,201 --> 01:26:02,204
+# Then somebody bends #
+
+1622
+01:26:02,204 --> 01:26:08,210
+# Unexpectedly #
+
+1623
+01:26:08,252 --> 01:26:14,550
+# Just a little change #
+
+1624
+01:26:14,591 --> 01:26:17,886
+# Small to say the least #
+
+1625
+01:26:17,886 --> 01:26:20,889
+# Both a little scared #
+
+1626
+01:26:20,889 --> 01:26:24,268
+# Neither one prepared #
+
+1627
+01:26:24,309 --> 01:26:29,731
+# Beauty and the Beast #
+
+1628
+01:26:29,731 --> 01:26:36,154
+# Ever just the same #
+
+1629
+01:26:36,196 --> 01:26:42,494
+# Ever a surprise #
+
+1630
+01:26:42,536 --> 01:26:45,789
+# Ever as before #
+
+1631
+01:26:45,831 --> 01:26:48,834
+# And ever just as sure #
+
+1632
+01:26:48,876 --> 01:26:53,714
+# As the sun will rise #
+
+1633
+01:26:53,755 --> 01:26:57,050
+# Whoa, oh-oh #
+
+1634
+01:26:57,092 --> 01:26:59,887
+# Whoa, oh #
+
+1635
+01:27:16,612 --> 01:27:19,907
+# Oh, oh-oh-oh, oh-oh #
+
+1636
+01:27:19,948 --> 01:27:26,580
+# Ever just the same #
+
+1637
+01:27:26,622 --> 01:27:32,544
+# Ever a surprise #
+
+1638
+01:27:32,586 --> 01:27:35,547
+# Ever as before #
+
+1639
+01:27:35,589 --> 01:27:38,550
+# Ever just as sure #
+
+1640
+01:27:38,592 --> 01:27:42,888
+# As the sun will rise #
+
+1641
+01:27:42,930 --> 01:27:48,268
+# Oh, oh, oh... #
+
+1642
+01:27:48,310 --> 01:27:54,775
+# Tale as old as time #
+
+1643
+01:27:54,816 --> 01:28:00,864
+# Tune as old as song #
+
+1644
+01:28:00,948 --> 01:28:03,867
+# Bittersweet and strange #
+
+1645
+01:28:03,951 --> 01:28:06,870
+# Finding you can change #
+
+1646
+01:28:06,995 --> 01:28:13,252
+# Learning you were wrong #
+
+1647
+01:28:13,293 --> 01:28:16,588
+# Certain as the sun #
+
+1648
+01:28:16,630 --> 01:28:19,883
+# Certain as the sun #
+
+1649
+01:28:19,967 --> 01:28:22,886
+# Rising in the east #
+
+1650
+01:28:22,928 --> 01:28:25,597
+# Tale as old as time #
+
+1651
+01:28:25,639 --> 01:28:28,642
+# Song as old as rhyme #
+
+1652
+01:28:28,684 --> 01:28:34,898
+# Beauty and the Beast #
+
+1653
+01:28:34,940 --> 01:28:38,277
+# Tale as old as time #
+
+1654
+01:28:38,318 --> 01:28:41,905
+# Song as old as rhyme #
+
+1655
+01:28:41,989 --> 01:28:52,916
+# Beauty and the Beast #
+
+1656
+01:28:52,958 --> 01:28:56,753
+# Oh, oh-oh-oh #
+
+1657
+01:28:56,795 --> 01:29:00,591
+# Oh-oh, oh-oh-oh-oh #
+
+1658
+01:29:05,429 --> 01:29:09,641
+# Mm-mm-mm, mm-mm-mm, mm-mm #
+
+1659
+01:29:12,644 --> 01:29:27,201
+# Beauty and the Beast. #
