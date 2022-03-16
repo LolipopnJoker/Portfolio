@@ -1,0 +1,10143 @@
+﻿1
+00:00:05,674 --> 00:00:10,674
+Subtitles by explosiveskull
+
+2
+00:00:10,676 --> 00:00:13,612
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+3
+00:01:01,226 --> 00:01:04,164
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+4
+00:01:18,243 --> 00:01:20,410
+<font color="#ff8000">PETER</font>: <i>All right, let's
+do this one last time.</i>
+
+5
+00:01:20,412 --> 00:01:22,513
+<i>My name is Peter Parker.</i>
+
+6
+00:01:22,515 --> 00:01:25,815
+<i>I was bitten
+by a radioactive spider.</i>
+
+7
+00:01:25,817 --> 00:01:27,618
+<i>And for 10 years...</i>
+<font color="#ff00ff">[BRAKES SQUEAL]</font>
+
+8
+00:01:27,620 --> 00:01:28,851
+<i>I've been the one</i>
+
+9
+00:01:28,853 --> 00:01:30,586
+<i>and only</i>
+
+10
+00:01:30,588 --> 00:01:31,889
+<i>Spider-Man.</i>
+
+11
+00:01:31,891 --> 00:01:33,624
+<i>I'm pretty sure
+you know the rest.</i>
+
+12
+00:01:33,626 --> 00:01:36,793
+With great power comes
+great responsibility.
+
+13
+00:01:36,795 --> 00:01:41,234
+<i>I saved a bunch of people,
+fell in love, saved the city.</i>
+
+14
+00:01:42,534 --> 00:01:44,201
+<i>And then I saved the city again.</i>
+
+15
+00:01:44,203 --> 00:01:45,335
+<i>And again and again</i>
+
+16
+00:01:45,337 --> 00:01:46,636
+<i>and again.</i>
+<font color="#ff00ff">[GROANING]</font>
+
+17
+00:01:46,638 --> 00:01:47,638
+<i>And I did, uh...</i>
+
+18
+00:01:47,640 --> 00:01:49,238
+<i>I did this.</i>
+
+19
+00:01:49,240 --> 00:01:51,341
+<i><font color="#ffff00">♪</font> Get on up
+Get yourself together <font color="#ffff00">♪</font></i>
+
+20
+00:01:51,343 --> 00:01:52,708
+<i><font color="#ffff00">♪</font> Drive that funky soul ♪</i>
+
+21
+00:01:52,710 --> 00:01:55,178
+<i>We don't really talk about this.</i>
+
+22
+00:01:55,180 --> 00:01:57,380
+<i>Look, I'm a comic book.
+I'm a cereal.</i>
+
+23
+00:01:57,382 --> 00:01:58,648
+<i>Did a Christmas album.</i>
+
+24
+00:01:58,650 --> 00:02:00,317
+<i>I have an excellent theme song.</i>
+
+25
+00:02:00,319 --> 00:02:02,386
+<i><font color="#ffff00">♪</font> Spider-man
+Spider-man ♪</i>
+
+26
+00:02:02,388 --> 00:02:04,621
+<i>And a so-so Popsicle.</i>
+
+27
+00:02:04,623 --> 00:02:07,323
+<i>I mean, I've looked worse.</i>
+
+28
+00:02:07,325 --> 00:02:09,692
+<i>But after everything...</i>
+<font color="#ff00ff">[GRUNTS]</font>
+
+29
+00:02:09,694 --> 00:02:12,228
+<i>I still love being Spider-Man.</i>
+
+30
+00:02:12,230 --> 00:02:13,596
+<i>I mean, who wouldn't?</i>
+
+31
+00:02:13,598 --> 00:02:15,667
+<i>So no matter
+how many hits I take...</i>
+
+32
+00:02:16,401 --> 00:02:17,800
+<font color="#ff00ff">[GRUNTS]</font>
+
+33
+00:02:17,802 --> 00:02:21,672
+<i>...I always find a way
+to come back.</i>
+
+34
+00:02:21,674 --> 00:02:25,508
+<i>Because the only thing standing
+between this city and oblivion</i>
+
+35
+00:02:25,510 --> 00:02:27,210
+<i>is me.</i>
+
+36
+00:02:27,212 --> 00:02:29,549
+<i>There's only one Spider-Man.</i>
+
+37
+00:02:30,949 --> 00:02:32,848
+<i>And you're lookin' at him.</i>
+
+38
+00:02:32,850 --> 00:02:35,318
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+39
+00:02:35,320 --> 00:02:36,386
+<font color="#ff8000">MILES</font>: <i><font color="#ffff00">♪</font> Ooh ♪</i>
+
+40
+00:02:36,388 --> 00:02:39,590
+<i><font color="#ffff00">♪</font> Ooh, ooh, ooh ♪</i>
+
+41
+00:02:39,592 --> 00:02:41,628
+<font color="#ff00ff">[CLEARS THROAT]</font>
+
+42
+00:02:43,262 --> 00:02:44,360
+<i><font color="#ffff00">♪</font> Needless to say... ♪</i>
+
+43
+00:02:44,362 --> 00:02:47,530
+<font color="#ff00ff">[FLUBBING LYRICS]</font>
+
+44
+00:02:47,532 --> 00:02:49,499
+<i><font color="#ffff00">♪</font> Nevertheless
+Callin' it quits <font color="#ffff00">♪</font></i>
+
+45
+00:02:49,501 --> 00:02:51,435
+<i><font color="#ffff00">♪</font> Now, baby, I'm a wreck ♪</i>
+<font color="#ff8000">RIO</font>: Miles!
+
+46
+00:02:51,437 --> 00:02:54,671
+<font color="#ff00ff">[CONTINUES FLUBBING LYRICS]</font>
+Miles, <i>papá,</i> time for school!
+
+47
+00:02:54,673 --> 00:02:56,408
+Miles!
+
+48
+00:02:57,710 --> 00:02:59,542
+<font color="#ff8000">JEFFERSON</font>: Miles!
+
+49
+00:02:59,544 --> 00:03:01,612
+Miles!
+Yeah! Yeah?
+
+50
+00:03:01,614 --> 00:03:03,947
+<font color="#ff8000">JEFFERSON</font>: Are you finished
+packing for school?
+
+51
+00:03:03,949 --> 00:03:05,318
+Yeah.
+
+52
+00:03:06,551 --> 00:03:08,952
+Just ironing my last shirt.
+
+53
+00:03:08,954 --> 00:03:10,554
+<font color="#ff00ff">[RIO SPEAKING SPANISH]</font>
+
+54
+00:03:10,556 --> 00:03:12,288
+<i><font color="#ffff00">♪</font> You're a sunflower... ♪</i>
+<font color="#ff00ff">[GRUNTS]</font>
+
+55
+00:03:12,290 --> 00:03:14,257
+<font color="#ff8000">JEFFERSON</font>: Come on!
+You a grown man now.
+
+56
+00:03:14,259 --> 00:03:16,359
+Let's show these teachers that.
+<font color="#ff8000">RIO</font>: Miles!
+
+57
+00:03:16,361 --> 00:03:18,629
+Where's my laptop?
+<font color="#ff00ff">[RIO SPEAKS SPANISH]</font>
+
+58
+00:03:18,631 --> 00:03:20,864
+If you want me to drive you,
+we gotta go now.
+
+59
+00:03:20,866 --> 00:03:22,399
+No, Dad, I'll walk.
+
+60
+00:03:22,401 --> 00:03:24,434
+Personal chauffeur going once.
+It's okay.
+
+61
+00:03:24,436 --> 00:03:25,735
+<font color="#ff00ff">[SPEAKS SPANISH]</font>
+
+62
+00:03:25,737 --> 00:03:27,804
+<font color="#ff00ff">[IN ENGLISH]</font> Miles! Gotta go.
+In a minute!
+
+63
+00:03:27,806 --> 00:03:29,705
+<font color="#ff8000">RIO</font>: Gotta go.
+In a minute!
+
+64
+00:03:29,707 --> 00:03:31,441
+<font color="#ff00ff">[KISSES]</font>
+Mom, I gotta go.
+
+65
+00:03:31,443 --> 00:03:32,643
+In a minute.
+
+66
+00:03:32,645 --> 00:03:34,280
+<font color="#ff00ff">[KISSES]</font>
+<font color="#ff00ff">[GROANS]</font>
+
+67
+00:03:35,381 --> 00:03:37,013
+<font color="#ff00ff">[SPEAKS SPANISH]</font>
+
+68
+00:03:37,015 --> 00:03:38,982
+<font color="#ff00ff">[IN ENGLISH]</font>
+See you Friday.
+
+69
+00:03:38,984 --> 00:03:39,953
+<font color="#ff00ff">[SPEAKS SPANISH]</font>
+
+70
+00:03:41,520 --> 00:03:43,820
+Look who's back.
+Yo, what's going on, bro?
+
+71
+00:03:43,822 --> 00:03:46,889
+Hey, I'm just walking
+by. How you doin'?
+
+72
+00:03:46,891 --> 00:03:48,558
+<font color="#ff00ff">[SPEAKS SPANISH]</font>
+
+73
+00:03:48,560 --> 00:03:50,827
+Yo, Miles! You feel
+that earthquake last night?
+
+74
+00:03:50,829 --> 00:03:53,897
+<font color="#ff00ff">[IN ENGLISH]</font> What you talkin' about?
+I slept like a baby last night.
+
+75
+00:03:53,899 --> 00:03:55,798
+How's that new school?
+So easy.
+
+76
+00:03:55,800 --> 00:03:59,068
+We miss you, Miles.
+You miss me? I still live here!
+
+77
+00:03:59,070 --> 00:04:01,304
+Wait, you miss me?
+
+78
+00:04:01,306 --> 00:04:04,042
+<i><font color="#ff00ff">[MAN SINGING IN SPANISH]</font></i>
+
+79
+00:04:07,913 --> 00:04:09,546
+<i>Contra!</i>
+
+80
+00:04:09,548 --> 00:04:10,814
+<font color="#ff00ff">[SIREN CHIRPS]</font>
+
+81
+00:04:10,816 --> 00:04:13,019
+Oh, come on.
+
+82
+00:04:14,620 --> 00:04:17,019
+Seriously, Dad.
+Walking would've been fine.
+
+83
+00:04:17,021 --> 00:04:18,622
+You can walk plenty on Saturday
+
+84
+00:04:18,624 --> 00:04:19,889
+when you peel
+those stickers off.
+
+85
+00:04:19,891 --> 00:04:21,957
+You saw that?
+I don't know if that was me.
+
+86
+00:04:21,959 --> 00:04:23,959
+And the two from yesterday
+on Clinton.
+
+87
+00:04:23,961 --> 00:04:26,495
+Yeah, those were me.
+
+88
+00:04:26,497 --> 00:04:29,699
+Look at that.
+Another new coffee shop.
+
+89
+00:04:29,701 --> 00:04:31,401
+You see that?
+Totally. Yeah.
+
+90
+00:04:31,403 --> 00:04:33,336
+What's that one called?
+Foam Party.
+
+91
+00:04:33,338 --> 00:04:36,072
+<font color="#ff00ff">[LAUGHING]</font>
+"Foam Party"? Come on.
+
+92
+00:04:36,074 --> 00:04:38,442
+And everyone is just linin' up.
+You see that?
+
+93
+00:04:38,444 --> 00:04:39,608
+I see it.
+
+94
+00:04:39,610 --> 00:04:41,110
+Is that a coffee shop
+or a disco?
+
+95
+00:04:41,112 --> 00:04:42,812
+Dad, you're old, man.
+
+96
+00:04:42,814 --> 00:04:44,613
+<font color="#ff8000">REPORTER</font>: <font color="#ff00ff">[OVER TV]</font>
+<i>There are multiple reports</i>
+
+97
+00:04:44,615 --> 00:04:46,515
+<i>of another mysterious
+seismic event last night.</i>
+
+98
+00:04:46,517 --> 00:04:48,485
+<i>Sources close to Spider-Man say
+he's looking into the problem.</i>
+
+99
+00:04:48,487 --> 00:04:51,954
+<font color="#ff00ff">[SIGHS]</font> Spider-Man. I mean,
+this guy swings in once a day,
+
+100
+00:04:51,956 --> 00:04:54,390
+zip-zap-zop in his little mask
+and answers to no one. Right?
+
+101
+00:04:54,392 --> 00:04:55,558
+Yeah, Dad. Yeah.
+
+102
+00:04:55,560 --> 00:04:57,060
+Meanwhile,
+my guys are out there,
+
+103
+00:04:57,062 --> 00:04:59,495
+lives on the line, no masks.
+Uh-huh.
+
+104
+00:04:59,497 --> 00:05:02,466
+We show our faces.
+Speed up. I know these kids.
+
+105
+00:05:02,468 --> 00:05:04,468
+<font color="#ff8000">JEFFERSON</font>: With great ability
+comes great accountability.
+
+106
+00:05:04,470 --> 00:05:06,069
+That's not even
+how the saying goes.
+
+107
+00:05:06,071 --> 00:05:08,605
+I do like his cereal, though.
+I'll give him that.
+
+108
+00:05:08,607 --> 00:05:10,873
+Oh, my gosh.
+Don't cops run red lights?
+
+109
+00:05:10,875 --> 00:05:12,709
+Oh, yeah, some do.
+But not your dad.
+
+110
+00:05:12,711 --> 00:05:14,010
+<font color="#ff00ff">[CAMERA SHUTTERS CLICKING]</font>
+
+111
+00:05:14,012 --> 00:05:16,712
+<i><font color="#ffff00">♪</font> My memories keep begging ♪</i>
+
+112
+00:05:16,714 --> 00:05:18,949
+<i><font color="#ffff00">♪</font> For someone else ♪</i>
+
+113
+00:05:18,951 --> 00:05:24,654
+<i><font color="#ffff00">♪</font> I know this feeling, yes
+I know it very well <font color="#ffff00">♪</font></i>
+
+114
+00:05:24,656 --> 00:05:26,723
+Why can't I go back
+to Brooklyn Middle?
+
+115
+00:05:26,725 --> 00:05:28,125
+You've given it two weeks.
+
+116
+00:05:28,127 --> 00:05:29,892
+We're not having
+this conversation.
+
+117
+00:05:29,894 --> 00:05:32,094
+I just think that
+this new school is elitist.
+
+118
+00:05:32,096 --> 00:05:33,697
+"Elitist"?
+And I would prefer to be
+
+119
+00:05:33,699 --> 00:05:35,498
+at a normal school
+among the people.
+
+120
+00:05:35,500 --> 00:05:37,433
+"The people"?
+These are your people.
+
+121
+00:05:37,435 --> 00:05:39,870
+I'm only here 'cause
+I won that stupid lottery.
+
+122
+00:05:39,872 --> 00:05:42,606
+No way. You passed the entry
+test just like everybody else.
+
+123
+00:05:42,608 --> 00:05:45,175
+You have an opportunity here.
+You wanna blow that?
+
+124
+00:05:45,177 --> 00:05:46,877
+You wanna end up
+like your uncle?
+
+125
+00:05:46,879 --> 00:05:49,945
+What's wrong with Uncle Aaron?
+He's a good guy.
+
+126
+00:05:49,947 --> 00:05:51,514
+We all make choices in life.
+
+127
+00:05:51,516 --> 00:05:53,048
+It doesn't feel
+like I have a choice right now.
+
+128
+00:05:53,050 --> 00:05:54,486
+You don't!
+
+129
+00:05:57,156 --> 00:06:00,093
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+130
+00:06:03,028 --> 00:06:04,030
+<font color="#ff00ff">[SIGHS]</font>
+
+131
+00:06:07,699 --> 00:06:09,065
+I love you, Miles.
+
+132
+00:06:09,067 --> 00:06:11,971
+Yeah, I know, Dad.
+See you Friday.
+
+133
+00:06:14,038 --> 00:06:15,772
+<font color="#ff00ff">[SIREN CHIRPS]</font>
+
+134
+00:06:15,774 --> 00:06:18,707
+You gotta say "I love you" back.
+Dad, are you serious?
+
+135
+00:06:18,709 --> 00:06:19,843
+I wanna hear it.
+"I love you, Dad."
+
+136
+00:06:19,845 --> 00:06:21,510
+You wanna hear me say it?
+
+137
+00:06:21,512 --> 00:06:22,878
+You're dropping me off
+at a school.
+
+138
+00:06:22,880 --> 00:06:24,079
+"I love you, Dad."
+Look at this place.
+
+139
+00:06:24,081 --> 00:06:25,081
+"Dad, I love you."
+
+140
+00:06:25,083 --> 00:06:27,050
+<font color="#ff00ff">[MILES SIGHS]</font>
+
+141
+00:06:27,052 --> 00:06:29,820
+Dad, I love you.
+
+142
+00:06:29,822 --> 00:06:31,488
+That's a copy.
+
+143
+00:06:31,490 --> 00:06:33,589
+<font color="#ff00ff">[STUDENTS LAUGHING]</font>
+Tie your shoes, please.
+
+144
+00:06:33,591 --> 00:06:35,192
+<font color="#ff00ff">[INDISTINCT CHATTER]</font>
+
+145
+00:06:35,194 --> 00:06:37,730
+<font color="#ff8000">BOY 1</font>: "I love you, Dad."
+
+146
+00:06:38,997 --> 00:06:41,697
+Hey, good morning.
+How you doin'?
+
+147
+00:06:41,699 --> 00:06:44,166
+Weekend was short, huh?
+<font color="#ff8000">BOY 2</font>: "That's a copy."
+
+148
+00:06:44,168 --> 00:06:46,536
+Oh, my gosh!
+This is embarrassing.
+
+149
+00:06:46,538 --> 00:06:48,238
+We wore the same jacket.
+
+150
+00:06:48,240 --> 00:06:50,539
+Hey. Your shoe's untied.
+
+151
+00:06:50,541 --> 00:06:53,577
+Yeah, I'm aware.
+It's a choice.
+
+152
+00:06:53,579 --> 00:06:55,579
+<i><font color="#ffff00">♪</font> Theory is that
+All matter is composed <font color="#ffff00">♪</font></i>
+
+153
+00:06:55,581 --> 00:06:56,712
+<font color="#ff00ff">[BELL RINGS]</font>
+<i><font color="#ffff00">♪</font> Of at least three ♪</i>
+
+154
+00:06:56,714 --> 00:06:59,149
+<i><font color="#ffff00">♪</font> Fundamental particles ♪</i>
+
+155
+00:06:59,151 --> 00:07:00,586
+Who can solve this for XY?
+
+156
+00:07:02,521 --> 00:07:04,820
+And that is known
+as a syllogism.
+
+157
+00:07:04,822 --> 00:07:07,257
+Read two chapters
+of <i>Great Expectations.</i>
+
+158
+00:07:07,259 --> 00:07:09,825
+A take-home quiz
+on volumetric pressure.
+
+159
+00:07:09,827 --> 00:07:12,161
+Five-page essay
+with your conclusions stressed.
+
+160
+00:07:12,163 --> 00:07:15,100
+<font color="#ff00ff">[TEACHERS' VOICES OVERLAPPING]</font>
+
+161
+00:07:20,004 --> 00:07:22,772
+<font color="#ff8000">WOMAN</font>: <font color="#ff00ff">[OVER PROJECTOR]</font>
+<i>...countless other possibilities.</i>
+
+162
+00:07:22,774 --> 00:07:25,108
+<i>There could be a universe
+where I am wearing red.</i>
+
+163
+00:07:25,110 --> 00:07:27,711
+<i>Or wearing leather pants.</i>
+
+164
+00:07:27,713 --> 00:07:31,046
+Mr. Morales. Movin' in the dark.
+You're late again.
+
+165
+00:07:31,048 --> 00:07:33,617
+Einstein said
+time was relative, right?
+
+166
+00:07:33,619 --> 00:07:37,790
+Maybe I'm not late.
+Maybe you guys are early.
+
+167
+00:07:39,658 --> 00:07:41,057
+<font color="#ff00ff">[CHUCKLES]</font>
+
+168
+00:07:41,059 --> 00:07:43,793
+Sorry.
+It was just so quiet.
+
+169
+00:07:43,795 --> 00:07:46,096
+<font color="#ff8000">CALLEROS</font>: Would you like
+to keep standing there,
+
+170
+00:07:46,098 --> 00:07:48,163
+or do you wanna sit down?
+<font color="#ff00ff">[REMOTE CLICKS]</font>
+
+171
+00:07:48,165 --> 00:07:53,069
+<i>Our universe is, in fact,
+one of many parallel universes</i>
+
+172
+00:07:53,071 --> 00:07:55,137
+<i>happening
+at the exact same time.</i>
+
+173
+00:07:55,139 --> 00:07:57,940
+<i>Thanks to everyone here at
+the Fisk Family Foundation...</i>
+
+174
+00:07:57,942 --> 00:08:00,142
+I liked your joke.
+Really?
+
+175
+00:08:00,144 --> 00:08:03,546
+I mean, it wasn't funny.
+That's why I laughed.
+
+176
+00:08:03,548 --> 00:08:05,781
+But it was smart, so I liked it.
+
+177
+00:08:05,783 --> 00:08:07,317
+I don't think
+
+178
+00:08:07,319 --> 00:08:09,019
+I've seen you before.
+<font color="#ff00ff">[SHUSHES]</font>
+
+179
+00:08:09,021 --> 00:08:10,719
+<font color="#ff8000">WOMAN</font>: <font color="#ff00ff">[OVER PROJECTOR]</font>
+<i>Every choice that we make</i>
+
+180
+00:08:10,721 --> 00:08:14,024
+<i>would create countless
+other possibilities.</i>
+
+181
+00:08:14,026 --> 00:08:16,562
+<i>A what-if to infinity.</i>
+<font color="#ff00ff">[BELL RINGS]</font>
+
+182
+00:08:17,696 --> 00:08:20,130
+A zero?
+A few more of those,
+
+183
+00:08:20,132 --> 00:08:22,701
+you'd probably have
+to kick me outta here, huh?
+
+184
+00:08:24,168 --> 00:08:26,069
+Maybe I'm just not right
+for this school.
+
+185
+00:08:26,071 --> 00:08:28,171
+If a person wearing a blindfold
+picked the answers
+
+186
+00:08:28,173 --> 00:08:29,973
+on a true-or-false quiz
+at random,
+
+187
+00:08:29,975 --> 00:08:31,875
+do you know
+what score they would get?
+
+188
+00:08:31,877 --> 00:08:33,776
+50%?
+That's right!
+
+189
+00:08:33,778 --> 00:08:35,911
+The only way to get
+all the answers wrong
+
+190
+00:08:35,913 --> 00:08:38,214
+is to know
+which answers are right.
+
+191
+00:08:38,216 --> 00:08:40,849
+<font color="#ff00ff">[WHISPERS]</font>
+You're trying to quit.
+
+192
+00:08:40,851 --> 00:08:43,320
+And I'm not gonna let you.
+
+193
+00:08:43,322 --> 00:08:46,623
+<font color="#ff00ff">[IN NORMAL VOICE]</font> I'm
+assigning you a personal essay.
+
+194
+00:08:46,625 --> 00:08:49,325
+<i>Not about physics,
+but about you,</i>
+
+195
+00:08:49,327 --> 00:08:51,994
+<i>and what kind of person
+you want to be.</i>
+
+196
+00:08:51,996 --> 00:08:54,533
+<font color="#ff00ff">[SUBWAY TRAIN
+APPROACHING OUTSIDE]</font>
+
+197
+00:08:59,638 --> 00:09:01,574
+<font color="#ff00ff">[SUBWAY TRAIN GROWING LOUDER]</font>
+
+198
+00:09:03,140 --> 00:09:04,940
+<font color="#ff00ff">[RECORD CRACKLING]</font>
+
+199
+00:09:04,942 --> 00:09:07,710
+<i><font color="#ffff00">♪</font> Unh. Unh ♪
+♪ Unh. Unh ♪</i>
+
+200
+00:09:07,712 --> 00:09:09,179
+<i><font color="#ffff00">♪</font> Come on ♪</i>
+
+201
+00:09:09,181 --> 00:09:11,013
+<i><font color="#ffff00">♪</font> Ha, sicker than
+Your average <font color="#ffff00">♪</font></i>
+
+202
+00:09:11,015 --> 00:09:13,148
+<i><font color="#ffff00">♪</font> Poppa twist cabbage
+Off instinct <font color="#ffff00">♪</font></i>
+
+203
+00:09:13,150 --> 00:09:14,217
+<i><font color="#ffff00">♪</font> Don't think ♪</i>
+
+204
+00:09:14,219 --> 00:09:16,151
+<font color="#ff00ff">[TIRES SCREECH, HORN HONKS]</font>
+
+205
+00:09:16,153 --> 00:09:19,222
+<i><font color="#ffff00">♪</font> My Detroit players, timbs for
+My hooligans in Brooklyn <font color="#ffff00">♪</font></i>
+
+206
+00:09:19,224 --> 00:09:22,224
+<i><font color="#ffff00">♪</font> Dead right, if the head
+Right, Biggie there e'rynight <font color="#ffff00">♪</font></i>
+
+207
+00:09:22,226 --> 00:09:24,127
+<font color="#ff00ff">[CELL PHONE BUZZES]</font>
+
+208
+00:09:24,129 --> 00:09:27,063
+<i><font color="#ffff00">♪</font> Never lose, never choose to
+Bruise crews who <font color="#ffff00">♪</font></i>
+
+209
+00:09:27,065 --> 00:09:28,931
+<i><font color="#ffff00">♪</font> Do something to us... ♪
+♪ Come on <font color="#ffff00">♪</font></i>
+
+210
+00:09:28,933 --> 00:09:31,334
+Uncle Aaron!
+Hey! Were you scared?
+
+211
+00:09:31,336 --> 00:09:33,302
+<font color="#ff00ff">[BLOWING RASPBERRIES ON GLASS]</font>
+
+212
+00:09:33,304 --> 00:09:35,070
+<font color="#ff00ff">[CHUCKLES]</font>
+
+213
+00:09:35,072 --> 00:09:38,074
+<font color="#ff00ff">[GRUNTING]</font>
+You want that?
+
+214
+00:09:38,076 --> 00:09:39,408
+What's up with school?
+
+215
+00:09:39,410 --> 00:09:41,710
+Going great!
+Got tons of friends.
+
+216
+00:09:41,712 --> 00:09:43,879
+You can't tell me
+it's all that bad there.
+
+217
+00:09:43,881 --> 00:09:45,281
+Smart girls is where it's at.
+
+218
+00:09:45,283 --> 00:09:46,749
+Place must be full of 'em.
+
+219
+00:09:46,751 --> 00:09:49,185
+<font color="#ff00ff">[CHUCKLES]</font>
+<font color="#ff00ff">[CHUCKLES]</font>
+
+220
+00:09:49,187 --> 00:09:50,353
+No, there's no one.
+
+221
+00:09:50,355 --> 00:09:52,088
+Yo, I can't have
+no nephew of mine
+
+222
+00:09:52,090 --> 00:09:53,390
+on the streets with no game.
+
+223
+00:09:53,392 --> 00:09:55,658
+Hey, I got game.
+There's a new girl.
+
+224
+00:09:55,660 --> 00:09:58,328
+Actually, you know,
+she's kinda into me.
+
+225
+00:09:58,330 --> 00:09:59,396
+You know how it is.
+
+226
+00:09:59,398 --> 00:10:01,665
+What's her name?
+
+227
+00:10:01,667 --> 00:10:04,901
+<font color="#ff00ff">[STUTTERS]</font> You know, we layin'
+down the groundwork right now.
+
+228
+00:10:04,903 --> 00:10:07,436
+<font color="#ff00ff">[LAUGHS]</font> You know about
+the shoulder touch?
+
+229
+00:10:07,438 --> 00:10:09,339
+'Course I do.
+
+230
+00:10:09,341 --> 00:10:11,141
+But tell me anyway.
+
+231
+00:10:11,143 --> 00:10:14,913
+Tomorrow, find that girl.
+You walk up to her and be like:
+
+232
+00:10:16,815 --> 00:10:18,882
+<font color="#ff00ff">[SUAVELY]</font> "Hey."
+<font color="#ff00ff">[LAUGHS]</font>
+
+233
+00:10:18,884 --> 00:10:20,249
+You serious, Uncle Aaron?
+
+234
+00:10:20,251 --> 00:10:22,252
+I'm tellin' you, man,
+it's science.
+
+235
+00:10:22,254 --> 00:10:25,121
+So walk up to her
+<font color="#ff8000">and be like</font>: "Hey."
+
+236
+00:10:25,123 --> 00:10:28,223
+<font color="#ff00ff">[SUAVELY]</font> No, no, no, no.
+<font color="#ff8000">Like</font>: "Hey."
+
+237
+00:10:28,225 --> 00:10:29,392
+<font color="#ff00ff">[DEEPLY]</font>
+"Hey."
+
+238
+00:10:29,394 --> 00:10:32,127
+<font color="#ff00ff">[SUAVELY]</font>
+No. "Hey."
+
+239
+00:10:32,129 --> 00:10:33,762
+<font color="#ff00ff">[GRAVELLY]</font>
+"Hey."
+
+240
+00:10:33,764 --> 00:10:35,131
+<font color="#ff00ff">[LAUGHS]</font>
+
+241
+00:10:35,133 --> 00:10:37,700
+You sure you my nephew, man?
+<font color="#ff00ff">[PHONE BEEPS]</font>
+
+242
+00:10:37,702 --> 00:10:39,201
+Is that her?
+
+243
+00:10:39,203 --> 00:10:42,772
+I should probably go.
+Still got a paper to do tonight.
+
+244
+00:10:42,774 --> 00:10:45,974
+Yo, you been holdin' out on me?
+You throw these up yet?
+
+245
+00:10:45,976 --> 00:10:48,978
+Naw, man. You know
+my dad. I can't.
+
+246
+00:10:48,980 --> 00:10:51,180
+Come on. I got a spot
+you ain't gon' believe.
+
+247
+00:10:51,182 --> 00:10:53,382
+Naw, I can't.
+I can't. Can't.
+
+248
+00:10:53,384 --> 00:10:55,251
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+249
+00:10:55,253 --> 00:10:56,986
+I'm gonna get
+in so much trouble.
+
+250
+00:10:56,988 --> 00:11:00,890
+<font color="#ff8000">AARON</font>: Hey, man. Tell him
+your art teacher made you.
+
+251
+00:11:00,892 --> 00:11:03,158
+<font color="#ff8000">MILES</font>: How'd you know
+about this place?
+
+252
+00:11:03,160 --> 00:11:05,296
+<font color="#ff8000">AARON</font>: Did an engineering
+job down here.
+
+253
+00:11:07,798 --> 00:11:10,235
+<i><font color="#ffff00">♪</font> One, two, three
+Four, five... <font color="#ffff00">♪</font></i>
+
+254
+00:11:15,139 --> 00:11:16,074
+<font color="#ff00ff">[MILES STRAINING]</font>
+
+255
+00:11:18,943 --> 00:11:20,011
+<font color="#ff00ff">[GRUNTS]</font>
+
+256
+00:11:20,979 --> 00:11:22,911
+What's up?
+<font color="#ff00ff">[LAUGHS]</font>
+
+257
+00:11:22,913 --> 00:11:24,683
+Yeah, man,
+I knew we were related.
+
+258
+00:11:26,118 --> 00:11:27,386
+<font color="#ff8000">MILES</font>: Whoa!
+
+259
+00:11:28,452 --> 00:11:30,853
+<font color="#ff00ff">[ECHOING]</font>
+Brooklyn!
+
+260
+00:11:30,855 --> 00:11:32,756
+<font color="#ff00ff">[CHUCKLES]</font>
+
+261
+00:11:32,758 --> 00:11:35,695
+<font color="#ff8000">AARON</font>: There's a lot of
+history on these walls.
+
+262
+00:11:37,028 --> 00:11:38,798
+This is so fresh.
+
+263
+00:11:43,268 --> 00:11:45,167
+<font color="#ff00ff">[BREAKBEAT RAP MUSIC PLAYING]</font>
+
+264
+00:11:45,169 --> 00:11:46,770
+<font color="#ff00ff">[SPRAY CANS RATTLING]</font>
+
+265
+00:11:46,772 --> 00:11:48,374
+And now you on your own, Miles.
+
+266
+00:11:50,174 --> 00:11:52,508
+Whoa, slow down a little.
+
+267
+00:11:52,510 --> 00:11:54,377
+That's better.
+
+268
+00:11:54,379 --> 00:11:57,180
+<i><font color="#ffff00">♪</font> Who's the black sheep?
+What's the black sheep? <font color="#ffff00">♪</font></i>
+
+269
+00:11:57,182 --> 00:11:59,848
+<i><font color="#ffff00">♪</font> Don't know who I am
+When I'm coming so you sleep <font color="#ffff00">♪</font></i>
+
+270
+00:11:59,850 --> 00:12:02,318
+See what you got now?
+Makin' mistakes is part of it.
+
+271
+00:12:02,320 --> 00:12:03,855
+<i><font color="#ffff00">♪</font> And you can't beat that... ♪</i>
+
+272
+00:12:08,393 --> 00:12:10,859
+The real Miles
+comin' outta hidin'.
+
+273
+00:12:10,861 --> 00:12:13,329
+<i><font color="#ffff00">♪</font> You gotta hay?
+It's for the hoes <font color="#ffff00">♪</font></i>
+
+274
+00:12:13,331 --> 00:12:15,498
+Now you can cut that line
+with another color.
+
+275
+00:12:15,500 --> 00:12:18,066
+<i><font color="#ffff00">♪</font> You can get with this
+Or you can get with that <font color="#ffff00">♪</font></i>
+
+276
+00:12:18,068 --> 00:12:20,469
+<i><font color="#ffff00">♪</font> You can get with this or
+You can get with that <font color="#ffff00">♪</font></i>
+
+277
+00:12:20,471 --> 00:12:22,539
+<i><font color="#ffff00">♪</font> You can get with this
+Or you can get with that <font color="#ffff00">♪</font></i>
+
+278
+00:12:22,541 --> 00:12:25,440
+<i><font color="#ffff00">♪</font> I think you'll get with this
+For this is where it's at <font color="#ffff00">♪</font></i>
+
+279
+00:12:25,442 --> 00:12:27,310
+Little help?
+
+280
+00:12:27,312 --> 00:12:29,813
+<i><font color="#ffff00">♪</font> ...who was quite contrary
+Talkin' 'bout Mary... <font color="#ffff00">♪</font></i>
+
+281
+00:12:29,815 --> 00:12:32,147
+<font color="#ff8000">AARON</font>: Did you want drips?
+'Cause if you do, that's cool,
+
+282
+00:12:32,149 --> 00:12:33,916
+but if you don't,
+you gotta keep it moving.
+
+283
+00:12:33,918 --> 00:12:35,086
+<font color="#ff8000">MILES</font>: That's intentional.
+
+284
+00:12:39,191 --> 00:12:41,291
+<font color="#ff00ff">[CHUCKLES]</font>
+
+285
+00:12:41,293 --> 00:12:43,292
+Wow.
+Is it too crazy?
+
+286
+00:12:43,294 --> 00:12:44,828
+No, man.
+
+287
+00:12:44,830 --> 00:12:47,430
+Miles, I see exactly
+what you're doing there.
+
+288
+00:12:47,432 --> 00:12:49,598
+Yeah. You know,
+
+289
+00:12:49,600 --> 00:12:52,201
+me and your dad used
+to do this back in the day.
+
+290
+00:12:52,203 --> 00:12:54,403
+Stop lyin'.
+It's true.
+
+291
+00:12:54,405 --> 00:12:58,007
+Then he took on the cop thing,
+and I don't know...
+
+292
+00:12:58,009 --> 00:13:01,009
+He's a good guy, just...
+
+293
+00:13:01,011 --> 00:13:02,113
+You know what I'm sayin'.
+
+294
+00:13:03,315 --> 00:13:05,451
+<font color="#ff00ff">[PHONE BEEPS, VIBRATES]</font>
+
+295
+00:13:07,219 --> 00:13:09,355
+All right, come on, man.
+I gotta roll.
+
+296
+00:13:21,099 --> 00:13:22,501
+<font color="#ff00ff">[CAMERA CLICKS]</font>
+
+297
+00:13:23,869 --> 00:13:25,001
+<font color="#ff00ff">[GASPS]</font>
+
+298
+00:13:25,003 --> 00:13:27,002
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+299
+00:13:27,004 --> 00:13:28,941
+<font color="#ff00ff">[VENOM GUSHING, BUBBLING]</font>
+
+300
+00:13:35,580 --> 00:13:37,550
+<font color="#ff8000">AARON</font>: Miles, let's go.
+
+301
+00:13:39,350 --> 00:13:41,519
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+302
+00:13:52,931 --> 00:13:54,867
+<i><font color="#ff00ff">[MAN WHISTLING]</font></i>
+
+303
+00:14:02,173 --> 00:14:03,672
+<i><font color="#ff00ff">[ALARM BEEPS]</font></i>
+
+304
+00:14:03,674 --> 00:14:05,610
+<font color="#ff00ff">[BUTTON CLICKS, ALARM STOPS]</font>
+
+305
+00:14:07,345 --> 00:14:08,978
+<font color="#ff00ff">[THINKING]</font>
+<i>That's weird.</i>
+
+306
+00:14:08,980 --> 00:14:11,079
+<i>My pants shrank.</i>
+
+307
+00:14:11,081 --> 00:14:12,451
+I think I hit puberty.
+
+308
+00:14:15,921 --> 00:14:17,256
+<i><font color="#ff00ff">[BELL RINGS]</font></i>
+
+309
+00:14:20,424 --> 00:14:22,291
+<font color="#ff00ff">[THINKING]</font>
+<i>I gotta get new pants.</i>
+
+310
+00:14:22,293 --> 00:14:25,194
+<i>Wait. Why is the voice
+in my head so loud?</i>
+
+311
+00:14:25,196 --> 00:14:26,130
+What?
+
+312
+00:14:27,264 --> 00:14:30,266
+Oh! Are you okay?
+What?
+
+313
+00:14:30,268 --> 00:14:31,968
+<font color="#ff00ff">[THINKING]</font>
+<i>Why am I so sweaty?</i>
+
+314
+00:14:31,970 --> 00:14:33,603
+Why are you so sweaty?
+
+315
+00:14:33,605 --> 00:14:35,939
+It's a puberty thing.
+
+316
+00:14:35,941 --> 00:14:38,708
+I don't know why I said that.
+I'm not going through puberty.
+
+317
+00:14:38,710 --> 00:14:42,411
+I did, but I'm done.
+
+318
+00:14:42,413 --> 00:14:44,980
+<font color="#ff00ff">[IN DEEP VOICE]</font>
+I'm a man.
+
+319
+00:14:44,982 --> 00:14:48,483
+<font color="#ff00ff">[IN NORMAL VOICE]</font> So you're, like, new
+here, right? We got that in common.
+
+320
+00:14:48,485 --> 00:14:50,185
+Yeah. That's one thing.
+
+321
+00:14:50,187 --> 00:14:52,555
+Cool. Yeah. I'm Miles.
+
+322
+00:14:52,557 --> 00:14:55,657
+I'm Gwe... anda.
+
+323
+00:14:55,659 --> 00:14:57,426
+Wait, your name is Gwanda?
+
+324
+00:14:57,428 --> 00:15:01,064
+Yes, it's African.
+I'm South African.
+
+325
+00:15:01,066 --> 00:15:04,199
+No accent though
+'cause I was raised here.
+
+326
+00:15:04,201 --> 00:15:07,605
+<font color="#ff00ff">[THINKING]</font> <i>Do the shoulder
+touch now before she walks away.</i>
+
+327
+00:15:10,341 --> 00:15:13,209
+<i>Why is this so scary?</i>
+
+328
+00:15:13,211 --> 00:15:17,280
+<i>Am I doing this in slow motion
+or does it just feel that way?</i>
+
+329
+00:15:17,282 --> 00:15:21,420
+I'm kidding. It's Wanda.
+No "G." That's crazy. Heh.
+
+330
+00:15:23,321 --> 00:15:25,188
+<font color="#ff00ff">[DEEPLY]</font>
+Hey.
+
+331
+00:15:25,190 --> 00:15:27,522
+Okay, then.
+
+332
+00:15:27,524 --> 00:15:28,724
+I'll see you around.
+
+333
+00:15:28,726 --> 00:15:32,060
+Oh. See you.
+
+334
+00:15:32,062 --> 00:15:34,033
+Sorry. Um...
+Hey.
+
+335
+00:15:35,533 --> 00:15:38,133
+Oh, crap.
+Can you let go, please?
+
+336
+00:15:38,135 --> 00:15:40,673
+I can't let go.
+Ow! Ow! Calm down. It's fine.
+
+337
+00:15:41,572 --> 00:15:43,171
+<font color="#ff00ff">[BOTH GRUNT]</font>
+
+338
+00:15:43,173 --> 00:15:45,041
+Miles, let go.
+Workin' on it.
+
+339
+00:15:45,043 --> 00:15:46,776
+It's just puberty.
+<font color="#ff00ff">[STUDENTS MURMURING]</font>
+
+340
+00:15:46,778 --> 00:15:50,445
+I don't think you know
+what puberty is. Just relax.
+
+341
+00:15:50,447 --> 00:15:52,114
+Okay, I have a plan.
+Great.
+
+342
+00:15:52,116 --> 00:15:55,318
+I'm gonna pull really hard.
+That's a terrible plan.
+
+343
+00:15:55,320 --> 00:15:56,451
+One.
+Don't do this.
+
+344
+00:15:56,453 --> 00:15:57,619
+Two.
+Three!
+
+345
+00:15:57,621 --> 00:15:58,688
+<font color="#ff00ff">[SCREAMS]</font>
+
+346
+00:15:58,690 --> 00:16:00,259
+<font color="#ff00ff">[HAIR CLIPPERS BUZZING]</font>
+
+347
+00:16:04,596 --> 00:16:05,795
+Nice to meet you?
+
+348
+00:16:05,797 --> 00:16:09,999
+Sure. Total pleasure.
+
+349
+00:16:14,672 --> 00:16:17,773
+<font color="#ff00ff">[THINKING]</font>
+<i>No one saw. It's okay.</i>
+
+350
+00:16:17,775 --> 00:16:20,675
+<i>No one knows, no one knows.</i>
+
+351
+00:16:20,677 --> 00:16:22,778
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+352
+00:16:22,780 --> 00:16:24,349
+<i>Everyone knows.</i>
+
+353
+00:16:26,051 --> 00:16:28,217
+<i>Everyone knows.
+They're talkin' 'bout me.</i>
+
+354
+00:16:28,219 --> 00:16:29,252
+<i>They saw everything!</i>
+
+355
+00:16:29,254 --> 00:16:31,054
+<i>He knows. She knows. They know.</i>
+
+356
+00:16:31,056 --> 00:16:32,488
+<i>Wow, she's super tall.</i>
+
+357
+00:16:32,490 --> 00:16:34,556
+<i>Why is he smiling?
+Am I the weird guy now?</i>
+
+358
+00:16:34,558 --> 00:16:35,557
+<i>What am I doing?</i>
+
+359
+00:16:35,559 --> 00:16:36,758
+That guy's such a weirdo.
+
+360
+00:16:36,760 --> 00:16:38,493
+<font color="#ff00ff">[THINKING]</font>
+<i>How do I stop?</i>
+
+361
+00:16:38,495 --> 00:16:40,329
+<i>Can they hear my thoughts?!</i>
+
+362
+00:16:40,331 --> 00:16:43,098
+<i>Why are all my thoughts
+so loud?!</i>
+
+363
+00:16:43,100 --> 00:16:45,767
+Hey! I know you snuck out
+last night, Morales.
+
+364
+00:16:45,769 --> 00:16:47,335
+<font color="#ff00ff">[THINKING]</font>
+<i>Play dumb!</i>
+
+365
+00:16:47,337 --> 00:16:48,671
+Who's Morales?
+
+366
+00:16:48,673 --> 00:16:50,540
+<font color="#ff00ff">[THINKING]</font>
+<i>Not that dumb!</i>
+
+367
+00:16:50,542 --> 00:16:52,141
+Hey!
+
+368
+00:16:52,143 --> 00:16:53,512
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+369
+00:16:57,448 --> 00:16:58,680
+<font color="#ff00ff">[YELPS]</font>
+
+370
+00:16:58,682 --> 00:17:00,749
+<font color="#ff00ff">[THINKING]</font>
+<i>Okay, okay. You're okay.</i>
+
+371
+00:17:00,751 --> 00:17:02,350
+<i>You're okay.</i>
+
+372
+00:17:02,352 --> 00:17:04,219
+<i>He'll never find you.</i>
+
+373
+00:17:04,221 --> 00:17:05,555
+<i>No.</i>
+
+374
+00:17:05,557 --> 00:17:08,160
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+375
+00:17:10,494 --> 00:17:12,394
+Ow!
+<font color="#ff00ff">[GRUNTING]</font>
+
+376
+00:17:12,396 --> 00:17:14,729
+What are you doing
+in my office, Morales?!
+
+377
+00:17:14,731 --> 00:17:17,533
+Morales! Open up!
+
+378
+00:17:17,535 --> 00:17:19,267
+<i><font color="#ffff00">♪</font> Oh, Spider-bells
+Goblin smells <font color="#ffff00">♪</font></i>
+
+379
+00:17:19,269 --> 00:17:21,571
+Why is this happening?
+
+380
+00:17:21,573 --> 00:17:23,472
+<font color="#ff8000">MAN</font>: <font color="#ff00ff">[ON COMPUTER]</font>
+<i><font color="#ffff00">♪</font> Spider-buggy blew a tire ♪</i>
+
+381
+00:17:23,474 --> 00:17:25,307
+He's got a nice voice.
+
+382
+00:17:25,309 --> 00:17:27,110
+<i><font color="#ffff00">♪</font> Spidey-bells, Spidey-bells ♪</i>
+
+383
+00:17:27,112 --> 00:17:28,480
+<font color="#ff8000">GUARD</font>: Open up!
+<font color="#ff00ff">[MILES GRUNTS]</font>
+
+384
+00:17:29,681 --> 00:17:31,383
+Stop sticking!
+<font color="#ff00ff">[YELPING]</font>
+
+385
+00:17:34,486 --> 00:17:36,585
+Keep sticking, Miles! Oh!
+
+386
+00:17:36,587 --> 00:17:38,523
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+387
+00:17:41,425 --> 00:17:43,459
+<font color="#ff00ff">[SCREAMING]</font>
+
+388
+00:17:43,461 --> 00:17:44,630
+<font color="#ff00ff">[PECKING]</font>
+
+389
+00:17:46,530 --> 00:17:48,133
+Hofstadter is suggesting...
+
+390
+00:17:49,433 --> 00:17:50,668
+...is that we...
+
+391
+00:17:51,836 --> 00:17:53,268
+...look on the...
+
+392
+00:17:53,270 --> 00:17:54,504
+<font color="#ff00ff">[STUDENTS CHATTERING]</font>
+
+393
+00:17:54,506 --> 00:17:55,872
+<font color="#ff00ff">[MILES YELPING]</font>
+<font color="#ff00ff">[GASPS]</font>
+
+394
+00:17:55,874 --> 00:17:58,544
+<font color="#ff00ff">[MILES GRUNTING]</font>
+
+395
+00:17:59,243 --> 00:18:00,575
+Okay.
+
+396
+00:18:00,577 --> 00:18:02,314
+<font color="#ff00ff">[YELLING, GRUNTING]</font>
+
+397
+00:18:04,582 --> 00:18:06,185
+My room!
+
+398
+00:18:11,221 --> 00:18:12,755
+<i>"Why is this happening?"</i>
+
+399
+00:18:12,757 --> 00:18:14,524
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+400
+00:18:14,526 --> 00:18:16,195
+<font color="#ff00ff">[THINKING]</font>
+<i>"Please stop sticking."</i>
+
+401
+00:18:17,795 --> 00:18:19,428
+<i>"Please keep st..."</i>
+
+402
+00:18:19,430 --> 00:18:20,662
+<i>Wait, wait, wait.</i>
+
+403
+00:18:20,664 --> 00:18:22,364
+How could there be
+two Spider-Men?
+
+404
+00:18:22,366 --> 00:18:24,269
+There can't be two Spider-Men.
+
+405
+00:18:25,769 --> 00:18:26,835
+<font color="#ff00ff">[THINKING]</font>
+<i>Can there?</i>
+
+406
+00:18:26,837 --> 00:18:29,505
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+407
+00:18:29,507 --> 00:18:32,307
+<font color="#ff00ff">[THINKING]</font> <i>Come on, Uncle
+Aaron, pick up. Pick up!</i>
+
+408
+00:18:32,309 --> 00:18:34,276
+<font color="#ff8000">AARON</font>: <font color="#ff00ff">[OVER VOICE MAIL]</font>
+<i>Yo, it's Aaron.</i>
+
+409
+00:18:34,278 --> 00:18:35,678
+<i>I'm outta town for a few days.</i>
+
+410
+00:18:35,680 --> 00:18:36,812
+<i>I'll hit you when I'm back.
+Peace.</i>
+
+411
+00:18:36,814 --> 00:18:38,247
+<i>No. No-No-No-No-No.</i>
+
+412
+00:18:38,249 --> 00:18:40,516
+<i>It's not possible!</i>
+
+413
+00:18:40,518 --> 00:18:42,384
+<i>It's just puberty.</i>
+
+414
+00:18:42,386 --> 00:18:45,254
+<i>It's a normal spider
+and I'm a normal kid!</i>
+
+415
+00:18:45,256 --> 00:18:47,890
+<font color="#ff00ff">[BRAKES SCREECH]</font>
+<font color="#ff00ff">[GRUNTS]</font>
+
+416
+00:18:47,892 --> 00:18:49,695
+All right!
+
+417
+00:18:53,798 --> 00:18:55,901
+<font color="#ff00ff">[THINKING]</font>
+<i>I gotta tell someone.</i>
+
+418
+00:18:59,470 --> 00:19:02,141
+<font color="#ff00ff">[CELL PHONE RINGING]</font>
+
+419
+00:19:05,210 --> 00:19:08,279
+<font color="#ff00ff">[SIGHS, EXHALES]</font>
+
+420
+00:19:19,490 --> 00:19:22,594
+Okay, you're being crazy, Miles.
+You're being crazy.
+
+421
+00:19:26,230 --> 00:19:27,896
+Find the spider.
+
+422
+00:19:27,898 --> 00:19:29,500
+You'll see.
+
+423
+00:19:44,281 --> 00:19:45,715
+It's a normal spider.
+
+424
+00:19:45,717 --> 00:19:50,920
+It's, like, boring
+how normal this spider is.
+
+425
+00:19:50,922 --> 00:19:52,758
+<font color="#ff00ff">[SPIDER CRACKLES]</font>
+<font color="#ff00ff">[MILES GASPS]</font>
+
+426
+00:19:55,492 --> 00:19:57,428
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+427
+00:19:59,864 --> 00:20:01,663
+<i>I'm right here.</i>
+
+428
+00:20:01,665 --> 00:20:03,935
+<font color="#ff00ff">[THINKING]</font>
+<i>Why is this happening to me?</i>
+
+429
+00:20:10,008 --> 00:20:12,644
+<i>Slow down! What am I doing?</i>
+
+430
+00:20:18,615 --> 00:20:19,782
+<font color="#ff8000">VOICE 1</font>: <i>Way over there.</i>
+
+431
+00:20:19,784 --> 00:20:20,949
+<font color="#ff8000">VOICE 2</font>: <i>You're like me.</i>
+
+432
+00:20:20,951 --> 00:20:22,785
+<font color="#ff8000">VOICE 3</font>: <i>Miles. Look out.</i>
+
+433
+00:20:22,787 --> 00:20:24,487
+<font color="#ff8000">VOICE 4</font>: <i>I don't
+wanna be a hero.</i>
+
+434
+00:20:24,489 --> 00:20:25,557
+<font color="#ff8000">VOICE 4</font>: <i>Miles.</i>
+
+435
+00:20:27,625 --> 00:20:28,559
+Whoa!
+
+436
+00:20:29,993 --> 00:20:31,927
+<font color="#ff00ff">[GROWLING NEARBY]</font>
+
+437
+00:20:31,929 --> 00:20:34,729
+<font color="#ff8000">PETER</font>: Norman, listen to me.
+
+438
+00:20:34,731 --> 00:20:36,465
+<font color="#ff00ff">[THINKING]</font>
+<i>Spider-Man?</i>
+
+439
+00:20:36,467 --> 00:20:39,401
+I cannot let you open a portal
+to another dimension.
+
+440
+00:20:39,403 --> 00:20:41,506
+Brooklyn is not zoned for that.
+
+441
+00:20:42,773 --> 00:20:44,640
+<font color="#ff8000">NORMAN</font>: It's not up to me.
+
+442
+00:20:44,642 --> 00:20:46,374
+<font color="#ff00ff">[THINKING]</font>
+<i>Is that Green Goblin?!</i>
+
+443
+00:20:46,376 --> 00:20:47,910
+Why won't you quit?!
+
+444
+00:20:47,912 --> 00:20:50,845
+I guess I like Brooklyn not
+being sucked into a black hole.
+
+445
+00:20:50,847 --> 00:20:52,547
+I think I'm gonna go.
+
+446
+00:20:52,549 --> 00:20:54,485
+<font color="#ff8000">PETER</font>: Staten Island, maybe.
+Not Brooklyn.
+
+447
+00:20:55,452 --> 00:20:56,485
+<font color="#ff00ff">[YELPS]</font>
+
+448
+00:20:56,487 --> 00:20:58,423
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+449
+00:20:59,757 --> 00:21:01,623
+No! No!
+
+450
+00:21:01,625 --> 00:21:03,561
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+451
+00:21:11,669 --> 00:21:13,538
+<font color="#ff00ff">[GRUNTS]</font>
+
+452
+00:21:15,539 --> 00:21:16,774
+<font color="#ff00ff">[GROWLS]</font>
+
+453
+00:21:20,545 --> 00:21:22,014
+<font color="#ff00ff">[PANTING]</font>
+
+454
+00:21:23,347 --> 00:21:24,950
+<font color="#ff00ff">[ECHOING]</font> Whoa!
+
+455
+00:21:26,483 --> 00:21:28,351
+What now?
+
+456
+00:21:28,353 --> 00:21:29,788
+What is this place?
+
+457
+00:21:31,355 --> 00:21:32,490
+<font color="#ff00ff">[MILES SCREAMS]</font>
+
+458
+00:21:35,926 --> 00:21:37,495
+<font color="#ff00ff">[GRUNTING]</font>
+
+459
+00:21:39,463 --> 00:21:40,698
+<font color="#ff00ff">[STRAINS]</font>
+
+460
+00:21:42,366 --> 00:21:43,801
+<font color="#ff00ff">[SCREAMING]</font>
+
+461
+00:21:45,001 --> 00:21:47,471
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+462
+00:21:54,511 --> 00:21:56,511
+<font color="#ff00ff">[PANTING]</font>
+
+463
+00:21:56,513 --> 00:21:58,616
+Did you know your shoes
+are untied?
+
+464
+00:21:59,717 --> 00:22:01,750
+Uh-huh.
+This is a onesie,
+
+465
+00:22:01,752 --> 00:22:03,688
+so I don't really
+have to worry about it.
+
+466
+00:22:09,594 --> 00:22:12,728
+I thought I was the only one.
+You're like me.
+
+467
+00:22:12,730 --> 00:22:14,162
+I don't wanna be.
+
+468
+00:22:14,164 --> 00:22:17,065
+I don't think
+you have a choice, kiddo.
+
+469
+00:22:17,067 --> 00:22:19,634
+Got a lot going through
+your head, I'm sure.
+
+470
+00:22:19,636 --> 00:22:20,936
+Yeah.
+
+471
+00:22:20,938 --> 00:22:23,471
+You're gonna be fine.
+I can help you.
+
+472
+00:22:23,473 --> 00:22:25,841
+If you stick around,
+I can show you the ropes.
+
+473
+00:22:25,843 --> 00:22:28,177
+Yeah.
+<font color="#ff00ff">[RUMBLING]</font>
+
+474
+00:22:28,179 --> 00:22:31,514
+I just need to destroy
+this big machine real quick
+
+475
+00:22:31,516 --> 00:22:33,582
+before the space-time
+continuum collapses.
+
+476
+00:22:33,584 --> 00:22:34,553
+Don't move.
+
+477
+00:22:37,587 --> 00:22:39,154
+See you in a bit.
+
+478
+00:22:39,156 --> 00:22:41,092
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+479
+00:22:49,834 --> 00:22:51,536
+<font color="#ff00ff">[THINKING]</font>
+<i>How does he do that?</i>
+
+480
+00:22:53,871 --> 00:22:57,072
+Is it here?
+No, no, it's here.
+
+481
+00:22:57,074 --> 00:22:59,507
+All right, folks.
+
+482
+00:22:59,509 --> 00:23:00,644
+I always get this wrong.
+
+483
+00:23:02,113 --> 00:23:03,048
+Oh, boy.
+
+484
+00:23:04,080 --> 00:23:05,015
+Prowler.
+
+485
+00:23:06,851 --> 00:23:08,920
+Man, I was in
+the middle of something.
+
+486
+00:23:13,958 --> 00:23:15,093
+I am so tired.
+
+487
+00:23:17,060 --> 00:23:18,727
+<font color="#ff00ff">[GRUNTS]</font>
+
+488
+00:23:18,729 --> 00:23:20,966
+Are you mad at me?
+I feel like you're mad at me.
+
+489
+00:23:27,939 --> 00:23:29,641
+That all you got?
+
+490
+00:23:30,240 --> 00:23:31,873
+<font color="#ff00ff">[ROARS]</font>
+
+491
+00:23:31,875 --> 00:23:33,741
+Aw, so gross.
+
+492
+00:23:33,743 --> 00:23:36,879
+<font color="#ff00ff">[THINKING]</font> <i>I should go
+up there and help him.</i>
+
+493
+00:23:36,881 --> 00:23:39,648
+<i>Who am I kidding?
+I should not do that.</i>
+
+494
+00:23:39,650 --> 00:23:41,586
+<i><font color="#ff00ff">[KINGPIN SCATTING]</font></i>
+
+495
+00:23:45,155 --> 00:23:49,123
+<font color="#ff8000">KINGPIN</font>: <font color="#ff00ff">[WHISPERS]</font> Watch out.
+Here comes the Spider-Man.
+
+496
+00:23:49,125 --> 00:23:51,125
+<font color="#ff00ff">[IN NORMAL VOICE]</font>
+You like my new toy?
+
+497
+00:23:51,127 --> 00:23:55,564
+Cost me a fortune, but, hey,
+can't take it with you, right?
+
+498
+00:23:55,566 --> 00:23:58,834
+You came all this way.
+Watch the test.
+
+499
+00:23:58,836 --> 00:24:00,268
+It's a hell of a freaking
+light show.
+
+500
+00:24:00,270 --> 00:24:01,205
+You're gonna love this.
+
+501
+00:24:02,573 --> 00:24:03,842
+<font color="#ff00ff">[BEEPS]</font>
+
+502
+00:24:04,976 --> 00:24:08,110
+No! No,
+don't do this! Stop!
+
+503
+00:24:08,112 --> 00:24:11,580
+You don't know what it can do!
+You'll kill us all!
+
+504
+00:24:11,582 --> 00:24:12,884
+<font color="#ff00ff">[MACHINERY WHIRRING]</font>
+
+505
+00:24:18,756 --> 00:24:20,692
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+506
+00:24:26,163 --> 00:24:29,097
+<font color="#ff8000">SCIENTIST</font>: I see multiple
+dimensions opening!
+
+507
+00:24:29,099 --> 00:24:34,068
+That was three, four
+and five separate dimensions.
+
+508
+00:24:34,070 --> 00:24:36,073
+It's unstable! We should stop.
+
+509
+00:24:40,010 --> 00:24:41,712
+<font color="#ff00ff">[PEOPLE GASPING]</font>
+
+510
+00:24:45,282 --> 00:24:46,717
+<font color="#ff00ff">[SCREAMS]</font>
+
+511
+00:24:48,786 --> 00:24:51,056
+Norm, what's your take
+on head trauma?
+
+512
+00:24:52,656 --> 00:24:53,791
+<font color="#ff00ff">[ROARS]</font>
+
+513
+00:24:54,858 --> 00:24:56,894
+I tried to warn you, pal.
+
+514
+00:24:58,663 --> 00:24:59,798
+<font color="#ff00ff">[ROARING]</font>
+
+515
+00:25:02,866 --> 00:25:03,801
+<font color="#ff00ff">[GRUNTS]</font>
+
+516
+00:25:08,873 --> 00:25:10,072
+<font color="#ff00ff">[BEEPING]</font>
+
+517
+00:25:10,074 --> 00:25:12,744
+Goblin, no!
+Get him outta there!
+
+518
+00:25:15,579 --> 00:25:17,648
+<font color="#ff00ff">[GRUNTS]</font>
+
+519
+00:25:19,016 --> 00:25:20,852
+<font color="#ff8000">VANESSA</font>: <i>Wilson! Where are we?</i>
+
+520
+00:25:22,752 --> 00:25:24,620
+<font color="#ff8000">GWEN</font>: <i>Really weird.</i>
+
+521
+00:25:24,622 --> 00:25:25,990
+<font color="#ff8000">VANESSA</font>: <i>Wilson!</i>
+
+522
+00:25:28,224 --> 00:25:29,159
+<font color="#ff00ff">[ROARS]</font>
+
+523
+00:25:29,926 --> 00:25:31,295
+<font color="#ff00ff">[SCREAMS]</font>
+
+524
+00:25:38,336 --> 00:25:40,271
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+525
+00:25:41,238 --> 00:25:43,008
+<font color="#ff00ff">[ELECTRICITY CRACKLING]</font>
+
+526
+00:25:56,252 --> 00:25:57,221
+<font color="#ff00ff">[GASPS]</font>
+
+527
+00:25:59,356 --> 00:26:01,990
+Hey! Are you okay?
+
+528
+00:26:01,992 --> 00:26:04,028
+I'm fine, I'm fine.
+I'm just resting.
+
+529
+00:26:05,762 --> 00:26:07,696
+Can't you get up?
+Yeah.
+
+530
+00:26:07,698 --> 00:26:09,898
+<font color="#ff00ff">[CHUCKLES]</font>
+Yeah, I always get up.
+
+531
+00:26:09,900 --> 00:26:11,366
+<font color="#ff00ff">[COUGHS]</font>
+
+532
+00:26:11,368 --> 00:26:13,736
+The coughing's
+probably not a good sign.
+
+533
+00:26:13,738 --> 00:26:15,770
+<font color="#ff8000">KINGPIN</font>: Find him. Now.
+
+534
+00:26:15,772 --> 00:26:19,074
+Listen, we gotta team up here.
+We don't have that much time.
+
+535
+00:26:19,076 --> 00:26:21,943
+This override key is the only
+way to stop the collider.
+
+536
+00:26:21,945 --> 00:26:25,648
+Swing up there, use this key,
+push the button and blow it up.
+
+537
+00:26:25,650 --> 00:26:26,981
+You need to hide your face.
+
+538
+00:26:26,983 --> 00:26:29,218
+You don't tell anyone
+who you are.
+
+539
+00:26:29,220 --> 00:26:32,286
+No one can know. He's got
+everyone in his pocket.
+
+540
+00:26:32,288 --> 00:26:34,155
+If he turns
+the machine on again,
+
+541
+00:26:34,157 --> 00:26:36,091
+everything you know
+will disappear.
+
+542
+00:26:36,093 --> 00:26:38,026
+Your family, everyone.
+
+543
+00:26:38,028 --> 00:26:40,429
+Everyone.
+
+544
+00:26:40,431 --> 00:26:42,834
+Promise me you'll do this.
+
+545
+00:26:47,203 --> 00:26:48,703
+I promise.
+
+546
+00:26:48,705 --> 00:26:51,673
+Go. Destroy the collider.
+
+547
+00:26:51,675 --> 00:26:53,142
+I'll come and find you.
+
+548
+00:26:53,144 --> 00:26:54,876
+<font color="#ff00ff">[PETER COUGHS]</font>
+
+549
+00:26:54,878 --> 00:26:56,046
+It's gonna be okay.
+
+550
+00:27:01,451 --> 00:27:03,719
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+551
+00:27:03,721 --> 00:27:04,853
+<font color="#ff00ff">[SIGHS]</font>
+
+552
+00:27:04,855 --> 00:27:05,853
+<font color="#ff8000">KINGPIN</font>: Tombstone.
+
+553
+00:27:05,855 --> 00:27:07,057
+We're done with tests.
+
+554
+00:27:08,826 --> 00:27:12,026
+Get that thing ready
+to go again. And soon.
+
+555
+00:27:12,028 --> 00:27:13,996
+Run faster!
+
+556
+00:27:13,998 --> 00:27:15,730
+These guys are weak.
+
+557
+00:27:15,732 --> 00:27:18,467
+I'd say it's nice
+to see you again, Spider-Man,
+
+558
+00:27:18,469 --> 00:27:19,834
+but it's not.
+
+559
+00:27:19,836 --> 00:27:21,335
+Hey, Kingpin.
+How's business?
+
+560
+00:27:21,337 --> 00:27:22,938
+Boomin'. Heh.
+
+561
+00:27:22,940 --> 00:27:26,275
+Nice. Aw, that's a no-no.
+<font color="#ff00ff">[KINGPIN CHUCKLES]</font>
+
+562
+00:27:26,277 --> 00:27:28,876
+<font color="#ff8000">PETER</font>: This might open a
+black hole under Brooklyn.
+
+563
+00:27:28,878 --> 00:27:31,313
+It can't be worth the risk.
+
+564
+00:27:31,315 --> 00:27:34,152
+It's not always
+about the money, Spider-Man.
+
+565
+00:27:36,252 --> 00:27:37,286
+<font color="#ff00ff">[GROANS]</font>
+
+566
+00:27:37,288 --> 00:27:39,822
+<font color="#ff00ff">[GLOVES WHIRRING]</font>
+
+567
+00:27:39,824 --> 00:27:41,989
+Don't you wanna know
+what I saw in there?
+
+568
+00:27:41,991 --> 00:27:43,060
+Wait.
+
+569
+00:27:44,394 --> 00:27:47,296
+I know what you're trying to do,
+
+570
+00:27:47,298 --> 00:27:49,097
+and it won't work.
+
+571
+00:27:49,099 --> 00:27:50,201
+They're gone.
+
+572
+00:27:55,239 --> 00:27:56,975
+<font color="#ff00ff">[KINGPIN YELLS]</font>
+
+573
+00:28:04,248 --> 00:28:05,780
+Get rid of the body.
+
+574
+00:28:05,782 --> 00:28:08,382
+<font color="#ff00ff">[METAL CLATTERS]</font>
+What was that?
+
+575
+00:28:08,384 --> 00:28:09,319
+<font color="#ff00ff">[GASPS]</font>
+
+576
+00:28:11,221 --> 00:28:12,323
+Kill that guy.
+
+577
+00:28:13,089 --> 00:28:14,458
+<font color="#ff00ff">[YELLING]</font>
+
+578
+00:28:15,859 --> 00:28:17,795
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+579
+00:28:25,068 --> 00:28:26,037
+<font color="#ff00ff">[GRUNTS]</font>
+
+580
+00:28:32,910 --> 00:28:34,112
+<font color="#ff00ff">[GASPS]</font>
+
+581
+00:28:41,085 --> 00:28:42,187
+<font color="#ff00ff">[SCREAMS]</font>
+
+582
+00:28:43,988 --> 00:28:44,923
+<font color="#ff00ff">[GASPS]</font>
+
+583
+00:28:47,023 --> 00:28:49,458
+Stop sticking!
+
+584
+00:28:49,460 --> 00:28:50,428
+<font color="#ff00ff">[GRUNTS]</font>
+
+585
+00:28:55,799 --> 00:28:56,734
+<font color="#ff00ff">[YELPS]</font>
+
+586
+00:29:00,371 --> 00:29:01,339
+<font color="#ff00ff">[GRUNTS]</font>
+
+587
+00:29:07,577 --> 00:29:10,981
+<font color="#ff8000">MAN</font>: <font color="#ff00ff">[OVER SPEAKER]</font> <i>Stand clear
+of the closing doors, please.</i>
+
+588
+00:29:13,349 --> 00:29:15,150
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+589
+00:29:15,152 --> 00:29:16,254
+<font color="#ff00ff">[GASPING]</font>
+
+590
+00:29:19,355 --> 00:29:21,159
+<font color="#ff00ff">[TIRES SQUEALING]</font>
+
+591
+00:29:28,932 --> 00:29:30,835
+<font color="#ff00ff">[WHIMPERING]</font>
+
+592
+00:29:33,336 --> 00:29:35,006
+<font color="#ff00ff">[PANTING]</font>
+
+593
+00:29:36,073 --> 00:29:37,876
+Yeah, I think it's a Banksy.
+
+594
+00:29:39,943 --> 00:29:42,813
+<font color="#ff00ff">[REPORTER SPEAKING
+INDISTINCTLY ON TV]</font>
+
+595
+00:29:47,183 --> 00:29:49,151
+<font color="#ff8000">JEFFERSON</font>:
+Police! Put your hands up!
+
+596
+00:29:49,153 --> 00:29:50,889
+Miles? Miles?
+
+597
+00:29:52,288 --> 00:29:53,622
+Why aren't you at school?
+
+598
+00:29:53,624 --> 00:29:56,959
+Whoa, whoa, whoa.
+It's okay. It's okay.
+
+599
+00:29:56,961 --> 00:29:59,228
+Miles?
+<i>¿Qué te pasa?</i>
+
+600
+00:29:59,230 --> 00:30:00,895
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+601
+00:30:00,897 --> 00:30:01,930
+<font color="#ff00ff">[SIGHS]</font>
+
+602
+00:30:01,932 --> 00:30:03,300
+Is it the earthquake?
+
+603
+00:30:05,035 --> 00:30:06,602
+Can I sleep here tonight?
+
+604
+00:30:06,604 --> 00:30:08,269
+Miles.
+It's a weeknight.
+
+605
+00:30:08,271 --> 00:30:10,205
+You made a commitment
+to that school.
+
+606
+00:30:10,207 --> 00:30:11,810
+He's upset.
+
+607
+00:30:13,509 --> 00:30:16,213
+<font color="#ff00ff">[SIGHS]</font>
+Of course you can stay.
+
+608
+00:30:17,580 --> 00:30:18,982
+Dad?
+Yeah.
+
+609
+00:30:20,284 --> 00:30:23,184
+Do you really hate Spider-Man?
+
+610
+00:30:23,186 --> 00:30:25,187
+<font color="#ff00ff">[EXHALES SHARPLY]</font>
+
+611
+00:30:25,189 --> 00:30:27,989
+Yeah. I mean, with
+a vigilante, there is...
+
+612
+00:30:27,991 --> 00:30:29,290
+Jeff, <i>mi amor.</i>
+
+613
+00:30:29,292 --> 00:30:31,259
+What? He asked me.
+
+614
+00:30:31,261 --> 00:30:33,897
+Baby, you know how I feel
+about Spider-Man. Come on.
+
+615
+00:30:36,299 --> 00:30:38,033
+<i>Tú sabes que él te quiere mucho.</i>
+
+616
+00:30:38,035 --> 00:30:40,969
+That's why he's tough on you.
+You know that, right?
+
+617
+00:30:40,971 --> 00:30:45,340
+Mom, do you ever think
+about moving out of Brooklyn?
+
+618
+00:30:45,342 --> 00:30:49,044
+Our family doesn't run
+from things, Miles.
+
+619
+00:30:49,046 --> 00:30:51,182
+Yeah, I know.
+
+620
+00:30:54,151 --> 00:30:55,517
+<font color="#ff8000">JEFFERSON</font>: What's that about?
+
+621
+00:30:55,519 --> 00:30:57,286
+<font color="#ff8000">RIO</font>: He's having a
+hard time, Jeff.
+
+622
+00:30:57,288 --> 00:30:58,620
+<font color="#ff8000">JEFFERSON</font>: When it gets hard,
+
+623
+00:30:58,622 --> 00:31:00,421
+that's when
+he's gotta stick it out.
+
+624
+00:31:00,423 --> 00:31:02,623
+<font color="#ff00ff">[RIO SHUSHES,
+SPEAKS IN SPANISH]</font>
+
+625
+00:31:02,625 --> 00:31:04,558
+<font color="#ff00ff">[SIGHS]</font>
+
+626
+00:31:04,560 --> 00:31:06,929
+<font color="#ff00ff">[TV NEWS THEME MUSIC PLAYING]</font>
+
+627
+00:31:06,931 --> 00:31:10,132
+<font color="#ff8000">REPORTER 1</font>: <i>We interrupt this
+broadcast for a special report.</i>
+
+628
+00:31:10,134 --> 00:31:11,466
+<i>Sad news tonight.</i>
+
+629
+00:31:11,468 --> 00:31:15,370
+<i>The hero known as Spider-Man
+has died</i>
+
+630
+00:31:15,372 --> 00:31:18,105
+<i>after injuries related to
+another powerful earthquake</i>
+
+631
+00:31:18,107 --> 00:31:20,942
+<i>in Brooklyn.
+Multiple sources are confirming</i>
+
+632
+00:31:20,944 --> 00:31:23,312
+<i>that Peter Parker,
+a 26-year-old grad student</i>
+
+633
+00:31:23,314 --> 00:31:25,046
+<i>and part-time photographer</i>
+
+634
+00:31:25,048 --> 00:31:29,484
+<i>operated as Spider-Man
+for at least a decade.</i>
+
+635
+00:31:29,486 --> 00:31:32,487
+<i><font color="#ffff00">♪</font> I'm not runnin'
+Runnin', runnin' <font color="#ffff00">♪</font></i>
+
+636
+00:31:32,489 --> 00:31:34,655
+<i><font color="#ffff00">♪</font> No, I'm not afraid
+Of the fall <font color="#ffff00">♪</font></i>
+
+637
+00:31:34,657 --> 00:31:38,626
+<i><font color="#ffff00">♪</font> I'm not scared... ♪</i>
+
+638
+00:31:38,628 --> 00:31:41,462
+<font color="#ff8000">REPORTER 2</font>: <i>He is survived
+by his wife, Mary Jane,</i>
+
+639
+00:31:41,464 --> 00:31:43,268
+<i>and his aunt, May Parker.</i>
+
+640
+00:31:44,434 --> 00:31:47,235
+<i>Our hero, Spider-Man, is gone.</i>
+
+641
+00:31:47,237 --> 00:31:48,670
+<i><font color="#ffff00">♪</font> I'm not scared... ♪</i>
+
+642
+00:31:48,672 --> 00:31:51,305
+<font color="#ff8000">MARY JANE</font>: <i>My husband,
+Peter Parker,</i>
+
+643
+00:31:51,307 --> 00:31:54,109
+<i>was an ordinary person.</i>
+
+644
+00:31:54,111 --> 00:31:57,511
+<i>He always said it could've been
+anyone behind the mask.</i>
+
+645
+00:31:57,513 --> 00:32:01,415
+<i>He was just the kid
+who happened to get bit.</i>
+
+646
+00:32:01,417 --> 00:32:03,751
+I'm going to miss him.
+
+647
+00:32:03,753 --> 00:32:05,219
+Yeah.
+
+648
+00:32:05,221 --> 00:32:07,288
+We were friends, you know.
+
+649
+00:32:07,290 --> 00:32:09,190
+Can I return it
+if it doesn't fit?
+
+650
+00:32:09,192 --> 00:32:11,526
+It always fits
+
+651
+00:32:11,528 --> 00:32:13,431
+eventually.
+
+652
+00:32:19,502 --> 00:32:21,505
+<font color="#ff8000">MARY JANE</font>: <i>He didn't
+ask for his powers,</i>
+
+653
+00:32:24,607 --> 00:32:28,176
+<i>but he chose to be Spider-Man.</i>
+
+654
+00:32:28,178 --> 00:32:30,778
+<i>My favorite thing about Peter</i>
+
+655
+00:32:30,780 --> 00:32:34,583
+<i>is that he made us each
+feel powerful.</i>
+
+656
+00:32:34,585 --> 00:32:38,586
+<i>We all have powers
+of one kind or another.</i>
+
+657
+00:32:38,588 --> 00:32:41,323
+<i><font color="#ffff00">♪</font> Of the dark... ♪</i>
+
+658
+00:32:41,325 --> 00:32:43,225
+But in our own way.
+
+659
+00:32:43,227 --> 00:32:45,227
+We are all Spider-Man.
+
+660
+00:32:45,229 --> 00:32:48,796
+<i>And we're all counting on you.</i>
+
+661
+00:32:48,798 --> 00:32:50,664
+They're counting on me.
+
+662
+00:32:50,666 --> 00:32:54,371
+Probably not you specifically.
+I think it's a metaphor.
+
+663
+00:32:55,439 --> 00:32:56,470
+<font color="#ff00ff">[SPUTTERING SIGH]</font>
+
+664
+00:32:56,472 --> 00:32:58,276
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+665
+00:33:27,671 --> 00:33:29,606
+<font color="#ff00ff">[PANTING]</font>
+
+666
+00:33:36,680 --> 00:33:38,615
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+667
+00:33:41,718 --> 00:33:43,221
+<font color="#ff00ff">[CRACKS NECK]</font>
+
+668
+00:33:48,157 --> 00:33:49,757
+<font color="#ff00ff">[GRUNTS]</font>
+
+669
+00:33:49,759 --> 00:33:50,795
+<font color="#ff00ff">[YELLS]</font>
+
+670
+00:33:51,728 --> 00:33:52,730
+<font color="#ff00ff">[GRUNTING]</font>
+
+671
+00:33:54,765 --> 00:33:56,401
+<font color="#ff00ff">[SCREAMS]</font>
+
+672
+00:33:57,433 --> 00:33:58,403
+<font color="#ff00ff">[GRUNTS]</font>
+
+673
+00:33:58,868 --> 00:34:00,070
+<font color="#ff00ff">[GRUNTS]</font>
+
+674
+00:34:05,843 --> 00:34:08,242
+<font color="#ff00ff">[ELECTRICITY BUZZES]</font>
+
+675
+00:34:08,244 --> 00:34:09,614
+<font color="#ff00ff">[SIGHS]</font>
+
+676
+00:34:11,614 --> 00:34:13,550
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+677
+00:34:15,119 --> 00:34:17,151
+<font color="#ff00ff">[BELL TOLLING]</font>
+
+678
+00:34:17,153 --> 00:34:18,489
+<font color="#ff00ff">[CREAKS]</font>
+
+679
+00:34:43,547 --> 00:34:45,479
+<font color="#ff00ff">[SIGHING]</font>
+
+680
+00:34:45,481 --> 00:34:48,182
+I'm sorry, Mr. Parker.
+
+681
+00:34:48,184 --> 00:34:51,753
+That thing you gave me, that key
+
+682
+00:34:51,755 --> 00:34:54,724
+I think I really messed it up.
+
+683
+00:34:56,326 --> 00:34:58,559
+I wanna do what you asked.
+
+684
+00:34:58,561 --> 00:35:00,362
+I really do.
+
+685
+00:35:00,364 --> 00:35:03,430
+But I'm sorry.
+
+686
+00:35:03,432 --> 00:35:06,700
+I'm not sure I'm the guy.
+
+687
+00:35:06,702 --> 00:35:09,637
+I can't do this without you.
+
+688
+00:35:09,639 --> 00:35:11,206
+<font color="#ff00ff">[GASPS]</font>
+Hey, kid.
+
+689
+00:35:11,208 --> 00:35:12,543
+<font color="#ff00ff">[ELECTRICITY CRACKLES]</font>
+<font color="#ff00ff">[YELLS]</font>
+
+690
+00:35:13,677 --> 00:35:14,778
+Whoa!
+
+691
+00:35:17,648 --> 00:35:19,182
+What did I do to him?!
+
+692
+00:35:22,719 --> 00:35:24,655
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+693
+00:35:30,661 --> 00:35:31,596
+No.
+
+694
+00:35:36,233 --> 00:35:37,735
+Who <i>are</i> you?
+
+695
+00:35:39,835 --> 00:35:42,873
+<font color="#ff8000">PETER 2</font>: <i>All right, people,
+let's do this one last time.</i>
+
+696
+00:35:44,641 --> 00:35:47,409
+<i>My name is Peter B. Parker.</i>
+
+697
+00:35:47,411 --> 00:35:50,612
+<i>I was bitten by
+a radioactive spider.</i>
+
+698
+00:35:50,614 --> 00:35:52,847
+<i>And for the last 22 years,</i>
+
+699
+00:35:52,849 --> 00:35:56,586
+<i>I thought I was
+the one and only Spider-Man.</i>
+
+700
+00:35:57,788 --> 00:35:59,420
+What a day.
+
+701
+00:35:59,422 --> 00:36:01,755
+<i>I'm pretty sure
+you know the rest.</i>
+
+702
+00:36:01,757 --> 00:36:04,659
+<i>You see, I saved the city,
+fell in love, I got married,</i>
+
+703
+00:36:04,661 --> 00:36:06,827
+<i>saved the city some more,
+maybe too much.</i>
+
+704
+00:36:06,829 --> 00:36:09,731
+<i>My marriage got testy,
+made some dicey money choices.</i>
+
+705
+00:36:09,733 --> 00:36:11,900
+<i>Don't invest
+in a spider-themed restaurant.</i>
+
+706
+00:36:11,902 --> 00:36:14,836
+<i>Then like 15 years passed.
+Blah, blah, blah. Super boring.</i>
+
+707
+00:36:14,838 --> 00:36:17,472
+<i>I broke my back,
+a drone flew into my face,</i>
+
+708
+00:36:17,474 --> 00:36:18,539
+<i>I buried Aunt May.</i>
+
+709
+00:36:18,541 --> 00:36:20,641
+<i>My wife and I split up.</i>
+
+710
+00:36:20,643 --> 00:36:22,876
+<i>But I handled it
+like a champion.</i>
+
+711
+00:36:22,878 --> 00:36:24,746
+<font color="#ff00ff">[CRYING]</font>
+<i>'Cause, you know what,</i>
+
+712
+00:36:24,748 --> 00:36:26,581
+<i>no matter
+how many times I get hit,</i>
+
+713
+00:36:26,583 --> 00:36:29,483
+<i>I always get back up.</i>
+<font color="#ff00ff">[ALARM CHIMING AND BUZZING]</font>
+
+714
+00:36:29,485 --> 00:36:31,254
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+715
+00:36:33,023 --> 00:36:36,657
+<i>And I got a lot of time
+to reflect and work on myself.</i>
+
+716
+00:36:36,659 --> 00:36:39,793
+<i>Did you know that seahorses,
+that they mate for life?</i>
+
+717
+00:36:39,795 --> 00:36:41,762
+<i>Could you imagine?</i>
+
+718
+00:36:41,764 --> 00:36:44,932
+<i>A seahorse seeing
+another seahorse</i>
+
+719
+00:36:44,934 --> 00:36:46,834
+<i>and then making it work?</i>
+
+720
+00:36:46,836 --> 00:36:47,936
+<font color="#ff00ff">[CELL PHONE RINGING]</font>
+
+721
+00:36:47,938 --> 00:36:50,771
+<i>She wanted kids and...</i>
+
+722
+00:36:50,773 --> 00:36:52,609
+<i>And it scared me.</i>
+
+723
+00:36:53,976 --> 00:36:56,577
+<i>I'm pretty sure
+I broke her heart.</i>
+
+724
+00:36:56,579 --> 00:36:58,947
+<i><font color="#ff8000">Flash-forward</font>: I'm in my
+apartment doing push-ups,</i>
+
+725
+00:36:58,949 --> 00:37:00,981
+<i>doing ab crunches,
+getting strong,</i>
+
+726
+00:37:00,983 --> 00:37:03,351
+<i>when this weird thing happened.</i>
+
+727
+00:37:03,353 --> 00:37:06,688
+<i>And I gotta say, weird things
+happen to me a lot.</i>
+
+728
+00:37:06,690 --> 00:37:09,659
+<i>But this was real weird.</i>
+
+729
+00:37:18,501 --> 00:37:19,469
+<font color="#ff00ff">[YELLS]</font>
+
+730
+00:37:41,992 --> 00:37:44,028
+<font color="#ff00ff">[YELLS, DISTORTED]</font>
+
+731
+00:37:45,329 --> 00:37:46,297
+<font color="#ff00ff">[GRUNTING]</font>
+
+732
+00:37:51,902 --> 00:37:52,836
+Ow!
+
+733
+00:37:54,871 --> 00:37:58,106
+<i>You see, I was in New York,
+but things were different.</i>
+
+734
+00:37:58,108 --> 00:38:00,809
+<i>Also, I was dead.</i>
+
+735
+00:38:00,811 --> 00:38:02,476
+<i>And blond.</i>
+
+736
+00:38:02,478 --> 00:38:04,713
+<i>I was kind of perfect.</i>
+
+737
+00:38:04,715 --> 00:38:08,516
+<i>It was like looking in a mirror.</i>
+
+738
+00:38:08,518 --> 00:38:10,552
+<i>I have a feeling that the thing</i>
+
+739
+00:38:10,554 --> 00:38:11,985
+<i>that brought me here</i>
+
+740
+00:38:11,987 --> 00:38:14,889
+<i>was the thing
+that got him killed.</i>
+
+741
+00:38:14,891 --> 00:38:16,925
+<i>You wanna know
+what happened next?</i>
+
+742
+00:38:16,927 --> 00:38:19,094
+<font color="#ff00ff">[ELECTRICITY CRACKLES]</font>
+<font color="#ff00ff">[YELLS]</font>
+
+743
+00:38:19,096 --> 00:38:20,431
+<font color="#ff00ff">[GRUNTS]</font>
+
+744
+00:38:20,996 --> 00:38:22,463
+<i>Me, too.</i>
+
+745
+00:38:22,465 --> 00:38:23,932
+<font color="#ff8000">MILES</font>: <i>Who are you?</i>
+
+746
+00:38:23,934 --> 00:38:25,900
+<font color="#ff8000">OFFICER 1</font>: What are
+you doin' over there?
+
+747
+00:38:25,902 --> 00:38:28,369
+Freeze! P.D.N.Y.
+
+748
+00:38:28,371 --> 00:38:29,440
+Stop!
+
+749
+00:38:30,106 --> 00:38:31,409
+<font color="#ff00ff">[YELLS, GRUNTS]</font>
+
+750
+00:38:33,409 --> 00:38:35,476
+Are you kidding me right now?
+
+751
+00:38:35,478 --> 00:38:36,945
+<font color="#ff8000">OFFICER 2</font>: Stop! Stop!
+
+752
+00:38:36,947 --> 00:38:38,646
+I gotcha. I gotcha.
+
+753
+00:38:38,648 --> 00:38:40,451
+<font color="#ff8000">OFFICER 1</font>: Hey, kid.
+Drop the body.
+
+754
+00:38:42,786 --> 00:38:45,586
+Hey, kid. Get over here!
+<font color="#ff8000">OFFICER 2</font>: Come on, now!
+
+755
+00:38:45,588 --> 00:38:46,523
+<font color="#ff8000">MILES</font>: Whoa.
+
+756
+00:38:47,623 --> 00:38:50,691
+See you, officers!
+
+757
+00:38:50,693 --> 00:38:51,961
+Aw, come on.
+
+758
+00:38:52,628 --> 00:38:53,927
+<font color="#ff00ff">[GRUNTS]</font>
+
+759
+00:38:53,929 --> 00:38:55,929
+<font color="#ff00ff">[YELPS]</font>
+
+760
+00:38:55,931 --> 00:38:57,632
+<font color="#ff00ff">[GRUNTS]</font>
+
+761
+00:38:57,634 --> 00:39:00,068
+<font color="#ff8000">OFFICER 1</font>: Hey, kid.
+<font color="#ff8000">OFFICER 2</font>: Kid, come on, now!
+
+762
+00:39:00,070 --> 00:39:01,772
+Put 'em up, son!
+
+763
+00:39:03,907 --> 00:39:05,376
+<font color="#ff00ff">[SCREAMS]</font>
+
+764
+00:39:06,041 --> 00:39:07,175
+Uh... <i>adiós?</i>
+
+765
+00:39:07,177 --> 00:39:09,010
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+766
+00:39:09,012 --> 00:39:11,112
+<font color="#ff00ff">[SCREAMS]</font>
+
+767
+00:39:11,114 --> 00:39:13,981
+Help!
+Somebody stop that train!
+
+768
+00:39:13,983 --> 00:39:15,719
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+769
+00:39:19,789 --> 00:39:22,025
+<font color="#ff00ff">[TIRES SCREECH]</font>
+<font color="#ff00ff">[SIREN WAILS]</font>
+
+770
+00:39:23,159 --> 00:39:24,795
+<font color="#ff00ff">[GRUNTING]</font>
+
+771
+00:39:26,563 --> 00:39:28,195
+<font color="#ff00ff">[YELPS, GRUNTS]</font>
+
+772
+00:39:28,197 --> 00:39:31,532
+<font color="#ff00ff">[WHIMPERS, SCREAMS]</font>
+
+773
+00:39:31,534 --> 00:39:33,168
+<font color="#ff8000">PETER 2</font>: Oh, hey. What the...?
+
+774
+00:39:33,170 --> 00:39:34,472
+<font color="#ff00ff">[BOTH GRUNT AND YELL]</font>
+
+775
+00:39:36,539 --> 00:39:37,541
+Sorry.
+
+776
+00:39:38,507 --> 00:39:40,641
+<font color="#ff00ff">[MILES SCREAMS]</font>
+
+777
+00:39:40,643 --> 00:39:44,481
+I'm gonna die!
+
+778
+00:39:47,851 --> 00:39:50,952
+<font color="#ff8000">OFFICER</font>: <font color="#ff00ff">[OVER RADIO]</font> <i>Looks like
+a child dressed like Spider-Man</i>
+
+779
+00:39:50,954 --> 00:39:53,054
+<i>dragging a homeless corpse
+behind a train.</i>
+
+780
+00:39:53,056 --> 00:39:54,023
+<font color="#ff00ff">[SIREN WAILS]</font>
+
+781
+00:39:54,958 --> 00:39:56,590
+Yes! I didn't kill you.
+
+782
+00:39:56,592 --> 00:39:58,592
+<font color="#ff8000">PETER 2</font>: Who are you?
+<font color="#ff8000">MILES</font>: Who are <i>you?</i>
+
+783
+00:39:58,594 --> 00:39:59,760
+<font color="#ff8000">PETER 2</font>: Why are you
+trying to kill me?
+
+784
+00:39:59,762 --> 00:40:01,531
+I'm not. I'm trying to save you.
+
+785
+00:40:04,768 --> 00:40:07,704
+<font color="#ff00ff">[MUFFLED HIP-HOP MUSIC
+PLAYING]</font>
+
+786
+00:40:10,539 --> 00:40:12,476
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+787
+00:40:18,547 --> 00:40:20,782
+<font color="#ff00ff">[BOTH SCREAM]</font>
+
+788
+00:40:20,784 --> 00:40:23,083
+<font color="#ff8000">MILES</font>: Hey, maybe you
+guys can go around?
+
+789
+00:40:23,085 --> 00:40:26,723
+<font color="#ff00ff">[BARKS]</font>
+All right. Thanks, New York.
+
+790
+00:40:36,967 --> 00:40:38,599
+<font color="#ff8000">PETER 2</font>: <i>What was that?</i>
+
+791
+00:40:38,601 --> 00:40:41,135
+<i>Kid electrocuted me</i>
+
+792
+00:40:41,137 --> 00:40:43,003
+<i>with his hands.</i>
+
+793
+00:40:43,005 --> 00:40:46,139
+<font color="#ff00ff">[GASPS, SIGHS]</font>
+
+794
+00:40:46,141 --> 00:40:48,809
+You're like me.
+I got some questions.
+
+795
+00:40:48,811 --> 00:40:49,545
+<font color="#ff00ff">[GRUNTING]</font>
+
+796
+00:40:53,516 --> 00:40:55,148
+Why do you look like
+Peter Parker?
+
+797
+00:40:55,150 --> 00:40:57,584
+<font color="#ff00ff">[PETER 2 GRUNTING]</font>
+
+798
+00:40:57,586 --> 00:40:59,153
+Because I am Peter Parker.
+
+799
+00:40:59,155 --> 00:41:02,023
+Then why aren't you dead?
+And why is your hair different?
+
+800
+00:41:02,025 --> 00:41:04,559
+Why are you older?
+And why is your body
+
+801
+00:41:04,561 --> 00:41:06,026
+a different shape?
+
+802
+00:41:06,028 --> 00:41:07,829
+Pretty sure
+you just called me fat.
+
+803
+00:41:07,831 --> 00:41:09,796
+You don't look
+so hot either, kid.
+
+804
+00:41:09,798 --> 00:41:11,932
+Most superheroes don't wear
+their own merch.
+
+805
+00:41:11,934 --> 00:41:13,066
+Are you a ghost?
+No.
+
+806
+00:41:13,068 --> 00:41:14,536
+Are you a zombie?
+Stop it.
+
+807
+00:41:14,538 --> 00:41:16,204
+Am I a zombie?
+You're not even close.
+
+808
+00:41:16,206 --> 00:41:18,940
+Are you from another dimension?
+Like a parallel universe
+
+809
+00:41:18,942 --> 00:41:20,275
+where things are like
+this universe but different?
+
+810
+00:41:20,277 --> 00:41:22,142
+And you're Spider-Man
+in that universe?
+
+811
+00:41:22,144 --> 00:41:24,045
+But somehow traveled
+to this universe,
+
+812
+00:41:24,047 --> 00:41:25,213
+but you don't know how?
+
+813
+00:41:25,215 --> 00:41:26,847
+Wow. That was really
+just a guess?
+
+814
+00:41:26,849 --> 00:41:28,715
+We learned about it in physics.
+
+815
+00:41:28,717 --> 00:41:30,751
+Quantum theory.
+This is amazing!
+
+816
+00:41:30,753 --> 00:41:32,820
+You can teach me
+like Peter said he would.
+
+817
+00:41:32,822 --> 00:41:33,921
+Before he died.
+
+818
+00:41:33,923 --> 00:41:35,188
+Yeah. Exactly.
+Yeah, right.
+
+819
+00:41:35,190 --> 00:41:36,958
+Look, I made a promise to him.
+
+820
+00:41:36,960 --> 00:41:38,659
+Here's lesson number one, kid.
+
+821
+00:41:38,661 --> 00:41:41,762
+Don't watch the mouth.
+Watch the hands.
+
+822
+00:41:41,764 --> 00:41:43,030
+<font color="#ff00ff">[GASPS]</font>
+
+823
+00:41:43,032 --> 00:41:43,967
+<font color="#ff00ff">[YELPS]</font>
+
+824
+00:41:46,302 --> 00:41:48,239
+Peter, seriously...
+
+825
+00:41:50,106 --> 00:41:52,273
+<font color="#ff00ff">[SIGHS]</font>
+Trust me, kid.
+
+826
+00:41:52,275 --> 00:41:54,608
+This'll all make you
+a better Spider-Man.
+
+827
+00:41:54,610 --> 00:41:56,614
+<font color="#ff00ff">[GRUNTS]</font>
+<font color="#ff00ff">[ELECTRONIC STATIC]</font>
+
+828
+00:41:59,748 --> 00:42:01,316
+Hey, are you okay?
+
+829
+00:42:01,318 --> 00:42:02,717
+<font color="#ff8000">PETER 2</font>: No, I'm not.
+
+830
+00:42:02,719 --> 00:42:04,117
+What's going on with your body?
+
+831
+00:42:04,119 --> 00:42:06,019
+I don't think my atoms
+are real jazzed
+
+832
+00:42:06,021 --> 00:42:07,789
+about being
+in the wrong dimension.
+
+833
+00:42:07,791 --> 00:42:10,023
+<font color="#ff00ff">[GROANS]</font>
+
+834
+00:42:10,025 --> 00:42:11,959
+Look, I'm not looking
+for a side gig
+
+835
+00:42:11,961 --> 00:42:13,360
+as a Spider-Man coach.
+
+836
+00:42:13,362 --> 00:42:15,662
+I got a lot going on
+in my dimension.
+
+837
+00:42:15,664 --> 00:42:17,764
+"With great power
+comes great..."
+
+838
+00:42:17,766 --> 00:42:19,367
+Don't you dare
+finish that sentence.
+
+839
+00:42:19,369 --> 00:42:21,135
+Don't do it!
+I'm sick of it.
+
+840
+00:42:21,137 --> 00:42:23,304
+<font color="#ff00ff">[ELECTRONIC STATIC]</font>
+
+841
+00:42:23,306 --> 00:42:25,005
+<font color="#ff00ff">[GROANS]</font>
+
+842
+00:42:25,007 --> 00:42:27,909
+Want my advice?
+Go back to being a regular kid.
+
+843
+00:42:27,911 --> 00:42:29,077
+I don't have a choice!
+
+844
+00:42:29,079 --> 00:42:30,644
+Kingpin's got a supercollider.
+
+845
+00:42:30,646 --> 00:42:32,079
+He's tryin' to kill me.
+
+846
+00:42:32,081 --> 00:42:34,148
+What did you just say?
+Kingpin's tryin' to kill me.
+
+847
+00:42:34,150 --> 00:42:36,249
+Who cares about that.
+Where's the collider?
+
+848
+00:42:36,251 --> 00:42:38,119
+Brooklyn. Under Fisk Tower.
+
+849
+00:42:38,121 --> 00:42:39,287
+Goodbye.
+Where you going?
+
+850
+00:42:39,289 --> 00:42:40,954
+When it runs again, I'll jump in
+
+851
+00:42:40,956 --> 00:42:42,389
+and get back to my life.
+You can't let them run it.
+
+852
+00:42:42,391 --> 00:42:43,958
+I'm supposed to destroy it
+
+853
+00:42:43,960 --> 00:42:46,026
+so it never runs again
+or everyone's gonna die.
+
+854
+00:42:46,028 --> 00:42:49,697
+"Or everyone's gonna die."
+That is what they always say.
+
+855
+00:42:49,699 --> 00:42:52,700
+But there's always a little bit
+of time before everybody dies
+
+856
+00:42:52,702 --> 00:42:54,068
+and that's when I do
+my best work.
+
+857
+00:42:54,070 --> 00:42:55,769
+Aren't you gonna need this?
+
+858
+00:42:55,771 --> 00:42:57,371
+Aw, you have a goober.
+Give it.
+
+859
+00:42:57,373 --> 00:43:00,842
+Wait, no. Not so fast.
+He called it an override key.
+
+860
+00:43:00,844 --> 00:43:03,677
+There's always a bypass key,
+a virus key, a who-cares key.
+
+861
+00:43:03,679 --> 00:43:04,912
+I can never remember,
+
+862
+00:43:04,914 --> 00:43:06,146
+so I always call it
+a goober. Give it.
+
+863
+00:43:06,148 --> 00:43:07,882
+I need it
+to destroy the collider.
+
+864
+00:43:07,884 --> 00:43:09,282
+I need it to go home.
+
+865
+00:43:09,284 --> 00:43:10,885
+I'll swallow it.
+Don't play with me.
+
+866
+00:43:10,887 --> 00:43:13,021
+What?
+I said...
+
+867
+00:43:13,023 --> 00:43:15,423
+The collider created a portal
+that brought me here.
+
+868
+00:43:15,425 --> 00:43:17,057
+And I have to get...
+
+869
+00:43:17,059 --> 00:43:21,195
+Did you break this?
+No, it broke.
+
+870
+00:43:21,197 --> 00:43:22,829
+I don't remember what happened.
+
+871
+00:43:22,831 --> 00:43:24,365
+See, this is why
+I never had kids.
+
+872
+00:43:24,367 --> 00:43:25,932
+Can't we make another one?
+
+873
+00:43:25,934 --> 00:43:27,969
+<i>We</i> can't do anything.
+Thanks to you,
+
+874
+00:43:27,971 --> 00:43:30,938
+I have to re-steal what
+your guy stole from Alchemax
+
+875
+00:43:30,940 --> 00:43:33,807
+and make another one of these.
+<font color="#ff00ff">[GRUNTS]</font>
+
+876
+00:43:33,809 --> 00:43:35,842
+If I don't turn off the collider
+after you leave,
+
+877
+00:43:35,844 --> 00:43:37,345
+everyone in this city,
+
+878
+00:43:37,347 --> 00:43:40,213
+my parents, my uncle and
+millions of others, will die.
+
+879
+00:43:40,215 --> 00:43:41,883
+And you're just gonna go home
+
+880
+00:43:41,885 --> 00:43:44,184
+and leave me here
+to figure this out for myself?
+
+881
+00:43:44,186 --> 00:43:47,156
+You good with that, Spider-Man?
+Yeah.
+
+882
+00:43:51,728 --> 00:43:52,762
+<font color="#ff00ff">[SIGHS]</font>
+
+883
+00:43:56,900 --> 00:43:58,398
+What are you doing?
+
+884
+00:43:58,400 --> 00:44:02,769
+Making you feel guilty.
+Is it working?
+
+885
+00:44:02,771 --> 00:44:05,039
+How could it...? No.
+Look at me.
+
+886
+00:44:05,041 --> 00:44:06,807
+Does it look like it's working?
+
+887
+00:44:06,809 --> 00:44:10,346
+No. No, it's not...
+<font color="#ff00ff">[SIGHS, CHUCKLES]</font>
+
+888
+00:44:11,280 --> 00:44:12,479
+<font color="#ff00ff">[MUFFLES A YELL]</font>
+
+889
+00:44:12,481 --> 00:44:16,987
+No! No! No!
+Do not let him win!
+
+890
+00:44:18,054 --> 00:44:19,420
+All right, kid. You win.
+
+891
+00:44:19,422 --> 00:44:21,923
+Come on, we don't have
+a second to lose.
+
+892
+00:44:21,925 --> 00:44:24,758
+Mmm. I love this burger.
+So delicious.
+
+893
+00:44:24,760 --> 00:44:26,728
+One of the best burgers
+I've ever had.
+
+894
+00:44:26,730 --> 00:44:29,396
+In my universe, this place
+closed six years ago.
+
+895
+00:44:29,398 --> 00:44:31,264
+I don't know why.
+I really don't.
+
+896
+00:44:31,266 --> 00:44:32,268
+Mmm.
+
+897
+00:44:34,304 --> 00:44:37,003
+You have money, right?
+I'm not very liquid right now.
+
+898
+00:44:37,005 --> 00:44:38,805
+Can we focus?
+Mm-hm. Sure.
+
+899
+00:44:38,807 --> 00:44:41,344
+The other Peter...
+You gonna eat that?
+
+900
+00:44:42,378 --> 00:44:43,778
+I'm listening.
+
+901
+00:44:43,780 --> 00:44:45,378
+The other Peter said
+he was gonna be
+
+902
+00:44:45,380 --> 00:44:47,280
+showing me the ropes.
+Wow.
+
+903
+00:44:47,282 --> 00:44:50,016
+<font color="#ff8000">MILES</font>: You got any Spider-Man
+tips you can tell me now?
+
+904
+00:44:50,018 --> 00:44:51,017
+Yeah, I got plenty.
+
+905
+00:44:51,019 --> 00:44:52,452
+Disinfect the mask.
+
+906
+00:44:52,454 --> 00:44:54,921
+You're gonna wanna use
+baby powder in the suit,
+
+907
+00:44:54,923 --> 00:44:56,124
+heavy on the joints.
+
+908
+00:44:56,126 --> 00:44:58,291
+You don't want
+any chafing, right?
+
+909
+00:44:58,293 --> 00:45:00,795
+Anything else?
+Nope, that was everything.
+
+910
+00:45:00,797 --> 00:45:02,496
+I think you're gonna be
+a bad teacher.
+
+911
+00:45:02,498 --> 00:45:05,032
+Uh-uh-uh?
+Look up where Alchemax is.
+
+912
+00:45:05,034 --> 00:45:08,401
+"A private technological campus
+in Hudson Valley, New York."
+
+913
+00:45:08,403 --> 00:45:09,903
+<font color="#ff00ff">[GASPS]</font>
+You can teach me
+
+914
+00:45:09,905 --> 00:45:11,171
+to swing on the way there.
+
+915
+00:45:11,173 --> 00:45:12,976
+<font color="#ff00ff">[IMITATES WEB THROW]</font>
+<font color="#ff00ff">[LAUGHS]</font>
+
+916
+00:45:14,476 --> 00:45:16,844
+I'm not swinging to
+the Hudson Valley, Miles.
+
+917
+00:45:16,846 --> 00:45:18,780
+Not after a hearty
+burger breakfast.
+
+918
+00:45:18,782 --> 00:45:21,085
+Keep your legs fresh.
+You're gonna thank me later.
+
+919
+00:45:22,985 --> 00:45:25,253
+<i><font color="#ffff00">♪</font> I can see a new horizon ♪</i>
+
+920
+00:45:25,255 --> 00:45:27,088
+<i><font color="#ffff00">♪</font> Underneath the blazing sky ♪</i>
+
+921
+00:45:27,090 --> 00:45:30,258
+<i><font color="#ffff00">♪</font> I'll be where the eagle's
+Flying higher... <font color="#ffff00">♪</font></i>
+
+922
+00:45:30,260 --> 00:45:32,425
+And it's a no on the cape.
+I think it's cool.
+
+923
+00:45:32,427 --> 00:45:34,162
+Take that off.
+It's disrespectful.
+
+924
+00:45:34,164 --> 00:45:36,130
+Spider-Man doesn't wear a cape.
+<font color="#ff00ff">[GROANS]</font>
+
+925
+00:45:36,132 --> 00:45:39,233
+<font color="#ff8000">MILES</font>: So how do we
+retrace Peter's steps?
+
+926
+00:45:39,235 --> 00:45:41,202
+That's a good question.
+
+927
+00:45:41,204 --> 00:45:44,041
+What would I do if I were me?
+
+928
+00:45:44,873 --> 00:45:46,206
+Got it.
+
+929
+00:45:46,208 --> 00:45:48,208
+<i><font color="#ff8000">Step One</font>:
+I infiltrate the lab.</i>
+
+930
+00:45:48,210 --> 00:45:50,177
+<i><font color="#ff8000">Two</font>: Find the head
+scientist's computer.</i>
+
+931
+00:45:50,179 --> 00:45:52,380
+<font color="#ff8000">MILES</font>: <i>That lady with the
+bike is the head scientist.</i>
+
+932
+00:45:52,382 --> 00:45:54,447
+<i>I saw her in this documentary.</i>
+
+933
+00:45:54,449 --> 00:45:56,883
+<font color="#ff8000">PETER 2</font>: <i>Cool! Step Three: I
+reexamine my personal biases.</i>
+
+934
+00:45:56,885 --> 00:45:58,119
+<i><font color="#ff8000">Step Four</font>: I hack the computer.</i>
+
+935
+00:45:58,121 --> 00:45:59,452
+It's not technically hacking.
+
+936
+00:45:59,454 --> 00:46:01,488
+Not now. I just lost
+my train of thought.
+
+937
+00:46:01,490 --> 00:46:03,423
+<i><font color="#ff8000">Step Five</font>: Download
+the important stuff.</i>
+
+938
+00:46:03,425 --> 00:46:05,226
+<i>I'll know it when I see it.</i>
+
+939
+00:46:05,228 --> 00:46:08,095
+<i><font color="#ff8000">Step Six</font>: I grab a bagel
+from the cafeteria and run.</i>
+
+940
+00:46:08,097 --> 00:46:09,863
+So, what am I doing?
+
+941
+00:46:09,865 --> 00:46:12,999
+<font color="#ff8000">Step Seven</font>: You stay here.
+You're lookout. Very important.
+
+942
+00:46:13,001 --> 00:46:15,603
+Look, man. You gotta teach me
+how to do Spider-Man stuff
+
+943
+00:46:15,605 --> 00:46:17,204
+or I won't be able to help.
+
+944
+00:46:17,206 --> 00:46:18,539
+<font color="#ff00ff">[GRUNTS]</font>
+
+945
+00:46:18,541 --> 00:46:21,309
+Watch and learn, kid!
+I'll quiz ya later!
+
+946
+00:46:21,311 --> 00:46:24,010
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+947
+00:46:24,012 --> 00:46:25,345
+Why did I get stuck with
+
+948
+00:46:25,347 --> 00:46:27,581
+the janky, old, broke
+hobo Spider-Man?!
+
+949
+00:46:27,583 --> 00:46:29,115
+<font color="#ff00ff">[CRACKS]</font>
+
+950
+00:46:29,117 --> 00:46:30,985
+That's new.
+
+951
+00:46:30,987 --> 00:46:32,956
+<font color="#ff00ff">[VEHICLE APPROACHING]</font>
+
+952
+00:46:36,458 --> 00:46:38,394
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+953
+00:46:40,230 --> 00:46:41,298
+Kingpin.
+
+954
+00:46:43,365 --> 00:46:45,298
+<font color="#ff00ff">[PANTING]</font>
+
+955
+00:46:45,300 --> 00:46:47,001
+<i>What am I doing?
+What am I doing?</i>
+
+956
+00:46:47,003 --> 00:46:48,438
+<i>What am I doing?
+What am I doing?</i>
+
+957
+00:46:55,210 --> 00:46:57,478
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+958
+00:46:57,480 --> 00:46:58,981
+Whoa!
+<font color="#ff00ff">[CLATTERING]</font>
+
+959
+00:47:05,387 --> 00:47:07,054
+Peter!
+
+960
+00:47:07,056 --> 00:47:08,889
+Peter!
+
+961
+00:47:08,891 --> 00:47:10,258
+<font color="#ff00ff">[YELPS]</font>
+Peter!
+
+962
+00:47:10,260 --> 00:47:12,360
+What are you doing here?
+Kingpin's here.
+
+963
+00:47:12,362 --> 00:47:13,894
+Just move over.
+
+964
+00:47:13,896 --> 00:47:16,597
+You're steppin' on my foot.
+Go back outside.
+
+965
+00:47:16,599 --> 00:47:19,099
+No! I can't sit there
+and let Spider-Man die
+
+966
+00:47:19,101 --> 00:47:20,568
+without doing anything about it.
+
+967
+00:47:20,570 --> 00:47:23,070
+I'm not doing that again.
+
+968
+00:47:23,072 --> 00:47:24,671
+What?
+
+969
+00:47:24,673 --> 00:47:28,642
+Most people I meet
+in the workplace try to kill me,
+
+970
+00:47:28,644 --> 00:47:30,313
+so you're a nice change of pace.
+
+971
+00:47:31,581 --> 00:47:33,613
+Mr. Fisk!
+Look at this data.
+
+972
+00:47:33,615 --> 00:47:35,516
+I know you can't
+really understand it,
+
+973
+00:47:35,518 --> 00:47:37,186
+but these are
+really good numbers.
+
+974
+00:47:38,121 --> 00:47:40,021
+And I got the password.
+
+975
+00:47:40,023 --> 00:47:42,456
+Mr. Fisk.
+If we fire again this week
+
+976
+00:47:42,458 --> 00:47:45,092
+there could be a black hole
+under Brooklyn.
+
+977
+00:47:45,094 --> 00:47:46,626
+You see this? And this?
+
+978
+00:47:46,628 --> 00:47:48,262
+This is multiple dimensions
+
+979
+00:47:48,264 --> 00:47:50,498
+beginning to crash
+into each other.
+
+980
+00:47:50,500 --> 00:47:52,666
+This is pretty standard
+Spider-Man stakes.
+
+981
+00:47:52,668 --> 00:47:54,434
+You get used to it.
+Watch this.
+
+982
+00:47:54,436 --> 00:47:57,271
+He's gonna say,
+"You've got 24 hours."
+
+983
+00:47:57,273 --> 00:47:58,572
+You've got 24 hours.
+
+984
+00:47:58,574 --> 00:48:00,675
+What this means is there
+could be a rupture
+
+985
+00:48:00,677 --> 00:48:02,175
+in the space-time continuum.
+
+986
+00:48:02,177 --> 00:48:03,411
+Ooh. That's bad.
+
+987
+00:48:03,413 --> 00:48:05,012
+Actually, everything
+she said was bad.
+
+988
+00:48:05,014 --> 00:48:06,012
+I was lying before.
+
+989
+00:48:06,014 --> 00:48:07,951
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+990
+00:48:11,454 --> 00:48:12,485
+<font color="#ff00ff">[COMPUTER BEEPS ON]</font>
+
+991
+00:48:12,487 --> 00:48:14,554
+<font color="#ff00ff">[KEYBOARD CLACKING]</font>
+
+992
+00:48:14,556 --> 00:48:17,360
+<font color="#ff8000">SCIENTIST</font>: Hold on. Let
+me get you some more data.
+
+993
+00:48:19,228 --> 00:48:22,028
+What are you doing, bud?
+I can't move.
+
+994
+00:48:22,030 --> 00:48:23,530
+Okay, relax your fingers.
+
+995
+00:48:23,532 --> 00:48:26,566
+We don't have time.
+Just let go. Be in the moment.
+
+996
+00:48:26,568 --> 00:48:28,668
+I am in the moment.
+It's a terrible moment.
+
+997
+00:48:28,670 --> 00:48:31,338
+I'm not refusing.
+No more excuses.
+
+998
+00:48:31,340 --> 00:48:33,007
+I just need more time.
+
+999
+00:48:33,009 --> 00:48:35,108
+They're right there.
+They're gonna see you.
+
+1000
+00:48:35,110 --> 00:48:37,043
+Miles, you gotta unstick.
+
+1001
+00:48:37,045 --> 00:48:38,979
+What do you do to relax?
+
+1002
+00:48:38,981 --> 00:48:42,083
+Relax. Okay, okay, okay.
+
+1003
+00:48:42,085 --> 00:48:45,219
+<font color="#ff00ff">[FUMBLING LYRICS]</font>
+<i><font color="#ffff00">♪</font> Needless to say, I... ♪</i>
+
+1004
+00:48:45,221 --> 00:48:47,253
+Oh, for crying out loud.
+
+1005
+00:48:47,255 --> 00:48:50,023
+<i><font color="#ffff00">♪</font> Callin' it quits
+Now, baby, I'm a wreck <font color="#ffff00">♪</font></i>
+
+1006
+00:48:50,025 --> 00:48:51,525
+<font color="#ff00ff">[HUMMING]</font>
+
+1007
+00:48:51,527 --> 00:48:54,394
+<i><font color="#ffff00">♪</font> You're a wreck, ooh... ♪</i>
+
+1008
+00:48:54,396 --> 00:48:55,164
+<font color="#ff00ff">[YELLS]</font>
+
+1009
+00:48:56,666 --> 00:48:59,102
+<font color="#ff00ff">[SIGHS]</font>
+<font color="#ff8000">Teenagers</font>: Just the worst.
+
+1010
+00:49:01,471 --> 00:49:03,737
+Miles, where did you go?
+<font color="#ff8000">MILES</font>: I'm right here.
+
+1011
+00:49:03,739 --> 00:49:07,173
+Where? I can't see ya.
+I'm right in front of you.
+
+1012
+00:49:07,175 --> 00:49:09,709
+Can Spider-Man turn invisible?
+<font color="#ff8000">PETER 2</font>: Not in my universe.
+
+1013
+00:49:09,711 --> 00:49:11,612
+Aah! You just poked me
+in my eye!
+
+1014
+00:49:11,614 --> 00:49:14,382
+This is incredible. Some kind
+of fight or flight thing.
+
+1015
+00:49:14,384 --> 00:49:15,318
+<font color="#ff00ff">[DOOR CREAKS]</font>
+What's that?
+
+1016
+00:49:18,021 --> 00:49:20,653
+Remember this password.
+D-G-F-A-M-P-E-S-A-N-D...
+
+1017
+00:49:20,655 --> 00:49:21,655
+Slow down!
+
+1018
+00:49:21,657 --> 00:49:25,092
+4-$-3-5-8-7-6-5-3-4-5-4-5-3-5.
+
+1019
+00:49:25,094 --> 00:49:27,394
+I need to write it down!
+Download the schematic.
+
+1020
+00:49:27,396 --> 00:49:29,967
+<font color="#ff8000">MILES</font>: How do I do that?
+While I turn on the charm.
+
+1021
+00:49:32,034 --> 00:49:33,200
+Spider-Man?
+
+1022
+00:49:33,202 --> 00:49:35,802
+Oh, hey.
+Didn't see you there.
+
+1023
+00:49:35,804 --> 00:49:37,204
+Wow.
+<font color="#ff00ff">[GASPS]</font>
+
+1024
+00:49:37,206 --> 00:49:39,373
+Okay, I'm kinda
+freaking out right now.
+
+1025
+00:49:39,375 --> 00:49:41,208
+You're supposed to be dead.
+
+1026
+00:49:41,210 --> 00:49:44,512
+Surprise! Okay. That's a no-no.
+We don't like that.
+
+1027
+00:49:44,514 --> 00:49:46,280
+This is fascinating.
+
+1028
+00:49:46,282 --> 00:49:48,048
+Okay, that's my face.
+
+1029
+00:49:48,050 --> 00:49:50,284
+An entirely different
+Peter Parker.
+
+1030
+00:49:50,286 --> 00:49:53,119
+Little bit of a gut, perhaps
+from dimensional warping.
+
+1031
+00:49:53,121 --> 00:49:55,655
+Oh, yeah-yeah-yeah. I was way
+flatter before I warped.
+
+1032
+00:49:55,657 --> 00:49:57,525
+<font color="#ff00ff">[QUIETLY MUTTERING PASSWORD]</font>
+Travel through the multiverse
+
+1033
+00:49:57,527 --> 00:49:59,526
+appears to have
+deteriorated the...
+
+1034
+00:49:59,528 --> 00:50:01,597
+<font color="#ff8000">MILES</font>: What was the rest?!
+<font color="#ff00ff">[WHISTLES SOFTLY]</font>
+
+1035
+00:50:03,132 --> 00:50:04,597
+Hey, how old are you?
+
+1036
+00:50:04,599 --> 00:50:07,233
+'Cause you don't look
+a day over 35.
+
+1037
+00:50:07,235 --> 00:50:09,804
+<font color="#ff8000">SCIENTIST</font>: They said I was crazy!
+They said I was crazy!
+
+1038
+00:50:09,806 --> 00:50:11,704
+<font color="#ff8000">PETER 2</font>: You showed
+'em you're not crazy.
+
+1039
+00:50:11,706 --> 00:50:13,442
+This might pinch a little.
+<font color="#ff00ff">[GRUNTS]</font>
+
+1040
+00:50:14,844 --> 00:50:16,409
+<font color="#ff00ff">[WINCES]</font>
+
+1041
+00:50:16,411 --> 00:50:18,412
+I know. I just need
+to get these samples.
+
+1042
+00:50:18,414 --> 00:50:19,646
+Okay.
+
+1043
+00:50:19,648 --> 00:50:21,449
+<font color="#ff8000">MILES</font>: Organize
+your desktop, lady.
+
+1044
+00:50:21,451 --> 00:50:24,420
+Wow. Just complete
+cellular decay.
+
+1045
+00:50:25,621 --> 00:50:27,387
+I've never seen
+anything like this.
+
+1046
+00:50:27,389 --> 00:50:28,621
+What are you doing?
+
+1047
+00:50:28,623 --> 00:50:30,557
+<font color="#ff8000">MILES</font>: I'm just taking
+the whole thing.
+
+1048
+00:50:30,559 --> 00:50:32,358
+And obviously
+you've been glitching.
+
+1049
+00:50:32,360 --> 00:50:35,496
+"Glitchin'"? No.
+Why would you even say that?
+
+1050
+00:50:35,498 --> 00:50:37,430
+If you stay in this dimension
+too long,
+
+1051
+00:50:37,432 --> 00:50:39,099
+your body's gonna disintegrate.
+
+1052
+00:50:39,101 --> 00:50:41,101
+Do you know how painful
+that would be, Peter Parker?
+
+1053
+00:50:41,103 --> 00:50:42,103
+I don't know.
+
+1054
+00:50:42,105 --> 00:50:44,204
+You can't imagine.
+
+1055
+00:50:44,206 --> 00:50:46,240
+And I, for one,
+
+1056
+00:50:46,242 --> 00:50:48,045
+can't wait to watch.
+
+1057
+00:50:50,146 --> 00:50:51,545
+What did you say your name was?
+
+1058
+00:50:51,547 --> 00:50:53,416
+Dr. Olivia Octavius.
+
+1059
+00:50:54,382 --> 00:50:56,719
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1060
+00:51:00,322 --> 00:51:01,722
+<font color="#ff00ff">[GRUNTS]</font>
+
+1061
+00:51:01,724 --> 00:51:03,891
+Can I assume that your friends
+call you Doc Ock?
+
+1062
+00:51:03,893 --> 00:51:06,327
+My friends actually call me Liv.
+
+1063
+00:51:06,329 --> 00:51:08,762
+My enemies call me Doc Ock.
+
+1064
+00:51:08,764 --> 00:51:10,331
+I got this! Run!
+
+1065
+00:51:10,333 --> 00:51:12,398
+<font color="#ff8000">OLIVIA</font>: Who are you talking to?
+
+1066
+00:51:12,400 --> 00:51:14,267
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1067
+00:51:14,269 --> 00:51:17,271
+I got it!
+Oh, you "got it," Peter?
+
+1068
+00:51:17,273 --> 00:51:18,240
+<font color="#ff00ff">[YELPS]</font>
+
+1069
+00:51:19,275 --> 00:51:20,710
+I got it handled, buddy!
+
+1070
+00:51:22,577 --> 00:51:24,213
+Everything is fine!
+
+1071
+00:51:25,748 --> 00:51:26,813
+<font color="#ff00ff">[BOTH GRUNT]</font>
+
+1072
+00:51:26,815 --> 00:51:28,349
+<font color="#ff8000">PETER 2</font>: Okay, this is
+
+1073
+00:51:28,351 --> 00:51:30,351
+a little bit bad.
+<font color="#ff8000">OLIVIA</font>: You're chatty.
+
+1074
+00:51:30,353 --> 00:51:31,221
+Gotta go.
+
+1075
+00:51:33,922 --> 00:51:36,525
+This is the moment
+that I'm losin' the fight.
+
+1076
+00:51:38,693 --> 00:51:41,729
+Let me tell you the good news.
+We don't need the monitor.
+
+1077
+00:51:41,731 --> 00:51:44,231
+<font color="#ff00ff">[GRUNTS]</font>
+<font color="#ff8000">OLIVIA</font>: Peter!
+
+1078
+00:51:44,233 --> 00:51:47,901
+You didn't tell me
+you had an invisible friend!
+
+1079
+00:51:47,903 --> 00:51:49,836
+Could you give me that back,
+young man?
+
+1080
+00:51:49,838 --> 00:51:51,838
+Peter!
+
+1081
+00:51:51,840 --> 00:51:54,277
+It's proprietary.
+
+1082
+00:51:58,847 --> 00:52:00,648
+Oh.
+<font color="#ff00ff">[CHATTERING INDISTINCTLY]</font>
+
+1083
+00:52:00,650 --> 00:52:01,749
+This'd be a good time
+
+1084
+00:52:01,751 --> 00:52:03,416
+to turn invisible.
+Yep.
+
+1085
+00:52:03,418 --> 00:52:06,619
+Okay, not gonna turn invisible.
+Selecting a bagel.
+
+1086
+00:52:06,621 --> 00:52:08,322
+Act super normal.
+
+1087
+00:52:08,324 --> 00:52:09,456
+Spider-Man?
+
+1088
+00:52:09,458 --> 00:52:10,657
+You know, that's funny,
+
+1089
+00:52:10,659 --> 00:52:12,358
+I get that a lot.
+Hey.
+
+1090
+00:52:12,360 --> 00:52:14,595
+Spider-Man?
+Hey! Hands up!
+
+1091
+00:52:14,597 --> 00:52:15,896
+Now we do a switchy-switchy.
+
+1092
+00:52:15,898 --> 00:52:17,298
+<font color="#ff8000">WOMAN</font>: Get back here!
+
+1093
+00:52:17,300 --> 00:52:18,499
+Where do you think you're going?
+
+1094
+00:52:18,501 --> 00:52:20,534
+He took a bagel!
+Time to swing,
+
+1095
+00:52:20,536 --> 00:52:22,903
+just like I taught ya.
+When did you teach me that?
+
+1096
+00:52:22,905 --> 00:52:25,505
+I didn't. It's a little joke
+for team-building.
+
+1097
+00:52:25,507 --> 00:52:27,273
+Hey!
+
+1098
+00:52:27,275 --> 00:52:29,476
+All right, you ready?
+Of course I'm not ready!
+
+1099
+00:52:29,478 --> 00:52:31,345
+<font color="#ff00ff">[YELPS]</font>
+
+1100
+00:52:31,347 --> 00:52:32,713
+I can't do this yet!
+
+1101
+00:52:32,715 --> 00:52:34,782
+Everybody knows
+that the best way to learn
+
+1102
+00:52:34,784 --> 00:52:36,820
+is under intense
+life-threatening pressure.
+
+1103
+00:52:39,956 --> 00:52:41,791
+Come on, come on, come on.
+
+1104
+00:52:45,728 --> 00:52:47,297
+Uh-oh.
+
+1105
+00:52:48,764 --> 00:52:49,865
+<font color="#ff00ff">[EXCLAIMS]</font>
+
+1106
+00:52:50,632 --> 00:52:52,666
+<font color="#ff00ff">[PANTING]</font>
+
+1107
+00:52:52,668 --> 00:52:54,668
+<font color="#ff8000">PETER 2</font>: What are you
+doing down there?
+
+1108
+00:52:54,670 --> 00:52:56,570
+I run better than I swing.
+
+1109
+00:52:56,572 --> 00:52:59,673
+You gotta swing
+or they'll catch you.
+
+1110
+00:52:59,675 --> 00:53:01,941
+This is what you wanted.
+
+1111
+00:53:01,943 --> 00:53:03,445
+<font color="#ff00ff">[EXCLAIMS]</font>
+
+1112
+00:53:07,516 --> 00:53:08,918
+Uh-oh.
+
+1113
+00:53:13,722 --> 00:53:14,822
+<font color="#ff00ff">[GASPS]</font>
+
+1114
+00:53:14,824 --> 00:53:16,523
+<font color="#ff8000">OLIVIA</font>: Come back, little boy.
+
+1115
+00:53:16,525 --> 00:53:18,891
+Aim with your hips!
+Look where you want it to hit.
+
+1116
+00:53:18,893 --> 00:53:21,362
+Square your shoulders.
+Don't forget to follow through!
+
+1117
+00:53:21,364 --> 00:53:22,829
+Don't shoot off your back foot.
+
+1118
+00:53:22,831 --> 00:53:25,532
+That's too many things!
+Then stop listening to me!
+
+1119
+00:53:25,534 --> 00:53:28,605
+That's the best idea
+you've had all day!
+
+1120
+00:53:35,677 --> 00:53:38,214
+<font color="#ff8000">PETER 2</font>: Nice, Miles!
+
+1121
+00:53:41,416 --> 00:53:43,349
+<font color="#ff00ff">[MILES LAUGHS]</font>
+Good. You're doin' it.
+
+1122
+00:53:43,351 --> 00:53:45,952
+Double tap to release
+and thwip it out again.
+
+1123
+00:53:45,954 --> 00:53:47,820
+Thwip and release.
+
+1124
+00:53:47,822 --> 00:53:51,057
+And thwip. Release. Thwip.
+And release.
+
+1125
+00:53:51,059 --> 00:53:52,825
+You're a natural.
+Thwip. Release.
+
+1126
+00:53:52,827 --> 00:53:55,561
+Feel the rhythm?
+Thwip. And release!
+
+1127
+00:53:55,563 --> 00:53:56,764
+Good, Miles.
+
+1128
+00:53:56,766 --> 00:53:58,865
+I gotta say,
+you're amazing, man.
+
+1129
+00:53:58,867 --> 00:54:00,400
+We're a little team!
+
+1130
+00:54:00,402 --> 00:54:02,369
+Me as the teacher
+who could still do it.
+
+1131
+00:54:02,371 --> 00:54:05,405
+You as the student who can
+do it, just not as good.
+
+1132
+00:54:05,407 --> 00:54:08,244
+I'm proud of us. Is there
+something you want to say to me?
+
+1133
+00:54:10,378 --> 00:54:11,347
+Peter!
+
+1134
+00:54:18,954 --> 00:54:19,923
+<font color="#ff00ff">[BOTH EXCLAIM]</font>
+
+1135
+00:54:22,590 --> 00:54:23,824
+<font color="#ff00ff">[GRUNTS]</font>
+
+1136
+00:54:23,826 --> 00:54:25,559
+What the...?
+<font color="#ff8000">PETER 2</font>: Who did that?
+
+1137
+00:54:25,561 --> 00:54:27,497
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1138
+00:54:36,905 --> 00:54:37,840
+<font color="#ff00ff">[GASPS]</font>
+
+1139
+00:54:42,077 --> 00:54:43,045
+<font color="#ff00ff">[GRUNTS]</font>
+
+1140
+00:54:52,088 --> 00:54:53,454
+Hey, guys.
+
+1141
+00:54:53,456 --> 00:54:54,588
+Gwanda?
+
+1142
+00:54:54,590 --> 00:54:56,389
+It's Gwen, actually.
+
+1143
+00:54:56,391 --> 00:54:59,360
+Oh, you know her.
+Very cool.
+
+1144
+00:54:59,362 --> 00:55:01,128
+I'm from another dimension.
+
+1145
+00:55:01,130 --> 00:55:04,365
+I mean,
+another-another dimension.
+
+1146
+00:55:04,367 --> 00:55:07,034
+<font color="#ff8000">GWEN</font>: <i>All right, people. Let's start
+at the beginning one last time.</i>
+
+1147
+00:55:07,036 --> 00:55:08,769
+<i>My name is Gwen Stacy.</i>
+
+1148
+00:55:08,771 --> 00:55:11,604
+<i>I was bitten by
+a radioactive spider.</i>
+
+1149
+00:55:11,606 --> 00:55:13,407
+<i>And for the last two years,</i>
+
+1150
+00:55:13,409 --> 00:55:16,677
+<i>I've been the one
+and only Spider-Woman.</i>
+
+1151
+00:55:16,679 --> 00:55:18,612
+<i>You guys know the rest.</i>
+
+1152
+00:55:18,614 --> 00:55:20,083
+<i>I joined a band.</i>
+
+1153
+00:55:21,884 --> 00:55:23,586
+<i>Saved my dad.</i>
+
+1154
+00:55:24,552 --> 00:55:25,918
+<font color="#ff00ff">[ROARS]</font>
+
+1155
+00:55:25,920 --> 00:55:29,389
+<i>I couldn't save my best friend,</i>
+
+1156
+00:55:29,391 --> 00:55:30,859
+<i>Peter Parker,</i>
+
+1157
+00:55:32,561 --> 00:55:34,762
+<i>so now I save everyone else.</i>
+
+1158
+00:55:34,764 --> 00:55:37,697
+<i>And I don't do friends anymore,</i>
+
+1159
+00:55:37,699 --> 00:55:39,335
+<i>just to avoid any distractions.</i>
+
+1160
+00:55:40,835 --> 00:55:45,037
+<i>And one day
+this weird thing happened.</i>
+
+1161
+00:55:45,039 --> 00:55:48,110
+<i>And I mean, like, really weird.</i>
+
+1162
+00:55:53,715 --> 00:55:56,385
+<i>I was blown into last week.</i>
+
+1163
+00:55:59,889 --> 00:56:01,921
+<i>Literally.</i>
+
+1164
+00:56:01,923 --> 00:56:05,559
+<i>I landed in New York,
+but not my New York.</i>
+
+1165
+00:56:05,561 --> 00:56:06,860
+<font color="#ff00ff">[REPORTER SPEAKS
+INDISTINCTLY ON TV]</font>
+
+1166
+00:56:06,862 --> 00:56:08,528
+<font color="#ff8000">REPORTER</font>: <i>Lucky for these folks,</i>
+
+1167
+00:56:08,530 --> 00:56:10,798
+<i>Spider-Man was there
+to save the day.</i>
+
+1168
+00:56:10,800 --> 00:56:13,967
+<i>My Spider-sense told me
+to head to Visions Academy.</i>
+
+1169
+00:56:13,969 --> 00:56:15,969
+...you guys are early.
+
+1170
+00:56:15,971 --> 00:56:19,005
+<i>Wasn't sure why until I met you.</i>
+
+1171
+00:56:19,007 --> 00:56:19,942
+Oh!
+
+1172
+00:56:20,909 --> 00:56:22,175
+I like your haircut.
+
+1173
+00:56:22,177 --> 00:56:24,077
+You don't get to like
+my haircut.
+
+1174
+00:56:24,079 --> 00:56:25,579
+Let's go.
+
+1175
+00:56:25,581 --> 00:56:26,914
+How many more Spider-People
+are there?
+
+1176
+00:56:26,916 --> 00:56:28,081
+Save it for Comic-Con.
+
+1177
+00:56:28,083 --> 00:56:30,184
+What's Comic-Con?
+Whoa!
+
+1178
+00:56:30,186 --> 00:56:31,617
+<font color="#ff00ff">[WEAPONS FIRING]</font>
+
+1179
+00:56:31,619 --> 00:56:33,922
+<font color="#ff00ff">[BREATHING HEAVILY]</font>
+<font color="#ff00ff">[PEN CLICKING]</font>
+
+1180
+00:56:36,492 --> 00:56:38,428
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1181
+00:56:43,164 --> 00:56:45,101
+<font color="#ff00ff">[GRUNTING]</font>
+
+1182
+00:56:46,936 --> 00:56:48,735
+<font color="#ff8000">KINGPIN</font>:
+You're dead, Spider-Man.
+
+1183
+00:56:48,737 --> 00:56:50,938
+Wilson!
+What are you doing?
+
+1184
+00:56:50,940 --> 00:56:52,104
+Vanessa.
+
+1185
+00:56:52,106 --> 00:56:53,476
+Richard, come on.
+
+1186
+00:56:57,045 --> 00:56:58,912
+Vanessa! Richard!
+
+1187
+00:56:58,914 --> 00:57:00,546
+<i>No!</i>
+
+1188
+00:57:00,548 --> 00:57:03,115
+Don't look back, honey.
+It's okay. It's okay.
+
+1189
+00:57:03,117 --> 00:57:04,052
+<font color="#ff00ff">[HORN BLARES]</font>
+
+1190
+00:57:06,989 --> 00:57:08,824
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1191
+00:57:16,898 --> 00:57:18,999
+<font color="#ff00ff">[GRUNTS]</font>
+
+1192
+00:57:21,936 --> 00:57:23,903
+I killed Spider-Man.
+
+1193
+00:57:23,905 --> 00:57:25,972
+Why did I just see two more?
+
+1194
+00:57:25,974 --> 00:57:28,242
+There's three, actually.
+
+1195
+00:57:28,244 --> 00:57:31,278
+No, this is good.
+This is very, very good.
+
+1196
+00:57:31,280 --> 00:57:32,979
+This means
+you get what you want.
+
+1197
+00:57:32,981 --> 00:57:36,148
+It means my collider works.
+
+1198
+00:57:36,150 --> 00:57:39,619
+All we have to do is kill
+a couple of Spiders.
+
+1199
+00:57:39,621 --> 00:57:42,289
+And the collider will bring
+your family back.
+
+1200
+00:57:42,291 --> 00:57:44,894
+As many families as you want.
+
+1201
+00:57:53,869 --> 00:57:56,836
+Tomorrow, at my collider.
+
+1202
+00:57:56,838 --> 00:57:58,907
+Our collider.
+
+1203
+00:58:02,143 --> 00:58:03,677
+He broke this?
+
+1204
+00:58:03,679 --> 00:58:06,213
+Yeah. He's actually
+really embarrassed about it,
+
+1205
+00:58:06,215 --> 00:58:08,315
+<font color="#ff00ff">[WHISPERS]</font> so just keep
+it between us, okay?
+
+1206
+00:58:08,317 --> 00:58:09,715
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1207
+00:58:09,717 --> 00:58:11,552
+I know where we
+can make a new one.
+
+1208
+00:58:11,554 --> 00:58:13,753
+And we won't let him
+break it this time.
+
+1209
+00:58:13,755 --> 00:58:14,923
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1210
+00:58:16,559 --> 00:58:17,961
+I'm sorry about your friend.
+
+1211
+00:58:19,661 --> 00:58:20,860
+Thanks, Miles.
+
+1212
+00:58:20,862 --> 00:58:23,095
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1213
+00:58:23,097 --> 00:58:24,898
+I know how hard this is.
+
+1214
+00:58:24,900 --> 00:58:27,601
+To have to figure
+this stuff out on your own.
+
+1215
+00:58:27,603 --> 00:58:30,771
+It's kinda nice not being
+the only Spider-person around.
+
+1216
+00:58:30,773 --> 00:58:32,171
+Yeah.
+
+1217
+00:58:32,173 --> 00:58:33,606
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1218
+00:58:33,608 --> 00:58:36,008
+If you ever decide
+to do friends again,
+
+1219
+00:58:36,010 --> 00:58:37,746
+I could always open up a slot.
+
+1220
+00:58:39,114 --> 00:58:41,914
+I'll keep you posted.
+
+1221
+00:58:41,916 --> 00:58:43,952
+<font color="#ff8000">MILES</font>: Cool.
+
+1222
+00:58:45,920 --> 00:58:47,789
+<font color="#ff00ff">[DOORBELL RINGS]</font>
+<font color="#ff00ff">[SIGHS]</font>
+
+1223
+00:58:48,791 --> 00:58:50,590
+We should probably go.
+
+1224
+00:58:50,592 --> 00:58:52,925
+<font color="#ff8000">GWEN</font>: Peter, we're
+literally on the doorstep.
+
+1225
+00:58:52,927 --> 00:58:54,827
+<font color="#ff8000">PETER 2</font>: Bad idea.
+This is a bad idea.
+
+1226
+00:58:54,829 --> 00:58:56,362
+<font color="#ff8000">GWEN</font>: Just relax.
+<font color="#ff00ff">[PETER 2 GRUNTS]</font>
+
+1227
+00:58:56,364 --> 00:58:58,164
+<font color="#ff8000">WOMAN</font>: You guys are
+all very sweet,
+
+1228
+00:58:58,166 --> 00:59:00,633
+but no more fans today, please.
+
+1229
+00:59:00,635 --> 00:59:02,038
+<font color="#ff00ff">[DOOR CREAKING]</font>
+
+1230
+00:59:03,972 --> 00:59:05,639
+I'm not ready for this.
+
+1231
+00:59:05,641 --> 00:59:07,577
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1232
+00:59:10,311 --> 00:59:11,880
+Peter?
+
+1233
+00:59:13,748 --> 00:59:15,749
+Hey, Aunt May.
+
+1234
+00:59:15,751 --> 00:59:17,784
+So this is gonna sound crazy,
+
+1235
+00:59:17,786 --> 00:59:20,253
+but I'm pretty sure
+that I'm from an...
+
+1236
+00:59:20,255 --> 00:59:22,255
+An alternate dimension.
+
+1237
+00:59:22,257 --> 00:59:23,559
+Yeah.
+
+1238
+00:59:24,860 --> 00:59:26,927
+You look tired, Peter.
+
+1239
+00:59:26,929 --> 00:59:29,128
+Well, I am tired.
+
+1240
+00:59:29,130 --> 00:59:32,298
+And older. And thicker.
+Yeah. I've heard that already.
+
+1241
+00:59:32,300 --> 00:59:34,834
+Oh, jeez.
+Are those sweatpants?
+
+1242
+00:59:34,836 --> 00:59:37,070
+Yup, that's what they are.
+
+1243
+00:59:37,072 --> 00:59:38,972
+I was there,
+
+1244
+00:59:38,974 --> 00:59:41,340
+when it all happened.
+
+1245
+00:59:41,342 --> 00:59:43,409
+I am so sorry.
+
+1246
+00:59:43,411 --> 00:59:45,679
+And what dimension are you from?
+
+1247
+00:59:45,681 --> 00:59:47,748
+Brooklyn.
+
+1248
+00:59:47,750 --> 00:59:51,017
+Did Peter have a place where we
+could make another one of these?
+
+1249
+00:59:51,019 --> 00:59:52,822
+<font color="#ff8000">MAY</font>: A goober.
+
+1250
+00:59:54,088 --> 00:59:55,287
+Follow me.
+
+1251
+00:59:55,289 --> 00:59:56,992
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1252
+00:59:58,427 --> 01:00:00,693
+<font color="#ff8000">PETER 2</font>: Oh, yeah,
+I got one of these, too.
+
+1253
+01:00:00,695 --> 01:00:02,963
+A little, old shed
+where I keep my Spider-gear.
+
+1254
+01:00:02,965 --> 01:00:04,767
+<font color="#ff00ff">[WHIRRING]</font>
+
+1255
+01:00:15,376 --> 01:00:17,346
+I mean,
+this place is pretentious.
+
+1256
+01:00:24,452 --> 01:00:26,221
+Whoa.
+
+1257
+01:00:30,858 --> 01:00:32,758
+Dude. Was yours
+anything like this?
+
+1258
+01:00:32,760 --> 01:00:34,061
+Mine was like this,
+
+1259
+01:00:34,063 --> 01:00:36,128
+but take away the jeep,
+the plane.
+
+1260
+01:00:36,130 --> 01:00:39,932
+Imagine it way smaller.
+Imagine a futon.
+
+1261
+01:00:39,934 --> 01:00:42,304
+I feel sad for this guy.
+
+1262
+01:00:56,284 --> 01:00:57,386
+<font color="#ff00ff">[WHISPERS]</font>
+Hey, Peter.
+
+1263
+01:00:58,721 --> 01:01:00,887
+I think this is a cape.
+
+1264
+01:01:00,889 --> 01:01:02,392
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1265
+01:01:16,472 --> 01:01:20,440
+Peter knew
+how dangerous the job was.
+
+1266
+01:01:20,442 --> 01:01:23,209
+But he figured the only one
+who could stop this guy
+
+1267
+01:01:23,211 --> 01:01:24,947
+was Spider-Man.
+
+1268
+01:01:26,414 --> 01:01:28,380
+Kingpin knows we're coming.
+
+1269
+01:01:28,382 --> 01:01:30,349
+We're going to be outnumbered.
+
+1270
+01:01:30,351 --> 01:01:32,753
+Don't be so sure.
+
+1271
+01:01:32,755 --> 01:01:34,791
+You might need these.
+
+1272
+01:01:37,793 --> 01:01:39,391
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1273
+01:01:39,393 --> 01:01:42,297
+You think you're the only people
+who thought to come here?
+
+1274
+01:01:44,833 --> 01:01:46,298
+Hey, fellas.
+
+1275
+01:01:46,300 --> 01:01:48,001
+Is he in black and white?
+
+1276
+01:01:48,003 --> 01:01:50,403
+Where's that wind coming from?
+We're in a basement.
+
+1277
+01:01:50,405 --> 01:01:52,204
+Wherever I go, the wind follows.
+
+1278
+01:01:52,206 --> 01:01:55,077
+And the wind,
+it smells like rain.
+
+1279
+01:01:56,177 --> 01:01:57,177
+Hi, guys!
+
+1280
+01:01:57,179 --> 01:01:58,947
+<font color="#ff00ff">[SPEAKING IN JAPANESE]</font>
+
+1281
+01:02:02,317 --> 01:02:04,784
+This could literally not
+get any weirder.
+
+1282
+01:02:04,786 --> 01:02:07,554
+It <i>can</i> get weirder.
+
+1283
+01:02:07,556 --> 01:02:10,860
+I just washed my hands.
+That's why they're wet.
+
+1284
+01:02:11,460 --> 01:02:12,929
+No other reason.
+
+1285
+01:02:14,797 --> 01:02:16,733
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1286
+01:02:19,067 --> 01:02:20,432
+<font color="#ff00ff">[GASPS]</font>
+
+1287
+01:02:20,434 --> 01:02:22,270
+<font color="#ff8000">ALL</font>: You're like me.
+
+1288
+01:02:25,239 --> 01:02:26,472
+<font color="#ff8000">PETER NOIR</font>: <i>My name
+is Peter Parker.</i>
+
+1289
+01:02:26,474 --> 01:02:28,141
+<font color="#ff8000">PENI</font>: <i>My name is Peni Parker.</i>
+
+1290
+01:02:28,143 --> 01:02:30,142
+<font color="#ff8000">PORKER</font>: <i>My name is Peter Porker.</i>
+
+1291
+01:02:30,144 --> 01:02:31,912
+<font color="#ff8000">PETER NOIR & PENI</font>: <i>I was
+bitten by a radioactive spider.</i>
+
+1292
+01:02:31,914 --> 01:02:33,313
+<font color="#ff8000">PORKER</font>: <i>I was bitten
+by a radioactive pig.</i>
+
+1293
+01:02:33,315 --> 01:02:35,481
+<font color="#ff8000">PETER NOIR</font>: <i>In my
+universe, it's 1933,</i>
+
+1294
+01:02:35,483 --> 01:02:37,083
+<i>and I'm a private eye.</i>
+
+1295
+01:02:37,085 --> 01:02:38,418
+<i>I like to drink egg creams,</i>
+
+1296
+01:02:38,420 --> 01:02:40,854
+<i>and I like to fight Nazis.
+A lot.</i>
+
+1297
+01:02:40,856 --> 01:02:42,988
+<font color="#ff8000">PENI</font>: <i>I'm from New
+York in the year 3145.</i>
+
+1298
+01:02:42,990 --> 01:02:44,590
+<i>I have a psychic link
+with a spider</i>
+
+1299
+01:02:44,592 --> 01:02:46,392
+<i>who lives inside
+my father's robot.</i>
+
+1300
+01:02:46,394 --> 01:02:49,028
+<i>And we're best friends.
+Forever.</i>
+
+1301
+01:02:49,030 --> 01:02:51,097
+<font color="#ff8000">PETER NOIR</font>: <i>Sometimes I let
+matches burn down to my fingertips</i>
+
+1302
+01:02:51,099 --> 01:02:52,465
+<i>just to feel something,
+anything.</i>
+
+1303
+01:02:52,467 --> 01:02:53,833
+<font color="#ff00ff">[GROANS]</font>
+
+1304
+01:02:53,835 --> 01:02:54,867
+<font color="#ff8000">PORKER</font>: <i>I'm a photographer</i>
+
+1305
+01:02:54,869 --> 01:02:55,969
+<i>for the</i> Daily Beagle.
+
+1306
+01:02:55,971 --> 01:02:57,070
+<i>When I'm not pooching around,</i>
+
+1307
+01:02:57,072 --> 01:02:58,505
+<i>I'm working like a dog,</i>
+
+1308
+01:02:58,507 --> 01:02:59,840
+<i>trying to sniff out
+the latest story.</i>
+
+1309
+01:02:59,842 --> 01:03:00,974
+<i><font color="#ffff00">♪</font> I frolic and I dance ♪</i>
+
+1310
+01:03:00,976 --> 01:03:02,008
+<i><font color="#ffff00">♪</font> And I do this
+With my pants <font color="#ffff00">♪</font></i>
+
+1311
+01:03:02,010 --> 01:03:03,610
+Okay! Enough!
+
+1312
+01:03:03,612 --> 01:03:06,880
+So how did you get here?
+
+1313
+01:03:06,882 --> 01:03:09,050
+Well, it's kind of a long story.
+
+1314
+01:03:13,922 --> 01:03:15,354
+Maybe not that long.
+
+1315
+01:03:15,356 --> 01:03:18,458
+And now we're just trying
+to find a way home.
+
+1316
+01:03:18,460 --> 01:03:20,293
+<font color="#ff00ff">[BEEPS SADLY]</font>
+
+1317
+01:03:20,295 --> 01:03:23,028
+The only way home is back
+through that collider gizmo.
+
+1318
+01:03:23,030 --> 01:03:24,363
+The only trouble is...
+
+1319
+01:03:24,365 --> 01:03:27,601
+One of us has to stay behind
+and destroy it.
+
+1320
+01:03:27,603 --> 01:03:29,034
+I'll do it. I'll do it.
+I'll do it.
+
+1321
+01:03:29,036 --> 01:03:31,438
+No, no, no.
+You guys don't get it.
+
+1322
+01:03:31,440 --> 01:03:33,242
+Don't get what?
+
+1323
+01:03:37,880 --> 01:03:41,280
+None of you can stay here.
+If you stay here, you'll die.
+
+1324
+01:03:41,282 --> 01:03:43,516
+I'm the guy
+who's gonna turn it off.
+
+1325
+01:03:43,518 --> 01:03:47,354
+And I'm gonna get you all home
+before I do.
+
+1326
+01:03:47,356 --> 01:03:51,394
+Look, I made a promise.
+So I have to keep it.
+
+1327
+01:03:56,297 --> 01:03:57,496
+Who are you again?
+
+1328
+01:03:57,498 --> 01:03:58,898
+This is Miles.
+
+1329
+01:03:58,900 --> 01:04:00,467
+And he's gonna save
+the multiverse.
+
+1330
+01:04:00,469 --> 01:04:01,934
+Yeah, man.
+
+1331
+01:04:01,936 --> 01:04:03,536
+This kid can turn himself
+invisible.
+
+1332
+01:04:03,538 --> 01:04:05,070
+Watch this.
+He can do it now.
+
+1333
+01:04:05,072 --> 01:04:07,539
+<font color="#ff00ff">[GRUNTS]</font>
+
+1334
+01:04:07,541 --> 01:04:10,644
+I can't do it on command.
+He can't do it on command.
+
+1335
+01:04:10,646 --> 01:04:13,412
+But it is cool. Show 'em
+the zappy thing, Miles.
+
+1336
+01:04:13,414 --> 01:04:15,215
+<font color="#ff00ff">[GRUNTS]</font>
+
+1337
+01:04:15,217 --> 01:04:18,517
+Can't do it on command.
+He can't do it on command.
+
+1338
+01:04:18,519 --> 01:04:21,054
+But he can do so much more.
+What else do you do?
+
+1339
+01:04:21,056 --> 01:04:23,956
+Just those two things.
+Just those two things.
+
+1340
+01:04:23,958 --> 01:04:25,458
+Aw, man.
+
+1341
+01:04:25,460 --> 01:04:30,066
+Look, I've seen him in action.
+He's got potential.
+
+1342
+01:04:31,233 --> 01:04:33,436
+I think he's gonna get us home.
+
+1343
+01:04:35,269 --> 01:04:36,635
+Okay, little fella,
+
+1344
+01:04:36,637 --> 01:04:38,972
+Kingpin's gonna send
+a lot of mugs after ya.
+
+1345
+01:04:38,974 --> 01:04:41,074
+I'm talkin' hard boys,
+real biscuit boxers.
+
+1346
+01:04:41,076 --> 01:04:42,976
+Can you fight them
+all off at once?
+
+1347
+01:04:42,978 --> 01:04:45,244
+I haven't actually
+fought anyone.
+
+1348
+01:04:45,246 --> 01:04:46,382
+Surprise attack!
+
+1349
+01:04:48,115 --> 01:04:50,383
+Can you rewire a mainframe
+while being shot at?
+
+1350
+01:04:50,385 --> 01:04:51,450
+Can I what?
+Show me!
+
+1351
+01:04:51,452 --> 01:04:53,286
+Surprise attack!
+<font color="#ff00ff">[GRUNTS]</font>
+
+1352
+01:04:53,288 --> 01:04:55,121
+Can you swing and flip with
+the grace of a trained dancer?
+
+1353
+01:04:55,123 --> 01:04:57,090
+Can you close off your feelings
+so you don't get crippled
+
+1354
+01:04:57,092 --> 01:04:58,992
+by the moral ambiguity
+of your violent actions?
+
+1355
+01:04:58,994 --> 01:05:01,126
+Can you help your aunt create
+an online dating profile
+
+1356
+01:05:01,128 --> 01:05:03,128
+so she can get out of
+the dang house once in a while?
+
+1357
+01:05:03,130 --> 01:05:06,398
+Can you float through the air
+when you smell a delicious pie?
+
+1358
+01:05:06,400 --> 01:05:07,733
+Can you be strong?
+Ruthless?
+
+1359
+01:05:07,735 --> 01:05:09,501
+Disciplined?
+I don't know. Maybe.
+
+1360
+01:05:09,503 --> 01:05:11,371
+Psychic?
+Show me some moxie, soldier!
+
+1361
+01:05:11,373 --> 01:05:14,273
+Above all, no matter
+how many times you get hit,
+
+1362
+01:05:14,275 --> 01:05:15,708
+can you get back up?
+<font color="#ff00ff">[EXCLAIMS]</font>
+
+1363
+01:05:15,710 --> 01:05:17,677
+'Cause when a Spider-Man
+is on the floor...
+
+1364
+01:05:17,679 --> 01:05:19,579
+When you think
+you can't keep goin'...
+
+1365
+01:05:19,581 --> 01:05:21,613
+Come on, Miles.
+Come on. You can do it.
+
+1366
+01:05:21,615 --> 01:05:23,682
+You can do this.
+Guys, cool it.
+
+1367
+01:05:23,684 --> 01:05:26,619
+Come on. You can do it!
+Get up, Miles.
+
+1368
+01:05:26,621 --> 01:05:28,657
+Come on, Miles. Get up.
+
+1369
+01:05:35,197 --> 01:05:37,463
+You need to be more honest
+with yourself about this.
+
+1370
+01:05:37,465 --> 01:05:38,697
+He's not ready.
+It's obvious.
+
+1371
+01:05:38,699 --> 01:05:40,367
+There's no way.
+He's just a kid.
+
+1372
+01:05:40,369 --> 01:05:41,568
+<font color="#ff8000">GWEN</font>: If he can't do this,
+
+1373
+01:05:41,570 --> 01:05:43,302
+we have to stay
+and do it for him.
+
+1374
+01:05:43,304 --> 01:05:46,139
+He's looking right at us
+while we talk about him.
+
+1375
+01:05:46,141 --> 01:05:47,574
+Miles?
+
+1376
+01:05:47,576 --> 01:05:48,608
+Miles?
+
+1377
+01:05:48,610 --> 01:05:51,543
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1378
+01:05:51,545 --> 01:05:54,780
+You see that? He can, um...
+
+1379
+01:05:54,782 --> 01:05:57,117
+He can turn invisible.
+
+1380
+01:05:57,119 --> 01:05:59,452
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1381
+01:05:59,454 --> 01:06:03,188
+<i><font color="#ffff00">♪</font> When it gets dark
+Outside ♪</i>
+
+1382
+01:06:03,190 --> 01:06:06,226
+<i><font color="#ffff00">♪</font> In you I confide ♪</i>
+
+1383
+01:06:06,228 --> 01:06:10,195
+<i><font color="#ffff00">♪</font> You help me face my demons
+I won't hide... <font color="#ffff00">♪</font></i>
+
+1384
+01:06:10,197 --> 01:06:12,298
+<font color="#ff8000">JEFFERSON</font>: <i>Miles, what
+is going on with you?</i>
+
+1385
+01:06:12,300 --> 01:06:15,101
+<i>Nobody's heard from you.
+We don't know what's going on.</i>
+
+1386
+01:06:15,103 --> 01:06:18,037
+<i>If you're hidin' something from
+us, you need to come clean.</i>
+
+1387
+01:06:18,039 --> 01:06:19,442
+<i>You call me back. Now.</i>
+
+1388
+01:06:21,409 --> 01:06:23,578
+He's not answering me either.
+
+1389
+01:06:26,213 --> 01:06:29,182
+<font color="#ff8000">AARON</font>: <font color="#ff00ff">[ON VOICE MAIL]</font> <i>It's Aaron.
+I'm outta town for a few days.</i>
+
+1390
+01:06:29,184 --> 01:06:30,717
+<i>I'll hit you when I'm back.
+Peace.</i>
+
+1391
+01:06:30,719 --> 01:06:33,219
+Aaron, it's Jeff.
+
+1392
+01:06:33,221 --> 01:06:36,289
+Look, I need you to call me
+if you've heard from Miles.
+
+1393
+01:06:36,291 --> 01:06:38,490
+<i>He has a...</i>
+
+1394
+01:06:38,492 --> 01:06:41,029
+<i>He has a soft spot for you,</i>
+
+1395
+01:06:42,197 --> 01:06:44,130
+and we haven't heard from him.
+
+1396
+01:06:44,132 --> 01:06:47,666
+And you know I wouldn't reach
+out if this wasn't important.
+
+1397
+01:06:47,668 --> 01:06:49,501
+Hope you're good.
+
+1398
+01:06:49,503 --> 01:06:51,170
+<font color="#ff00ff">[SIGHS]</font>
+
+1399
+01:06:51,172 --> 01:06:53,072
+<font color="#ff8000">MILES</font>: <i>Dear Uncle Aaron.</i>
+
+1400
+01:06:53,074 --> 01:06:56,311
+<i>I gotta do something, and
+I don't know if I can do it.</i>
+
+1401
+01:06:58,246 --> 01:07:00,746
+<i>I'm scared, man.</i>
+
+1402
+01:07:00,748 --> 01:07:05,020
+<i>I'm just tired of
+lettin' everybody down.</i>
+
+1403
+01:07:08,322 --> 01:07:10,393
+<i>You're the only one
+I can talk to.</i>
+
+1404
+01:07:12,226 --> 01:07:14,429
+<i>I just wish you were here.</i>
+<font color="#ff00ff">[FIRE ESCAPE CLANKS]</font>
+
+1405
+01:07:24,206 --> 01:07:25,173
+<font color="#ff00ff">[GASPS]</font>
+
+1406
+01:07:42,456 --> 01:07:44,460
+<font color="#ff00ff">[BREATHING HEAVILY]</font>
+
+1407
+01:07:58,739 --> 01:08:00,675
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1408
+01:08:08,349 --> 01:08:09,516
+<font color="#ff00ff">[PHONE VIBRATES]</font>
+
+1409
+01:08:09,518 --> 01:08:11,316
+Hello, Mr. Fisk.
+
+1410
+01:08:11,318 --> 01:08:14,487
+I've got the security tapes
+from the tunnel right here.
+
+1411
+01:08:14,489 --> 01:08:17,592
+If the kid's out there,
+I'll find him.
+
+1412
+01:08:19,493 --> 01:08:22,195
+You know me, sir.
+I don't ever quit.
+
+1413
+01:08:22,197 --> 01:08:23,263
+<font color="#ff00ff">[PANTING]</font>
+
+1414
+01:08:23,265 --> 01:08:25,201
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1415
+01:08:52,226 --> 01:08:53,194
+<font color="#ff00ff">[GRUNTS]</font>
+
+1416
+01:09:08,342 --> 01:09:09,310
+<font color="#ff00ff">[TIRES SQUEAL]</font>
+
+1417
+01:09:10,979 --> 01:09:12,548
+<font color="#ff00ff">[ENGINE REVVING]</font>
+
+1418
+01:09:14,416 --> 01:09:15,650
+<font color="#ff00ff">[YELPS]</font>
+
+1419
+01:09:41,775 --> 01:09:43,711
+<font color="#ff00ff">[PANTING]</font>
+
+1420
+01:09:50,784 --> 01:09:52,720
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1421
+01:09:54,655 --> 01:09:56,888
+<i><font color="#ffff00">♪</font> Personal insanity
+They gotta like the ally <font color="#ffff00">♪</font></i>
+
+1422
+01:09:56,890 --> 01:09:58,657
+<i><font color="#ffff00">♪</font> Turn it up
+Against the rally <font color="#ffff00">♪</font></i>
+
+1423
+01:09:58,659 --> 01:10:00,692
+<i><font color="#ffff00">♪</font> You're running in
+While they're counting <font color="#ffff00">♪</font></i>
+
+1424
+01:10:00,694 --> 01:10:02,428
+<i><font color="#ffff00">♪</font> Even score, got the tally
+Knock 'em off at the finale <font color="#ffff00">♪</font></i>
+
+1425
+01:10:02,430 --> 01:10:04,567
+<i><font color="#ffff00">♪</font> Go, go!
+They don't want it, yeah <font color="#ffff00">♪</font></i>
+
+1426
+01:10:07,435 --> 01:10:09,305
+<i><font color="#ffff00">♪</font> They don't want it, yeah ♪</i>
+
+1427
+01:10:10,337 --> 01:10:12,405
+This is...
+
+1428
+01:10:12,407 --> 01:10:14,339
+Purple.
+No.
+
+1429
+01:10:14,341 --> 01:10:15,540
+Blue?
+No.
+
+1430
+01:10:15,542 --> 01:10:17,277
+Has anyone heard from Miles?
+
+1431
+01:10:17,279 --> 01:10:19,646
+Look, he's just clearing
+his head. I know the kid.
+
+1432
+01:10:19,648 --> 01:10:21,513
+He's got what it takes.
+
+1433
+01:10:21,515 --> 01:10:24,284
+I bet you he's gonna come back
+through that door,
+
+1434
+01:10:24,286 --> 01:10:26,318
+recharged and ready to fight.
+
+1435
+01:10:26,320 --> 01:10:27,986
+My uncle.
+Hey, where have you been?
+
+1436
+01:10:27,988 --> 01:10:30,455
+My uncle Aaron,
+he's the Prowler.
+
+1437
+01:10:30,457 --> 01:10:32,392
+Slow down, Miles.
+He works for Kingpin.
+
+1438
+01:10:32,394 --> 01:10:33,992
+He tried to kill me!
+
+1439
+01:10:33,994 --> 01:10:35,794
+<font color="#ff8000">PETER NOIR</font>: This is a pretty
+hard-core origin story.
+
+1440
+01:10:35,796 --> 01:10:37,863
+It's okay.
+We're gonna figure it out.
+
+1441
+01:10:37,865 --> 01:10:40,903
+Were you followed?
+No, I don't think so.
+
+1442
+01:10:42,369 --> 01:10:43,905
+<font color="#ff00ff">[DOORKNOB RATTLES]</font>
+
+1443
+01:10:46,541 --> 01:10:47,740
+<font color="#ff00ff">[DOORBELL RINGS]</font>
+
+1444
+01:10:47,742 --> 01:10:49,709
+<font color="#ff00ff">[PETER GRUNTS, AUNT MAY GASPS]</font>
+
+1445
+01:10:49,711 --> 01:10:53,579
+Cute place. Real homey.
+Oh, great. It's Liv.
+
+1446
+01:10:53,581 --> 01:10:55,615
+I guess I was followed.
+
+1447
+01:10:55,617 --> 01:10:56,782
+Oh, no.
+
+1448
+01:10:56,784 --> 01:10:58,483
+Get out of here, kid.
+
+1449
+01:10:58,485 --> 01:11:02,854
+You messed up bigtime, kid.
+Very sloppy.
+
+1450
+01:11:02,856 --> 01:11:04,956
+<font color="#ff00ff">[SPEAKS IN SPANISH]</font>
+
+1451
+01:11:04,958 --> 01:11:08,093
+Let me guess. You're Scorpion.
+Well, we're the Spider gang.
+
+1452
+01:11:08,095 --> 01:11:10,362
+Would you mind
+taking this outside?
+
+1453
+01:11:10,364 --> 01:11:13,398
+We don't pick the ballroom,
+we just dance.
+
+1454
+01:11:13,400 --> 01:11:15,037
+Ooh, I think
+I'll be taking that.
+
+1455
+01:11:16,104 --> 01:11:17,273
+<font color="#ff00ff">[GRUNTS]</font>
+
+1456
+01:11:19,606 --> 01:11:22,810
+Stand, <i>niñito, dale.
+Prepárate a morir.</i>
+
+1457
+01:11:23,744 --> 01:11:25,010
+Man, stupid pillows.
+
+1458
+01:11:25,012 --> 01:11:25,980
+<font color="#ff00ff">[GRUNTS]</font>
+
+1459
+01:11:27,948 --> 01:11:29,884
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1460
+01:11:37,458 --> 01:11:40,395
+<font color="#ff00ff">[ALL GRUNTING]</font>
+
+1461
+01:11:43,631 --> 01:11:46,132
+I said, take it outside!
+
+1462
+01:11:46,134 --> 01:11:47,536
+I got it!
+
+1463
+01:11:59,546 --> 01:12:02,083
+I got this, buddy.
+Leave the kid alone!
+
+1464
+01:12:05,686 --> 01:12:06,822
+No, no, no! No!
+
+1465
+01:12:16,698 --> 01:12:18,334
+You gotta go, man.
+
+1466
+01:12:27,841 --> 01:12:29,942
+<font color="#ff8000">DISPATCHER</font>: <i>All vehicles in
+the area, we have a disturbance</i>
+
+1467
+01:12:29,944 --> 01:12:32,512
+<i>involving multiple Spiderpeople?</i>
+
+1468
+01:12:32,514 --> 01:12:33,780
+Yeah. On my way.
+
+1469
+01:12:33,782 --> 01:12:35,951
+<font color="#ff00ff">[SIREN WAILS, TIRES SQUEAL]</font>
+
+1470
+01:12:37,618 --> 01:12:39,554
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1471
+01:12:43,591 --> 01:12:45,023
+<font color="#ff8000">PROWLER</font>: Give me that thing.
+
+1472
+01:12:45,025 --> 01:12:48,363
+Don't be stupid, kid.
+Hand it over, now!
+
+1473
+01:12:53,534 --> 01:12:55,034
+<font color="#ff00ff">[PANTING]</font>
+
+1474
+01:12:55,036 --> 01:12:56,538
+<font color="#ff00ff">[GRUNTING]</font>
+
+1475
+01:13:06,448 --> 01:13:08,717
+Nowhere left to run.
+
+1476
+01:13:13,688 --> 01:13:15,620
+Miles?
+
+1477
+01:13:15,622 --> 01:13:16,724
+<font color="#ff00ff">[WHISPERS]</font>
+Uncle Aaron.
+
+1478
+01:13:19,092 --> 01:13:21,529
+Oh, no, no, no, no, no.
+
+1479
+01:13:26,533 --> 01:13:28,836
+Please, Uncle Aaron.
+
+1480
+01:13:31,738 --> 01:13:33,138
+<font color="#ff8000">KINGPIN</font>: <i>Prowler.</i>
+
+1481
+01:13:33,140 --> 01:13:35,844
+What are you waitin' for?
+Finish it.
+
+1482
+01:13:45,653 --> 01:13:47,756
+<font color="#ff00ff">[SHUDDERING BREATHS]</font>
+
+1483
+01:13:48,922 --> 01:13:50,623
+<font color="#ff00ff">[GUNSHOT]</font>
+
+1484
+01:13:50,625 --> 01:13:52,692
+<font color="#ff00ff">[AARON GROANS WEAKLY]</font>
+
+1485
+01:13:52,694 --> 01:13:53,996
+<font color="#ff00ff">[GASPING]</font>
+
+1486
+01:13:56,797 --> 01:13:58,032
+<font color="#ff00ff">[PANTING]</font>
+
+1487
+01:13:59,868 --> 01:14:01,133
+<font color="#ff00ff">[COCKS GUN]</font>
+
+1488
+01:14:01,135 --> 01:14:02,104
+<font color="#ff00ff">[GROANS]</font>
+
+1489
+01:14:03,270 --> 01:14:04,907
+Get out of here!
+
+1490
+01:14:05,672 --> 01:14:07,208
+<font color="#ff00ff">[GASPING]</font>
+
+1491
+01:14:08,141 --> 01:14:09,177
+<font color="#ff00ff">[GRUNTS]</font>
+
+1492
+01:14:10,278 --> 01:14:12,277
+<font color="#ff00ff">[SIRENS WAILING]</font>
+
+1493
+01:14:12,279 --> 01:14:13,981
+<font color="#ff00ff">[THUMPS ON ROOF]</font>
+
+1494
+01:14:17,185 --> 01:14:20,022
+<font color="#ff00ff">[BOTH PANTING]</font>
+
+1495
+01:14:23,524 --> 01:14:24,557
+<font color="#ff00ff">[GROANS]</font>
+
+1496
+01:14:24,559 --> 01:14:25,724
+<font color="#ff00ff">[SHUDDERING]</font>
+
+1497
+01:14:25,726 --> 01:14:26,662
+No.
+
+1498
+01:14:27,729 --> 01:14:28,995
+Miles.
+
+1499
+01:14:28,997 --> 01:14:31,731
+Uncle Aaron.
+
+1500
+01:14:31,733 --> 01:14:33,633
+This is my fault.
+
+1501
+01:14:33,635 --> 01:14:35,570
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1502
+01:14:38,273 --> 01:14:40,175
+No, Miles.
+
+1503
+01:14:41,242 --> 01:14:42,177
+I'm sorry.
+
+1504
+01:14:45,813 --> 01:14:48,016
+I wanted you to look up to me.
+
+1505
+01:14:49,551 --> 01:14:52,621
+I let you down, man.
+I let you down.
+
+1506
+01:14:56,157 --> 01:14:59,224
+You're the best
+of all of us, Miles.
+
+1507
+01:14:59,226 --> 01:15:01,229
+You're on your way.
+
+1508
+01:15:03,831 --> 01:15:05,801
+Just keep going.
+
+1509
+01:15:08,136 --> 01:15:10,135
+Just keep going.
+
+1510
+01:15:10,137 --> 01:15:12,073
+<font color="#ff00ff">[CRYING]</font>
+
+1511
+01:15:29,623 --> 01:15:32,094
+<font color="#ff00ff">[DISPATCHER SPEAKING
+OVER RADIO]</font>
+
+1512
+01:15:39,867 --> 01:15:41,069
+<font color="#ff00ff">[GASPS]</font>
+
+1513
+01:15:43,904 --> 01:15:45,137
+Hands up!
+
+1514
+01:15:45,139 --> 01:15:48,174
+Put your arms up. Now!
+
+1515
+01:15:48,176 --> 01:15:50,546
+Turn around.
+
+1516
+01:15:52,846 --> 01:15:55,250
+Hey! Hey!
+
+1517
+01:16:02,689 --> 01:16:06,294
+Aaron. Aaron, no. No!
+
+1518
+01:16:07,929 --> 01:16:10,132
+<font color="#ff00ff">[SOBBING]</font>
+
+1519
+01:16:15,703 --> 01:16:17,870
+All units.
+
+1520
+01:16:17,872 --> 01:16:20,805
+I want an APB
+on a new Spider-Man.
+
+1521
+01:16:20,807 --> 01:16:22,743
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1522
+01:16:30,350 --> 01:16:32,286
+<font color="#ff00ff">[GRUNTING]</font>
+
+1523
+01:16:35,856 --> 01:16:37,690
+<font color="#ff00ff">[PANTING]</font>
+
+1524
+01:16:37,692 --> 01:16:39,627
+<font color="#ff00ff">[GRUNTS]</font>
+
+1525
+01:16:50,671 --> 01:16:51,939
+Hey, bud.
+
+1526
+01:16:53,306 --> 01:16:54,740
+You okay?
+
+1527
+01:16:54,742 --> 01:16:56,778
+<font color="#ff00ff">[EXHALES]</font>
+
+1528
+01:16:58,880 --> 01:17:02,048
+We've all been there.
+You know, for me,
+
+1529
+01:17:02,050 --> 01:17:03,318
+it was my Uncle Ben.
+
+1530
+01:17:04,851 --> 01:17:08,320
+For me, it was
+my Uncle Benjamin.
+
+1531
+01:17:08,322 --> 01:17:10,990
+For me, it was my father.
+
+1532
+01:17:10,992 --> 01:17:13,992
+For me, it was my best friend.
+
+1533
+01:17:13,994 --> 01:17:18,330
+Miles, the hardest thing
+about this job is
+
+1534
+01:17:18,332 --> 01:17:20,933
+you can't always save everybody.
+
+1535
+01:17:20,935 --> 01:17:25,170
+Look, it was my fault.
+You wouldn't understand.
+
+1536
+01:17:25,172 --> 01:17:28,210
+Miles, we're probably the
+only ones who <i>do</i> understand.
+
+1537
+01:17:30,811 --> 01:17:33,079
+<font color="#ff00ff">[KEYS JINGLE, LOCK CLICKS]</font>
+<font color="#ff00ff">[GASPS]</font> Oh, no.
+
+1538
+01:17:33,081 --> 01:17:35,180
+<font color="#ff00ff">[HIP-HOP BLARING
+OVER HEADPHONES]</font>
+
+1539
+01:17:35,182 --> 01:17:37,786
+<i><font color="#ffff00">♪</font> Who in here trying
+To start a riot? <font color="#ffff00">♪</font></i>
+
+1540
+01:17:38,886 --> 01:17:41,786
+That way, that way.
+
+1541
+01:17:41,788 --> 01:17:44,259
+Other way, other way,
+other way, other way.
+
+1542
+01:17:46,728 --> 01:17:48,227
+<i><font color="#ffff00">♪</font> Who that swinging
+In the air? <font color="#ffff00">♪</font></i>
+
+1543
+01:17:48,229 --> 01:17:49,461
+Hey there.
+
+1544
+01:17:49,463 --> 01:17:51,397
+Do animals talk
+in this dimension?
+
+1545
+01:17:51,399 --> 01:17:53,465
+'Cause I don't wanna
+freak him out.
+
+1546
+01:17:53,467 --> 01:17:56,203
+<i><font color="#ffff00">♪</font> Let's stand up, stand up
+You better just fix your... <font color="#ffff00">♪</font></i>
+
+1547
+01:18:00,475 --> 01:18:01,777
+What's going on?
+
+1548
+01:18:02,476 --> 01:18:03,778
+Bye, Miles.
+
+1549
+01:18:07,515 --> 01:18:09,882
+Miles, I came to say goodbye.
+
+1550
+01:18:09,884 --> 01:18:11,450
+We can say goodbye
+at the collider.
+
+1551
+01:18:11,452 --> 01:18:13,785
+You're not getting it.
+You're staying here.
+
+1552
+01:18:13,787 --> 01:18:15,888
+I need to be there.
+So you can all go home.
+
+1553
+01:18:15,890 --> 01:18:19,090
+They are going home, Miles.
+I'm the only one stayin'.
+
+1554
+01:18:19,092 --> 01:18:22,762
+You're taking my place?
+If you stay here, you'll die.
+
+1555
+01:18:22,764 --> 01:18:24,330
+I'm doing what needs to be done.
+
+1556
+01:18:24,332 --> 01:18:26,134
+I just wanted you
+to hear it from me.
+
+1557
+01:18:27,201 --> 01:18:28,302
+What about MJ?
+
+1558
+01:18:29,537 --> 01:18:31,940
+Not everything works out, kid.
+
+1559
+01:18:33,039 --> 01:18:35,508
+I need the goober.
+
+1560
+01:18:35,510 --> 01:18:37,343
+Please don't make me
+take it from you.
+
+1561
+01:18:37,345 --> 01:18:38,510
+That's not fair!
+
+1562
+01:18:38,512 --> 01:18:40,379
+You gotta tell them
+I can do this.
+
+1563
+01:18:40,381 --> 01:18:41,983
+It wasn't their decision.
+
+1564
+01:18:45,485 --> 01:18:49,021
+I gotta make Kingpin pay!
+You have to let me make him pay!
+
+1565
+01:18:49,023 --> 01:18:50,555
+Miles, you're gonna get
+yourself killed.
+
+1566
+01:18:50,557 --> 01:18:52,223
+But I'm ready.
+I promise!
+
+1567
+01:18:52,225 --> 01:18:53,793
+<font color="#ff00ff">[EXCLAIMS]</font>
+
+1568
+01:18:53,795 --> 01:18:55,260
+<font color="#ff00ff">[GASPS]</font>
+
+1569
+01:18:55,262 --> 01:18:57,329
+Then venom-strike me right now.
+
+1570
+01:18:57,331 --> 01:19:02,101
+Or turn invisible on command
+so you can get past me.
+
+1571
+01:19:02,103 --> 01:19:04,202
+<font color="#ff00ff">[PANTING]</font>
+
+1572
+01:19:04,204 --> 01:19:05,774
+<font color="#ff00ff">[STRAINED GRUNTING]</font>
+
+1573
+01:19:12,546 --> 01:19:16,080
+<font color="#ff8000">PETER 2</font>: Look, I know how
+much you want this, kid.
+
+1574
+01:19:16,082 --> 01:19:17,952
+Poor little guy.
+
+1575
+01:19:21,521 --> 01:19:23,824
+But you don't have it yet.
+
+1576
+01:19:29,430 --> 01:19:30,499
+I'm sorry.
+
+1577
+01:19:31,998 --> 01:19:34,168
+When will I know I'm ready?
+
+1578
+01:19:35,869 --> 01:19:38,469
+You won't.
+It's a leap of faith.
+
+1579
+01:19:38,471 --> 01:19:40,572
+That's all it is, Miles.
+
+1580
+01:19:40,574 --> 01:19:43,077
+A leap of faith.
+
+1581
+01:19:44,412 --> 01:19:46,347
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1582
+01:19:49,516 --> 01:19:51,452
+<font color="#ff00ff">[GRUNTING]</font>
+
+1583
+01:20:12,206 --> 01:20:14,106
+<font color="#ff00ff">[GRUNTS]</font>
+
+1584
+01:20:14,108 --> 01:20:15,811
+<font color="#ff00ff">[STRAINS]</font>
+
+1585
+01:20:17,511 --> 01:20:19,080
+<font color="#ff00ff">[SIGHS]</font>
+
+1586
+01:20:20,614 --> 01:20:22,216
+<font color="#ff00ff">[KNOCKING AT DOOR]</font>
+
+1587
+01:20:23,618 --> 01:20:26,117
+<font color="#ff8000">JEFFERSON</font>: Miles.
+
+1588
+01:20:26,119 --> 01:20:27,956
+Miles, it's your dad.
+
+1589
+01:20:28,956 --> 01:20:31,025
+Please open the door.
+
+1590
+01:20:32,426 --> 01:20:35,263
+Miles, I can see
+your shadow movin' around.
+
+1591
+01:20:37,131 --> 01:20:41,267
+Yeah, okay, I get it. I get it.
+You're still ignoring me.
+
+1592
+01:20:41,269 --> 01:20:43,538
+Look, can we talk for a minute?
+
+1593
+01:20:45,305 --> 01:20:47,174
+Something...
+
+1594
+01:20:49,076 --> 01:20:51,078
+Something happened to...
+
+1595
+01:20:53,914 --> 01:20:57,319
+<font color="#ff00ff">[CHOKING UP]</font> Look, sometimes
+people drift apart, Miles.
+
+1596
+01:20:59,119 --> 01:21:02,955
+And I don't want that
+to happen to us, okay?
+
+1597
+01:21:02,957 --> 01:21:05,257
+I know I don't always do
+what you need me to do
+
+1598
+01:21:05,259 --> 01:21:07,596
+or say what you need me to say.
+
+1599
+01:21:09,697 --> 01:21:15,500
+I see this spark in you. It's
+amazing. It's why I push you.
+
+1600
+01:21:15,502 --> 01:21:17,503
+But it's yours.
+
+1601
+01:21:17,505 --> 01:21:21,009
+Whatever you choose to do
+with it, you'll be great.
+
+1602
+01:21:28,315 --> 01:21:31,086
+Look, call me
+when you can. Okay?
+
+1603
+01:21:32,118 --> 01:21:33,487
+I love you.
+
+1604
+01:21:35,055 --> 01:21:37,491
+You don't have to
+say it back, though.
+
+1605
+01:21:41,429 --> 01:21:43,364
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1606
+01:21:45,131 --> 01:21:47,635
+<font color="#ff00ff">[SIGHS]</font>
+
+1607
+01:22:09,523 --> 01:22:12,159
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1608
+01:22:19,065 --> 01:22:20,568
+<font color="#ff00ff">[ELECTRICITY CRACKLING]</font>
+
+1609
+01:22:29,510 --> 01:22:32,213
+<font color="#ff00ff">[CHUCKLES]</font>
+<font color="#ff00ff">[ELECTRICITY CRACKLES]</font>
+
+1610
+01:22:33,646 --> 01:22:35,149
+<font color="#ff00ff">[GASPS]</font>
+
+1611
+01:22:41,255 --> 01:22:44,089
+<font color="#ff00ff">[YAWNS, GRUNTS]</font>
+
+1612
+01:22:44,091 --> 01:22:46,027
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1613
+01:22:56,404 --> 01:22:58,637
+<i><font color="#ffff00">♪</font> 200 miles per hour
+With a blindfold on <font color="#ffff00">♪</font></i>
+
+1614
+01:22:58,639 --> 01:23:01,106
+<i><font color="#ffff00">♪</font> Mama always asking
+"Where did I go wrong?" <font color="#ffff00">♪</font></i>
+
+1615
+01:23:01,108 --> 01:23:03,674
+Took you long enough.
+
+1616
+01:23:03,676 --> 01:23:05,677
+<i><font color="#ffff00">♪</font> Ah, what's up, danger? ♪</i>
+
+1617
+01:23:05,679 --> 01:23:07,111
+<font color="#ff00ff">[THUNDER CRASHES]</font>
+
+1618
+01:23:07,113 --> 01:23:08,679
+<font color="#ff8000">JEFFERSON</font>:
+<i>I see this spark in you.</i>
+
+1619
+01:23:08,681 --> 01:23:11,083
+<i>It's amazing.</i>
+
+1620
+01:23:11,085 --> 01:23:14,519
+<i>Whatever you choose to do
+with it, you'll be great.</i>
+
+1621
+01:23:14,521 --> 01:23:16,789
+<font color="#ff8000">RIO</font>: <i>Our family doesn't
+run from things.</i>
+
+1622
+01:23:16,791 --> 01:23:20,726
+<font color="#ff8000">AARON</font>: <i>You're the best of all of us, Miles.
+You're on your way.</i>
+
+1623
+01:23:20,728 --> 01:23:22,029
+<i>Just keep going.</i>
+
+1624
+01:23:23,564 --> 01:23:26,831
+<font color="#ff8000">MILES</font>: <i>When do I
+know I'm Spider-Man?</i>
+
+1625
+01:23:26,833 --> 01:23:29,037
+<font color="#ff8000">PETER 2</font>: <i>You won't.</i>
+
+1626
+01:23:30,837 --> 01:23:32,804
+<i>That's all it is, Miles.</i>
+
+1627
+01:23:32,806 --> 01:23:33,541
+<i>A leap of faith.</i>
+
+1628
+01:23:35,643 --> 01:23:37,746
+<i><font color="#ffff00">♪</font> Like, what's up, danger? ♪</i>
+
+1629
+01:23:40,648 --> 01:23:43,018
+<i><font color="#ffff00">♪</font> Like, what's up, danger? ♪</i>
+
+1630
+01:23:45,786 --> 01:23:47,721
+<i><font color="#ffff00">♪</font> Like, what's up, danger? ♪</i>
+
+1631
+01:23:51,192 --> 01:23:53,424
+<i><font color="#ffff00">♪</font> Like, what's up, danger? ♪</i>
+
+1632
+01:23:53,426 --> 01:23:55,660
+Made 'em myself.
+
+1633
+01:23:55,662 --> 01:23:57,464
+They fit perfectly.
+
+1634
+01:24:03,369 --> 01:24:05,504
+<i><font color="#ffff00">♪</font> Can't stop me now ♪
+♪ Traveled 200 miles <font color="#ffff00">♪</font></i>
+
+1635
+01:24:05,506 --> 01:24:08,406
+<i><font color="#ffff00">♪</font> I'm knockin' at your door
+And I don't really care <font color="#ffff00">♪</font></i>
+
+1636
+01:24:08,408 --> 01:24:10,241
+<i><font color="#ffff00">♪</font> If you ain't done wrong ♪
+♪ I said I got you now <font color="#ffff00">♪</font></i>
+
+1637
+01:24:10,243 --> 01:24:11,710
+<i><font color="#ffff00">♪</font> Come on, what's up, danger? ♪</i>
+
+1638
+01:24:11,712 --> 01:24:13,778
+<i><font color="#ffff00">♪</font> Don't be a stranger ♪</i>
+
+1639
+01:24:13,780 --> 01:24:16,482
+<i><font color="#ffff00">♪</font> I'm right here at your door ♪</i>
+
+1640
+01:24:16,484 --> 01:24:19,151
+<i><font color="#ffff00">♪</font> I won't leave, I want more ♪</i>
+
+1641
+01:24:19,153 --> 01:24:20,852
+<i><font color="#ffff00">♪</font> What's up, danger? ♪</i>
+
+1642
+01:24:20,854 --> 01:24:22,420
+<i><font color="#ffff00">♪</font> Yeah, what's up, danger? ♪</i>
+
+1643
+01:24:22,422 --> 01:24:23,488
+<font color="#ff00ff">[WHOOPS]</font>
+
+1644
+01:24:23,490 --> 01:24:25,324
+<i><font color="#ffff00">♪</font> Can't stop me now ♪</i>
+
+1645
+01:24:25,326 --> 01:24:27,226
+<i><font color="#ffff00">♪</font> 'Cause I like high G's
+Sister, I might lose <font color="#ffff00">♪</font></i>
+
+1646
+01:24:27,228 --> 01:24:29,327
+<i><font color="#ffff00">♪</font> I like it all on the edge
+Just like you, hey <font color="#ffff00">♪</font></i>
+
+1647
+01:24:29,329 --> 01:24:31,629
+<i><font color="#ffff00">♪</font> I like tall buildings
+So I can leap off of 'em <font color="#ffff00">♪</font></i>
+
+1648
+01:24:31,631 --> 01:24:34,232
+<i><font color="#ffff00">♪</font> I go hard with it
+No matter how dark it is <font color="#ffff00">♪</font></i>
+
+1649
+01:24:34,234 --> 01:24:36,070
+<i><font color="#ffff00">♪</font> Come on, what's up, danger? ♪</i>
+
+1650
+01:24:42,309 --> 01:24:44,512
+<font color="#ff00ff">[SIGHS, EXHALES]</font>
+
+1651
+01:24:45,378 --> 01:24:46,413
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1652
+01:24:51,551 --> 01:24:53,487
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1653
+01:25:04,364 --> 01:25:06,665
+<font color="#ff8000">PENI</font>: Kingpin has a
+private elevator entrance
+
+1654
+01:25:06,667 --> 01:25:08,666
+from his penthouse
+to the collider below.
+
+1655
+01:25:08,668 --> 01:25:10,635
+Didn't count on
+having an audience.
+
+1656
+01:25:10,637 --> 01:25:12,573
+<font color="#ff00ff">[REPORTERS CLAMORING]</font>
+
+1657
+01:25:20,881 --> 01:25:22,748
+<font color="#ff8000">ALL</font>: You gotta be kidding me.
+
+1658
+01:25:22,750 --> 01:25:24,816
+<font color="#ff8000">KINGPIN</font>: Thank you. It's nice
+to be with you this evening
+
+1659
+01:25:24,818 --> 01:25:26,184
+to celebrate Spider-Man.
+
+1660
+01:25:26,186 --> 01:25:28,519
+He and I were very close.
+
+1661
+01:25:28,521 --> 01:25:31,822
+What a pig.
+I'm right here.
+
+1662
+01:25:31,824 --> 01:25:34,692
+Hold on. Get a load of how
+the waiters are dressed.
+
+1663
+01:25:34,694 --> 01:25:37,262
+It's in poor taste, but...
+
+1664
+01:25:37,264 --> 01:25:38,733
+It can't be that easy.
+
+1665
+01:25:39,832 --> 01:25:41,735
+It's that easy.
+
+1666
+01:25:46,273 --> 01:25:48,639
+<font color="#ff8000">KINGPIN</font>: I just wanna
+thank Mary Jane Parker
+
+1667
+01:25:48,641 --> 01:25:49,911
+for being here this evening.
+
+1668
+01:25:51,212 --> 01:25:52,477
+MJ?
+
+1669
+01:25:52,479 --> 01:25:53,879
+<font color="#ff00ff">[KINGPIN
+CONTINUES SPEAKING]</font>
+
+1670
+01:25:53,881 --> 01:25:58,416
+Pay attention.
+It's not your MJ, Peter, okay?
+
+1671
+01:25:58,418 --> 01:26:00,384
+I'm sorry, I'll be right back.
+
+1672
+01:26:00,386 --> 01:26:02,420
+<font color="#ff8000">GWEN</font>: Peter! Come here.
+Trust me.
+
+1673
+01:26:02,422 --> 01:26:04,822
+I've been there.
+You gotta move on, buddy.
+
+1674
+01:26:04,824 --> 01:26:07,226
+It will take one second.
+Let me just... Oh!
+
+1675
+01:26:07,228 --> 01:26:10,262
+Hello.
+Oh, wow.
+
+1676
+01:26:10,264 --> 01:26:12,363
+Um...
+I just wondered
+
+1677
+01:26:12,365 --> 01:26:14,469
+if we could have some more
+bread at table 12.
+
+1678
+01:26:15,469 --> 01:26:16,570
+Yeah.
+
+1679
+01:26:18,939 --> 01:26:21,339
+I'm just...
+I'm really sorry.
+
+1680
+01:26:21,341 --> 01:26:24,409
+Oh! Don't be sorry.
+It's just bread.
+
+1681
+01:26:24,411 --> 01:26:26,844
+I wasn't there for you
+when you needed me.
+
+1682
+01:26:26,846 --> 01:26:28,446
+Mm-hmm.
+I didn't even try.
+
+1683
+01:26:28,448 --> 01:26:30,982
+That's fine. You know,
+I should really get going.
+
+1684
+01:26:30,984 --> 01:26:33,317
+I know I could do better
+
+1685
+01:26:33,319 --> 01:26:34,919
+if I just had another chance
+
+1686
+01:26:34,921 --> 01:26:40,459
+to give you the bread
+that you deserve.
+
+1687
+01:26:40,461 --> 01:26:41,759
+Are you okay?
+
+1688
+01:26:41,761 --> 01:26:43,728
+We'll take care of
+that bread right now.
+
+1689
+01:26:43,730 --> 01:26:45,830
+Well, it's been nice
+talking to you.
+
+1690
+01:26:45,832 --> 01:26:48,799
+For you, they should fill this
+place up with fresh bread.
+
+1691
+01:26:48,801 --> 01:26:51,503
+You all right, man?
+Oh, yeah. Totally.
+
+1692
+01:26:51,505 --> 01:26:53,571
+Good, 'cause we are not
+getting any bread.
+
+1693
+01:26:53,573 --> 01:26:55,507
+<font color="#ff00ff">[RUMBLING, GLASSES CLINKING]</font>
+
+1694
+01:26:55,509 --> 01:26:57,375
+<font color="#ff8000">KINGPIN</font>: I'm just sorry
+my family can't see
+
+1695
+01:26:57,377 --> 01:26:58,979
+what we're doing here tonight.
+
+1696
+01:27:07,287 --> 01:27:10,856
+<i>Initializing
+primary ignition sequence.</i>
+
+1697
+01:27:10,858 --> 01:27:12,793
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1698
+01:27:14,560 --> 01:27:15,593
+<font color="#ff00ff">[GUARDS GRUNT]</font>
+
+1699
+01:27:15,595 --> 01:27:16,964
+Sleep.
+
+1700
+01:27:22,836 --> 01:27:24,602
+Start the sequence.
+
+1701
+01:27:24,604 --> 01:27:27,371
+Uploading Vanessa Fisk
+and Richard Fisk DNA sequence.
+
+1702
+01:27:27,373 --> 01:27:29,974
+Beginning scan
+for dimensional matches.
+
+1703
+01:27:29,976 --> 01:27:31,679
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1704
+01:27:36,082 --> 01:27:40,751
+<font color="#ff8000">AUTOMATED VOICE</font>: <i>Secondary
+ignition in five, four,</i>
+
+1705
+01:27:40,753 --> 01:27:45,324
+<i>three, two, one.</i>
+
+1706
+01:27:45,326 --> 01:27:46,927
+<font color="#ff00ff">[WHIRRING]</font>
+
+1707
+01:27:50,530 --> 01:27:52,466
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1708
+01:27:54,902 --> 01:27:55,970
+<font color="#ff00ff">[GASPS]</font>
+
+1709
+01:28:00,373 --> 01:28:01,807
+<font color="#ff00ff">[GRUNTS]</font>
+
+1710
+01:28:01,809 --> 01:28:04,942
+Peter, you don't have to stay
+behind. I can do it.
+
+1711
+01:28:04,944 --> 01:28:06,644
+It's okay.
+
+1712
+01:28:06,646 --> 01:28:08,813
+I've made up my mind.
+
+1713
+01:28:08,815 --> 01:28:10,751
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1714
+01:28:12,853 --> 01:28:15,419
+I'll put the goober in
+and take over the beam.
+
+1715
+01:28:15,421 --> 01:28:18,490
+After you're gone,
+I'll blow it up.
+
+1716
+01:28:18,492 --> 01:28:19,594
+Good luck, guys.
+
+1717
+01:28:23,730 --> 01:28:24,998
+They know we're here.
+
+1718
+01:28:29,369 --> 01:28:30,634
+<font color="#ff00ff">[GRUNTS]</font>
+
+1719
+01:28:30,636 --> 01:28:32,704
+<font color="#ff00ff">[YELPS]</font>
+
+1720
+01:28:32,706 --> 01:28:35,576
+Nice to see you again, Peter.
+
+1721
+01:28:40,480 --> 01:28:41,612
+<font color="#ff00ff">[GRUNTING]</font>
+
+1722
+01:28:41,614 --> 01:28:43,682
+<font color="#ff8000">PENI</font>: <i>I got you covered!</i>
+
+1723
+01:28:43,684 --> 01:28:45,619
+These guys are the pits.
+
+1724
+01:28:47,654 --> 01:28:48,656
+<font color="#ff00ff">[GRUNTS]</font>
+
+1725
+01:28:50,623 --> 01:28:51,757
+<font color="#ff00ff">[SCREAMS]</font>
+
+1726
+01:28:51,759 --> 01:28:52,924
+<font color="#ff00ff">[GRUNTS]</font>
+
+1727
+01:28:52,926 --> 01:28:54,793
+Why is this always difficult?
+
+1728
+01:28:54,795 --> 01:28:57,428
+<font color="#ff00ff">[SCREAMS]</font>
+Where you going, Peter?
+
+1729
+01:28:57,430 --> 01:28:58,996
+Any last words?
+
+1730
+01:28:58,998 --> 01:29:02,032
+Can I get a minute to think
+about it? You have a pen?
+
+1731
+01:29:02,034 --> 01:29:04,538
+Goodbye, Peter Parker.
+
+1732
+01:29:05,171 --> 01:29:06,340
+<font color="#ff00ff">[GRUNTS]</font>
+
+1733
+01:29:12,979 --> 01:29:13,914
+<font color="#ff00ff">[GRUNTS]</font>
+
+1734
+01:29:14,782 --> 01:29:16,415
+Who did that?!
+
+1735
+01:29:16,417 --> 01:29:17,352
+<font color="#ff00ff">[GRUNTING]</font>
+
+1736
+01:29:22,655 --> 01:29:24,923
+Miles?
+Spider-Man?
+
+1737
+01:29:24,925 --> 01:29:27,925
+Wow, Miles. You're
+doing it on command!
+
+1738
+01:29:27,927 --> 01:29:29,460
+It's about time, right?
+
+1739
+01:29:29,462 --> 01:29:31,830
+Look who's here!
+You figured it out.
+
+1740
+01:29:31,832 --> 01:29:33,565
+I love you!
+I am so proud of you!
+
+1741
+01:29:33,567 --> 01:29:34,598
+<font color="#ff00ff">[LAUGHS]</font>
+
+1742
+01:29:34,600 --> 01:29:36,535
+Do I want kids?
+
+1743
+01:29:36,537 --> 01:29:38,573
+Oh, yeah, I forgot about her.
+
+1744
+01:29:40,207 --> 01:29:42,007
+Well, that doesn't look
+promising.
+
+1745
+01:29:42,009 --> 01:29:43,778
+No, it doesn't.
+
+1746
+01:29:49,682 --> 01:29:52,183
+<font color="#ff8000">SCIENTIST</font>: <i>I've got genetic matches.
+Hold on.</i>
+
+1747
+01:29:52,185 --> 01:29:53,585
+It's too risky.
+
+1748
+01:29:53,587 --> 01:29:54,986
+Shut up and turn it up.
+
+1749
+01:29:54,988 --> 01:29:56,854
+<font color="#ff8000">PETER 2</font>: On your left!
+<font color="#ff8000">MILES</font>: On your right!
+
+1750
+01:29:56,856 --> 01:29:59,223
+<font color="#ff8000">PETER 2</font>: I got five o'clock! Three o'clock!
+Two o'clock!
+
+1751
+01:29:59,225 --> 01:30:01,695
+Every direction!
+<font color="#ff00ff">[BOTH GRUNT]</font>
+
+1752
+01:30:03,831 --> 01:30:05,897
+Get to a shelter.
+I'll be right there.
+
+1753
+01:30:05,899 --> 01:30:07,499
+<font color="#ff00ff">[SPEAKS SPANISH]</font>
+
+1754
+01:30:07,501 --> 01:30:09,670
+I tried the school,
+but I can't get through.
+
+1755
+01:30:11,003 --> 01:30:11,972
+<font color="#ff00ff">[GRUNTS]</font>
+
+1756
+01:30:23,115 --> 01:30:25,116
+<font color="#ff8000">MILES</font>: Guys, are
+you seeing this?
+
+1757
+01:30:25,118 --> 01:30:26,718
+<font color="#ff00ff">[HORNS HONKING]</font>
+
+1758
+01:30:26,720 --> 01:30:28,853
+Looks like our dimensions
+are coming to us.
+
+1759
+01:30:28,855 --> 01:30:31,223
+Does look cool though, right?
+
+1760
+01:30:31,225 --> 01:30:33,161
+We gotta get back up there.
+
+1761
+01:30:34,060 --> 01:30:35,593
+<font color="#ff00ff">[ALL EXCLAIM]</font>
+
+1762
+01:30:35,595 --> 01:30:36,894
+Is that all you got?
+
+1763
+01:30:36,896 --> 01:30:38,897
+You gonna fight
+or you just bumping gums?
+
+1764
+01:30:38,899 --> 01:30:40,699
+You hard-boiled turtle slapper!
+
+1765
+01:30:40,701 --> 01:30:41,735
+<font color="#ff00ff">[GRUNTS]</font>
+
+1766
+01:30:43,904 --> 01:30:44,839
+<font color="#ff00ff">[GASPS]</font>
+
+1767
+01:30:52,679 --> 01:30:53,678
+<font color="#ff00ff">[GASPS]</font>
+
+1768
+01:30:53,680 --> 01:30:54,615
+<font color="#ff00ff">[GROWLS]</font>
+
+1769
+01:30:57,251 --> 01:30:59,651
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1770
+01:30:59,653 --> 01:31:02,152
+<font color="#ff00ff">[SPEAKS SPANISH, CHUCKLES]</font>
+
+1771
+01:31:02,154 --> 01:31:05,757
+What are you,
+some kind of silly cartoon?
+
+1772
+01:31:05,759 --> 01:31:07,925
+You got a problem with cartoons?
+
+1773
+01:31:07,927 --> 01:31:09,863
+<font color="#ff00ff">[BOTH GRUNTING]</font>
+
+1774
+01:31:13,699 --> 01:31:15,202
+Blammo!
+
+1775
+01:31:18,538 --> 01:31:19,673
+<font color="#ff00ff">[GRUNTS]</font>
+
+1776
+01:31:20,274 --> 01:31:21,606
+Aww...
+
+1777
+01:31:21,608 --> 01:31:24,142
+Did that feel like a cartoon?
+
+1778
+01:31:24,144 --> 01:31:25,546
+<font color="#ff00ff">[BLOWS RASPBERRY]</font>
+
+1779
+01:31:32,886 --> 01:31:34,885
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1780
+01:31:34,887 --> 01:31:36,720
+<font color="#ff00ff">[BOTH GRUNT]</font>
+
+1781
+01:31:36,722 --> 01:31:37,923
+<font color="#ff00ff">[GRUNTS]</font>
+
+1782
+01:31:37,925 --> 01:31:38,860
+Gwen!
+
+1783
+01:31:47,801 --> 01:31:49,000
+I like your suit.
+
+1784
+01:31:49,002 --> 01:31:50,701
+Thanks. I made it myself.
+
+1785
+01:31:50,703 --> 01:31:54,509
+That was adorable, team!
+Now, hold on tight!
+
+1786
+01:31:57,144 --> 01:31:59,180
+<font color="#ff00ff">[GRUNTS]</font>
+
+1787
+01:32:08,087 --> 01:32:10,655
+Buckle up, guys.
+This is gonna take a while.
+
+1788
+01:32:10,657 --> 01:32:12,691
+<font color="#ff00ff">[CACKLES]</font>
+
+1789
+01:32:12,693 --> 01:32:14,259
+<font color="#ff00ff">[HORN HONKS]</font>
+
+1790
+01:32:14,261 --> 01:32:16,027
+All right.
+Never mind.
+
+1791
+01:32:16,029 --> 01:32:17,195
+Let's end this thing.
+
+1792
+01:32:17,197 --> 01:32:18,629
+Guys, I got it.
+
+1793
+01:32:18,631 --> 01:32:20,233
+I'll go. I'm the one
+with the goo...
+
+1794
+01:32:21,734 --> 01:32:23,101
+Oh, you gotta be kidding me.
+
+1795
+01:32:23,103 --> 01:32:26,303
+Don't watch the mouth.
+Watch the hands.
+
+1796
+01:32:26,305 --> 01:32:28,742
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1797
+01:32:30,944 --> 01:32:32,113
+Miles!
+Be careful!
+
+1798
+01:32:42,756 --> 01:32:44,289
+<font color="#ff00ff">[HORN HONKS]</font>
+<font color="#ff00ff">[DOLPHINS CHITTERING]</font>
+
+1799
+01:32:44,291 --> 01:32:45,857
+<font color="#ff00ff">[SIGHS]</font>
+
+1800
+01:32:45,859 --> 01:32:47,125
+That was crazy.
+
+1801
+01:32:47,127 --> 01:32:49,059
+We taught him that, right?
+
+1802
+01:32:49,061 --> 01:32:51,832
+I didn't teach him that.
+And you definitely didn't.
+
+1803
+01:32:54,067 --> 01:32:56,002
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1804
+01:32:59,271 --> 01:33:01,740
+<font color="#ff00ff">[SPIDER CHITTERS]</font>
+<font color="#ff00ff">[CRYING]</font>
+
+1805
+01:33:01,742 --> 01:33:03,677
+<font color="#ff00ff">[BEEPING]</font>
+
+1806
+01:33:09,850 --> 01:33:11,118
+You okay?
+
+1807
+01:33:12,752 --> 01:33:14,154
+Come on.
+
+1808
+01:33:19,192 --> 01:33:20,892
+<font color="#ff00ff">[BEEPING]</font>
+
+1809
+01:33:20,894 --> 01:33:23,762
+Guys, I got control of the beam!
+Get up here!
+
+1810
+01:33:23,764 --> 01:33:25,729
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1811
+01:33:25,731 --> 01:33:28,833
+<font color="#ff8000">AUTOMATED VOICE</font>: <i>Alert! Quantum
+polarity has been reversed.</i>
+
+1812
+01:33:28,835 --> 01:33:30,802
+<font color="#ff00ff">[ROARS]</font>
+
+1813
+01:33:30,804 --> 01:33:32,306
+<font color="#ff00ff">[PANTING]</font>
+
+1814
+01:33:33,939 --> 01:33:35,706
+Guess this is it.
+
+1815
+01:33:35,708 --> 01:33:39,110
+Well, nice to know
+we're not alone.
+
+1816
+01:33:39,112 --> 01:33:42,880
+Right?
+Yeah.
+
+1817
+01:33:42,882 --> 01:33:45,316
+<font color="#ff00ff">[SIGHS]</font> I got the portal open.
+You first, Peni.
+
+1818
+01:33:45,318 --> 01:33:47,419
+Thank you, Miles.
+
+1819
+01:33:47,421 --> 01:33:49,657
+From both of us.
+
+1820
+01:33:52,725 --> 01:33:55,994
+I, uh, love you all.
+
+1821
+01:33:55,996 --> 01:33:58,929
+I'm taking this cube thing
+with me.
+
+1822
+01:33:58,931 --> 01:34:00,999
+I don't understand it.
+
+1823
+01:34:01,001 --> 01:34:02,636
+But I will.
+
+1824
+01:34:06,707 --> 01:34:08,106
+I want you to have this.
+
+1825
+01:34:08,108 --> 01:34:09,944
+It'll fit in your pocket.
+
+1826
+01:34:11,344 --> 01:34:13,311
+That's all, folks.
+
+1827
+01:34:13,313 --> 01:34:16,182
+<font color="#ff8000">PETER 2</font>: Is he allowed
+to say that, legally?
+
+1828
+01:34:19,819 --> 01:34:21,919
+Do I get to like the hairdo now?
+
+1829
+01:34:21,921 --> 01:34:23,254
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1830
+01:34:23,256 --> 01:34:25,123
+You know I'm older than you.
+
+1831
+01:34:25,125 --> 01:34:28,460
+15 months, but it's pretty
+significant if you ask me.
+
+1832
+01:34:28,462 --> 01:34:32,263
+Well, Einstein said
+time was relative, right?
+
+1833
+01:34:32,265 --> 01:34:33,732
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1834
+01:34:33,734 --> 01:34:35,036
+Nice.
+
+1835
+01:34:37,436 --> 01:34:39,039
+Friends?
+
+1836
+01:34:40,439 --> 01:34:41,973
+Friends.
+
+1837
+01:34:41,975 --> 01:34:43,040
+Cool.
+
+1838
+01:34:43,042 --> 01:34:45,076
+See you around, Spider-Man.
+
+1839
+01:34:45,078 --> 01:34:46,881
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1840
+01:34:54,087 --> 01:34:55,222
+<font color="#ff00ff">[SIGHS]</font>
+
+1841
+01:34:56,021 --> 01:34:57,123
+Your turn.
+
+1842
+01:34:58,225 --> 01:35:01,095
+Yeah, yeah. Right.
+
+1843
+01:35:02,796 --> 01:35:04,461
+<font color="#ff00ff">[KINGPIN SHOUTS]</font>
+
+1844
+01:35:04,463 --> 01:35:06,897
+You're not going anywhere!
+
+1845
+01:35:06,899 --> 01:35:09,366
+I'll hold him off.
+You shut this down.
+
+1846
+01:35:09,368 --> 01:35:11,068
+Peter, that wasn't the deal!
+
+1847
+01:35:11,070 --> 01:35:14,341
+Push the green button!
+Do not wait for me!
+
+1848
+01:35:15,074 --> 01:35:16,508
+<font color="#ff00ff">[GRUNTS]</font>
+
+1849
+01:35:16,510 --> 01:35:18,009
+<font color="#ff00ff">[SCREAMS]</font>
+
+1850
+01:35:18,011 --> 01:35:20,544
+What are you doing?
+You gotta go home!
+
+1851
+01:35:20,546 --> 01:35:23,514
+This guy could kill you!
+I can't let Spider-Man die.
+
+1852
+01:35:23,516 --> 01:35:25,251
+Neither can I.
+
+1853
+01:35:27,420 --> 01:35:28,889
+It's okay.
+
+1854
+01:35:29,789 --> 01:35:31,257
+Yeah, it is okay.
+
+1855
+01:35:32,091 --> 01:35:33,027
+<font color="#ff00ff">[GASPS]</font>
+
+1856
+01:35:35,462 --> 01:35:37,965
+You gotta go home, man.
+
+1857
+01:35:39,431 --> 01:35:42,166
+How do I know
+I'm not gonna mess it up again?
+
+1858
+01:35:42,168 --> 01:35:43,369
+You won't.
+
+1859
+01:35:44,871 --> 01:35:46,336
+Right.
+
+1860
+01:35:46,338 --> 01:35:48,274
+It's a leap of faith.
+
+1861
+01:35:53,979 --> 01:35:55,982
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1862
+01:35:57,250 --> 01:35:59,386
+Not bad, kid.
+
+1863
+01:36:07,060 --> 01:36:08,559
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1864
+01:36:08,561 --> 01:36:09,863
+Kingpin!
+
+1865
+01:36:17,436 --> 01:36:18,838
+<font color="#ff00ff">[GRUNTING LOUDLY]</font>
+
+1866
+01:36:23,409 --> 01:36:24,608
+Nope!
+
+1867
+01:36:24,610 --> 01:36:26,846
+Sorry! That's cheating.
+
+1868
+01:36:28,981 --> 01:36:30,117
+<i>Adiós.</i>
+
+1869
+01:36:38,457 --> 01:36:40,460
+I gotta get to that button.
+
+1870
+01:36:44,197 --> 01:36:45,330
+<font color="#ff00ff">[GRUNTS]</font>
+
+1871
+01:36:45,332 --> 01:36:46,964
+<font color="#ff00ff">[STRAINS]</font>
+Oh, no.
+
+1872
+01:36:46,966 --> 01:36:49,302
+Not so easy doing it
+on your own, is it?
+
+1873
+01:36:52,939 --> 01:36:55,572
+I can't wait to kill
+one more Spider-Man.
+
+1874
+01:36:55,574 --> 01:36:58,942
+<font color="#ff00ff">[STATICKY VOICES SPEAKING]</font>
+
+1875
+01:36:58,944 --> 01:37:01,012
+<font color="#ff8000">VANESSA</font>: Where am I?
+What?
+
+1876
+01:37:01,014 --> 01:37:02,613
+<font color="#ff8000">VANESSA</font>: Wilson?
+
+1877
+01:37:02,615 --> 01:37:05,650
+Is this what you want, man?
+<font color="#ff8000">VANESSA</font>: What are you doing?
+
+1878
+01:37:05,652 --> 01:37:08,085
+Vanessa. Vanessa.
+
+1879
+01:37:08,087 --> 01:37:10,588
+What are we doing here?
+I don't know, Richard.
+
+1880
+01:37:10,590 --> 01:37:11,891
+It's me. You know me.
+
+1881
+01:37:13,025 --> 01:37:14,592
+<font color="#ff8000">VANESSA</font>: We're leaving now.
+
+1882
+01:37:14,594 --> 01:37:16,928
+Don't go.
+
+1883
+01:37:16,930 --> 01:37:18,396
+Stay with me.
+
+1884
+01:37:18,398 --> 01:37:20,134
+Please!
+
+1885
+01:37:24,104 --> 01:37:25,370
+<font color="#ff00ff">[KINGPIN GRUNTS]</font>
+
+1886
+01:37:25,372 --> 01:37:28,272
+You're not stopping this.
+Not today.
+
+1887
+01:37:28,274 --> 01:37:30,911
+I am stopping this.
+Right now!
+
+1888
+01:37:31,677 --> 01:37:32,880
+<font color="#ff00ff">[GRUNTS LOUDLY]</font>
+
+1889
+01:37:39,085 --> 01:37:41,322
+I need backup.
+<font color="#ff00ff">[DISPATCHER SPEAKS INDISTINCTLY]</font>
+
+1890
+01:37:44,591 --> 01:37:46,527
+<font color="#ff00ff">[STRAINING]</font>
+
+1891
+01:37:50,262 --> 01:37:52,198
+<font color="#ff00ff">[MILES GRUNTS]</font>
+
+1892
+01:37:54,967 --> 01:37:56,369
+<font color="#ff00ff">[GRUNTS, YELLS]</font>
+
+1893
+01:37:57,337 --> 01:37:58,906
+<font color="#ff00ff">[SCREAMS]</font>
+
+1894
+01:38:01,006 --> 01:38:03,344
+<font color="#ff00ff">[BOTH GRUNTING]</font>
+
+1895
+01:38:07,479 --> 01:38:09,415
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1896
+01:38:14,621 --> 01:38:16,356
+<font color="#ff00ff">[PANTING]</font>
+
+1897
+01:38:17,256 --> 01:38:18,455
+<font color="#ff00ff">[BEEPING]</font>
+
+1898
+01:38:18,457 --> 01:38:20,226
+Come on.
+
+1899
+01:38:23,296 --> 01:38:25,062
+<font color="#ff00ff">[BOTH YELL]</font>
+
+1900
+01:38:25,064 --> 01:38:25,965
+<font color="#ff00ff">[BOTH GRUNT]</font>
+
+1901
+01:38:28,435 --> 01:38:31,171
+The real Spider-Man
+couldn't even beat me.
+
+1902
+01:38:32,572 --> 01:38:33,571
+<font color="#ff00ff">[SCREAMS]</font>
+
+1903
+01:38:33,573 --> 01:38:35,276
+You're nothing!
+<font color="#ff00ff">[GRUNTS]</font>
+
+1904
+01:38:36,509 --> 01:38:37,944
+<font color="#ff00ff">[PANTING]</font>
+
+1905
+01:38:41,314 --> 01:38:43,550
+You took my family.
+
+1906
+01:38:47,386 --> 01:38:51,491
+And now I'm gonna make sure
+you never see yours again.
+
+1907
+01:38:52,425 --> 01:38:53,427
+<font color="#ff00ff">[YELLS]</font>
+
+1908
+01:39:00,332 --> 01:39:02,536
+<font color="#ff00ff">[PANTING]</font>
+
+1909
+01:39:09,208 --> 01:39:11,009
+<font color="#ff00ff">[MILES COUGHS]</font>
+<font color="#ff00ff">[BEEPING]</font>
+
+1910
+01:39:11,011 --> 01:39:13,013
+Get up, Spider-Man.
+
+1911
+01:39:15,347 --> 01:39:17,984
+<font color="#ff8000">JEFFERSON</font>: Get up! Come on!
+
+1912
+01:39:19,752 --> 01:39:21,956
+<font color="#ff00ff">[GRUNTING IN PAIN]</font>
+
+1913
+01:39:24,524 --> 01:39:28,061
+Come on. Come on. Come on.
+
+1914
+01:39:32,731 --> 01:39:34,702
+<font color="#ff00ff">[WINCING]</font>
+
+1915
+01:39:36,469 --> 01:39:38,137
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1916
+01:39:39,204 --> 01:39:42,373
+I'll always have my family.
+
+1917
+01:39:42,375 --> 01:39:44,110
+You ever hear of
+the shoulder touch?
+
+1918
+01:39:45,211 --> 01:39:46,313
+What?
+
+1919
+01:39:50,483 --> 01:39:51,648
+<font color="#ff00ff">[DEEPLY]</font>
+Hey.
+
+1920
+01:39:51,650 --> 01:39:53,116
+<font color="#ff00ff">[ELECTRICITY CRACKLING]</font>
+
+1921
+01:39:53,118 --> 01:39:54,121
+<font color="#ff00ff">[KINGPIN GRUNTS]</font>
+
+1922
+01:40:01,226 --> 01:40:05,431
+Hey, Kingpin!
+Push the green button for me!
+
+1923
+01:40:48,541 --> 01:40:50,677
+<font color="#ff00ff">[YELLING]</font>
+
+1924
+01:41:17,871 --> 01:41:20,541
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1925
+01:41:22,207 --> 01:41:24,143
+<font color="#ff00ff">[CROWD CHATTERING IN DISTANCE]</font>
+
+1926
+01:41:27,279 --> 01:41:29,215
+<font color="#ff00ff">[PANTING]</font>
+
+1927
+01:41:30,649 --> 01:41:32,585
+<font color="#ff00ff">[JEFFERSON COUGHING]</font>
+
+1928
+01:41:40,426 --> 01:41:42,593
+<font color="#ff00ff">[SIRENS WAILING]</font>
+
+1929
+01:41:42,595 --> 01:41:44,664
+<font color="#ff00ff">[CROWD CHATTERING]</font>
+
+1930
+01:41:48,368 --> 01:41:49,866
+<font color="#ff00ff">[SIREN WAILS]</font>
+
+1931
+01:41:49,868 --> 01:41:51,505
+<font color="#ff00ff">[CELL PHONE VIBRATING]</font>
+
+1932
+01:41:54,407 --> 01:41:57,407
+Miles? Miles? Are you okay?
+
+1933
+01:41:57,409 --> 01:41:58,511
+<font color="#ff8000">MILES</font>: <i>Yeah, I'm okay.</i>
+
+1934
+01:41:59,479 --> 01:42:00,745
+You're probably busy...
+
+1935
+01:42:00,747 --> 01:42:02,780
+<i>No! I can talk,
+I can talk.</i>
+
+1936
+01:42:02,782 --> 01:42:06,653
+<i>Look, so I
+came by earlier because...</i>
+
+1937
+01:42:07,886 --> 01:42:10,323
+Your uncle...
+I know, Dad.
+
+1938
+01:42:11,623 --> 01:42:13,191
+I am so sorry.
+
+1939
+01:42:13,193 --> 01:42:15,259
+Yeah.
+
+1940
+01:42:15,261 --> 01:42:16,727
+Do you know who did it?
+
+1941
+01:42:16,729 --> 01:42:18,562
+I thought I did.
+
+1942
+01:42:18,564 --> 01:42:20,697
+But I was wrong.
+
+1943
+01:42:20,699 --> 01:42:24,268
+Look, Miles,
+what I said at the door,
+
+1944
+01:42:24,270 --> 01:42:25,639
+it wasn't just talk.
+
+1945
+01:42:27,539 --> 01:42:29,706
+Look, you know, I was thinking
+
+1946
+01:42:29,708 --> 01:42:32,410
+maybe we could find a nice wall,
+
+1947
+01:42:32,412 --> 01:42:35,545
+privately owned,
+like at the police station,
+
+1948
+01:42:35,547 --> 01:42:41,751
+and you could "throw up"
+some of your art.
+
+1949
+01:42:41,753 --> 01:42:44,287
+<font color="#ff00ff">[WHISPERS]</font>
+Man, I'm bad at this.
+
+1950
+01:42:44,289 --> 01:42:47,424
+<font color="#ff00ff">[IN NORMAL VOICE]</font>
+Okay, Miles. Miles? You there?
+
+1951
+01:42:47,426 --> 01:42:50,361
+Oh, come on, man. C-Mobile!
+
+1952
+01:42:50,363 --> 01:42:53,263
+Officer.
+Spider-Man!
+
+1953
+01:42:53,265 --> 01:42:55,566
+Listen, down there, that was...
+
+1954
+01:42:55,568 --> 01:42:57,300
+I mean, I owe you...
+
+1955
+01:42:57,302 --> 01:42:59,506
+Okay!
+
+1956
+01:43:02,975 --> 01:43:05,509
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1957
+01:43:05,511 --> 01:43:07,277
+<font color="#ff00ff">[CLEARS THROAT]</font>
+
+1958
+01:43:07,279 --> 01:43:09,379
+<font color="#ff00ff">[IN BROOKLYN ACCENT]</font> I look
+forward to workin' with you.
+
+1959
+01:43:09,381 --> 01:43:11,816
+<font color="#ff00ff">[CHUCKLING]</font>
+Yeah, me, too. I guess.
+
+1960
+01:43:11,818 --> 01:43:14,986
+I don't approve of your methods,
+
+1961
+01:43:14,988 --> 01:43:18,455
+but we're just gonna have
+to agree to disagree.
+
+1962
+01:43:18,457 --> 01:43:21,424
+Thank you for
+your bravery tonight.
+
+1963
+01:43:21,426 --> 01:43:22,660
+I love you.
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1964
+01:43:22,662 --> 01:43:24,262
+Wait, what?
+
+1965
+01:43:24,264 --> 01:43:25,396
+And look behind you!
+
+1966
+01:43:25,398 --> 01:43:27,333
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1967
+01:43:33,573 --> 01:43:34,875
+<font color="#ff00ff">[CAMERA SHUTTERS CLICKING]</font>
+
+1968
+01:43:37,277 --> 01:43:38,576
+All right. Cool. Yeah.
+
+1969
+01:43:38,578 --> 01:43:39,977
+Thanks, Spider-Man.
+
+1970
+01:43:39,979 --> 01:43:41,812
+Spider-Man,
+<i>a su servicio.</i> Thank you.
+
+1971
+01:43:41,814 --> 01:43:43,446
+Hey, man. What's up,
+little man?
+
+1972
+01:43:43,448 --> 01:43:44,648
+New Spider-Man.
+
+1973
+01:43:44,650 --> 01:43:45,915
+Yeah. Yeah,
+I'm the new Spider-Man.
+
+1974
+01:43:45,917 --> 01:43:47,485
+Check it out.
+
+1975
+01:43:47,487 --> 01:43:48,818
+Whoa!
+
+1976
+01:43:48,820 --> 01:43:51,488
+That was part of the move.
+
+1977
+01:43:51,490 --> 01:43:54,558
+<font color="#ff8000">MILES</font>: <i>Okay, let's do
+this one last time, yeah?</i>
+
+1978
+01:43:54,560 --> 01:43:56,059
+<i>For real this time. This is it.</i>
+
+1979
+01:43:56,061 --> 01:43:57,727
+<i>My name is Miles Morales.</i>
+
+1980
+01:43:57,729 --> 01:43:59,830
+<i>I was bitten by
+a radioactive spider.</i>
+
+1981
+01:43:59,832 --> 01:44:01,464
+<i>And for like two days,</i>
+
+1982
+01:44:01,466 --> 01:44:03,467
+<i>I've been
+the one and only Spider-Man.</i>
+
+1983
+01:44:03,469 --> 01:44:04,968
+<i>I think you know the rest.</i>
+
+1984
+01:44:04,970 --> 01:44:06,439
+<i>I finished my essay.</i>
+
+1985
+01:44:07,472 --> 01:44:09,576
+<i>Saved a bunch of people.</i>
+
+1986
+01:44:11,043 --> 01:44:12,942
+<i>Got hit by a drone.</i>
+<font color="#ff00ff">[GRUNTS]</font>
+
+1987
+01:44:12,944 --> 01:44:14,648
+<i>I did this with my dad.</i>
+
+1988
+01:44:15,981 --> 01:44:18,252
+<i>Met my roommate. Finally.</i>
+
+1989
+01:44:20,019 --> 01:44:23,387
+<i>Slapped a sticker where
+my dad's never gonna find it.</i>
+
+1990
+01:44:23,389 --> 01:44:25,055
+<i>And when I feel alone,</i>
+
+1991
+01:44:25,057 --> 01:44:27,728
+<i>like no one understands
+what I'm going through,</i>
+
+1992
+01:44:29,362 --> 01:44:31,361
+<i>I remember my friends
+who get it.</i>
+
+1993
+01:44:31,363 --> 01:44:33,299
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+1994
+01:44:37,869 --> 01:44:40,537
+<i>I never thought I'd be able
+to do any of this stuff.</i>
+
+1995
+01:44:40,539 --> 01:44:42,042
+<i>But I can.</i>
+
+1996
+01:44:43,643 --> 01:44:45,545
+<i>Anyone can wear the mask.</i>
+
+1997
+01:44:46,878 --> 01:44:49,048
+<i>You could wear the mask.</i>
+
+1998
+01:44:50,817 --> 01:44:53,987
+<i>If you didn't know that before,
+I hope you do now.</i>
+
+1999
+01:45:02,694 --> 01:45:03,796
+<i>'Cause I'm Spider-Man.</i>
+
+2000
+01:45:05,797 --> 01:45:08,566
+<i>And I'm not the only one.</i>
+<font color="#ff00ff">[MUSIC PLAYING ON HEADPHONES]</font>
+
+2001
+01:45:08,568 --> 01:45:10,101
+<i>Not by a long shot.</i>
+
+2002
+01:45:10,103 --> 01:45:12,402
+<i><font color="#ffff00">♪</font> Needless to say
+I keep her in check <font color="#ffff00">♪</font></i>
+
+2003
+01:45:12,404 --> 01:45:14,905
+<i><font color="#ffff00">♪</font> She was all bad-bad
+Nevertheless <font color="#ffff00">♪</font></i>
+
+2004
+01:45:14,907 --> 01:45:17,741
+<i><font color="#ffff00">♪</font> Callin' it quits now
+Baby, I'm a wreck... <font color="#ffff00">♪</font></i>
+
+2005
+01:45:17,743 --> 01:45:21,044
+<font color="#ff8000">GWEN</font>: Miles. Miles!
+
+2006
+01:45:21,046 --> 01:45:22,815
+You got a minute?
+
+2007
+01:45:24,917 --> 01:45:27,854
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+2008
+01:45:32,125 --> 01:45:34,023
+<i><font color="#ffff00">♪</font> Stepped out of my zone ♪</i>
+
+2009
+01:45:34,025 --> 01:45:35,925
+<i><font color="#ffff00">♪</font> I had to get out all alone ♪</i>
+
+2010
+01:45:35,927 --> 01:45:37,827
+<i><font color="#ffff00">♪</font> And figure it out on my own ♪</i>
+
+2011
+01:45:37,829 --> 01:45:39,830
+<i><font color="#ffff00">♪</font> And I know what
+I really want now <font color="#ffff00">♪</font></i>
+
+2012
+01:45:39,832 --> 01:45:41,531
+<i><font color="#ffff00">♪</font> Can't stop me
+Can't break me <font color="#ffff00">♪</font></i>
+
+2013
+01:45:41,533 --> 01:45:43,166
+<i><font color="#ffff00">♪</font> What don't kill me
+Gon' make me <font color="#ffff00">♪</font></i>
+
+2014
+01:45:43,168 --> 01:45:44,869
+<i><font color="#ffff00">♪</font> Shoot for the stars
+No safety <font color="#ffff00">♪</font></i>
+
+2015
+01:45:44,871 --> 01:45:46,669
+<i><font color="#ffff00">♪</font> And now I see clear in HD ♪</i>
+
+2016
+01:45:46,671 --> 01:45:48,705
+<i><font color="#ffff00">♪</font> Gotta go hard ♪
+♪ Gotta go hard <font color="#ffff00">♪</font></i>
+
+2017
+01:45:48,707 --> 01:45:50,540
+<i><font color="#ffff00">♪</font> I ain't got time to waste ♪
+<font color="#ffff00">♪</font> I ain't got time ♪</i>
+
+2018
+01:45:50,542 --> 01:45:52,410
+<i><font color="#ffff00">♪</font> I gotta go high ♪
+♪ Gotta go high <font color="#ffff00">♪</font></i>
+
+2019
+01:45:52,412 --> 01:45:54,144
+<i><font color="#ffff00">♪</font> I gotta elevate ♪
+♪ I gotta elevate <font color="#ffff00">♪</font></i>
+
+2020
+01:45:54,146 --> 01:45:56,546
+<i><font color="#ffff00">♪</font> They wanna fight ♪
+♪ They wanna fight <font color="#ffff00">♪</font></i>
+
+2021
+01:45:56,548 --> 01:45:58,182
+<i><font color="#ffff00">♪</font> I'm just gon' let 'em hate ♪
+<font color="#ffff00">♪</font> I'm just gon' let 'em hate ♪</i>
+
+2022
+01:45:58,184 --> 01:46:00,049
+<i><font color="#ffff00">♪</font> I gotta go high ♪
+♪ Gotta go high <font color="#ffff00">♪</font></i>
+
+2023
+01:46:00,051 --> 01:46:01,986
+<i><font color="#ffff00">♪</font> I gotta elevate ♪
+♪ I gotta elevate <font color="#ffff00">♪</font></i>
+
+2024
+01:46:01,988 --> 01:46:04,988
+<i><font color="#ffff00">♪</font> You gotta choose a side
+You gotta choose a side <font color="#ffff00">♪</font></i>
+
+2025
+01:46:04,990 --> 01:46:07,023
+<i><font color="#ffff00">♪</font> You better keep
+You better do what's right <font color="#ffff00">♪</font></i>
+
+2026
+01:46:07,025 --> 01:46:08,759
+<i><font color="#ffff00">♪</font> Or you gonna lose the fight ♪</i>
+
+2027
+01:46:08,761 --> 01:46:10,027
+<i><font color="#ffff00">♪</font> You gonna ♪
+♪ Gotta go hard <font color="#ffff00">♪</font></i>
+
+2028
+01:46:10,029 --> 01:46:11,094
+<i><font color="#ffff00">♪</font> Gotta choose a side ♪</i>
+
+2029
+01:46:11,096 --> 01:46:12,830
+<i><font color="#ffff00">♪</font> I'm gonna elevate ♪</i>
+
+2030
+01:46:12,832 --> 01:46:14,865
+<i><font color="#ffff00">♪</font> You better ♪
+♪ Gotta go high <font color="#ffff00">♪</font></i>
+
+2031
+01:46:14,867 --> 01:46:16,000
+<i><font color="#ffff00">♪</font> You better do what's right ♪
+<font color="#ffff00">♪</font> I gotta elevate ♪</i>
+
+2032
+01:46:16,002 --> 01:46:17,701
+<i><font color="#ffff00">♪</font> Heroes never die ♪</i>
+
+2033
+01:46:17,703 --> 01:46:19,102
+<i><font color="#ffff00">♪</font> I'm a web slinger
+To a gunslinger <font color="#ffff00">♪</font></i>
+
+2034
+01:46:19,104 --> 01:46:20,870
+<i><font color="#ffff00">♪</font> No millimeter
+This is my arena <font color="#ffff00">♪</font></i>
+
+2035
+01:46:20,872 --> 01:46:22,740
+<i><font color="#ffff00">♪</font> I'm the black widow
+With the best stinger <font color="#ffff00">♪</font></i>
+
+2036
+01:46:22,742 --> 01:46:24,607
+<i><font color="#ffff00">♪</font> And I'll make you scream
+Like a bad singer <font color="#ffff00">♪</font></i>
+
+2037
+01:46:24,609 --> 01:46:26,143
+<i><font color="#ffff00">♪</font> I'm everything that you
+Wanna be plus more <font color="#ffff00">♪</font></i>
+
+2038
+01:46:26,145 --> 01:46:28,111
+<i><font color="#ffff00">♪</font> Since there's
+No heroes anymore <font color="#ffff00">♪</font></i>
+
+2039
+01:46:28,113 --> 01:46:29,979
+<i><font color="#ffff00">♪</font> Jump out the window
+Him with the mask on <font color="#ffff00">♪</font></i>
+
+2040
+01:46:29,981 --> 01:46:31,949
+<i><font color="#ffff00">♪</font> Who the bad man
+That our man gotta bash on? <font color="#ffff00">♪</font></i>
+
+2041
+01:46:31,951 --> 01:46:34,652
+<i><font color="#ffff00">♪</font> Oh, we'll never link up
+Blink and you will see us <font color="#ffff00">♪</font></i>
+
+2042
+01:46:34,654 --> 01:46:37,120
+<i><font color="#ffff00">♪</font> Young prince 'bout to ink up
+See me in the NYC <font color="#ffff00">♪</font></i>
+
+2043
+01:46:37,122 --> 01:46:39,123
+<i><font color="#ffff00">♪</font> You can never swing by me ♪</i>
+
+2044
+01:46:39,125 --> 01:46:41,991
+<i><font color="#ffff00">♪</font> Oh, we'll never link up
+Blink and you will see us <font color="#ffff00">♪</font></i>
+
+2045
+01:46:41,993 --> 01:46:44,829
+<i><font color="#ffff00">♪</font> Young prince 'bout to ink up
+See me in the NYC <font color="#ffff00">♪</font></i>
+
+2046
+01:46:44,831 --> 01:46:46,664
+<i><font color="#ffff00">♪</font> Home of the B.I.G., yo ♪</i>
+
+2047
+01:46:46,666 --> 01:46:48,632
+<i><font color="#ffff00">♪</font> They just slander me
+I just plan to be <font color="#ffff00">♪</font></i>
+
+2048
+01:46:48,634 --> 01:46:50,500
+<i><font color="#ffff00">♪</font> Something powerful
+For my family <font color="#ffff00">♪</font></i>
+
+2049
+01:46:50,502 --> 01:46:52,236
+<i><font color="#ffff00">♪</font> Tried to balance life
+And my sanity <font color="#ffff00">♪</font></i>
+
+2050
+01:46:52,238 --> 01:46:54,071
+<i><font color="#ffff00">♪</font> Show a different side
+Of humanity <font color="#ffff00">♪</font></i>
+
+2051
+01:46:54,073 --> 01:46:56,040
+<i><font color="#ffff00">♪</font> So amazing, keep upraising ♪</i>
+
+2052
+01:46:56,042 --> 01:46:58,008
+<i><font color="#ffff00">♪</font> Save you from
+A home invasion <font color="#ffff00">♪</font></i>
+
+2053
+01:46:58,010 --> 01:46:59,876
+<i><font color="#ffff00">♪</font> Chasing robbers
+From the bank <font color="#ffff00">♪</font></i>
+
+2054
+01:46:59,878 --> 01:47:01,211
+<i><font color="#ffff00">♪</font> You facing friendly
+Neighborhood Spider-Man <font color="#ffff00">♪</font></i>
+
+2055
+01:47:01,213 --> 01:47:03,246
+<i><font color="#ffff00">♪</font> Gotta go hard ♪</i>
+
+2056
+01:47:03,248 --> 01:47:05,081
+<i><font color="#ffff00">♪</font> I ain't got time to waste ♪
+<font color="#ffff00">♪</font> I ain't got time ♪</i>
+
+2057
+01:47:05,083 --> 01:47:06,951
+<i><font color="#ffff00">♪</font> I gotta go high ♪
+♪ Gotta go high <font color="#ffff00">♪</font></i>
+
+2058
+01:47:06,953 --> 01:47:08,818
+<i><font color="#ffff00">♪</font> I gotta elevate ♪
+♪ I gotta elevate <font color="#ffff00">♪</font></i>
+
+2059
+01:47:08,820 --> 01:47:11,021
+<i><font color="#ffff00">♪</font> They wanna fight ♪
+♪ They wanna fight <font color="#ffff00">♪</font></i>
+
+2060
+01:47:11,023 --> 01:47:12,857
+<i><font color="#ffff00">♪</font> I'm just gon' let 'em hate ♪
+<font color="#ffff00">♪</font> I'm just gon' let 'em hate ♪</i>
+
+2061
+01:47:12,859 --> 01:47:14,724
+<i><font color="#ffff00">♪</font> I gotta go high ♪
+♪ Gotta go high <font color="#ffff00">♪</font></i>
+
+2062
+01:47:14,726 --> 01:47:16,494
+<i><font color="#ffff00">♪</font> I gotta elevate ♪
+♪ I gotta elevate <font color="#ffff00">♪</font></i>
+
+2063
+01:47:16,496 --> 01:47:18,128
+<i><font color="#ffff00">♪</font> Okay, I fight crime
+Through the nighttime <font color="#ffff00">♪</font></i>
+
+2064
+01:47:18,130 --> 01:47:20,030
+<i><font color="#ffff00">♪</font> When the lights shine
+I go python <font color="#ffff00">♪</font></i>
+
+2065
+01:47:20,032 --> 01:47:21,965
+<i><font color="#ffff00">♪</font> I'm falling on
+My last lifeline <font color="#ffff00">♪</font></i>
+
+2066
+01:47:21,967 --> 01:47:23,800
+<i><font color="#ffff00">♪</font> There's no way
+In my right mind <font color="#ffff00">♪</font></i>
+
+2067
+01:47:23,802 --> 01:47:25,736
+<i><font color="#ffff00">♪</font> My city up on my back tight ♪</i>
+
+2068
+01:47:25,738 --> 01:47:27,604
+<i><font color="#ffff00">♪</font> How can I possibly
+Act right? <font color="#ffff00">♪</font></i>
+
+2069
+01:47:27,606 --> 01:47:29,173
+<i><font color="#ffff00">♪</font> I'm Robin Hood
+I'm the black knight <font color="#ffff00">♪</font></i>
+
+2070
+01:47:29,175 --> 01:47:31,141
+<i><font color="#ffff00">♪</font> I know you heard
+'Bout my last fight <font color="#ffff00">♪</font></i>
+
+2071
+01:47:31,143 --> 01:47:33,009
+<i><font color="#ffff00">♪</font> 'Cause I win
+Over and over again <font color="#ffff00">♪</font></i>
+
+2072
+01:47:33,011 --> 01:47:34,978
+<i><font color="#ffff00">♪</font> Battling evil
+I'm hoping to win <font color="#ffff00">♪</font></i>
+
+2073
+01:47:34,980 --> 01:47:36,880
+<i><font color="#ffff00">♪</font> Fighting my demons
+I'm nice for a reason <font color="#ffff00">♪</font></i>
+
+2074
+01:47:36,882 --> 01:47:38,915
+<i><font color="#ffff00">♪</font> Enticed with the bleeding
+I'm showing my sins <font color="#ffff00">♪</font></i>
+
+2075
+01:47:38,917 --> 01:47:41,552
+<i><font color="#ffff00">♪</font> How can you expect me
+To stay sane? <font color="#ffff00">♪</font></i>
+
+2076
+01:47:41,554 --> 01:47:43,987
+<i><font color="#ffff00">♪</font> Protect me
+My technique go X speed <font color="#ffff00">♪</font></i>
+
+2077
+01:47:43,989 --> 01:47:46,022
+<i><font color="#ffff00">♪</font> On highways and Jet Skis ♪</i>
+
+2078
+01:47:46,024 --> 01:47:47,892
+<i><font color="#ffff00">♪</font> Look, I ain't got no time
+To be hanging around nobody <font color="#ffff00">♪</font></i>
+
+2079
+01:47:47,894 --> 01:47:49,660
+<i><font color="#ffff00">♪</font> Trying to figure out
+If they good or evil <font color="#ffff00">♪</font></i>
+
+2080
+01:47:49,662 --> 01:47:51,094
+<i><font color="#ffff00">♪</font> I'm fighting the crime
+Saving your lives <font color="#ffff00">♪</font></i>
+
+2081
+01:47:51,096 --> 01:47:52,228
+<i><font color="#ffff00">♪</font> One at a time
+I'm killing the rhymes <font color="#ffff00">♪</font></i>
+
+2082
+01:47:52,230 --> 01:47:54,063
+<i><font color="#ffff00">♪</font> I do it for the people ♪</i>
+
+2083
+01:47:54,065 --> 01:47:56,066
+<i><font color="#ffff00">♪</font> I'm Peter Parker
+Running through The Six <font color="#ffff00">♪</font></i>
+
+2084
+01:47:56,068 --> 01:47:59,169
+<i><font color="#ffff00">♪</font> With a bag full of tricks
+You better choose a side <font color="#ffff00">♪</font></i>
+
+2085
+01:47:59,171 --> 01:48:01,037
+<i><font color="#ffff00">♪</font> I can promise you
+I will not lose this time <font color="#ffff00">♪</font></i>
+
+2086
+01:48:01,039 --> 01:48:03,139
+<i><font color="#ffff00">♪</font> I did it all independent
+Now we winning <font color="#ffff00">♪</font></i>
+
+2087
+01:48:03,141 --> 01:48:05,209
+<i><font color="#ffff00">♪</font> I got my homeys
+Cooking in the kitchen <font color="#ffff00">♪</font></i>
+
+2088
+01:48:05,211 --> 01:48:07,210
+<i><font color="#ffff00">♪</font> We gon' have to win
+And give us the business <font color="#ffff00">♪</font></i>
+
+2089
+01:48:07,212 --> 01:48:09,013
+<i><font color="#ffff00">♪</font> The world is mine and you
+Gon' have to pay me attention <font color="#ffff00">♪</font></i>
+
+2090
+01:48:09,015 --> 01:48:11,048
+<i><font color="#ffff00">♪</font> I did everything
+That I did on my own <font color="#ffff00">♪</font></i>
+
+2091
+01:48:11,050 --> 01:48:12,849
+<i><font color="#ffff00">♪</font> I'm the only one for real
+There can never be a clone <font color="#ffff00">♪</font></i>
+
+2092
+01:48:12,851 --> 01:48:14,617
+<i><font color="#ffff00">♪</font> Better talk to me nice
+Better watch your tone <font color="#ffff00">♪</font></i>
+
+2093
+01:48:14,619 --> 01:48:15,686
+<i><font color="#ffff00">♪</font> And I'm putting on
+For my home slice <font color="#ffff00">♪</font></i>
+
+2094
+01:48:15,688 --> 01:48:17,254
+<i><font color="#ffff00">♪</font> So I gotta go hard ♪</i>
+
+2095
+01:48:17,256 --> 01:48:19,726
+<font color="#ff00ff">[ECHOING]</font>
+<i><font color="#ffff00">♪</font> I gotta elevate ♪</i>
+
+2096
+01:48:42,881 --> 01:48:45,818
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+2097
+01:48:58,930 --> 01:49:00,998
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2098
+01:49:01,000 --> 01:49:02,833
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2099
+01:49:02,835 --> 01:49:04,802
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2100
+01:49:04,804 --> 01:49:06,736
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2101
+01:49:06,738 --> 01:49:08,304
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2102
+01:49:08,306 --> 01:49:10,240
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2103
+01:49:10,242 --> 01:49:12,009
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2104
+01:49:12,011 --> 01:49:13,947
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2105
+01:49:15,780 --> 01:49:17,647
+<i><font color="#ffff00">♪</font> I went from boy to a man,
+Why? <font color="#ffff00">♪</font></i>
+
+2106
+01:49:17,649 --> 01:49:19,215
+<i><font color="#ffff00">♪</font> Officer sure had to
+Stand down <font color="#ffff00">♪</font></i>
+
+2107
+01:49:19,217 --> 01:49:20,918
+<i><font color="#ffff00">♪</font> But I had to make
+A perfect plan <font color="#ffff00">♪</font></i>
+
+2108
+01:49:20,920 --> 01:49:22,719
+<i><font color="#ffff00">♪</font> I'm on a wave ♪
+♪ Brave, brave <font color="#ffff00">♪</font></i>
+
+2109
+01:49:22,721 --> 01:49:23,754
+<i><font color="#ffff00">♪</font> I had to fight
+For the city <font color="#ffff00">♪</font></i>
+
+2110
+01:49:23,756 --> 01:49:25,755
+<i><font color="#ffff00">♪</font> For the city ♪</i>
+
+2111
+01:49:25,757 --> 01:49:27,257
+<i><font color="#ffff00">♪</font> I had to fight for people ♪
+<font color="#ffff00">♪</font> For the people ♪</i>
+
+2112
+01:49:27,259 --> 01:49:28,892
+<i><font color="#ffff00">♪</font> You gotta do
+What all leaders do, go <font color="#ffff00">♪</font></i>
+
+2113
+01:49:28,894 --> 01:49:30,861
+<i><font color="#ffff00">♪</font> Everyone here
+We been needing you <font color="#ffff00">♪</font></i>
+
+2114
+01:49:30,863 --> 01:49:32,262
+<i><font color="#ffff00">♪</font> I know you can be a hero
+'Cause I seen you do it <font color="#ffff00">♪</font></i>
+
+2115
+01:49:32,264 --> 01:49:33,964
+<i><font color="#ffff00">♪</font> This is the time
+We needed you <font color="#ffff00">♪</font></i>
+
+2116
+01:49:33,966 --> 01:49:35,898
+<i><font color="#ffff00">♪</font> Everyone is here
+To see you move <font color="#ffff00">♪</font></i>
+
+2117
+01:49:35,900 --> 01:49:37,968
+<i><font color="#ffff00">♪</font> We want it, we want it
+We want it, we want it <font color="#ffff00">♪</font></i>
+
+2118
+01:49:37,970 --> 01:49:39,937
+<i><font color="#ffff00">♪</font> We put our wallet away ♪
+♪ Wallet <font color="#ffff00">♪</font></i>
+
+2119
+01:49:39,939 --> 01:49:41,839
+<i><font color="#ffff00">♪</font> And every time
+Each one of you <font color="#ffff00">♪</font></i>
+
+2120
+01:49:41,841 --> 01:49:43,406
+<i><font color="#ffff00">♪</font> Through the city
+You were saving the day, go <font color="#ffff00">♪</font></i>
+
+2121
+01:49:43,408 --> 01:49:45,075
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2122
+01:49:45,077 --> 01:49:47,044
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2123
+01:49:47,046 --> 01:49:48,946
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2124
+01:49:48,948 --> 01:49:50,848
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2125
+01:49:50,850 --> 01:49:52,415
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2126
+01:49:52,417 --> 01:49:54,652
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2127
+01:49:54,654 --> 01:49:56,285
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2128
+01:49:56,287 --> 01:49:58,321
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2129
+01:49:58,323 --> 01:50:00,190
+<i><font color="#ffff00">♪</font> We gotta fight
+For the town, town <font color="#ffff00">♪</font></i>
+
+2130
+01:50:00,192 --> 01:50:01,892
+<i><font color="#ffff00">♪</font> Now there's no feelings
+allowed, allowed <font color="#ffff00">♪</font></i>
+
+2131
+01:50:01,894 --> 01:50:03,693
+<i><font color="#ffff00">♪</font> Everyone cheer in the crowd ♪</i>
+
+2132
+01:50:03,695 --> 01:50:05,763
+<i><font color="#ffff00">♪</font> Bought 'em so well
+I'm over the clouds <font color="#ffff00">♪</font></i>
+
+2133
+01:50:05,765 --> 01:50:07,363
+<i><font color="#ffff00">♪</font> We gotta fight for the city ♪
+<font color="#ffff00">♪</font> City ♪</i>
+
+2134
+01:50:07,365 --> 01:50:09,400
+<i><font color="#ffff00">♪</font> Competition was lethal ♪
+♪ Lethal <font color="#ffff00">♪</font></i>
+
+2135
+01:50:09,402 --> 01:50:11,201
+<i><font color="#ffff00">♪</font> Honestly, it's no biggie ♪
+♪ Biggie <font color="#ffff00">♪</font></i>
+
+2136
+01:50:11,203 --> 01:50:13,003
+<i><font color="#ffff00">♪</font> I had to do
+What all leaders do <font color="#ffff00">♪</font></i>
+
+2137
+01:50:13,005 --> 01:50:14,405
+<i><font color="#ffff00">♪</font> Uh-oh
+They don't want it, man <font color="#ffff00">♪</font></i>
+
+2138
+01:50:14,407 --> 01:50:16,139
+<i><font color="#ffff00">♪</font> Uh-oh
+They don't wanna know <font color="#ffff00">♪</font></i>
+
+2139
+01:50:16,141 --> 01:50:18,075
+<i><font color="#ffff00">♪</font> Promise, uh-oh
+They don't want it, man <font color="#ffff00">♪</font></i>
+
+2140
+01:50:18,077 --> 01:50:19,809
+<i><font color="#ffff00">♪</font> Uh-oh
+They don't wanna know <font color="#ffff00">♪</font></i>
+
+2141
+01:50:19,811 --> 01:50:21,879
+<i><font color="#ffff00">♪</font> Promise, uh-oh
+They don't want it, man <font color="#ffff00">♪</font></i>
+
+2142
+01:50:21,881 --> 01:50:24,013
+<i><font color="#ffff00">♪</font> Uh-oh, they can't
+Handle my powers <font color="#ffff00">♪</font></i>
+
+2143
+01:50:24,015 --> 01:50:25,715
+<i><font color="#ffff00">♪</font> They always hate on us ♪</i>
+
+2144
+01:50:25,717 --> 01:50:27,384
+<i><font color="#ffff00">♪</font> But they can't do it
+Without us <font color="#ffff00">♪</font></i>
+
+2145
+01:50:27,386 --> 01:50:29,385
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2146
+01:50:29,387 --> 01:50:31,688
+<i><font color="#ffff00">♪</font> We gotta clean up
+These city streets <font color="#ffff00">♪</font></i>
+
+2147
+01:50:31,690 --> 01:50:33,290
+<i><font color="#ffff00">♪</font> We don't accept defeat ♪
+♪ 'Feat <font color="#ffff00">♪</font></i>
+
+2148
+01:50:33,292 --> 01:50:35,159
+<i><font color="#ffff00">♪</font> We keep on going
+Until we win <font color="#ffff00">♪</font></i>
+
+2149
+01:50:35,161 --> 01:50:36,860
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2150
+01:50:36,862 --> 01:50:38,696
+<i><font color="#ffff00">♪</font> All of 'em weak
+In the knees <font color="#ffff00">♪</font></i>
+
+2151
+01:50:38,698 --> 01:50:41,031
+<i><font color="#ffff00">♪</font> Scary how lights
+When they freeze <font color="#ffff00">♪</font></i>
+
+2152
+01:50:41,033 --> 01:50:42,700
+<i><font color="#ffff00">♪</font> Well, we keep on going
+Until we win <font color="#ffff00">♪</font></i>
+
+2153
+01:50:42,702 --> 01:50:44,067
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2154
+01:50:44,069 --> 01:50:46,035
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2155
+01:50:46,037 --> 01:50:47,970
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2156
+01:50:47,972 --> 01:50:50,040
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2157
+01:50:50,042 --> 01:50:51,875
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2158
+01:50:51,877 --> 01:50:53,477
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2159
+01:50:53,479 --> 01:50:55,312
+<i><font color="#ffff00">♪</font> Yeah, yeah
+Yeah, yeah ♪</i>
+
+2160
+01:50:55,314 --> 01:50:57,317
+<i><font color="#ffff00">♪</font> We are the way up ♪</i>
+
+2161
+01:51:10,996 --> 01:51:12,763
+<i><font color="#ffff00">♪</font> Well ♪</i>
+
+2162
+01:51:12,765 --> 01:51:15,702
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+2163
+01:51:19,939 --> 01:51:21,740
+<font color="#ff8000">GIRLS</font>: <i>Ha!</i>
+
+2164
+01:51:27,947 --> 01:51:30,414
+<i><font color="#ffff00">♪</font> This morning
+I woke up ♪</i>
+
+2165
+01:51:30,416 --> 01:51:32,516
+<i><font color="#ffff00">♪</font> In a fortress of distortion ♪</i>
+
+2166
+01:51:32,518 --> 01:51:34,418
+<i><font color="#ffff00">♪</font> I'm at war with my emotions ♪</i>
+
+2167
+01:51:34,420 --> 01:51:36,486
+<i><font color="#ffff00">♪</font> I'm at war with
+They enforce me <font color="#ffff00">♪</font></i>
+
+2168
+01:51:36,488 --> 01:51:38,455
+<i><font color="#ffff00">♪</font> Trying to fight for what's
+Right, and got sidetracked <font color="#ffff00">♪</font></i>
+
+2169
+01:51:38,457 --> 01:51:40,523
+<i><font color="#ffff00">♪</font> Where your mind at?
+Never mind that <font color="#ffff00">♪</font></i>
+
+2170
+01:51:40,525 --> 01:51:42,860
+<i><font color="#ffff00">♪</font> Got me thinking a blink
+You swim and you sinking <font color="#ffff00">♪</font></i>
+
+2171
+01:51:42,862 --> 01:51:45,963
+<i><font color="#ffff00">♪</font> You wouldn't, you leave me
+Here for my loaded weapon <font color="#ffff00">♪</font></i>
+
+2172
+01:51:45,965 --> 01:51:48,365
+<i><font color="#ffff00">♪</font> I still owe my brother
+My present protection <font color="#ffff00">♪</font></i>
+
+2173
+01:51:48,367 --> 01:51:50,233
+<i><font color="#ffff00">♪</font> My prayer, my sights
+So I'm doing what's right <font color="#ffff00">♪</font></i>
+
+2174
+01:51:50,235 --> 01:51:52,268
+<i><font color="#ffff00">♪</font> And I ask you no questions ♪</i>
+
+2175
+01:51:52,270 --> 01:51:54,237
+<i><font color="#ffff00">♪</font> I wanna be home-free ♪</i>
+
+2176
+01:51:54,239 --> 01:51:56,305
+<i><font color="#ffff00">♪</font> Where's one that was lonely ♪</i>
+
+2177
+01:51:56,307 --> 01:51:58,275
+<i><font color="#ffff00">♪</font> But I'm ready and waiting ♪</i>
+
+2178
+01:51:58,277 --> 01:52:01,277
+<i><font color="#ffff00">♪</font> For my day of salvation
+And I'm patient <font color="#ffff00">♪</font></i>
+
+2179
+01:52:01,279 --> 01:52:05,315
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2180
+01:52:05,317 --> 01:52:08,050
+<i><font color="#ffff00">♪</font> I'm coming home, now ♪</i>
+
+2181
+01:52:08,052 --> 01:52:09,285
+<i><font color="#ffff00">♪</font> I'm coming home ♪</i>
+
+2182
+01:52:09,287 --> 01:52:13,357
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2183
+01:52:13,359 --> 01:52:15,959
+<i><font color="#ffff00">♪</font> My rebel lone yell ♪</i>
+
+2184
+01:52:15,961 --> 01:52:17,861
+<i><font color="#ffff00">♪</font> My rebel lone ♪</i>
+
+2185
+01:52:17,863 --> 01:52:20,129
+<i><font color="#ffff00">♪</font> They looking for saviors
+I'm looking for safety <font color="#ffff00">♪</font></i>
+
+2186
+01:52:20,131 --> 01:52:22,098
+<i><font color="#ffff00">♪</font> They never gonna break me
+Take me <font color="#ffff00">♪</font></i>
+
+2187
+01:52:22,100 --> 01:52:23,534
+<i><font color="#ffff00">♪</font> Down on my knees, believe ♪</i>
+
+2188
+01:52:23,536 --> 01:52:25,268
+<i><font color="#ffff00">♪</font> I'm never gonna beg
+Or plead <font color="#ffff00">♪</font></i>
+
+2189
+01:52:25,270 --> 01:52:27,137
+<i><font color="#ffff00">♪</font> I never say never
+But I guarantee <font color="#ffff00">♪</font></i>
+
+2190
+01:52:27,139 --> 01:52:29,272
+<i><font color="#ffff00">♪</font> Gather my strength
+Goin' hard in the paint <font color="#ffff00">♪</font></i>
+
+2191
+01:52:29,274 --> 01:52:31,275
+<i><font color="#ffff00">♪</font> Paint some more pictures
+Put on display <font color="#ffff00">♪</font></i>
+
+2192
+01:52:31,277 --> 01:52:33,343
+<i><font color="#ffff00">♪</font> I'm a get they don't
+Get them my check <font color="#ffff00">♪</font></i>
+
+2193
+01:52:33,345 --> 01:52:35,081
+<i><font color="#ffff00">♪</font> Can't take me down now ♪</i>
+
+2194
+01:52:36,582 --> 01:52:39,219
+<i><font color="#ffff00">♪</font> My feet on the ground now ♪</i>
+
+2195
+01:52:41,252 --> 01:52:43,355
+<i><font color="#ffff00">♪</font> Punchin' 'em on down now ♪</i>
+
+2196
+01:52:45,323 --> 01:52:47,290
+<i><font color="#ffff00">♪</font> Say it out loud now ♪</i>
+
+2197
+01:52:47,292 --> 01:52:50,059
+<i><font color="#ffff00">♪</font> Say it out loud
+Are you ready for war? <font color="#ffff00">♪</font></i>
+
+2198
+01:52:50,061 --> 01:52:54,831
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2199
+01:52:54,833 --> 01:52:56,834
+<i><font color="#ffff00">♪</font> I'm coming home now ♪</i>
+
+2200
+01:52:56,836 --> 01:52:58,268
+<i><font color="#ffff00">♪</font> I'm coming home ♪</i>
+
+2201
+01:52:58,270 --> 01:53:02,505
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2202
+01:53:02,507 --> 01:53:04,540
+<i><font color="#ffff00">♪</font> My rebel lone yell ♪</i>
+
+2203
+01:53:04,542 --> 01:53:06,309
+<i><font color="#ffff00">♪</font> My rebel lone ♪</i>
+
+2204
+01:53:06,311 --> 01:53:13,252
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2205
+01:53:14,520 --> 01:53:21,060
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2206
+01:53:30,935 --> 01:53:36,509
+<i><font color="#ffff00">♪</font> Oh ♪</i>
+
+2207
+01:54:16,347 --> 01:54:18,248
+<font color="#ff00ff">[BELLS JINGLING RHYTHMICALLY]</font>
+
+2208
+01:54:18,250 --> 01:54:21,585
+<font color="#ff8000">PETER 2</font>: <i><font color="#ffff00">♪</font> Oh,
+Spidey-bells Spidey-bells <font color="#ffff00">♪</font></i>
+
+2209
+01:54:21,587 --> 01:54:23,519
+<i><font color="#ffff00">♪</font> Swinging through Midtown ♪</i>
+
+2210
+01:54:23,521 --> 01:54:25,321
+<i><font color="#ffff00">♪</font> Oh, what fun to sling a web ♪</i>
+
+2211
+01:54:25,323 --> 01:54:27,424
+<i><font color="#ffff00">♪</font> And take the bad guys down ♪</i>
+
+2212
+01:54:27,426 --> 01:54:29,326
+<i><font color="#ffff00">♪</font> Spidey-bells, Spidey-bells ♪</i>
+
+2213
+01:54:29,328 --> 01:54:31,093
+<i><font color="#ffff00">♪</font> Quipping all the time ♪</i>
+
+2214
+01:54:31,095 --> 01:54:32,929
+<i><font color="#ffff00">♪</font> Oh, what fun
+To swing around <font color="#ffff00">♪</font></i>
+
+2215
+01:54:32,931 --> 01:54:35,031
+<i><font color="#ffff00">♪</font> New York
+While fighting crime <font color="#ffff00">♪</font></i>
+
+2216
+01:54:35,033 --> 01:54:37,034
+<i><font color="#ffff00">♪</font> Swinging through
+The streets <font color="#ffff00">♪</font></i>
+
+2217
+01:54:37,036 --> 01:54:38,634
+<i><font color="#ffff00">♪</font> On a web of spider silk ♪</i>
+
+2218
+01:54:38,636 --> 01:54:40,536
+<i><font color="#ffff00">♪</font> Kicking all the butts ♪</i>
+
+2219
+01:54:40,538 --> 01:54:42,472
+<i><font color="#ffff00">♪</font> Of villains and their ilk ♪</i>
+
+2220
+01:54:42,474 --> 01:54:44,574
+<i><font color="#ffff00">♪</font> Bombs from Goblins fling
+Fling <font color="#ffff00">♪</font></i>
+
+2221
+01:54:44,576 --> 01:54:46,375
+<i><font color="#ffff00">♪</font> Pumpkins blooming bright
+Bright <font color="#ffff00">♪</font></i>
+
+2222
+01:54:46,377 --> 01:54:48,178
+<i><font color="#ffff00">♪</font> How hard it is
+To consistently bring <font color="#ffff00">♪</font></i>
+
+2223
+01:54:48,180 --> 01:54:49,646
+<i><font color="#ffff00">♪</font> Peace to New York all night ♪</i>
+
+2224
+01:54:49,648 --> 01:54:52,049
+<i><font color="#ffff00">♪</font> Oh, Spidey-bells
+Might be swell <font color="#ffff00">♪</font></i>
+
+2225
+01:54:52,051 --> 01:54:54,084
+<i><font color="#ffff00">♪</font> To do more than fight crime ♪</i>
+
+2226
+01:54:54,086 --> 01:54:56,954
+<i><font color="#ffff00">♪</font> I got a lot of qualities
+That don't get much airtime <font color="#ffff00">♪</font></i>
+
+2227
+01:54:56,956 --> 01:54:59,555
+<i><font color="#ffff00">♪</font> I can sing, I can dance
+I tell jokes, I act <font color="#ffff00">♪</font></i>
+
+2228
+01:54:59,557 --> 01:55:01,692
+<i><font color="#ffff00">♪</font> I get big, big, big deal ♪</i>
+
+2229
+01:55:01,694 --> 01:55:03,429
+<i><font color="#ffff00">♪</font> If my agent called me back ♪</i>
+
+2230
+01:55:04,229 --> 01:55:05,528
+<font color="#ff00ff">[PETER 2 SIGHS]</font>
+
+2231
+01:55:05,530 --> 01:55:09,499
+<i><font color="#ffff00">♪</font> Why did I agree ♪</i>
+
+2232
+01:55:09,501 --> 01:55:14,137
+<i><font color="#ffff00">♪</font> To do this stupid song? ♪</i>
+
+2233
+01:55:14,139 --> 01:55:17,174
+<i><font color="#ffff00">♪</font> I have a degree ♪</i>
+
+2234
+01:55:17,176 --> 01:55:21,614
+<i><font color="#ffff00">♪</font> In chemical engineering ♪</i>
+
+2235
+01:55:25,984 --> 01:55:28,520
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+2236
+01:55:30,456 --> 01:55:32,022
+You're a bit late.
+
+2237
+01:55:32,024 --> 01:55:33,423
+<font color="#ff8000">MAN</font>: We can't all be
+everywhere at once.
+
+2238
+01:55:33,425 --> 01:55:35,258
+Little text might've been nice.
+
+2239
+01:55:35,260 --> 01:55:37,027
+<font color="#ff8000">MAN</font>: I was gone for less than two hours.
+What happened?
+
+2240
+01:55:37,029 --> 01:55:39,095
+Okay.
+I know what it looks like.
+
+2241
+01:55:39,097 --> 01:55:41,565
+But here's the good news.
+<font color="#ff8000">MAN</font>: Oh, here we go.
+
+2242
+01:55:41,567 --> 01:55:43,500
+The multiverse <i>didn't</i> collapse.
+
+2243
+01:55:43,502 --> 01:55:45,268
+<font color="#ff8000">MAN</font>: Oh, cool!
+Little touch and go.
+
+2244
+01:55:45,270 --> 01:55:46,769
+But it worked out.
+
+2245
+01:55:46,771 --> 01:55:48,205
+<font color="#ff8000">MAN</font>: Great story. Did
+you finish the goober?
+
+2246
+01:55:48,207 --> 01:55:49,638
+It's not a goober.
+It's a gizmo.
+
+2247
+01:55:49,640 --> 01:55:51,174
+<font color="#ff8000">MAN</font>: Do you always
+have to call me out?
+
+2248
+01:55:51,176 --> 01:55:52,375
+It's just really frustrating
+and bums me out.
+
+2249
+01:55:52,377 --> 01:55:53,710
+<font color="#ff8000">WOMAN</font>: Don't get
+excited, Miguel.
+
+2250
+01:55:53,712 --> 01:55:55,211
+It's just a prototype.
+<font color="#ff8000">MAN</font>: Not excited.
+
+2251
+01:55:55,213 --> 01:55:56,479
+<font color="#ff8000">WOMAN</font>: But you could
+be the first person
+
+2252
+01:55:56,481 --> 01:55:58,447
+to make an autonomous
+multiverse jump.
+
+2253
+01:55:58,449 --> 01:55:59,750
+Or the last.
+
+2254
+01:55:59,752 --> 01:56:01,585
+So we're just gonna roll
+the dice on this?
+
+2255
+01:56:01,587 --> 01:56:04,454
+So, what you do you say, pal?
+Where you want to go first?
+
+2256
+01:56:04,456 --> 01:56:07,391
+Let's start at the beginning
+one last time.
+
+2257
+01:56:07,393 --> 01:56:09,625
+Earth '67.
+
+2258
+01:56:09,627 --> 01:56:12,129
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+2259
+01:56:12,131 --> 01:56:13,696
+Whoa!
+What the...?
+
+2260
+01:56:13,698 --> 01:56:15,331
+I'm Spider-Man.
+
+2261
+01:56:15,333 --> 01:56:16,700
+I need you to come with me.
+Who the heck are you?
+
+2262
+01:56:16,702 --> 01:56:19,236
+I just told you...
+Listen. I'm from the future.
+
+2263
+01:56:19,238 --> 01:56:21,504
+How dare you point at me!
+You were pointing first.
+
+2264
+01:56:21,506 --> 01:56:24,040
+It's rude to point.
+<i>You're</i> being very rude.
+
+2265
+01:56:24,042 --> 01:56:26,076
+Which one pointed first?
+
+2266
+01:56:26,078 --> 01:56:28,044
+Spider-Man pointed first.
+Obviously.
+
+2267
+01:56:28,046 --> 01:56:29,745
+You're pointing at me right now.
+I'm not pointing.
+
+2268
+01:56:29,747 --> 01:56:31,481
+Look at your finger.
+
+2269
+01:56:31,483 --> 01:56:32,782
+I'm pointing out your pointing,
+which is different.
+
+2270
+01:56:32,784 --> 01:56:34,418
+You haven't seen pointing.
+
+2271
+01:56:34,420 --> 01:56:36,620
+You're accusing me
+of pointing while you're...!
+
+2272
+01:56:36,622 --> 01:56:37,622
+<font color="#ff00ff">[MUSIC PLAYING]</font>
+
+2273
+01:56:37,624 --> 01:56:42,624
+Subtitles by explosiveskull
+
