@@ -27,7 +27,7 @@ DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) 
 
 DB$Subtitles <- NA
 
-number_of_subtitles_files <- 205
+number_of_subtitles_files <- 490
 
 progress_bar <- txtProgressBar(min = 0,
                                max = number_of_subtitles_files,
@@ -36,13 +36,15 @@ progress_bar <- txtProgressBar(min = 0,
                                char = "=")
 
 for (i in 1:number_of_subtitles_files){
-
+try({
   subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
   subtitle <- suppressWarnings(t(read_srt(subtitle_path)))
   subtitle <- as.data.frame(subtitle)
   subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ")
   DB$Subtitles[i] <- subtitle$subtitle[4] 
   setTxtProgressBar(progress_bar, i)
+},
+silent = TRUE)
 }
 
 close(progress_bar)
