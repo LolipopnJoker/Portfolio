@@ -1,0 +1,6542 @@
+﻿1
+00:02:09,838 --> 00:02:12,882
+There's a reporter in
+London named Simon Ross.
+
+2
+00:02:15,052 --> 00:02:18,721
+We caught some phone chatter we
+didn't like and his name came up.
+
+3
+00:02:18,889 --> 00:02:21,390
+They put a team out there
+to take a better look.
+
+4
+00:02:21,558 --> 00:02:23,643
+They've been sitting on
+him pretty tight all day.
+
+5
+00:02:25,145 --> 00:02:29,357
+I just got a call about an hour ago.
+We got a real problem here.
+
+6
+00:02:29,525 --> 00:02:30,733
+What kind of problem?
+
+7
+00:02:30,901 --> 00:02:33,027
+This guy's a writer
+for The Guardian.
+
+8
+00:02:33,195 --> 00:02:38,533
+He's preparing an exposé on Jason
+Bourne, Treadstone and Blackbriar.
+
+9
+00:02:38,700 --> 00:02:39,909
+Sourced how?
+
+10
+00:02:40,035 --> 00:02:40,993
+Unknown.
+
+11
+00:02:41,078 --> 00:02:44,038
+From Bourne? Is it possible?
+
+12
+00:02:44,122 --> 00:02:45,122
+Possible?
+
+13
+00:02:45,999 --> 00:02:48,251
+We had Bourne six
+weeks ago in Moscow.
+
+14
+00:02:48,669 --> 00:02:52,713
+He was on foot, wounded, with a
+full Cossack posse up his ass.
+
+15
+00:02:52,881 --> 00:02:54,924
+Somehow, he walked out of there.
+
+16
+00:02:55,092 --> 00:02:57,927
+I've kind of lost my perspective
+on what's possible.
+
+17
+00:02:58,095 --> 00:03:00,263
+You sound tired, Ezra.
+
+18
+00:03:00,430 --> 00:03:03,349
+I would make more of an
+effort if I were you.
+
+19
+00:03:03,725 --> 00:03:06,102
+You're the director of the
+Central Intelligence Agency
+
+20
+00:03:06,186 --> 00:03:09,605
+of the United States of America,
+for God's sake. Act like it.
+
+21
+00:03:09,731 --> 00:03:12,608
+If I go down for this, Mark,
+if this goes any more wrong..
+
+22
+00:03:12,693 --> 00:03:13,693
+Ezra,
+
+23
+00:03:14,194 --> 00:03:18,739
+you were given a Ferrari and your
+people treated it like a lawn mower.
+
+24
+00:03:19,074 --> 00:03:21,784
+You break it, you bought it.
+It was ever thus.
+
+25
+00:03:23,745 --> 00:03:26,956
+Well, maybe I should be
+speaking directly to Ric Byer.
+
+26
+00:03:27,124 --> 00:03:29,375
+No, no, no. You're in
+enough trouble already.
+
+27
+00:03:29,626 --> 00:03:31,419
+I'll let him know.
+
+28
+00:05:10,519 --> 00:05:13,688
+Julie, is that the last of them?
+Terrific, thank you.
+
+29
+00:05:13,772 --> 00:05:16,399
+So, the last audit
+on Treadstone?
+
+30
+00:05:16,566 --> 00:05:18,067
+Third page.
+
+31
+00:05:18,235 --> 00:05:19,902
+Seven weeks ago.
+
+32
+00:05:22,155 --> 00:05:23,823
+This is from the CIA,
+or this is ours?
+
+33
+00:05:24,032 --> 00:05:25,366
+Oh, no. It's theirs.
+
+34
+00:05:25,575 --> 00:05:27,076
+This whole pile is theirs.
+
+35
+00:05:27,285 --> 00:05:28,577
+Is anybody reading
+these ground cables?
+
+36
+00:05:28,704 --> 00:05:30,079
+Look, how wide are we digging?
+
+37
+00:05:30,163 --> 00:05:32,248
+What do you mean, "how wide?"
+Just get me everything.
+
+38
+00:05:32,416 --> 00:05:36,168
+Treadstone, Blackbriar, Outcome, LARX.
+All the beta programs.
+
+39
+00:05:36,253 --> 00:05:38,004
+And that means take it all the
+way back to Emerald Lake.
+
+40
+00:05:38,088 --> 00:05:41,215
+I want all points of convergence,
+I want all research personnel,
+
+41
+00:05:41,299 --> 00:05:43,300
+I want to know about
+anybody who talked
+
+42
+00:05:43,385 --> 00:05:45,594
+to anybody about
+anything at any time.
+
+43
+00:05:45,679 --> 00:05:48,764
+Seriously, has anybody looked
+at this stuff on Bourne?
+
+44
+00:05:48,932 --> 00:05:51,225
+The field reports.
+It's incredible.
+
+45
+00:05:51,393 --> 00:05:55,771
+Three years off-program, non-med,
+first-gen, still rolling.
+
+46
+00:05:56,023 --> 00:05:58,274
+If there's any way we can
+score some data off of this..
+
+47
+00:05:58,400 --> 00:06:00,401
+If they caught him alive..
+
+48
+00:06:00,902 --> 00:06:03,279
+I mean, even as a base line.
+
+49
+00:06:04,197 --> 00:06:05,573
+Even forensically.
+
+50
+00:06:05,741 --> 00:06:07,616
+Maybe you're in the
+wrong meeting.
+
+51
+00:06:08,285 --> 00:06:11,245
+Because the meeting that we're
+having is about an infection.
+
+52
+00:06:11,788 --> 00:06:14,206
+We're here talking about
+a serious infection
+
+53
+00:06:14,291 --> 00:06:17,209
+and all we're trying to do is
+determine how far it's spread
+
+54
+00:06:17,294 --> 00:06:19,628
+so that we know how much we have
+to cut to save the patient.
+
+55
+00:06:20,130 --> 00:06:22,631
+You have never heard
+of Treadstone.
+
+56
+00:06:22,799 --> 00:06:26,052
+And Bourne.. I don't care if they bag
+him and drop the body on the sidewalk.
+
+57
+00:06:26,136 --> 00:06:27,470
+We're not going to touch it.
+
+58
+00:06:27,637 --> 00:06:29,388
+You're going to turn off
+that side of your head now
+
+59
+00:06:29,473 --> 00:06:30,890
+and get with the
+rest of us here.
+
+60
+00:06:30,974 --> 00:06:33,392
+And you're going to start to consider
+the magnitude of what we're facing
+
+61
+00:06:33,477 --> 00:06:35,436
+if this moves sideways on us.
+
+62
+00:06:35,520 --> 00:06:37,688
+Because if we get into
+this, we dig around,
+
+63
+00:06:37,773 --> 00:06:40,066
+and we find out these CIA clowns
+
+64
+00:06:40,150 --> 00:06:44,320
+have let this Treadstone mess metastasize
+into the rest of these programs?
+
+65
+00:06:45,781 --> 00:06:47,948
+Just pray that that
+doesn't happen.
+
+66
+00:07:40,168 --> 00:07:43,254
+We're just getting reports coming
+in now from Waterloo Station
+
+67
+00:07:43,338 --> 00:07:44,964
+that there has been a shooting.
+
+68
+00:07:45,048 --> 00:07:47,800
+Let's take you live down there
+and speak to Jeremy Thompson.
+
+69
+00:07:47,968 --> 00:07:49,051
+Jeremy?
+
+70
+00:07:49,219 --> 00:07:52,221
+There's still an awful lot of
+confusion here at Waterloo Station.
+
+71
+00:07:52,305 --> 00:07:54,640
+As you can see, ambulances
+have been called up.
+
+72
+00:07:54,808 --> 00:07:57,476
+The victim, Simon Ross,
+was a veteran reporter
+
+73
+00:07:57,561 --> 00:07:59,436
+with The Guardian
+newspaper in London.
+
+74
+00:07:59,521 --> 00:08:01,063
+He was pronounced
+dead at the scene.
+
+75
+00:08:01,148 --> 00:08:02,815
+Police are now telling us
+there was at least one,
+
+76
+00:08:02,899 --> 00:08:04,817
+and possibly as many
+as three, shots fired.
+
+77
+00:08:04,985 --> 00:08:07,736
+Simon Ross, a reporter with
+The Guardian newspaper..
+
+78
+00:08:47,527 --> 00:08:48,903
+Hey, James. Hey.
+
+79
+00:08:49,404 --> 00:08:52,364
+Oh, shit, sorry. I didn't
+know I was coming back.
+
+80
+00:08:52,449 --> 00:08:53,782
+It's all right.
+
+81
+00:08:58,788 --> 00:09:00,456
+Can you tell
+Dr. Hillcott I'm here?
+
+82
+00:09:00,624 --> 00:09:01,624
+You got it.
+
+83
+00:09:12,802 --> 00:09:14,970
+See you tomorrow.
+
+84
+00:09:28,610 --> 00:09:30,736
+I had no idea he was coming in.
+
+85
+00:09:30,820 --> 00:09:32,488
+It's Number Six. Number Six?
+
+86
+00:09:32,572 --> 00:09:34,490
+We haven't seen him since July.
+
+87
+00:09:34,574 --> 00:09:35,908
+Mmm-hmm. Okay.
+
+88
+00:09:36,660 --> 00:09:39,912
+"Need new base panels, choline
+profile, nerve conduction."
+
+89
+00:09:39,996 --> 00:09:42,623
+I want a full
+engraftment workup.
+
+90
+00:09:42,707 --> 00:09:45,751
+I'm gonna call NRAG and see if we
+can't get approval to put him under.
+
+91
+00:09:45,835 --> 00:09:47,920
+I want a marrow and a full
+spinal while we have him.
+
+92
+00:09:48,004 --> 00:09:49,255
+Okay.
+
+93
+00:10:00,183 --> 00:10:01,517
+How is he?
+
+94
+00:10:02,018 --> 00:10:03,102
+He's prepped.
+
+95
+00:10:04,646 --> 00:10:07,231
+He drank a half-liter of
+water while he was waiting.
+
+96
+00:10:07,315 --> 00:10:08,983
+He had some renal
+issues last year.
+
+97
+00:10:09,859 --> 00:10:11,860
+Or maybe he was thirsty.
+
+98
+00:10:13,113 --> 00:10:15,197
+I have a pending task request.
+
+99
+00:10:15,365 --> 00:10:16,615
+I know, I read it.
+
+100
+00:10:17,450 --> 00:10:19,535
+I'm trying to complete
+my cortex study.
+
+101
+00:10:21,204 --> 00:10:23,664
+He'll get a more sustained
+contrast off an IV.
+
+102
+00:10:23,873 --> 00:10:25,082
+I'm approved?
+
+103
+00:10:25,375 --> 00:10:26,417
+Mmm-hmm.
+
+104
+00:10:27,377 --> 00:10:29,378
+Yes! Thank you!
+
+105
+00:10:30,880 --> 00:10:32,881
+Sorry to keep you waiting.
+
+106
+00:10:38,388 --> 00:10:39,888
+We haven't seen you in a while
+
+107
+00:10:39,973 --> 00:10:42,641
+so we're going to be doing
+a full spec workup.
+
+108
+00:10:42,809 --> 00:10:44,476
+I just had a full spec
+three months ago.
+
+109
+00:10:44,853 --> 00:10:47,396
+Yeah, well, we had to change
+the boundary schedules
+
+110
+00:10:47,480 --> 00:10:49,565
+and you're a week
+over the new line.
+
+111
+00:10:50,066 --> 00:10:51,567
+Let me get this straight,
+if I had come in
+
+112
+00:10:51,651 --> 00:10:53,402
+10 days ago, I would
+have been in the clear?
+
+113
+00:10:56,072 --> 00:10:57,698
+It never gets any
+longer, does it?
+
+114
+00:10:58,074 --> 00:11:00,034
+You're gonna have
+to take that off.
+
+115
+00:11:51,961 --> 00:11:54,046
+Today, I have the honor
+of introducing the man
+
+116
+00:11:54,130 --> 00:11:56,090
+who is going to introduce
+our guest of honor.
+
+117
+00:11:56,257 --> 00:11:58,926
+Bert? Doctor Albert Hirsch.
+
+118
+00:12:02,972 --> 00:12:06,892
+I first met Dan Hillcott in 1987
+
+119
+00:12:06,976 --> 00:12:10,687
+at what must have
+been the most boring
+
+120
+00:12:11,147 --> 00:12:13,732
+neuropsych conference ever held.
+
+121
+00:12:14,442 --> 00:12:18,070
+We managed to escape
+that dreary ballroom
+
+122
+00:12:18,154 --> 00:12:22,324
+and find a dark corner
+and a cold beverage.
+
+123
+00:12:22,409 --> 00:12:26,662
+And we've been finding
+dark corners ever since.
+
+124
+00:12:35,004 --> 00:12:37,840
+My God.
+
+125
+00:12:46,141 --> 00:12:47,599
+Where did you find this?
+
+126
+00:12:48,184 --> 00:12:49,768
+YouTube.
+
+127
+00:12:50,812 --> 00:12:52,312
+I thought we had
+everything firewalled.
+
+128
+00:12:52,480 --> 00:12:53,480
+Yeah, so did I.
+
+129
+00:12:53,565 --> 00:12:55,357
+But then again, I thought the
+CIA would handle Treadstone,
+
+130
+00:12:55,442 --> 00:12:56,942
+so maybe I'm just
+behind the curve.
+
+131
+00:12:58,069 --> 00:12:59,361
+Hmm.
+
+132
+00:12:59,446 --> 00:13:00,863
+Well, is that it?
+Is that all of it?
+
+133
+00:13:01,197 --> 00:13:04,324
+No, no. They apparently
+thought it was okay
+
+134
+00:13:04,409 --> 00:13:06,410
+to attend about a half a dozen
+of these things together.
+
+135
+00:13:07,370 --> 00:13:08,454
+Proving what?
+
+136
+00:13:08,538 --> 00:13:11,248
+We're looking at the medical
+directors of Treadstone and Outcome
+
+137
+00:13:11,332 --> 00:13:14,042
+publicly celebrating their
+top secret man-crush.
+
+138
+00:13:14,169 --> 00:13:18,839
+If this Bourne mess exposes Treadstone,
+they will turn Hirsch inside out.
+
+139
+00:13:18,923 --> 00:13:21,258
+They'll be talking to Hillcott
+before we even know what happened.
+
+140
+00:13:21,676 --> 00:13:23,177
+What's the damage?
+
+141
+00:13:24,846 --> 00:13:28,265
+Outcome. We'd lose Outcome.
+
+142
+00:13:28,349 --> 00:13:29,933
+Uh, meaning what?
+
+143
+00:13:30,643 --> 00:13:33,228
+Meaning we will burn the
+program to the ground.
+
+144
+00:13:33,396 --> 00:13:35,063
+And I mean from top to bottom.
+
+145
+00:13:37,317 --> 00:13:39,526
+Because of this?
+
+146
+00:13:39,736 --> 00:13:41,403
+Because they're friends?
+
+147
+00:13:41,488 --> 00:13:43,572
+These two guys built
+our platform!
+
+148
+00:13:43,781 --> 00:13:45,324
+You want to wake up
+and see this on CNN?
+
+149
+00:13:45,408 --> 00:13:47,826
+Jesus, Ric. Just like that?
+
+150
+00:13:47,994 --> 00:13:49,077
+Hirsch and Hillcott?
+
+151
+00:13:49,162 --> 00:13:50,746
+How many people even
+understand this work,
+
+152
+00:13:50,872 --> 00:13:52,414
+let alone have the
+will to pursue it?
+
+153
+00:13:52,540 --> 00:13:53,999
+Nothing has even happened yet!
+
+154
+00:13:54,209 --> 00:13:55,417
+And we have to get ready.
+
+155
+00:13:55,543 --> 00:14:04,927
+Ready for what?
+
+156
+00:14:05,762 --> 00:14:09,556
+We don't lose it all, we've got the science.
+We'll keep the data.
+
+157
+00:14:10,350 --> 00:14:13,352
+All of our JSOK liaisons
+seem to be safe.
+
+158
+00:14:13,728 --> 00:14:15,729
+We've got the beta
+programs tucked away.
+
+159
+00:14:16,272 --> 00:14:18,357
+We'll take a pause,
+and we'll rebuild it.
+
+160
+00:14:18,441 --> 00:14:20,776
+I wish there was a better
+alternative, but..
+
+161
+00:14:24,447 --> 00:14:25,447
+God.
+
+162
+00:15:03,152 --> 00:15:05,529
+Are you going to pretend
+you don't know I'm here?
+
+163
+00:15:07,282 --> 00:15:09,491
+I was just trying to be polite.
+
+164
+00:15:18,209 --> 00:15:20,877
+I wasn't expecting you so soon.
+
+165
+00:15:21,296 --> 00:15:23,964
+What did you do? Did you
+come over the mountain?
+
+166
+00:15:24,132 --> 00:15:26,675
+Don't they forward my position?
+
+167
+00:15:27,385 --> 00:15:29,469
+You beat the record by two days.
+
+168
+00:15:29,637 --> 00:15:31,680
+Oh, yeah? Yeah.
+
+169
+00:15:34,100 --> 00:15:36,101
+You didn't know
+there was a record?
+
+170
+00:15:36,185 --> 00:15:39,021
+No. It never came up.
+
+171
+00:15:42,233 --> 00:15:44,651
+It wasn't your record, was it?
+
+172
+00:15:45,695 --> 00:15:47,654
+No one comes over the mountain.
+
+173
+00:15:48,114 --> 00:15:49,698
+Yeah, well, I did.
+
+174
+00:15:50,033 --> 00:15:51,366
+I'm Aaron, by the way.
+
+175
+00:15:51,534 --> 00:15:53,201
+Why did you do that?
+
+176
+00:15:53,745 --> 00:15:55,287
+If you weren't on the
+clock, why take the risk?
+
+177
+00:15:55,371 --> 00:15:57,205
+Why take the mountain?
+
+178
+00:16:00,251 --> 00:16:02,085
+I lost my chems.
+
+179
+00:16:02,879 --> 00:16:06,381
+I dropped my program
+kit, that's why.
+
+180
+00:16:37,413 --> 00:16:38,872
+All right.
+
+181
+00:16:39,582 --> 00:16:41,583
+Protocol is for me to
+call in your arrival.
+
+182
+00:16:41,751 --> 00:16:44,086
+They're going to want a sample pick-up.
+You got blood work, right?
+
+183
+00:16:44,545 --> 00:16:46,254
+I owe today.
+
+184
+00:16:46,422 --> 00:16:48,173
+All right, pull it now.
+
+185
+00:16:48,341 --> 00:16:50,717
+The drone takes about three
+hours to get up here
+
+186
+00:16:50,802 --> 00:16:54,930
+so I'll get some food started.
+You can dry your shit.
+
+187
+00:17:00,186 --> 00:17:01,645
+So, look..
+
+188
+00:17:02,188 --> 00:17:04,439
+I got a real problem, here.
+
+189
+00:17:05,942 --> 00:17:08,694
+I came over that mountain
+because I lost my chems.
+
+190
+00:17:09,946 --> 00:17:10,946
+What are you taking?
+
+191
+00:17:12,448 --> 00:17:14,533
+My daily? Phys meds, 250 green.
+
+192
+00:17:14,701 --> 00:17:17,160
+Cognitive programs, 400 blue.
+
+193
+00:17:17,245 --> 00:17:18,912
+Define "lost."
+
+194
+00:17:19,706 --> 00:17:22,207
+Lost. Fell into the rocks
+off a 20-meter cliff.
+
+195
+00:17:22,291 --> 00:17:23,291
+Lost.
+
+196
+00:17:23,418 --> 00:17:25,293
+How is that possible?
+
+197
+00:17:26,170 --> 00:17:27,379
+Look, I've had a pack of wolves
+
+198
+00:17:27,463 --> 00:17:29,172
+on my ass since I
+left the drop, okay?
+
+199
+00:17:29,340 --> 00:17:31,925
+I thought I lost them, but
+they came at me at the river,
+
+200
+00:17:32,009 --> 00:17:34,553
+so I took the ledge up to the ravine
+to try to rally out the night.
+
+201
+00:17:34,637 --> 00:17:35,679
+I chose wrong.
+
+202
+00:17:36,055 --> 00:17:37,472
+I got caught out in the
+open, I couldn't climb.
+
+203
+00:17:37,640 --> 00:17:39,433
+I couldn't make a fire,
+my hands got stiff.
+
+204
+00:17:40,852 --> 00:17:41,893
+I dropped them.
+
+205
+00:17:43,354 --> 00:17:45,188
+You're going to have
+to write that up.
+
+206
+00:17:50,278 --> 00:17:51,611
+So, is that yours?
+
+207
+00:17:52,321 --> 00:17:53,405
+Hmm?
+
+208
+00:17:55,032 --> 00:17:56,783
+The blood work?
+
+209
+00:17:57,160 --> 00:17:58,243
+That's yours, isn't it?
+
+210
+00:17:59,996 --> 00:18:02,122
+You're not a contact, are you?
+
+211
+00:18:07,128 --> 00:18:09,963
+Look, I'm sorry to call
+you out like that.
+
+212
+00:18:10,131 --> 00:18:11,840
+It's just that..
+
+213
+00:18:12,633 --> 00:18:14,801
+I have never met anybody
+in the program before.
+
+214
+00:18:16,471 --> 00:18:18,680
+Never, nobody. You're the..
+
+215
+00:18:24,437 --> 00:18:26,146
+I know you have some
+extra chems here.
+
+216
+00:18:26,314 --> 00:18:29,524
+I'm not supposed to ration you
+out until you leave tomorrow.
+
+217
+00:18:31,694 --> 00:18:32,694
+Yeah.
+
+218
+00:18:33,696 --> 00:18:35,781
+Did you chem today?
+
+219
+00:18:36,657 --> 00:18:38,408
+Green only.
+
+220
+00:18:39,368 --> 00:18:41,036
+I haven't had a
+blue in 32 hours.
+
+221
+00:19:15,780 --> 00:19:17,364
+People, listen up.
+
+222
+00:19:17,532 --> 00:19:19,074
+We have an imminent threat.
+
+223
+00:19:19,909 --> 00:19:24,287
+This is a national security
+emergency, priority level five.
+
+224
+00:19:28,376 --> 00:19:29,668
+It's Wills.
+
+225
+00:19:34,841 --> 00:19:35,841
+Ric Byer.
+
+226
+00:19:36,092 --> 00:19:38,677
+Hey. Uh, he's here.
+
+227
+00:19:38,845 --> 00:19:41,304
+Bourne is here, in New York.
+
+228
+00:19:41,389 --> 00:19:42,389
+What?
+
+229
+00:19:42,473 --> 00:19:44,099
+Jason Bourne is in Manhattan.
+
+230
+00:19:44,267 --> 00:19:45,308
+Confirmed.
+
+231
+00:19:45,476 --> 00:19:48,895
+He's alive and mobile. That's all I have.
+I gotta go.
+
+232
+00:20:51,292 --> 00:20:53,418
+Your friends are here.
+
+233
+00:20:54,170 --> 00:20:55,587
+I know.
+
+234
+00:20:57,673 --> 00:21:00,133
+Don't you think that's strange?
+
+235
+00:21:00,301 --> 00:21:02,844
+The wolves? They don't do that.
+
+236
+00:21:03,471 --> 00:21:05,096
+They don't track people.
+
+237
+00:21:05,765 --> 00:21:06,806
+Yeah.
+
+238
+00:21:06,974 --> 00:21:09,100
+Maybe they don't
+think you're human.
+
+239
+00:21:13,230 --> 00:21:15,023
+So, how many of us are there?
+
+240
+00:21:17,401 --> 00:21:19,319
+You ask too many questions.
+
+241
+00:21:20,571 --> 00:21:22,739
+Maybe you don't know, either.
+
+242
+00:21:26,702 --> 00:21:28,161
+So, what are you doing
+up here anyway?
+
+243
+00:21:33,376 --> 00:21:36,002
+How do you know that I'm
+not evaluating you?
+
+244
+00:21:36,712 --> 00:21:38,713
+I don't know. Are you?
+
+245
+00:21:38,923 --> 00:21:40,799
+Maybe I don't care.
+
+246
+00:21:44,345 --> 00:21:46,304
+Do you ever not care?
+
+247
+00:21:49,225 --> 00:21:51,351
+Maybe you're evaluating me.
+
+248
+00:21:54,063 --> 00:21:57,232
+I went off the grid for four
+days, that's why I'm here.
+
+249
+00:21:57,400 --> 00:21:59,150
+I skipped my check-in.
+
+250
+00:22:00,277 --> 00:22:02,070
+Now I'm on this bullshit
+scavenger hunt.
+
+251
+00:22:02,655 --> 00:22:03,822
+They have their reasons.
+
+252
+00:22:03,990 --> 00:22:05,949
+Yeah, well..
+
+253
+00:22:06,492 --> 00:22:09,911
+I thought I was having my wrist
+slapped, but now I'm not so sure.
+
+254
+00:22:12,331 --> 00:22:13,623
+I'm still trying to
+figure out if you're
+
+255
+00:22:13,708 --> 00:22:15,917
+supposed to kill me or
+give me a pep talk.
+
+256
+00:22:17,128 --> 00:22:19,379
+Seriously, man, you
+think too much.
+
+257
+00:22:20,631 --> 00:22:23,550
+Aren't we wired to stick
+our nose in, you and I?
+
+258
+00:22:23,718 --> 00:22:25,927
+There's not another
+person for 300 miles.
+
+259
+00:22:26,470 --> 00:22:28,722
+I know nobody's listening. Come on,
+you've got to give me something.
+
+260
+00:22:28,889 --> 00:22:31,099
+Talk to me, come on!
+
+261
+00:22:32,309 --> 00:22:34,811
+Why did they pull you off the
+field and put you up here?
+
+262
+00:22:36,272 --> 00:22:40,400
+It's not physical, with the way you've
+been moving, so what did you do?
+
+263
+00:22:40,568 --> 00:22:43,486
+Turn down an assignment?
+Start thinking for yourself?
+
+264
+00:22:44,655 --> 00:22:45,905
+Fall in love?
+
+265
+00:22:49,827 --> 00:22:50,827
+You fell in love.
+
+266
+00:23:08,804 --> 00:23:10,096
+It's better for wolves.
+
+267
+00:23:10,890 --> 00:23:13,433
+There's an ammo box by the door,
+you take as much as you need.
+
+268
+00:23:13,601 --> 00:23:14,976
+We're done talking.
+
+269
+00:23:15,686 --> 00:23:18,480
+You ate, you're pulling out early.
+You should hit it.
+
+270
+00:23:19,148 --> 00:23:20,523
+Okay.
+
+271
+00:23:24,070 --> 00:23:26,279
+Some other time, then. Yeah.
+
+272
+00:23:29,909 --> 00:23:31,326
+Thanks. Good luck.
+
+273
+00:24:45,651 --> 00:24:46,901
+What's this?
+
+274
+00:24:47,444 --> 00:24:50,613
+I think that we need to
+clarify something here, Don.
+
+275
+00:24:50,781 --> 00:24:52,115
+Clarify what?
+
+276
+00:24:52,366 --> 00:24:54,659
+You keep using the
+word "unacceptable"
+
+277
+00:24:54,743 --> 00:24:58,163
+and I want to know exactly what
+you think you mean by that.
+
+278
+00:24:58,330 --> 00:25:00,248
+"Unacceptable" means
+exactly that.
+
+279
+00:25:00,499 --> 00:25:01,791
+I don't like what
+you're telling me,
+
+280
+00:25:01,876 --> 00:25:03,084
+I don't like how
+you're telling me.
+
+281
+00:25:03,627 --> 00:25:06,504
+We're in a critical phase
+on four missions, Ric.
+
+282
+00:25:06,672 --> 00:25:10,300
+The intelligence loss, if we stop
+now, it couldn't be quantified.
+
+283
+00:25:10,467 --> 00:25:12,510
+Yes, actually, it could.
+
+284
+00:25:12,678 --> 00:25:15,638
+You'd be right back to where you were
+before we delivered the program.
+
+285
+00:25:15,806 --> 00:25:17,307
+Don't tell me there's a
+problem with Outcome
+
+286
+00:25:17,391 --> 00:25:18,850
+because I'd be hearing about it.
+
+287
+00:25:19,018 --> 00:25:22,187
+I didn't say there was. You're
+not saying much of anything.
+
+288
+00:25:23,272 --> 00:25:25,565
+One pill, once a week.
+
+289
+00:25:25,733 --> 00:25:27,525
+Every eight days.
+
+290
+00:25:27,693 --> 00:25:29,944
+So, no more blues and greens.
+
+291
+00:25:30,112 --> 00:25:32,780
+We're transitioning
+everyone in the program.
+
+292
+00:25:32,948 --> 00:25:35,992
+Do you remember how to
+keep an accurate diet log?
+
+293
+00:25:37,620 --> 00:25:38,578
+Yes.
+
+294
+00:25:38,662 --> 00:25:41,164
+Do you understand
+their full utility?
+
+295
+00:25:41,332 --> 00:25:43,041
+We just set Iran's
+missile program back
+
+296
+00:25:43,125 --> 00:25:45,543
+36 months with one
+deep-cover agent.
+
+297
+00:25:45,836 --> 00:25:47,837
+The best action recon
+out of North Korea
+
+298
+00:25:47,922 --> 00:25:50,173
+in the last two years
+came from Outcome.
+
+299
+00:25:50,674 --> 00:25:52,300
+I'm fully aware of this. Do you
+know how long we've waited
+
+300
+00:25:52,384 --> 00:25:56,721
+to get a real, long-term
+operative inside Pakistani ISI?
+
+301
+00:25:58,349 --> 00:26:00,058
+You're asking me to
+wipe the most valuable
+
+302
+00:26:00,142 --> 00:26:02,310
+intel-gathering assets we've
+ever put in the field.
+
+303
+00:26:02,394 --> 00:26:04,312
+We're shutting things
+down immediately
+
+304
+00:26:04,396 --> 00:26:07,941
+and this contingency was
+covered loud and clear.
+
+305
+00:26:30,673 --> 00:26:33,591
+Tell me this isn't why we're
+having this conversation.
+
+306
+00:26:33,676 --> 00:26:35,260
+Jason Bourne got
+away, didn't he?
+
+307
+00:26:35,970 --> 00:26:38,763
+That's what this is
+all about, isn't it?
+
+308
+00:26:38,931 --> 00:26:43,351
+I have visibility on every action
+program in the system except yours.
+
+309
+00:26:43,602 --> 00:26:46,145
+I'm sick of hearing the reason I
+can't do something or see something
+
+310
+00:26:46,230 --> 00:26:49,274
+is because it hasn't cleared the
+National Research Assay Group.
+
+311
+00:26:49,817 --> 00:26:51,567
+Where do you pull
+this kind of weight?
+
+312
+00:26:51,735 --> 00:26:53,945
+Don, I'm a patriot,
+the same as you are.
+
+313
+00:26:54,029 --> 00:26:56,489
+I bleed over this the
+same way you do.
+
+314
+00:26:56,657 --> 00:26:58,283
+But you and I have our jobs
+
+315
+00:26:58,367 --> 00:27:00,285
+because we've got the strength
+to do what's necessary
+
+316
+00:27:00,577 --> 00:27:03,454
+and I'm sorry, but
+right now, this is it.
+
+317
+00:28:04,558 --> 00:28:07,352
+It's really coming down out there.
+It's getting ugly.
+
+318
+00:28:07,436 --> 00:28:08,853
+Oh, yeah?
+
+319
+00:28:09,521 --> 00:28:12,357
+Well, maybe I should try
+to get ahead of it, huh?
+
+320
+00:28:12,524 --> 00:28:15,860
+No, it's too late for that.
+Just stick around.
+
+321
+00:28:16,028 --> 00:28:19,155
+I need some help squaring
+the place away, anyway.
+
+322
+00:28:19,323 --> 00:28:21,157
+Yeah, I don't know.
+
+323
+00:28:22,534 --> 00:28:25,078
+I already have to do that
+medication write-up.
+
+324
+00:28:25,245 --> 00:28:26,537
+I don't know if I want
+to have to explain
+
+325
+00:28:26,622 --> 00:28:28,164
+my itinerary as well,
+you know what I mean?
+
+326
+00:28:28,791 --> 00:28:30,583
+Don't worry about the
+chems, I got that covered.
+
+327
+00:28:35,631 --> 00:28:37,507
+I'm gonna have a look.
+
+328
+00:28:55,567 --> 00:28:56,734
+Are you hearing that?
+
+329
+00:29:04,660 --> 00:29:06,702
+Are you expecting anything?
+
+330
+00:29:06,829 --> 00:29:09,163
+In this weather,
+without a heads-up?
+
+331
+00:29:10,249 --> 00:29:12,166
+Well, it's definitely
+getting closer.
+
+332
+00:29:13,877 --> 00:29:14,877
+What do you got?
+
+333
+00:29:15,003 --> 00:29:16,921
+Nothing, man, I got nothing.
+
+334
+00:29:17,297 --> 00:29:18,506
+Is it working? Yeah,
+it's working.
+
+335
+00:29:18,632 --> 00:29:20,174
+The gear is fine.
+It's not the gear.
+
+336
+00:29:22,636 --> 00:29:23,719
+Well, maybe it's a resupply.
+
+337
+00:29:23,804 --> 00:29:26,097
+They were here yesterday, and
+they can't land in this, anyway.
+
+338
+00:29:34,356 --> 00:29:35,356
+Who the hell is it?
+
+339
+00:29:36,191 --> 00:29:37,567
+I don't know.
+
+340
+00:29:41,864 --> 00:29:43,281
+I don't know. We should spread.
+
+341
+00:29:43,532 --> 00:29:45,867
+Yeah. Look, I'll take the nest.
+
+342
+00:29:45,993 --> 00:29:48,536
+Let me know when you get
+eyes on it, okay? Yeah.
+
+343
+00:30:50,140 --> 00:30:51,182
+Is she gonna clear us here?
+
+344
+00:30:51,266 --> 00:30:52,725
+I'd like to get above this
+before it gets any sloppier.
+
+345
+00:30:52,809 --> 00:30:54,852
+Now, hold on. Just, there's a..
+
+346
+00:30:54,937 --> 00:30:57,230
+Copy, Solo, I saw it, too.
+Give us a minute.
+
+347
+00:30:57,314 --> 00:30:58,314
+Wilco.
+
+348
+00:30:58,899 --> 00:31:01,150
+What's the issue?
+Hang on, hang on.
+
+349
+00:31:06,281 --> 00:31:07,615
+Roger, Solo. Sourcing now.
+
+350
+00:31:09,451 --> 00:31:11,494
+It looks like there's still
+an active signal back there.
+
+351
+00:31:11,745 --> 00:31:12,995
+Excuse me?
+
+352
+00:31:13,163 --> 00:31:14,539
+Is that on your end or is that..
+My end.
+
+353
+00:31:14,623 --> 00:31:16,499
+We're having a hard time
+getting a handshake.
+
+354
+00:31:16,583 --> 00:31:18,543
+Roger, Solo. Holding on relay.
+
+355
+00:31:18,627 --> 00:31:19,794
+I thought you had them linked.
+
+356
+00:31:20,045 --> 00:31:21,045
+We did.
+
+357
+00:31:21,213 --> 00:31:23,089
+They were lined up, all
+the way to the structure.
+
+358
+00:31:23,340 --> 00:31:24,924
+Both targets were
+green, all the way in.
+
+359
+00:31:28,679 --> 00:31:30,096
+Is there a PID? Unknown.
+
+360
+00:31:30,180 --> 00:31:31,556
+Hostile? Unknown.
+
+361
+00:31:31,640 --> 00:31:32,890
+It's not a satellite
+echo, is it?
+
+362
+00:31:32,975 --> 00:31:34,141
+No, sir.
+
+363
+00:31:34,268 --> 00:31:35,268
+What's she doing?
+
+364
+00:31:35,352 --> 00:31:36,352
+She's playing it back.
+
+365
+00:31:40,857 --> 00:31:42,858
+I don't want to wait on her. We're
+going to have to come around.
+
+366
+00:31:43,110 --> 00:31:45,111
+How far are you from bingo fuel?
+
+367
+00:31:45,279 --> 00:31:46,904
+Twenty minutes on station.
+
+368
+00:31:47,489 --> 00:31:48,531
+Better get on it.
+
+369
+00:32:02,838 --> 00:32:05,172
+Affirmative, Solo, but we're
+gonna need another pass here.
+
+370
+00:32:05,507 --> 00:32:07,216
+She knows we can't see shit, right?
+Check it.
+
+371
+00:32:07,384 --> 00:32:09,218
+Roger that. New profile engaged.
+
+372
+00:32:09,428 --> 00:32:10,428
+We're coming around now.
+
+373
+00:32:11,346 --> 00:32:12,972
+Roger that, Solo.
+East-southeast.
+
+374
+00:32:13,140 --> 00:32:15,308
+Coming right back up the valley.
+
+375
+00:32:15,559 --> 00:32:17,351
+Requesting fuel graph,
+say your state.
+
+376
+00:32:17,519 --> 00:32:19,937
+State two-plus-30 to splash.
+
+377
+00:32:20,355 --> 00:32:22,898
+Copy, Solo. Fuel
+to bingo is green.
+
+378
+00:32:22,983 --> 00:32:24,442
+Sourcing target beacon now.
+
+379
+00:32:39,458 --> 00:32:41,083
+What just happened?
+
+380
+00:32:45,964 --> 00:32:47,757
+It's gone. Where the
+hell did it go?
+
+381
+00:32:47,924 --> 00:32:48,966
+What do you mean,
+"Where did it go?"
+
+382
+00:32:49,134 --> 00:32:51,260
+Solo, we are negative
+on that signal here.
+
+383
+00:32:51,511 --> 00:32:53,012
+We just lost that second beacon.
+
+384
+00:33:08,654 --> 00:33:11,113
+Negative, negative, Solo. All
+sensors and systems are green.
+
+385
+00:33:11,281 --> 00:33:13,449
+Diagnostics are green,
+aircraft is green.
+
+386
+00:33:13,533 --> 00:33:14,867
+I got everything
+but a target here.
+
+387
+00:33:22,209 --> 00:33:24,418
+It is not a system issue.
+Sensors are good.
+
+388
+00:33:24,586 --> 00:33:26,337
+All right, we're going to
+switch to IR and take a look.
+
+389
+00:33:26,421 --> 00:33:27,713
+Roger. Switching to thermal.
+
+390
+00:33:43,730 --> 00:33:45,815
+Solo, can I get your
+last confirmed..
+
+391
+00:33:47,275 --> 00:33:48,275
+What the hell was that?
+
+392
+00:33:48,360 --> 00:33:49,819
+Red Crown, we're
+getting some music.
+
+393
+00:33:50,320 --> 00:33:51,487
+You hit something.
+
+394
+00:33:51,613 --> 00:33:53,614
+I don't think so. Red
+Crown, you getting this?
+
+395
+00:33:53,699 --> 00:33:55,783
+There is nothing there.
+There is nothing.
+
+396
+00:33:55,867 --> 00:33:57,660
+What the hell is going on, here?
+
+397
+00:34:09,798 --> 00:34:11,882
+It didn't just go down, it was shot down?
+They're sure about that?
+
+398
+00:34:11,967 --> 00:34:13,134
+That's what I was told.
+
+399
+00:34:13,301 --> 00:34:14,301
+By who? With what?
+
+400
+00:34:14,386 --> 00:34:15,386
+They don't know.
+
+401
+00:34:15,512 --> 00:34:18,180
+They were sourcing a second
+signal when it happened.
+
+402
+00:35:01,183 --> 00:35:03,768
+No, no, no, we didn't have time.
+I'm calling for clearance now.
+
+403
+00:35:03,852 --> 00:35:05,728
+There's got to be someone
+meeting us at the gate.
+
+404
+00:35:05,812 --> 00:35:06,896
+They have a drone ready?
+
+405
+00:35:06,980 --> 00:35:08,147
+They're fueling one now.
+
+406
+00:35:24,706 --> 00:35:25,873
+They parsed the signal.
+
+407
+00:35:26,917 --> 00:35:27,917
+It's Aaron Cross.
+
+408
+00:35:29,586 --> 00:35:30,711
+Shit.
+
+409
+00:35:43,099 --> 00:35:44,850
+You're all set, sir.
+
+410
+00:35:56,112 --> 00:35:59,240
+Let's approach off azimuth,
+30 degrees off our last pass.
+
+411
+00:35:59,407 --> 00:36:00,908
+Good for me.
+
+412
+00:36:02,828 --> 00:36:05,079
+Red Crown to contact.
+Three-zero-zero for 30.
+
+413
+00:36:05,247 --> 00:36:06,914
+There you are.
+There's my signal.
+
+414
+00:36:07,082 --> 00:36:08,707
+Signal is hot, Solo.
+
+415
+00:36:08,875 --> 00:36:11,627
+Signal is up and live.
+And here we go.
+
+416
+00:36:12,087 --> 00:36:13,254
+Where's that been?
+
+417
+00:36:13,421 --> 00:36:14,672
+Doesn't matter now. It's mine.
+
+418
+00:36:41,867 --> 00:36:44,243
+Copy, Solo. Strong signal.
+
+419
+00:36:44,452 --> 00:36:47,121
+What kind of weapon system
+is this guy operating?
+
+420
+00:36:47,831 --> 00:36:49,707
+He's probably got a rifle.
+
+421
+00:36:51,710 --> 00:36:53,627
+It's a high-powered rifle.
+
+422
+00:36:54,421 --> 00:36:55,713
+What's our time frame, here?
+
+423
+00:36:55,881 --> 00:36:57,214
+Fifteen minutes, plus or minus.
+
+424
+00:36:57,340 --> 00:36:58,716
+Just trying to factor the storm.
+
+425
+00:37:55,941 --> 00:37:59,902
+Roger, Solo. Target is static.
+Engaging laser now.
+
+426
+00:38:12,248 --> 00:38:13,457
+Hey!
+
+427
+00:38:17,879 --> 00:38:19,088
+Get out of here!
+
+428
+00:38:19,381 --> 00:38:20,506
+Go on, get out of here!
+
+429
+00:38:23,885 --> 00:38:25,386
+Get out!
+
+430
+00:39:03,883 --> 00:39:05,551
+Laser armed.
+
+431
+00:39:05,719 --> 00:39:08,387
+Sensor and thermal confirmed.
+
+432
+00:39:32,078 --> 00:39:33,787
+- Where are we?
+- Thirty seconds.
+
+433
+00:39:34,956 --> 00:39:37,082
+You should have left me alone.
+
+434
+00:39:42,172 --> 00:39:43,505
+Arming missile.
+
+435
+00:39:48,678 --> 00:39:50,137
+Missile away.
+
+436
+00:39:51,723 --> 00:39:52,890
+There he goes, he's moving now.
+
+437
+00:39:53,016 --> 00:39:54,183
+Not for long.
+
+438
+00:40:00,732 --> 00:40:01,774
+Target destroyed.
+
+439
+00:40:01,900 --> 00:40:02,941
+Red Crown, splash one.
+
+440
+00:40:03,109 --> 00:40:07,029
+Copy, Solo. Kill confirmed,
+target destroyed.
+
+441
+00:40:07,614 --> 00:40:09,239
+Looking good?
+
+442
+00:40:10,658 --> 00:40:15,037
+Looks good. Looks
+cold and clear.
+
+443
+00:40:16,289 --> 00:40:19,333
+With all due respect, sir,
+now is not the best time.
+
+444
+00:40:19,501 --> 00:40:21,335
+In 20 minutes, this place
+is going to fall apart.
+
+445
+00:40:21,669 --> 00:40:24,713
+I'm aware of that, I'll take the chance.
+We need to talk.
+
+446
+00:40:26,966 --> 00:40:28,467
+I need you to stop what
+you're doing and turn around.
+
+447
+00:40:28,551 --> 00:40:29,802
+That's an order.
+
+448
+00:40:30,929 --> 00:40:32,513
+We got screwed on
+the intel, okay?
+
+449
+00:40:32,680 --> 00:40:34,640
+Nobody knew those
+people were in there.
+
+450
+00:40:34,766 --> 00:40:37,768
+It would be perfectly normal
+for a person to have doubts
+
+451
+00:40:37,852 --> 00:40:39,812
+about the morality of what
+we just asked you to do.
+
+452
+00:40:39,979 --> 00:40:40,979
+Is that a question, sir?
+
+453
+00:40:41,147 --> 00:40:44,316
+No, it's not. Tune in to what
+I'm trying to say to you.
+
+454
+00:40:45,026 --> 00:40:46,735
+Do you know what a sin-eater is?
+
+455
+00:40:47,612 --> 00:40:49,947
+That's what we are. We
+are the sin-eaters.
+
+456
+00:40:50,115 --> 00:40:53,534
+It means that we take the moral
+excrement that we find in this equation
+
+457
+00:40:53,618 --> 00:40:55,494
+and we bury it down
+deep inside of us
+
+458
+00:40:55,578 --> 00:40:57,621
+so that the rest of our
+cause can stay pure.
+
+459
+00:40:57,789 --> 00:40:59,123
+That is the job.
+
+460
+00:40:59,457 --> 00:41:03,001
+We are morally indefensible
+and absolutely necessary.
+
+461
+00:41:04,420 --> 00:41:05,879
+Do you understand?
+
+462
+00:41:09,801 --> 00:41:11,468
+Will that be all?
+
+463
+00:41:14,681 --> 00:41:15,681
+Stitch that up.
+
+464
+00:41:15,974 --> 00:41:18,225
+I'm gonna put you on a plane
+to Yemen in six hours.
+
+465
+00:41:18,393 --> 00:41:19,977
+I'll be ready.
+
+466
+00:41:32,198 --> 00:41:33,574
+I told you she'd
+be coming at us.
+
+467
+00:41:33,741 --> 00:41:37,911
+Yeah, I need you to
+stay calm, Terry, okay?
+
+468
+00:41:38,079 --> 00:41:39,163
+They're giving her
+a Senate hearing.
+
+469
+00:41:39,247 --> 00:41:40,622
+How can you not see
+that as a problem?
+
+470
+00:41:41,040 --> 00:41:44,293
+She knows Bourne, she knows
+Blackbriar, she knows Hirsch.
+
+471
+00:41:44,460 --> 00:41:46,420
+She's got a handle on the
+whole goddamn operation.
+
+472
+00:41:46,588 --> 00:41:48,422
+I don't see how the hell you
+could be so calm about this!
+
+473
+00:41:48,590 --> 00:41:50,007
+Well, what can she say?
+
+474
+00:41:51,134 --> 00:41:52,467
+What can she say?
+
+475
+00:41:52,635 --> 00:41:53,844
+What if she gets up
+there and she says,
+
+476
+00:41:53,928 --> 00:41:55,888
+"Treadstone, Blackbriar,
+you think that was it?"
+
+477
+00:41:56,055 --> 00:41:57,598
+"You think that Jason Bourne
+was the whole story?"
+
+478
+00:41:57,682 --> 00:41:59,308
+"Sorry, there's a lot
+more going on here."
+
+479
+00:41:59,475 --> 00:42:02,477
+What if she tells them that Treadstone
+was just the tip of the iceberg?
+
+480
+00:42:02,562 --> 00:42:03,645
+Look, you want to
+sweat something?
+
+481
+00:42:03,730 --> 00:42:05,731
+Worry about Outcome, because we're
+still not out of the woods.
+
+482
+00:42:05,899 --> 00:42:08,942
+But as far as our other programs,
+she doesn't know that much.
+
+483
+00:42:09,110 --> 00:42:10,360
+How do you know that?
+
+484
+00:42:11,988 --> 00:42:14,907
+Because we're tapped into
+everything she says and does.
+
+485
+00:42:15,241 --> 00:42:16,241
+What?
+
+486
+00:42:16,367 --> 00:42:21,371
+Phones, email, cars,
+house, lawyer.
+
+487
+00:42:22,457 --> 00:42:26,251
+She was cooked the minute she
+hitched her wagon to Jason Bourne.
+
+488
+00:42:26,419 --> 00:42:29,129
+She aided and abetted an
+international fugitive.
+
+489
+00:42:29,297 --> 00:42:32,716
+She prevented the agency from
+shutting down a rogue operation.
+
+490
+00:42:33,635 --> 00:42:36,553
+She violated every oath and
+code of conduct that matters.
+
+491
+00:42:36,930 --> 00:42:39,932
+For Christ's sake, she brought the
+son of a bitch back to America.
+
+492
+00:42:40,099 --> 00:42:42,684
+Now, God knows what
+her motives are,
+
+493
+00:42:42,852 --> 00:42:46,939
+but it's clear that protecting
+this country is not one of them.
+
+494
+00:42:48,107 --> 00:42:50,400
+That used to be called treason.
+
+495
+00:44:07,270 --> 00:44:11,356
+Even the solution here. Now, that
+should be coming up as a constant.
+
+496
+00:44:39,761 --> 00:44:41,928
+There you are. I don't
+understand these values..
+
+497
+00:44:45,350 --> 00:44:46,600
+My God, no!
+
+498
+00:44:50,271 --> 00:44:51,438
+Did you hear that? Yeah.
+
+499
+00:44:51,606 --> 00:44:52,939
+What is that?
+
+500
+00:44:53,107 --> 00:44:54,232
+It's a gun.
+
+501
+00:44:54,400 --> 00:44:57,152
+No. I.. No. Yeah.
+No, it was gunfire.
+
+502
+00:45:00,031 --> 00:45:02,199
+No, please. No, no, no!
+
+503
+00:45:06,287 --> 00:45:07,579
+Help!
+
+504
+00:45:07,747 --> 00:45:13,043
+Open the door! He's shooting us!
+Open the door!
+
+505
+00:45:15,421 --> 00:45:18,715
+Open the door! He's got a gun!
+
+506
+00:45:19,133 --> 00:45:20,425
+Open the door!
+
+507
+00:45:23,221 --> 00:45:24,471
+Help!
+
+508
+00:45:26,974 --> 00:45:27,974
+Oh, my God.
+
+509
+00:45:28,101 --> 00:45:29,601
+We got to be able to get a card!
+
+510
+00:45:29,727 --> 00:45:31,228
+We have to be able
+to get in there!
+
+511
+00:45:33,815 --> 00:45:35,941
+What's happening? We gotta
+go for the back door.
+
+512
+00:45:36,109 --> 00:45:37,401
+It's locked. He
+locked the back door.
+
+513
+00:45:39,862 --> 00:45:41,822
+No, please.
+
+514
+00:45:41,989 --> 00:45:43,240
+He's gonna kill us all.
+
+515
+00:45:45,451 --> 00:45:46,993
+Don't do this. Oh, my God.
+
+516
+00:45:50,623 --> 00:45:51,581
+Move!
+
+517
+00:45:51,666 --> 00:45:53,041
+He's shooting everyone in there!
+
+518
+00:45:53,126 --> 00:45:55,335
+I need a red lab access card!
+Who's got a red lab access card?
+
+519
+00:45:55,420 --> 00:45:56,461
+They're bringing one
+down from upstairs.
+
+520
+00:45:56,546 --> 00:45:58,046
+They're all in there. Everyone
+who has one is in there.
+
+521
+00:46:19,569 --> 00:46:21,528
+Billy, where are you, man?
+I need a red card now!
+
+522
+00:46:28,494 --> 00:46:29,703
+Don.. What are you doing?
+
+523
+00:46:47,722 --> 00:46:49,097
+Shit, the handle's off.
+
+524
+00:46:57,023 --> 00:46:58,690
+The handle's off!
+
+525
+00:47:31,891 --> 00:47:34,309
+Drop it! Stop! Drop the weapon!
+
+526
+00:47:39,440 --> 00:47:41,566
+Drop it! Drop the weapon!
+
+527
+00:48:27,613 --> 00:48:30,615
+Investigators are still
+searching for some explanation
+
+528
+00:48:30,700 --> 00:48:32,826
+behind the workplace
+murder-suicide
+
+529
+00:48:32,910 --> 00:48:35,912
+that left another American
+community grieving and shocked.
+
+530
+00:48:36,414 --> 00:48:37,747
+Police and federal authorities
+
+531
+00:48:39,667 --> 00:48:41,876
+The boys need to see
+you right away.
+
+532
+00:48:44,422 --> 00:48:46,047
+Let's get that Foite story
+out there right away.
+
+533
+00:48:46,215 --> 00:48:47,424
+I'll take care of it.
+
+534
+00:48:50,845 --> 00:48:52,512
+And this area, back here?
+
+535
+00:48:53,014 --> 00:48:54,598
+That's all been
+converted to storage.
+
+536
+00:48:54,682 --> 00:48:57,434
+Because it says on the blueprint,
+and even on the board, there,
+
+537
+00:48:57,518 --> 00:49:01,771
+that it's a medical
+examination suite.
+
+538
+00:49:02,481 --> 00:49:05,108
+I mean, what kind of examinations
+are we talking about?
+
+539
+00:49:06,277 --> 00:49:08,445
+There we go. May I see
+the hand, please?
+
+540
+00:49:10,948 --> 00:49:13,491
+Oh, that has healed well.
+
+541
+00:49:13,659 --> 00:49:15,577
+Any diminished sensation?
+
+542
+00:49:16,787 --> 00:49:17,954
+Nope.
+
+543
+00:49:25,046 --> 00:49:27,047
+Are you trying to
+put me down, doc?
+
+544
+00:49:27,214 --> 00:49:28,965
+I'm afraid there's
+been a few gaps
+
+545
+00:49:29,050 --> 00:49:30,675
+in your sample deliveries, so..
+
+546
+00:49:30,760 --> 00:49:31,760
+Uh-oh.
+
+547
+00:49:31,844 --> 00:49:34,429
+We need a full
+work-up this visit.
+
+548
+00:49:35,514 --> 00:49:36,973
+Another one?
+
+549
+00:49:37,683 --> 00:49:40,143
+Why? Is it 'cause I
+missed a blood drop?
+
+550
+00:49:43,147 --> 00:49:45,315
+So, how do you think
+it works, doc?
+
+551
+00:49:45,483 --> 00:49:48,526
+That we can just call a timeout?
+
+552
+00:49:48,694 --> 00:49:51,863
+Everything stops while
+you pull your samples?
+
+553
+00:49:52,031 --> 00:49:54,115
+Why don't you lie
+down and relax?
+
+554
+00:49:54,283 --> 00:49:55,283
+Yeah.
+
+555
+00:49:57,453 --> 00:49:59,579
+What do you think
+that we do out there?
+
+556
+00:49:59,747 --> 00:50:00,997
+Okay, that's enough information.
+
+557
+00:50:01,165 --> 00:50:02,749
+No, I..
+
+558
+00:50:03,459 --> 00:50:05,377
+Well, you're just a doctor.
+
+559
+00:50:05,544 --> 00:50:07,754
+You know we're on camera.
+
+560
+00:50:09,548 --> 00:50:10,924
+Really?
+
+561
+00:50:11,717 --> 00:50:14,636
+Is that why you make such
+an attractive appearance?
+
+562
+00:50:14,804 --> 00:50:18,014
+Okay, why don't you count
+backward from 100, please?
+
+563
+00:53:28,205 --> 00:53:29,789
+Hello?
+
+564
+00:53:31,375 --> 00:53:33,167
+Yeah, the gate should be open.
+
+565
+00:53:33,335 --> 00:53:37,380
+Bear to the left. It's
+about half-a-mile up.
+
+566
+00:53:59,320 --> 00:54:01,112
+Thanks.
+
+567
+00:54:02,907 --> 00:54:03,907
+Dr. Shearing? Uh-huh.
+
+568
+00:54:04,241 --> 00:54:06,075
+Hi, I'm Dr. Connie Dowd.
+
+569
+00:54:06,243 --> 00:54:07,869
+Hi, how are you? Well, thanks.
+
+570
+00:54:08,037 --> 00:54:09,746
+This is Special
+Agent Larry Hooper.
+
+571
+00:54:09,914 --> 00:54:10,914
+Hello. Hello.
+
+572
+00:54:11,081 --> 00:54:13,291
+Please. Come in.
+
+573
+00:54:13,500 --> 00:54:15,335
+Thanks for letting us come out.
+
+574
+00:54:16,086 --> 00:54:18,504
+It's a remarkable property.
+What a project.
+
+575
+00:54:18,672 --> 00:54:21,841
+Yeah, I really don't want
+to talk about the house.
+
+576
+00:54:22,009 --> 00:54:24,093
+Not unless you want to buy it.
+
+577
+00:54:27,973 --> 00:54:30,308
+Sit, I guess. Please.
+
+578
+00:54:32,353 --> 00:54:33,895
+Just so you know, okay,
+
+579
+00:54:33,979 --> 00:54:37,565
+I didn't know anything about
+this meeting until an hour ago.
+
+580
+00:54:37,733 --> 00:54:40,109
+And nobody last night
+said to make time
+
+581
+00:54:40,194 --> 00:54:41,945
+or pick a time, or
+anything like that.
+
+582
+00:54:42,404 --> 00:54:44,822
+And then, this morning, I buy a
+plane ticket to see my sister
+
+583
+00:54:44,907 --> 00:54:47,700
+and suddenly it's like
+DEFCON 4 around here.
+
+584
+00:54:47,868 --> 00:54:49,494
+And that is not paranoia, okay?
+
+585
+00:54:49,620 --> 00:54:51,287
+That is pretty much
+directly in my face!
+
+586
+00:54:51,372 --> 00:54:52,372
+Understood.
+
+587
+00:54:52,456 --> 00:54:54,123
+Should we not be
+paying attention?
+
+588
+00:54:54,291 --> 00:54:55,792
+Can you leave us alone, Larry?
+
+589
+00:55:01,507 --> 00:55:02,548
+Look.
+
+590
+00:55:02,716 --> 00:55:05,426
+You've just been through an
+extremely traumatic experience.
+
+591
+00:55:05,594 --> 00:55:08,471
+Yeah. Doctor of what?
+
+592
+00:55:09,181 --> 00:55:10,139
+What are you?
+
+593
+00:55:10,224 --> 00:55:11,683
+Clinical psychology.
+
+594
+00:55:12,434 --> 00:55:14,268
+Oh. So, what do you do?
+
+595
+00:55:14,436 --> 00:55:17,480
+You give grief
+counseling to spies?
+
+596
+00:55:17,648 --> 00:55:19,983
+You have a very unusual
+security clearance, Marta.
+
+597
+00:55:20,192 --> 00:55:21,484
+You should expect
+that buying a ticket
+
+598
+00:55:21,568 --> 00:55:24,070
+to Montreal without telling
+anyone would set off some bells.
+
+599
+00:55:24,238 --> 00:55:28,116
+Yeah, I've got some bells
+of my own going off, okay?
+
+600
+00:55:28,283 --> 00:55:29,701
+I mean, are you going to
+be the person who tells me
+
+601
+00:55:29,785 --> 00:55:31,494
+what the hell is going on here,
+
+602
+00:55:31,578 --> 00:55:33,538
+or are you just the next
+mystery babysitter?
+
+603
+00:55:33,706 --> 00:55:35,665
+What do you think is going on?
+
+604
+00:55:35,833 --> 00:55:38,418
+What I'm trying to
+do is not think.
+
+605
+00:55:38,585 --> 00:55:40,253
+I just.. I want
+to stop thinking.
+
+606
+00:55:40,421 --> 00:55:42,422
+Have you discussed those
+feelings with anyone else?
+
+607
+00:55:42,589 --> 00:55:43,881
+Your sister? Friends?
+
+608
+00:55:44,049 --> 00:55:45,091
+Are you for real?
+
+609
+00:55:45,175 --> 00:55:46,634
+What about Peter Boyd?
+
+610
+00:55:48,554 --> 00:55:49,971
+Wow.
+
+611
+00:55:50,556 --> 00:55:51,639
+Okay.
+
+612
+00:55:52,266 --> 00:55:55,059
+So, we're into everything, is that it?
+Is anything off-limits here?
+
+613
+00:55:55,602 --> 00:55:58,479
+Have you ever read your
+employment security contract?
+
+614
+00:55:58,647 --> 00:56:00,314
+Have I read my..
+
+615
+00:56:01,608 --> 00:56:04,652
+If you're asking me whether I
+understand my disclosure restrictions,
+
+616
+00:56:04,820 --> 00:56:06,571
+yes, I have a PhD
+in biochemistry
+
+617
+00:56:06,655 --> 00:56:09,407
+with postdoctoral fellowships
+in virology and genetics.
+
+618
+00:56:09,575 --> 00:56:10,825
+I know how to read!
+
+619
+00:56:11,160 --> 00:56:14,328
+What I don't understand
+is why my colleague
+
+620
+00:56:14,413 --> 00:56:18,541
+has a psychotic episode and
+shot everyone in the lab.
+
+621
+00:56:19,460 --> 00:56:23,171
+Are you aware of
+what we do in there?
+
+622
+00:56:24,214 --> 00:56:25,506
+Are you?
+
+623
+00:56:25,716 --> 00:56:28,676
+I mean, how do I know that you're
+even cleared for this conversation?
+
+624
+00:56:28,844 --> 00:56:30,887
+Have you discussed anything
+to do with the incident
+
+625
+00:56:30,971 --> 00:56:33,139
+with anyone other than
+the investigators?
+
+626
+00:56:33,557 --> 00:56:35,516
+Peter Boyd moved out
+eight months ago.
+
+627
+00:56:35,601 --> 00:56:37,268
+But I guess you
+already know that.
+
+628
+00:56:37,436 --> 00:56:40,104
+And, no, I haven't
+spoken to him.
+
+629
+00:56:40,272 --> 00:56:44,692
+You stated that you and Dr. Foite had
+no relationship outside of work.
+
+630
+00:56:46,487 --> 00:56:47,445
+None.
+
+631
+00:56:47,529 --> 00:56:51,157
+There was material in his
+apartment that indicates he had
+
+632
+00:56:51,241 --> 00:56:53,076
+an unusual fixation with you.
+
+633
+00:56:53,494 --> 00:56:58,498
+Photographs, journal entries. They
+found several articles of clothing.
+
+634
+00:56:58,832 --> 00:56:59,832
+What?
+
+635
+00:56:59,917 --> 00:57:02,752
+Did you ever rebuff
+him in any way?
+
+636
+00:57:02,836 --> 00:57:03,836
+No.
+
+637
+00:57:04,254 --> 00:57:06,255
+No, no, I..
+
+638
+00:57:07,841 --> 00:57:11,344
+I always thought he was gay.
+
+639
+00:57:11,512 --> 00:57:15,056
+Look, no one is suggesting that
+you're responsible for what happened.
+
+640
+00:57:15,182 --> 00:57:16,182
+Oh. Thank you.
+
+641
+00:57:16,266 --> 00:57:18,976
+Survivors often experience
+feelings of guilt.
+
+642
+00:57:19,228 --> 00:57:21,312
+Those feelings can be amplified
+
+643
+00:57:21,396 --> 00:57:25,525
+by the realization
+that he let you live.
+
+644
+00:57:26,819 --> 00:57:30,488
+That he let me live?
+
+645
+00:57:32,032 --> 00:57:34,784
+Have you seen the video?
+
+646
+00:57:35,953 --> 00:57:38,830
+Do you really think
+that's what it shows?
+
+647
+00:57:38,997 --> 00:57:41,624
+You are asking all
+the wrong questions!
+
+648
+00:57:41,834 --> 00:57:42,875
+What should I be asking, Marta?
+
+649
+00:57:42,960 --> 00:57:45,545
+Has anyone looked at
+Dr. Foite's blood work?
+
+650
+00:57:45,712 --> 00:57:46,712
+Have they?
+
+651
+00:57:46,880 --> 00:57:49,590
+I mean, that is the only thing that
+is going to make any sense, here.
+
+652
+00:57:49,800 --> 00:57:52,135
+His behavior was..
+
+653
+00:57:52,302 --> 00:57:54,512
+Look, there are
+projects at Sterisyn,
+
+654
+00:57:54,596 --> 00:58:00,143
+defense projects that could
+explain why he did what he did.
+
+655
+00:58:00,227 --> 00:58:06,274
+And people there are working
+on behavioral design.
+
+656
+00:58:06,358 --> 00:58:10,403
+It's programmable
+behavior, neural design.
+
+657
+00:58:12,865 --> 00:58:15,324
+Do you understand
+what I'm telling you?
+
+658
+00:58:16,326 --> 00:58:19,787
+I think he was exposed
+to something at the lab.
+
+659
+00:58:20,956 --> 00:58:22,373
+Found it.
+
+660
+00:58:23,667 --> 00:58:25,626
+What are you doing?
+
+661
+00:58:27,421 --> 00:58:30,548
+That's my gun. What
+the hell is this?
+
+662
+00:58:30,716 --> 00:58:32,216
+You're a potential suicide risk.
+
+663
+00:58:32,384 --> 00:58:33,926
+No. Wait a minute. How did you..
+
+664
+00:58:34,011 --> 00:58:35,678
+How did he find that? Marta..
+
+665
+00:58:35,846 --> 00:58:38,139
+No, no. Okay. This
+meeting is now over.
+
+666
+00:58:38,265 --> 00:58:41,392
+I want you both out of
+here, right now! Marta..
+
+667
+00:58:41,476 --> 00:58:43,352
+No! He has been snooping
+around my house!
+
+668
+00:58:43,437 --> 00:58:45,688
+Marta, I want to
+sign off here today!
+
+669
+00:58:45,856 --> 00:58:47,607
+I want to let you
+get on that plane,
+
+670
+00:58:47,774 --> 00:58:49,525
+but you have got to help us out!
+
+671
+00:58:49,693 --> 00:58:54,238
+Look, we have got to
+do our job here, okay?
+
+672
+00:58:54,323 --> 00:58:56,157
+We have got to go through this.
+
+673
+00:58:56,366 --> 00:59:00,119
+I need to know that you are calm
+and safe before I leave here
+
+674
+00:59:00,204 --> 00:59:04,123
+and I need to know that you understand
+the rules before you get on that plane.
+
+675
+00:59:06,627 --> 00:59:07,752
+Please, just..
+
+676
+00:59:08,378 --> 00:59:12,381
+Please, sit down and let us
+get through our questions.
+
+677
+00:59:12,549 --> 00:59:13,716
+Okay.
+
+678
+00:59:22,100 --> 00:59:24,435
+Jesus! What is this?
+
+679
+00:59:25,729 --> 00:59:26,938
+What the hell is this? Ready?
+
+680
+00:59:27,105 --> 00:59:28,481
+Close. What are you doing?
+
+681
+00:59:28,649 --> 00:59:29,857
+Get off me!
+
+682
+00:59:29,983 --> 00:59:30,983
+Set?
+
+683
+00:59:31,526 --> 00:59:33,653
+Get the hell off me now! Set!
+
+684
+00:59:36,281 --> 00:59:37,573
+Green! No!
+
+685
+01:00:32,629 --> 01:00:34,213
+Gene!
+
+686
+01:00:34,381 --> 01:00:35,548
+A runner in the basement!
+
+687
+01:00:35,924 --> 01:00:36,924
+Go!
+
+688
+01:00:42,389 --> 01:00:44,307
+Connie! On your right.
+
+689
+01:00:57,612 --> 01:00:59,238
+One. Girl.
+
+690
+01:01:59,049 --> 01:02:00,132
+Find her.
+
+691
+01:02:01,635 --> 01:02:02,676
+Find her!
+
+692
+01:02:17,109 --> 01:02:20,111
+Gene! Talk to me!
+
+693
+01:02:54,104 --> 01:02:55,271
+Hey.
+
+694
+01:02:57,899 --> 01:02:59,817
+Unless you reloaded,
+the gun is empty.
+
+695
+01:02:59,943 --> 01:03:01,694
+Look, look.
+
+696
+01:03:02,070 --> 01:03:04,947
+Dr. Shearing, it's me.
+
+697
+01:03:05,949 --> 01:03:07,575
+I'm not here to hurt you, okay?
+How did you..
+
+698
+01:03:08,285 --> 01:03:09,827
+That was you! Yes. Shh!
+
+699
+01:03:15,750 --> 01:03:17,501
+Listen to me. Do
+you want to live?
+
+700
+01:03:17,669 --> 01:03:19,128
+Look at me. Do you want to live?
+
+701
+01:03:19,296 --> 01:03:20,379
+Do you want to live? Yes.
+
+702
+01:03:20,547 --> 01:03:21,714
+Good. Let go of this gun.
+
+703
+01:03:21,882 --> 01:03:23,299
+How is this possible? Let go.
+
+704
+01:03:27,304 --> 01:03:28,596
+Take this.
+
+705
+01:03:29,097 --> 01:03:30,097
+Good.
+
+706
+01:03:30,182 --> 01:03:33,559
+Now, I need you to do
+exactly what I say.
+
+707
+01:03:33,727 --> 01:03:36,729
+How is this possible? Listen to me.
+Exactly what I say.
+
+708
+01:03:36,813 --> 01:03:37,813
+Understand? Yeah.
+
+709
+01:03:37,981 --> 01:03:39,106
+Good.
+
+710
+01:04:21,316 --> 01:04:24,276
+Hey, doc? I need my watch.
+
+711
+01:04:29,824 --> 01:04:32,284
+Doc, I need that watch!
+
+712
+01:04:36,873 --> 01:04:38,832
+Are there chems in this house?
+
+713
+01:04:39,000 --> 01:04:40,042
+Program medication.
+
+714
+01:04:40,126 --> 01:04:41,126
+Are they all dead?
+
+715
+01:04:41,253 --> 01:04:42,253
+Yeah, they're dead.
+
+716
+01:04:42,420 --> 01:04:45,631
+Look at me. Look at me. Do you
+have program medication here?
+
+717
+01:04:45,715 --> 01:04:46,715
+What?
+
+718
+01:04:46,800 --> 01:04:49,218
+Chems. Greens, blues.
+Do you have them here?
+
+719
+01:04:50,136 --> 01:04:51,637
+No, no. No?
+
+720
+01:04:51,805 --> 01:04:52,930
+Here? No, no. Here.
+
+721
+01:04:53,014 --> 01:04:55,474
+Where, then? Where
+do you have them?
+
+722
+01:04:55,642 --> 01:04:57,476
+Where? Where do you
+keep the chems?
+
+723
+01:04:57,644 --> 01:04:59,061
+I don't know.
+
+724
+01:04:59,229 --> 01:05:01,522
+Dr. Shearing, where are the chems?
+I need the chems!
+
+725
+01:05:01,690 --> 01:05:03,482
+I understand, but I don't know.
+
+726
+01:05:05,610 --> 01:05:09,280
+It's not something.. We
+do virology control.
+
+727
+01:05:09,447 --> 01:05:11,073
+So, all of that happens..
+
+728
+01:05:12,576 --> 01:05:15,286
+We don't have medication.
+
+729
+01:05:15,620 --> 01:05:18,747
+If I had any, I would
+give it to you.
+
+730
+01:05:27,215 --> 01:05:28,674
+Okay, listen to me.
+
+731
+01:05:28,842 --> 01:05:31,051
+We have less than eight minutes
+to clear out of here, okay?
+
+732
+01:05:32,470 --> 01:05:33,804
+Yes. Good.
+
+733
+01:05:35,015 --> 01:05:37,725
+Because the next thing
+coming through that door
+
+734
+01:05:37,892 --> 01:05:39,518
+is going to wipe us out.
+
+735
+01:06:03,627 --> 01:06:05,669
+Can I get a sitrep, here?
+
+736
+01:06:08,506 --> 01:06:09,798
+If you can hear me,
+pick up, Larry.
+
+737
+01:06:12,177 --> 01:06:13,677
+Larry, pick up.
+
+738
+01:06:17,641 --> 01:06:19,516
+Hey. Sorry about the tran.
+
+739
+01:06:20,644 --> 01:06:23,062
+What's our frame-rate, here?
+
+740
+01:06:23,229 --> 01:06:26,482
+Connie says about 10.
+Just wrapping up.
+
+741
+01:06:26,650 --> 01:06:28,275
+Tell her we need a heads-up.
+Okay?
+
+742
+01:06:28,401 --> 01:06:29,401
+Copy that.
+
+743
+01:06:36,368 --> 01:06:37,493
+Hey.
+
+744
+01:06:45,251 --> 01:06:47,127
+It's probably better
+you did this.
+
+745
+01:07:52,110 --> 01:07:53,318
+Where are we going?
+
+746
+01:07:53,778 --> 01:07:56,822
+June. Your name is
+June Monroe, say it.
+
+747
+01:07:56,990 --> 01:07:58,115
+June Monroe. Say it.
+
+748
+01:07:58,199 --> 01:07:59,491
+June Monroe.
+
+749
+01:07:59,659 --> 01:08:00,617
+Now pick a place you lived.
+
+750
+01:08:00,702 --> 01:08:02,703
+The last place you lived.
+A place you know.
+
+751
+01:08:02,871 --> 01:08:04,663
+Bethesda. Bethesda,
+that's where you live.
+
+752
+01:08:04,831 --> 01:08:06,790
+Anybody asks, you're June
+Monroe from Bethesda.
+
+753
+01:08:07,000 --> 01:08:08,292
+You lost your wallet.
+I'm driving you home.
+
+754
+01:08:08,460 --> 01:08:10,169
+My name is James. James
+and June, you got it?
+
+755
+01:08:10,253 --> 01:08:11,253
+Yeah. Okay.
+
+756
+01:08:15,842 --> 01:08:17,509
+Is that your name?
+
+757
+01:08:17,677 --> 01:08:18,719
+James?
+
+758
+01:08:19,637 --> 01:08:21,722
+No. What? You don't
+know my name?
+
+759
+01:08:24,017 --> 01:08:26,226
+What do you call me? What do
+you put on my blood work?
+
+760
+01:08:26,311 --> 01:08:27,311
+Five.
+
+761
+01:08:27,687 --> 01:08:29,396
+Five? The number five?
+
+762
+01:08:32,317 --> 01:08:33,901
+Do you know how many
+times we've met?
+
+763
+01:08:35,195 --> 01:08:36,320
+Thirteen.
+
+764
+01:08:36,488 --> 01:08:38,447
+Thirteen exams over
+the last four years.
+
+765
+01:08:38,531 --> 01:08:39,656
+And that's what I get, a number?
+
+766
+01:08:39,741 --> 01:08:41,533
+Number Five. Okay.
+
+767
+01:08:41,701 --> 01:08:43,744
+Five of what, then?
+How many are we?
+
+768
+01:08:43,828 --> 01:08:45,370
+Program participants?
+
+769
+01:08:45,538 --> 01:08:46,538
+That's what you call us?
+
+770
+01:08:46,706 --> 01:08:49,166
+There were nine. Then six.
+
+771
+01:08:50,335 --> 01:08:51,502
+Participants.
+
+772
+01:08:51,669 --> 01:08:53,003
+How did you find me?
+
+773
+01:08:53,171 --> 01:08:54,171
+Well, what do you think?
+
+774
+01:08:54,380 --> 01:08:55,464
+They're going to kill all of us
+
+775
+01:08:55,548 --> 01:08:56,548
+and then just leave
+you guys alone?
+
+776
+01:08:57,050 --> 01:08:58,801
+You think your colleague
+just went crazy?
+
+777
+01:08:58,885 --> 01:08:59,885
+Is that what you think?
+
+778
+01:08:59,928 --> 01:09:02,888
+I didn't think anything. They
+wound him up and set him loose.
+
+779
+01:09:03,056 --> 01:09:05,849
+I really have no idea
+what is going on.
+
+780
+01:09:06,017 --> 01:09:08,560
+What's going on is they're
+shutting the whole thing down.
+
+781
+01:09:08,728 --> 01:09:10,229
+Who is "they"?
+
+782
+01:09:10,396 --> 01:09:13,065
+I don't know.. Who were
+the people at the house?
+
+783
+01:09:13,233 --> 01:09:15,442
+No, no, no, no. You
+had your turn, okay?
+
+784
+01:09:15,610 --> 01:09:18,821
+You've been bleeding and scoping and
+scraping me since the day we met.
+
+785
+01:09:18,905 --> 01:09:21,073
+It's my turn, now. I'm asking
+the questions, you got it?
+
+786
+01:09:21,282 --> 01:09:24,243
+I need program meds, okay?
+I need program meds.
+
+787
+01:09:24,410 --> 01:09:26,036
+Where do you keep the chems?
+
+788
+01:09:26,204 --> 01:09:28,080
+I don't have any. I've
+already told you.
+
+789
+01:09:28,248 --> 01:09:29,540
+We don't have them. Bullshit.
+
+790
+01:09:29,707 --> 01:09:31,124
+Bullshit. It's bullshit.
+
+791
+01:09:31,209 --> 01:09:32,334
+I don't have any!
+
+792
+01:09:32,418 --> 01:09:34,711
+So, you don't know anything?
+You're just the help?
+
+793
+01:09:34,879 --> 01:09:37,464
+That's why you have the big house
+and the security clearance, right?
+
+794
+01:09:37,632 --> 01:09:39,174
+That's why they're trying
+so hard to kill you,
+
+795
+01:09:39,259 --> 01:09:40,467
+because you don't know anything.
+
+796
+01:09:40,635 --> 01:09:43,095
+I know my job, which is science.
+
+797
+01:09:43,263 --> 01:09:46,306
+I don't know what you do
+when you leave the lab.
+
+798
+01:09:46,474 --> 01:09:47,933
+None of us do! For four years!
+
+799
+01:09:48,101 --> 01:09:50,018
+Look, I want to get out! Would
+you please stop the car?
+
+800
+01:09:50,103 --> 01:09:51,186
+You can't be that naive.
+
+801
+01:09:51,271 --> 01:09:53,814
+Would you let me out the car?
+There's no way you're that naive!
+
+802
+01:09:58,403 --> 01:10:00,696
+You want out? Get out.
+Go on, get out.
+
+803
+01:10:00,780 --> 01:10:02,364
+You don't have any chems. You
+don't know where they are.
+
+804
+01:10:02,448 --> 01:10:04,616
+You don't know anything. That's fine.
+Just get out.
+
+805
+01:10:04,951 --> 01:10:06,535
+But you got a plan, right?
+
+806
+01:10:06,619 --> 01:10:07,870
+Yeah, of course you do.
+You're a doctor.
+
+807
+01:10:07,954 --> 01:10:09,955
+You've got this all
+worked out, don't you?
+
+808
+01:10:10,248 --> 01:10:11,623
+What are you going to do?
+
+809
+01:10:12,333 --> 01:10:13,667
+Huh? What are you going to do?
+
+810
+01:10:13,960 --> 01:10:16,253
+You can't run, not alone.
+You don't know how.
+
+811
+01:10:16,421 --> 01:10:17,421
+You certainly can't hide.
+
+812
+01:10:17,589 --> 01:10:19,256
+Not from people like this,
+with the resources they have.
+
+813
+01:10:19,340 --> 01:10:22,175
+You won't make it to sundown.
+So, what does that leave you?
+
+814
+01:10:22,343 --> 01:10:24,636
+You can go public, sure.
+You can go loud.
+
+815
+01:10:24,804 --> 01:10:27,014
+Call your sister, because
+that worked out well for you.
+
+816
+01:10:27,181 --> 01:10:28,265
+Call some ex-roommate.
+
+817
+01:10:28,433 --> 01:10:30,100
+Call a guy that knows a guy
+at The Washington Post.
+
+818
+01:10:30,184 --> 01:10:31,184
+Put it online. 'Cause
+you know what?
+
+819
+01:10:31,269 --> 01:10:33,186
+You blow me off, that's
+the only play you've got.
+
+820
+01:10:34,981 --> 01:10:37,149
+But you'd better
+ask yourself this.
+
+821
+01:10:37,317 --> 01:10:39,818
+Could you ever say it loud
+enough or fast enough
+
+822
+01:10:40,111 --> 01:10:43,363
+that they'd be too afraid to
+finish what they've started?
+
+823
+01:10:45,116 --> 01:10:47,784
+Now, I've got a plan, and it's
+just not that complicated.
+
+824
+01:10:47,952 --> 01:10:51,079
+What I'm going to do is wait for the
+next person to show up to kill you.
+
+825
+01:10:51,164 --> 01:10:53,498
+Maybe they can help me.
+
+826
+01:10:55,126 --> 01:10:56,209
+So, go for it.
+
+827
+01:10:58,463 --> 01:11:01,548
+I had no choice. I had
+to get out of there.
+
+828
+01:11:01,716 --> 01:11:03,884
+No, I had to get out of there!
+
+829
+01:11:08,014 --> 01:11:11,725
+No, nobody. I have no idea.
+
+830
+01:11:11,976 --> 01:11:15,479
+You have to understand. All the
+work at Outcome, all those tests,
+
+831
+01:11:15,563 --> 01:11:17,898
+the burn rates, dosage
+panels, tissue stress.
+
+832
+01:11:17,982 --> 01:11:21,151
+I mean, that is us
+tuning chemistry.
+
+833
+01:11:21,235 --> 01:11:23,946
+We don't fabricate anything.
+That happens downstream.
+
+834
+01:11:24,030 --> 01:11:25,405
+Wait. What's that
+mean, "downstream"?
+
+835
+01:11:25,490 --> 01:11:28,283
+It means you need live
+virus to seed adhesion.
+
+836
+01:11:28,368 --> 01:11:30,035
+Cultures are highly reactive.
+
+837
+01:11:30,119 --> 01:11:32,371
+You have to process on-site and
+we would never do it here.
+
+838
+01:11:32,455 --> 01:11:33,705
+Okay. On-site, where? Where?
+
+839
+01:11:33,873 --> 01:11:35,207
+Where do we hold the virus?
+
+840
+01:11:35,375 --> 01:11:36,708
+Yes!
+
+841
+01:11:36,876 --> 01:11:38,710
+Well, we can't drive there.
+
+842
+01:11:39,212 --> 01:11:40,963
+Where is it? Manila.
+
+843
+01:11:42,256 --> 01:11:44,341
+The Philippines.
+
+844
+01:12:11,744 --> 01:12:13,745
+Where do you stand
+with your dosage?
+
+845
+01:12:16,624 --> 01:12:18,750
+I have 300 milligrams of blues.
+
+846
+01:12:18,876 --> 01:12:20,961
+It's not even enough
+for another day.
+
+847
+01:12:21,129 --> 01:12:23,005
+I haven't had a full
+green in 51 hours,
+
+848
+01:12:23,089 --> 01:12:25,716
+which is strange because I don't
+feel physically degraded.
+
+849
+01:12:25,800 --> 01:12:26,800
+But we'll see.
+
+850
+01:12:26,968 --> 01:12:27,968
+Wait, wait, wait.
+
+851
+01:12:28,136 --> 01:12:31,263
+Did you just say you're
+still taking greens?
+
+852
+01:12:31,431 --> 01:12:32,431
+What are you talking about?
+
+853
+01:12:32,765 --> 01:12:36,560
+You were viraled off physical
+medication last year.
+
+854
+01:12:37,603 --> 01:12:38,937
+What?
+
+855
+01:12:40,148 --> 01:12:44,776
+Jesus. They viraled everyone
+off greens eight months ago.
+
+856
+01:12:45,278 --> 01:12:46,695
+They infected you
+with live virus,
+
+857
+01:12:46,779 --> 01:12:48,196
+which means that,
+physically, you're stable.
+
+858
+01:12:48,281 --> 01:12:49,781
+You don't need to take greens.
+
+859
+01:12:51,117 --> 01:12:53,285
+They locked it in.
+
+860
+01:12:53,453 --> 01:12:57,289
+Any physical enhancement
+is now permanent.
+
+861
+01:12:57,623 --> 01:12:59,416
+So, you infected me?
+
+862
+01:13:00,126 --> 01:13:02,002
+When was this?
+
+863
+01:13:03,588 --> 01:13:04,796
+Is this when I was sick?
+
+864
+01:13:04,964 --> 01:13:07,132
+The mystery flu? That was you?
+
+865
+01:13:07,675 --> 01:13:10,552
+Well, it wasn't me.
+I didn't do it.
+
+866
+01:13:10,636 --> 01:13:12,846
+That was you. That was
+on purpose, right?
+
+867
+01:13:13,014 --> 01:13:14,264
+When I almost died.
+
+868
+01:13:15,016 --> 01:13:16,641
+I'm sorry, but it wasn't me.
+
+869
+01:13:16,809 --> 01:13:19,019
+Why am I still taking
+green pills, then?
+
+870
+01:13:19,187 --> 01:13:21,646
+I don't know. I thought
+you had stopped.
+
+871
+01:13:21,814 --> 01:13:23,815
+Why am I asking you anything?
+
+872
+01:13:23,983 --> 01:13:26,193
+Or to keep us on a leash, right?
+
+873
+01:13:26,360 --> 01:13:27,986
+Is that it? To
+keep a hold on us?
+
+874
+01:13:28,154 --> 01:13:30,155
+To keep us dependent?
+
+875
+01:13:31,824 --> 01:13:33,700
+Who tells you that this is okay?
+
+876
+01:13:33,868 --> 01:13:35,368
+No one.. I do..
+
+877
+01:13:35,453 --> 01:13:36,411
+Who says it's okay?
+
+878
+01:13:36,496 --> 01:13:37,913
+I do research.
+
+879
+01:13:38,539 --> 01:13:42,626
+I design, I survey. I
+don't administer meds.
+
+880
+01:13:42,794 --> 01:13:44,211
+I don't make policy!
+
+881
+01:13:44,837 --> 01:13:46,379
+No, you just load the gun.
+
+882
+01:13:46,547 --> 01:13:48,507
+Oh, God.
+
+883
+01:13:49,300 --> 01:13:52,010
+Look, I was there
+for the science.
+
+884
+01:13:52,178 --> 01:13:55,305
+We were all there for science.
+
+885
+01:13:56,682 --> 01:13:59,059
+And I know you don't care,
+but I made a huge sacrifice.
+
+886
+01:13:59,227 --> 01:14:00,811
+I couldn't publish, I
+couldn't conference.
+
+887
+01:14:00,895 --> 01:14:03,480
+I couldn't tell a single
+person what it was I did.
+
+888
+01:14:03,648 --> 01:14:07,067
+But I thought I was helping my
+country, and I know that's..
+
+889
+01:14:07,235 --> 01:14:08,902
+Tell me you can viral off blues.
+
+890
+01:14:11,656 --> 01:14:13,532
+Can you viral off blues?
+
+891
+01:14:14,033 --> 01:14:15,367
+Theoretically, yes.
+
+892
+01:14:15,535 --> 01:14:16,660
+Yeah.
+
+893
+01:14:16,828 --> 01:14:19,162
+Pills allow for temporary adhesion.
+Okay.
+
+894
+01:14:19,330 --> 01:14:22,124
+To lock it in, you need live culture.
+Live virus!
+
+895
+01:14:22,708 --> 01:14:24,876
+You know how to do that.
+
+896
+01:14:25,044 --> 01:14:26,920
+Do you know how to do that?
+
+897
+01:14:27,088 --> 01:14:28,380
+Yes. Okay.
+
+898
+01:14:28,548 --> 01:14:31,758
+Yes, but I told you, it's on
+the other side of the planet.
+
+899
+01:14:32,718 --> 01:14:34,845
+Well, guess where we're going?
+
+900
+01:14:37,682 --> 01:14:41,393
+Welcome to Washington. Welcome
+to Candent World Headquarters.
+
+901
+01:14:41,561 --> 01:14:43,478
+We want to make sure that
+over the next few days
+
+902
+01:14:43,563 --> 01:14:46,857
+you have a chance to connect with the
+people who have made Sterisyn Morlanta
+
+903
+01:14:46,941 --> 01:14:49,526
+the crown jewel in the
+Candent group of companies.
+
+904
+01:14:49,694 --> 01:14:52,654
+Final Phase 3 testing approval
+is expected this month
+
+905
+01:14:52,738 --> 01:14:54,906
+for both reQuiel
+and Supressolyn.
+
+906
+01:14:55,074 --> 01:14:58,201
+Confidence is high that we're coming in
+on schedule, and we want to be ready.
+
+907
+01:14:58,578 --> 01:15:00,078
+We know the market is eager.
+
+908
+01:15:00,163 --> 01:15:01,580
+We know, globally, the kind of..
+
+909
+01:15:07,086 --> 01:15:08,420
+What the hell don't
+I know about this?
+
+910
+01:15:08,588 --> 01:15:09,588
+You're directing that at me?
+
+911
+01:15:09,672 --> 01:15:12,007
+That was a D-Trac team
+we sent in there.
+
+912
+01:15:12,091 --> 01:15:13,049
+I don't know what that means.
+
+913
+01:15:13,134 --> 01:15:14,217
+It means they're good
+at what they do.
+
+914
+01:15:14,302 --> 01:15:15,427
+I was told that
+they were missing.
+
+915
+01:15:15,595 --> 01:15:17,387
+They don't just go missing.
+
+916
+01:15:17,555 --> 01:15:19,097
+What didn't you tell
+us about this woman?
+
+917
+01:15:19,265 --> 01:15:21,141
+Nothing. She is who she is.
+There's nothing to tell.
+
+918
+01:15:21,309 --> 01:15:22,601
+You vetted her up and down.
+
+919
+01:15:22,768 --> 01:15:23,935
+Then what the hell
+are we looking at?
+
+920
+01:15:24,103 --> 01:15:25,437
+She has a registered gun.
+
+921
+01:15:25,813 --> 01:15:26,897
+They knew that going in.
+
+922
+01:15:26,981 --> 01:15:28,398
+She's got building permits.
+
+923
+01:15:28,566 --> 01:15:30,942
+Propane, welding tanks.
+A stray bullet?
+
+924
+01:15:31,110 --> 01:15:32,235
+You want to keep guessing?
+
+925
+01:15:32,320 --> 01:15:33,403
+We've got to get in there.
+
+926
+01:15:33,487 --> 01:15:35,447
+I've got a dozen people
+waiting on the perimeter.
+
+927
+01:15:35,615 --> 01:15:36,615
+We don't control the site?
+
+928
+01:15:36,741 --> 01:15:37,782
+Not yet.
+
+929
+01:15:37,950 --> 01:15:38,950
+Getting the picture now?
+
+930
+01:15:39,076 --> 01:15:40,076
+Okay, stop!
+
+931
+01:15:40,244 --> 01:15:41,328
+I can't run this from here.
+
+932
+01:15:41,495 --> 01:15:43,872
+I need a crisis suite. I need
+integrated grids and comms.
+
+933
+01:15:43,956 --> 01:15:44,956
+I need all of it.
+
+934
+01:15:45,041 --> 01:15:46,875
+NSA, or Pentagon, or
+Liberty Crossing.
+
+935
+01:15:46,959 --> 01:15:48,919
+I don't care, just get
+me something now.
+
+936
+01:15:49,045 --> 01:15:50,545
+Pack up your codes
+and your drives,
+
+937
+01:15:50,630 --> 01:15:51,713
+and whatever else
+you're going to need.
+
+938
+01:15:51,797 --> 01:15:53,131
+We're going to move and
+we're going to stay there.
+
+939
+01:15:53,299 --> 01:15:56,635
+Dita, how am I putting a net over that house?
+There's locals all over it.
+
+940
+01:15:57,094 --> 01:15:58,136
+We go with germs.
+
+941
+01:15:58,971 --> 01:16:00,096
+She took samples from work.
+
+942
+01:16:00,264 --> 01:16:02,349
+Pathogens, viruses.
+It's national security.
+
+943
+01:16:02,433 --> 01:16:03,808
+Good, okay, I like
+that, it plays.
+
+944
+01:16:03,976 --> 01:16:05,352
+Now, get it out there,
+get it out there.
+
+945
+01:16:05,436 --> 01:16:08,021
+Come on, let's go, let's go.
+Everybody find another gear, okay?
+
+946
+01:16:08,189 --> 01:16:09,814
+Because I want to be
+out of here in 20.
+
+947
+01:16:11,817 --> 01:16:14,194
+So, let's say you want to
+change the human body.
+
+948
+01:16:14,362 --> 01:16:15,695
+You want to fix a mistake.
+
+949
+01:16:15,863 --> 01:16:19,324
+You want to repair something,
+improve something.
+
+950
+01:16:19,492 --> 01:16:22,244
+Well, if you're going to reprogram
+human genetic material,
+
+951
+01:16:22,328 --> 01:16:25,705
+you need a delivery system, and
+nothing works better than virus.
+
+952
+01:16:25,957 --> 01:16:27,249
+It's like a suitcase.
+
+953
+01:16:27,333 --> 01:16:30,418
+You pack in genetic mutation,
+
+954
+01:16:30,503 --> 01:16:35,507
+infect the body and the vector
+unloads into the target cells.
+
+955
+01:16:35,883 --> 01:16:40,053
+But getting it where you
+want it, how you want it,
+
+956
+01:16:40,137 --> 01:16:41,221
+is the nightmare.
+
+957
+01:16:41,305 --> 01:16:43,515
+Unless you have a map.
+
+958
+01:16:44,308 --> 01:16:48,687
+There was this terrible accident
+at Fort Detrick in 1985.
+
+959
+01:16:49,480 --> 01:16:53,775
+Five researchers dropped dead in the
+lab, and it was such a catastrophe
+
+960
+01:16:53,859 --> 01:16:55,235
+that they brought
+in Dan Hillcott
+
+961
+01:16:55,319 --> 01:16:58,029
+from Stanford to
+assess the damage.
+
+962
+01:16:58,197 --> 01:17:02,617
+He got in there and he realized
+that, underneath it all,
+
+963
+01:17:02,702 --> 01:17:07,706
+was this incredible breakthrough
+in viral-receptor mapping.
+
+964
+01:17:08,582 --> 01:17:09,708
+He had a map.
+
+965
+01:17:11,377 --> 01:17:14,421
+You've had some very
+minor alterations
+
+966
+01:17:14,505 --> 01:17:16,214
+made to two different
+chromosomes.
+
+967
+01:17:16,382 --> 01:17:18,300
+The green side, the
+physical side,
+
+968
+01:17:18,384 --> 01:17:20,510
+is nothing more than
+a 1 .5 percent rise
+
+969
+01:17:20,594 --> 01:17:23,305
+in your mitochondrial
+protein uptake.
+
+970
+01:17:23,389 --> 01:17:25,181
+But with 1 .5 percent,
+
+971
+01:17:25,266 --> 01:17:29,686
+you see this immediate
+increase in cellular tempo,
+
+972
+01:17:29,770 --> 01:17:32,522
+muscle efficiency, oxygenation..
+
+973
+01:17:32,732 --> 01:17:33,732
+And the blue side?
+
+974
+01:17:33,899 --> 01:17:36,234
+Intelligence, obviously,
+but it's more than that.
+
+975
+01:17:36,319 --> 01:17:39,654
+It's neural regeneration
+and elasticity.
+
+976
+01:17:39,739 --> 01:17:43,700
+Sensory function.
+Pain suppression.
+
+977
+01:17:44,618 --> 01:17:47,329
+It's the most exciting
+development in genomic targeting
+
+978
+01:17:47,413 --> 01:17:49,706
+in the history of the science.
+
+979
+01:18:10,478 --> 01:18:11,936
+My God.
+
+980
+01:18:16,776 --> 01:18:19,903
+Hey, how do I get monitor
+71 up on the big screen?
+
+981
+01:18:20,071 --> 01:18:21,279
+Coming up.
+
+982
+01:18:25,284 --> 01:18:26,451
+They found a body.
+
+983
+01:18:26,619 --> 01:18:29,120
+They're pretty sure it's a woman,
+and it's not Marta Shearing.
+
+984
+01:18:29,288 --> 01:18:30,663
+They found dog tags.
+
+985
+01:18:30,831 --> 01:18:32,457
+They think she was shot.
+
+986
+01:18:48,015 --> 01:18:50,600
+Hey.
+
+987
+01:18:53,479 --> 01:18:55,313
+Marta, I..
+
+988
+01:18:57,149 --> 01:18:59,192
+You can't call anyone.
+
+989
+01:19:02,947 --> 01:19:05,824
+There are people that care about
+you that think you're dead.
+
+990
+01:19:05,991 --> 01:19:07,367
+And there's nothing
+you can do about it.
+
+991
+01:19:07,535 --> 01:19:10,328
+Anyone you contact
+becomes a target.
+
+992
+01:19:12,206 --> 01:19:17,001
+So, you need to put aside any normal
+emotional response that you have.
+
+993
+01:19:18,504 --> 01:19:22,841
+The only edge we've got right now
+is they think we're both gone.
+
+994
+01:19:24,510 --> 01:19:25,510
+All right?
+
+995
+01:19:26,804 --> 01:19:28,388
+All right.
+
+996
+01:19:32,226 --> 01:19:33,935
+So,
+
+997
+01:19:34,019 --> 01:19:36,062
+you're going to want
+to go through this.
+
+998
+01:19:46,490 --> 01:19:49,033
+You know, just be
+familiar with it.
+
+999
+01:19:58,669 --> 01:20:00,253
+June Monroe.
+
+1000
+01:20:00,421 --> 01:20:02,714
+Who is June Monroe?
+
+1001
+01:20:03,340 --> 01:20:04,883
+You are.
+
+1002
+01:20:11,724 --> 01:20:14,225
+Do you know her?
+
+1003
+01:20:18,564 --> 01:20:20,064
+Not anymore.
+
+1004
+01:20:25,905 --> 01:20:28,198
+Why do you have
+to stay enhanced?
+
+1005
+01:20:32,286 --> 01:20:34,454
+Why is it so important to you?
+
+1006
+01:20:41,337 --> 01:20:42,337
+Come here.
+
+1007
+01:21:05,945 --> 01:21:07,278
+What is this?
+
+1008
+01:21:07,446 --> 01:21:09,447
+This was me.
+
+1009
+01:21:12,117 --> 01:21:13,576
+Was.
+
+1010
+01:21:15,663 --> 01:21:17,497
+My army recruiter
+
+1011
+01:21:19,250 --> 01:21:20,542
+was looking to make his quota.
+
+1012
+01:21:20,626 --> 01:21:22,418
+He added 12 points to my IQ.
+
+1013
+01:21:26,632 --> 01:21:29,300
+Twelve points to
+make the minimum.
+
+1014
+01:21:39,311 --> 01:21:41,646
+You ever seen a cognitive
+degrade, Marta?
+
+1015
+01:21:41,939 --> 01:21:44,649
+Sensory withdrawal?
+You ever do that?
+
+1016
+01:21:45,317 --> 01:21:48,611
+Pull someone's blues and watch
+them drop off their meds?
+
+1017
+01:21:48,779 --> 01:21:50,029
+No.
+
+1018
+01:21:50,489 --> 01:21:53,825
+Because they paint a pretty
+graphic picture in training.
+
+1019
+01:21:56,620 --> 01:21:58,830
+Hell of a long way to fall.
+
+1020
+01:22:01,208 --> 01:22:05,003
+If I can't keep it together,
+we won't make it.
+
+1021
+01:22:12,511 --> 01:22:13,845
+They bit. Who?
+
+1022
+01:22:14,013 --> 01:22:16,055
+Washington Post.
+
+1023
+01:22:16,682 --> 01:22:18,683
+We just flagged an email.
+
+1024
+01:22:18,851 --> 01:22:20,977
+They're going with the story
+about the possible theft
+
+1025
+01:22:21,061 --> 01:22:22,812
+of the dangerous
+materials from the lab.
+
+1026
+01:22:22,980 --> 01:22:27,150
+Wow, they took it. They already
+flagged a DWI conviction.
+
+1027
+01:22:27,318 --> 01:22:28,359
+That's convenient.
+
+1028
+01:22:28,527 --> 01:22:31,362
+They found another body.
+One of ours.
+
+1029
+01:22:31,530 --> 01:22:34,198
+They're picking up shell
+casings all over the place.
+
+1030
+01:22:34,366 --> 01:22:36,659
+I don't think your
+doctor's in there.
+
+1031
+01:23:27,086 --> 01:23:29,253
+Boarding pass and ID, please.
+
+1032
+01:23:37,429 --> 01:23:38,763
+Thank you. Thank you.
+
+1033
+01:23:38,931 --> 01:23:41,099
+Boarding pass and ID, please.
+
+1034
+01:23:52,903 --> 01:23:54,237
+Where are you?
+
+1035
+01:23:54,405 --> 01:23:56,114
+I'm right behind you.
+Don't turn around.
+
+1036
+01:23:57,616 --> 01:23:58,700
+You're going to stay right here
+
+1037
+01:23:58,784 --> 01:24:01,411
+until it's time to board, okay?
+You're doing great.
+
+1038
+01:24:02,162 --> 01:24:04,497
+You see that corridor
+on your right?
+
+1039
+01:24:04,581 --> 01:24:05,665
+You're gonna want
+to find somebody
+
+1040
+01:24:05,749 --> 01:24:07,625
+who's walking that way
+and just tag along.
+
+1041
+01:24:08,085 --> 01:24:09,377
+Keep moving, keep
+your head down,
+
+1042
+01:24:09,461 --> 01:24:10,461
+and I'll see you on the plane.
+
+1043
+01:24:12,005 --> 01:24:13,005
+Aaron?
+
+1044
+01:24:13,424 --> 01:24:14,757
+Hello?
+
+1045
+01:24:20,347 --> 01:24:22,348
+The trail is
+definitive and fresh.
+
+1046
+01:24:22,516 --> 01:24:24,517
+The canine team tracked
+her from her house
+
+1047
+01:24:24,601 --> 01:24:27,603
+through this wooded area, ending
+here, at this little parking lot.
+
+1048
+01:24:27,771 --> 01:24:30,648
+Either she had a car waiting for
+her, or somebody picked her up.
+
+1049
+01:24:30,816 --> 01:24:33,443
+There are security cameras on the
+street, but there's nothing back here.
+
+1050
+01:24:33,610 --> 01:24:35,194
+There's got to be
+satellite footage.
+
+1051
+01:24:35,362 --> 01:24:37,739
+Maryland's not exactly a
+high-value U.S. target.
+
+1052
+01:24:37,823 --> 01:24:39,073
+There'll be plenty
+of weather imaging,
+
+1053
+01:24:39,158 --> 01:24:40,283
+but we're gonna have to
+swing a little wider
+
+1054
+01:24:40,367 --> 01:24:41,659
+to find something real-time
+that's enhanceable.
+
+1055
+01:24:41,744 --> 01:24:43,703
+We're draining some foreign platforms.
+We need about an hour.
+
+1056
+01:24:43,996 --> 01:24:45,997
+Come on, she's not pulling
+this off on her own.
+
+1057
+01:24:46,165 --> 01:24:47,957
+Who the hell is helping her?
+
+1058
+01:24:52,755 --> 01:24:54,255
+We'll find out more
+in the next hour,
+
+1059
+01:24:54,381 --> 01:24:55,923
+while we are currently in court.
+
+1060
+01:24:56,008 --> 01:24:57,008
+Now back to Jenn.
+
+1061
+01:24:58,510 --> 01:25:02,096
+The FBI this morning confirmed
+reports that Dr. Albert Hirsch
+
+1062
+01:25:02,181 --> 01:25:05,516
+died of heart failure in a
+Washington, D.C. hotel.
+
+1063
+01:25:05,684 --> 01:25:08,603
+Dr. Hirsch had been expected
+to testify yesterday
+
+1064
+01:25:08,687 --> 01:25:10,438
+before a Senate
+intelligence committee.
+
+1065
+01:25:10,606 --> 01:25:13,107
+That select committee
+is investigating links
+
+1066
+01:25:13,192 --> 01:25:16,611
+between a troubled CIA
+program known as Treadstone
+
+1067
+01:25:16,695 --> 01:25:18,446
+and this man, Jason Bourne.
+
+1068
+01:25:18,530 --> 01:25:21,199
+Police and federal officials
+are searching for Bourne
+
+1069
+01:25:21,283 --> 01:25:24,452
+in connection with recent shootings
+in New York and in London.
+
+1070
+01:25:24,620 --> 01:25:27,455
+Dr. Hirsch had been cooperating
+with the Justice Department
+
+1071
+01:25:27,539 --> 01:25:30,374
+and was in protective custody
+at the time of the incident.
+
+1072
+01:25:30,626 --> 01:25:32,376
+A committee spokesman
+told reporters last night
+
+1073
+01:25:32,461 --> 01:25:35,379
+that the hearings will
+be postponed temporarily
+
+1074
+01:25:35,464 --> 01:25:37,423
+as they evaluate the
+loss of Doctor..
+
+1075
+01:26:02,533 --> 01:26:03,491
+Hi, folks.
+
+1076
+01:26:03,575 --> 01:26:05,326
+Just going to remind you
+to keep the aisles clear
+
+1077
+01:26:05,410 --> 01:26:06,786
+for any baggage during
+takeoff and landing.
+
+1078
+01:26:06,912 --> 01:26:08,704
+Excuse me. Thank you.
+
+1079
+01:26:08,789 --> 01:26:10,122
+Pardon me, sir.
+
+1080
+01:26:15,254 --> 01:26:16,838
+Sir, do you need help
+finding your seat?
+
+1081
+01:26:16,922 --> 01:26:18,965
+Sir? No, I got it.
+
+1082
+01:26:36,692 --> 01:26:39,610
+You see those two shadows? One of them is her.
+That's the parking lot.
+
+1083
+01:26:39,987 --> 01:26:42,530
+One of them stops.
+Here comes the car.
+
+1084
+01:26:42,698 --> 01:26:45,199
+Where is this from? It's a
+Canadian forestry satellite.
+
+1085
+01:26:45,367 --> 01:26:48,327
+Here comes the other one into
+the car, and there they go.
+
+1086
+01:26:48,495 --> 01:26:50,121
+- Where?
+- We lose them east.
+
+1087
+01:26:50,205 --> 01:26:52,456
+Our window drops out about
+two miles up the road.
+
+1088
+01:26:52,541 --> 01:26:53,791
+But we've got the silhouette.
+
+1089
+01:26:53,959 --> 01:26:56,043
+We've got surveillance footage,
+racked and ready to go.
+
+1090
+01:26:56,128 --> 01:26:58,880
+We're going to split teams, find
+this car and link up a trail.
+
+1091
+01:26:59,047 --> 01:27:00,464
+With a 17-hour head start?
+
+1092
+01:27:00,632 --> 01:27:03,050
+Where the hell can she go?
+
+1093
+01:27:18,358 --> 01:27:19,859
+We're looking for a
+Buick LeSabre 2002.
+
+1094
+01:27:20,027 --> 01:27:22,320
+I've got an NIA/Homeland
+warrant, that's why.
+
+1095
+01:27:23,405 --> 01:27:25,323
+Well, you give us what you have..
+Two passengers.
+
+1096
+01:27:25,407 --> 01:27:30,369
+It's an '02 burgundy LeSabre
+starting west from Lisbon, Maryland.
+
+1097
+01:27:30,537 --> 01:27:32,622
+Tolls, exits, service stations.
+
+1098
+01:27:32,706 --> 01:27:34,457
+Give me every camera you've got.
+
+1099
+01:27:34,541 --> 01:27:36,667
+I'm seeing an FBI camera
+bin on my list here.
+
+1100
+01:27:36,835 --> 01:27:37,960
+No, no. Traffic only.
+
+1101
+01:27:38,170 --> 01:27:40,296
+West, Lisbon. L-I-S-B-O-N.
+
+1102
+01:27:40,422 --> 01:27:43,758
+Yes, we want all of that and the toll cams.
+We want everything.
+
+1103
+01:27:43,842 --> 01:27:46,302
+We'll take them all. Whatever
+hits you have, send them on.
+
+1104
+01:27:46,428 --> 01:27:47,720
+We will work on
+sorting them out.
+
+1105
+01:28:13,372 --> 01:28:14,789
+Wilmington, Delaware.
+
+1106
+01:28:15,290 --> 01:28:19,251
+This is our car, the LeSabre. We
+see it coming into the structure.
+
+1107
+01:28:19,503 --> 01:28:23,297
+It goes under, comes back
+around, and it parks here.
+
+1108
+01:28:23,465 --> 01:28:24,966
+But it doesn't come out.
+
+1109
+01:28:25,133 --> 01:28:28,844
+This is inside. It's four
+minutes after arrival.
+
+1110
+01:28:29,054 --> 01:28:30,054
+It's her.
+
+1111
+01:28:30,180 --> 01:28:32,056
+Do we know what she's doing?
+
+1112
+01:28:32,224 --> 01:28:35,059
+She was having her
+passport picture taken.
+
+1113
+01:28:42,609 --> 01:28:46,278
+Logan, Hartford, LaGuardia,
+Kennedy, Philly, Newark,
+
+1114
+01:28:46,363 --> 01:28:47,905
+Dulles, Reagan.
+
+1115
+01:28:47,990 --> 01:28:50,408
+We start with yesterday
+morning, that is our wedge.
+
+1116
+01:28:50,492 --> 01:28:52,743
+We clear that, and then
+we move up the clock.
+
+1117
+01:29:37,330 --> 01:29:39,248
+She wants to know if you want
+Hartford, because she can get it.
+
+1118
+01:29:39,332 --> 01:29:42,418
+Blue coat, second row.
+She's got a red bag.
+
+1119
+01:29:42,586 --> 01:29:43,586
+Which one? I have four.
+
+1120
+01:29:43,670 --> 01:29:47,423
+All right, I have TSA
+Authorization 1, 6, 9 and 12.
+
+1121
+01:29:47,591 --> 01:29:49,425
+Airports given, all departures.
+
+1122
+01:29:49,593 --> 01:29:51,635
+Yes, the international
+terminal first.
+
+1123
+01:30:03,148 --> 01:30:05,107
+We're almost there.
+
+1124
+01:30:11,990 --> 01:30:13,991
+So, check out the newsstand.
+
+1125
+01:30:14,159 --> 01:30:15,159
+There.
+
+1126
+01:30:15,327 --> 01:30:16,577
+I don't know.
+
+1127
+01:30:18,205 --> 01:30:20,206
+Logan has a face we need to
+look at, but there's kids.
+
+1128
+01:30:20,290 --> 01:30:22,333
+Hang on, hang on, hang on.
+Hang on.
+
+1129
+01:30:23,335 --> 01:30:24,877
+Stop.
+
+1130
+01:30:30,092 --> 01:30:31,175
+Where is this?
+
+1131
+01:30:31,259 --> 01:30:32,510
+Kennedy. Okay.
+
+1132
+01:30:45,482 --> 01:30:48,442
+I've never been here at night.
+I don't know the rules.
+
+1133
+01:30:48,985 --> 01:30:51,320
+There are no rules, okay?
+
+1134
+01:30:52,197 --> 01:30:55,199
+We belong here. Come on.
+
+1135
+01:30:58,745 --> 01:30:59,954
+Hey, how are you?
+
+1136
+01:31:00,664 --> 01:31:01,664
+Good evening.
+
+1137
+01:31:01,873 --> 01:31:04,542
+Dr. Shearing and I are here
+to open up the lab, please.
+
+1138
+01:31:06,378 --> 01:31:07,586
+Sir? What's all this?
+
+1139
+01:31:08,463 --> 01:31:10,047
+Hi, how are you?
+
+1140
+01:31:10,882 --> 01:31:13,843
+Dr. Shearing! Dr. Shearing.
+
+1141
+01:31:14,678 --> 01:31:16,220
+Hey, it's me, Joseph.
+
+1142
+01:31:16,930 --> 01:31:18,264
+Joseph!
+
+1143
+01:31:19,099 --> 01:31:20,391
+Hello, how are you?
+
+1144
+01:31:20,559 --> 01:31:21,809
+I'm good, I'm good.
+
+1145
+01:31:22,310 --> 01:31:24,395
+Welcome back. Thanks.
+
+1146
+01:31:24,563 --> 01:31:26,981
+I'm sorry. I just don't have
+you on my list arriving.
+
+1147
+01:31:27,149 --> 01:31:29,066
+That's because we had
+to change our schedule.
+
+1148
+01:31:29,234 --> 01:31:30,776
+Yeah, we took an earlier flight.
+
+1149
+01:31:30,944 --> 01:31:34,029
+Joseph, I'm Dr. Brundage, by the way.
+It's nice to meet you.
+
+1150
+01:31:34,197 --> 01:31:38,075
+Pleased to meet you, too, but Dr. Pumaloy
+is not here, he went to Singapore.
+
+1151
+01:31:38,243 --> 01:31:39,326
+He just left yesterday.
+
+1152
+01:31:39,870 --> 01:31:41,996
+The girls have gone home.
+No one told me anything.
+
+1153
+01:31:42,164 --> 01:31:44,456
+Right. Well, I understand.
+
+1154
+01:31:44,624 --> 01:31:46,250
+Well, look, we're going
+to be here all week,
+
+1155
+01:31:46,334 --> 01:31:47,710
+and we have a lot of work to do,
+
+1156
+01:31:47,836 --> 01:31:49,211
+so we need to get
+in there tonight
+
+1157
+01:31:49,296 --> 01:31:50,337
+and get things started, okay?
+
+1158
+01:31:50,505 --> 01:31:52,131
+Yeah, of course,
+it's just that..
+
+1159
+01:31:52,299 --> 01:31:53,924
+You can call Dr. Pumaloy
+if you want.
+
+1160
+01:31:54,009 --> 01:31:55,176
+I just don't want to
+put you on the spot.
+
+1161
+01:31:55,260 --> 01:31:57,469
+No, we don't have to do that.
+
+1162
+01:31:57,762 --> 01:31:59,180
+Okay, great.
+
+1163
+01:32:02,434 --> 01:32:04,268
+It's just the two of you?
+
+1164
+01:32:04,436 --> 01:32:05,603
+Yeah.
+
+1165
+01:32:06,563 --> 01:32:08,355
+Yes, correct.
+
+1166
+01:32:08,481 --> 01:32:09,773
+Correct.
+
+1167
+01:32:11,568 --> 01:32:12,818
+Yes, I will hold.
+
+1168
+01:32:12,986 --> 01:32:15,779
+Get it up there. Put that
+up on the big screen.
+
+1169
+01:32:17,157 --> 01:32:18,782
+Yes, I'm here.
+
+1170
+01:32:19,618 --> 01:32:21,869
+Good. Where?
+
+1171
+01:32:22,037 --> 01:32:24,830
+I need an immediate upload
+on that passenger manifest.
+
+1172
+01:32:24,998 --> 01:32:27,166
+I know. Here she is, I'm
+putting her back on.
+
+1173
+01:32:27,334 --> 01:32:30,461
+Manila. She took
+American 167 to Manila.
+
+1174
+01:32:30,629 --> 01:32:32,087
+She landed 45 minutes ago.
+
+1175
+01:33:15,465 --> 01:33:16,715
+Aaron.
+
+1176
+01:33:17,300 --> 01:33:18,801
+Are you okay?
+
+1177
+01:33:32,816 --> 01:33:34,817
+There's 243 people
+on that plane.
+
+1178
+01:33:34,985 --> 01:33:36,819
+We're going to scope every
+one of them right now.
+
+1179
+01:33:36,987 --> 01:33:39,154
+So, pick a face that you
+like, pull it down,
+
+1180
+01:33:39,239 --> 01:33:40,823
+and deselect it if
+you've cleared it.
+
+1181
+01:33:40,991 --> 01:33:42,783
+If there is anything that
+smells wrong to you,
+
+1182
+01:33:42,867 --> 01:33:45,160
+if there's a hair out of
+place that you don't like,
+
+1183
+01:33:45,245 --> 01:33:46,370
+you do not clear it.
+
+1184
+01:33:46,454 --> 01:33:49,456
+You flag it and you send it over
+to Dita and we'll check it out.
+
+1185
+01:33:51,001 --> 01:33:54,503
+We have to be working off the same grid.
+That's Homeland 9.5.
+
+1186
+01:33:54,671 --> 01:33:57,006
+If you don't pull that
+access, raise your hand,
+
+1187
+01:33:57,090 --> 01:33:59,091
+Colonel Hardy's going to
+come over and sort you out.
+
+1188
+01:34:09,811 --> 01:34:11,562
+So, this is it, huh?
+
+1189
+01:34:12,230 --> 01:34:13,355
+Yeah.
+
+1190
+01:34:16,693 --> 01:34:17,901
+Okay.
+
+1191
+01:34:18,695 --> 01:34:20,237
+What the hell are
+we into, Terry?
+
+1192
+01:34:20,405 --> 01:34:21,572
+I don't know.
+
+1193
+01:34:21,740 --> 01:34:23,407
+It's your shop. What is
+going on over there?
+
+1194
+01:34:23,575 --> 01:34:24,783
+What did I say? I don't know.
+
+1195
+01:34:24,951 --> 01:34:26,577
+Well, how many trips has
+she made over there?
+
+1196
+01:34:26,745 --> 01:34:28,495
+Five, six, I don't know.
+Why the Philippines?
+
+1197
+01:34:28,663 --> 01:34:30,622
+Hey, hey, hey!
+
+1198
+01:34:33,168 --> 01:34:36,920
+Seat 13-B. Karl D.
+Brundage, 13-B.
+
+1199
+01:34:38,131 --> 01:34:40,215
+I need support staff
+to clear the room.
+
+1200
+01:34:42,594 --> 01:34:44,720
+Stand up and walk, now.
+
+1201
+01:34:48,099 --> 01:34:50,851
+Jack, Cathy, move! Let's go.
+
+1202
+01:34:58,485 --> 01:34:59,610
+Who the hell is he?
+
+1203
+01:35:01,154 --> 01:35:03,113
+He's an Outcome agent.
+
+1204
+01:35:03,281 --> 01:35:04,281
+That's Outcome 5.
+
+1205
+01:35:04,449 --> 01:35:06,784
+They're not dead? I
+thought they were dead!
+
+1206
+01:35:07,118 --> 01:35:09,203
+Yeah, he's supposed to be dead.
+
+1207
+01:35:09,954 --> 01:35:11,747
+Then what's he doing there?
+I don't know.
+
+1208
+01:35:11,915 --> 01:35:13,123
+He's looking for meds.
+
+1209
+01:35:13,375 --> 01:35:14,375
+What?
+
+1210
+01:35:14,542 --> 01:35:16,877
+That's where the chems come from.
+What else would he be doing?
+
+1211
+01:35:17,045 --> 01:35:18,420
+She's got to be helping him.
+
+1212
+01:35:18,588 --> 01:35:20,089
+But how? How is that possible?
+
+1213
+01:35:20,256 --> 01:35:23,092
+I don't know how. I don't care.
+
+1214
+01:35:23,259 --> 01:35:24,927
+He's alive, they're there.
+
+1215
+01:35:25,095 --> 01:35:27,388
+"How" doesn't really
+matter, does it?
+
+1216
+01:35:27,555 --> 01:35:30,432
+The only mission we've got now
+is to drop a bag over this.
+
+1217
+01:35:30,600 --> 01:35:32,267
+Are the drugs he's looking
+for there, or not?
+
+1218
+01:35:32,435 --> 01:35:34,812
+Jesus, I don't.. Terry?
+
+1219
+01:35:34,979 --> 01:35:36,397
+No. No, there's nothing there.
+
+1220
+01:35:36,564 --> 01:35:37,940
+We haven't made a
+run in 16 weeks.
+
+1221
+01:35:38,024 --> 01:35:39,608
+Besides, we wouldn't store
+the pills there, anyway.
+
+1222
+01:35:39,692 --> 01:35:40,943
+It's basically a kitchen.
+
+1223
+01:35:41,027 --> 01:35:43,195
+We tweak the recipe and we bake
+up a batch when we need it.
+
+1224
+01:35:43,279 --> 01:35:44,655
+Then what the hell
+are they doing?
+
+1225
+01:35:44,739 --> 01:35:46,615
+The stems are there.
+
+1226
+01:35:47,617 --> 01:35:50,953
+She's going to try
+to viral him out.
+
+1227
+01:36:22,944 --> 01:36:24,403
+Thank you.
+
+1228
+01:36:39,377 --> 01:36:41,044
+Mack. Yeah?
+
+1229
+01:36:42,964 --> 01:36:44,256
+Plant office, Mackie speaking.
+
+1230
+01:36:44,883 --> 01:36:46,300
+Mr. Mackie, this
+is Terrance Ward.
+
+1231
+01:36:46,384 --> 01:36:49,595
+I'm the Senior Vice-President
+for Candent Precision Metrics.
+
+1232
+01:36:49,762 --> 01:36:51,722
+I'm calling from Maryland.
+Yes, sir.
+
+1233
+01:36:52,098 --> 01:36:54,057
+We have a potential
+security incident.
+
+1234
+01:36:54,225 --> 01:36:56,477
+I just posted two photographs
+on the company network.
+
+1235
+01:36:56,644 --> 01:36:58,937
+I need to know if either of these
+two people have tried to enter..
+
+1236
+01:36:59,022 --> 01:37:00,272
+Yeah, we're on it.
+
+1237
+01:37:00,773 --> 01:37:01,773
+Excuse me?
+
+1238
+01:37:01,858 --> 01:37:04,902
+Yeah, we're on the case. We're just here
+now trying to figure out who to call.
+
+1239
+01:37:04,986 --> 01:37:07,196
+Our gatehouse just
+passed in two doctors.
+
+1240
+01:37:07,280 --> 01:37:08,614
+I think one of them
+might be that woman
+
+1241
+01:37:08,698 --> 01:37:09,948
+from your shoot-out over there.
+
+1242
+01:37:10,116 --> 01:37:11,450
+Well, where are they now?
+
+1243
+01:37:11,618 --> 01:37:13,494
+We keep all of our
+client labs downstairs,
+
+1244
+01:37:13,578 --> 01:37:15,746
+so we're assuming they've
+gone into the basement.
+
+1245
+01:37:15,914 --> 01:37:17,664
+I just sent a couple of
+boys down to check it out.
+
+1246
+01:37:17,832 --> 01:37:20,000
+No, no. No, no,
+withdraw your team.
+
+1247
+01:37:20,168 --> 01:37:22,127
+Lock the lab and keep
+them down there.
+
+1248
+01:37:22,295 --> 01:37:24,338
+Do not try to take him.
+
+1249
+01:37:29,385 --> 01:37:30,385
+Hello?
+
+1250
+01:37:30,553 --> 01:37:32,262
+Hey, how you doing?
+Can I help you?
+
+1251
+01:37:32,430 --> 01:37:33,430
+Are you alone down here?
+
+1252
+01:37:33,598 --> 01:37:34,598
+Aaron?
+
+1253
+01:37:35,058 --> 01:37:36,433
+Hey, guys.
+
+1254
+01:37:36,601 --> 01:37:38,769
+You can't be down here. Do you
+have clearance for this level?
+
+1255
+01:37:38,853 --> 01:37:39,853
+Nobody's supposed
+to be down here.
+
+1256
+01:37:39,938 --> 01:37:41,855
+I'm supposed to be down here.
+I'm Dr. Shearing.
+
+1257
+01:37:41,940 --> 01:37:43,273
+We're in the middle
+of a sampling audit.
+
+1258
+01:37:43,358 --> 01:37:44,399
+It is not safe for
+you guys to be here.
+
+1259
+01:37:44,484 --> 01:37:45,651
+Let's straighten
+this out upstairs.
+
+1260
+01:37:45,944 --> 01:37:47,361
+Don't touch that.
+Pack it up, let's go.
+
+1261
+01:37:47,445 --> 01:37:48,946
+Look, nobody touch anything.
+Come on, just follow us.
+
+1262
+01:37:49,030 --> 01:37:51,490
+I'm not going to sit here and argue with you.
+I'm going to call your boss
+
+1263
+01:37:51,574 --> 01:37:53,075
+and we're gonna figure it out.
+Watch her.
+
+1264
+01:37:53,159 --> 01:37:54,826
+Hey, hold on a second.
+
+1265
+01:38:11,886 --> 01:38:14,179
+I'm going to get my bag.
+We got to go.
+
+1266
+01:38:14,347 --> 01:38:16,139
+Okay.
+
+1267
+01:38:18,434 --> 01:38:20,227
+Wait. This way.
+
+1268
+01:38:20,395 --> 01:38:22,104
+I don't know where this goes.
+Just open it.
+
+1269
+01:38:29,028 --> 01:38:30,112
+Step back.
+
+1270
+01:38:42,041 --> 01:38:45,210
+Lock it down. Hey! You! You! With me!
+Come on, come on, come on.
+
+1271
+01:38:52,176 --> 01:38:53,510
+Is that locked? Yes, sir.
+
+1272
+01:38:53,678 --> 01:38:55,137
+No one in, no one out.
+Do you understand?
+
+1273
+01:38:55,305 --> 01:38:58,724
+Hey, what happened to those
+three guys you sent downstairs?
+
+1274
+01:38:58,891 --> 01:38:59,975
+Shit.
+
+1275
+01:39:00,143 --> 01:39:03,687
+Come with me. You stay there, okay?
+Stay there.
+
+1276
+01:39:04,981 --> 01:39:06,481
+We belong here.
+
+1277
+01:39:15,033 --> 01:39:16,491
+Coming through.
+
+1278
+01:39:35,678 --> 01:39:38,013
+You, go and get everyone else.
+Tell them to go around the front.
+
+1279
+01:39:38,097 --> 01:39:39,973
+Go through the eastern doors,
+move around the front.
+
+1280
+01:39:49,025 --> 01:39:50,609
+Move! Move, people!
+
+1281
+01:39:50,735 --> 01:39:53,904
+Who have you got on this radio?
+Why is no one responding?
+
+1282
+01:39:54,155 --> 01:39:55,364
+Is that gate shut?
+
+1283
+01:39:56,407 --> 01:39:58,367
+Excuse me. Move, move, move!
+
+1284
+01:39:58,868 --> 01:40:00,577
+Hey! I need that gate shut!
+
+1285
+01:40:00,745 --> 01:40:03,830
+Hey, you! Listen, go down to the main gate.
+Do you understand?
+
+1286
+01:40:03,915 --> 01:40:05,374
+No one in, no one out.
+
+1287
+01:40:05,541 --> 01:40:06,667
+Hey, what are you doing?
+
+1288
+01:40:06,834 --> 01:40:08,335
+Just get down to the main
+gate with everyone else.
+
+1289
+01:40:10,630 --> 01:40:12,673
+All right, get back! Stay back!
+
+1290
+01:40:12,840 --> 01:40:14,716
+Give him some room.
+
+1291
+01:40:15,927 --> 01:40:17,803
+All right, give me some room.
+Give me some room, please.
+
+1292
+01:40:18,930 --> 01:40:20,389
+He's going to need a doctor.
+
+1293
+01:40:23,726 --> 01:40:24,893
+Security. Security!
+
+1294
+01:40:25,895 --> 01:40:26,895
+Over here, please.
+
+1295
+01:40:28,731 --> 01:40:30,023
+Over here.
+
+1296
+01:40:30,566 --> 01:40:32,734
+Sir, can you hear me? Sir!
+
+1297
+01:40:40,076 --> 01:40:41,535
+He can't get far.
+
+1298
+01:40:41,703 --> 01:40:43,995
+If he didn't viral out, he's
+going to run out of brain.
+
+1299
+01:40:44,163 --> 01:40:46,289
+And, if he did, then he's
+going to be too sick to move.
+
+1300
+01:40:46,457 --> 01:40:48,083
+So, we just have
+to find him fast
+
+1301
+01:40:48,209 --> 01:40:49,876
+and kill him, once and for all.
+
+1302
+01:40:50,044 --> 01:40:51,503
+Can we talk about LARX?
+
+1303
+01:40:52,839 --> 01:40:54,214
+LARX?
+
+1304
+01:40:54,382 --> 01:40:56,591
+LARX-3 is in Bangkok.
+It's a two-hour flight.
+
+1305
+01:40:56,759 --> 01:40:59,219
+Wait a minute. Just
+hang on, here.
+
+1306
+01:40:59,929 --> 01:41:02,055
+I thought that was
+just a proposal.
+
+1307
+01:41:03,182 --> 01:41:04,599
+Get him out there.
+
+1308
+01:41:07,478 --> 01:41:10,105
+LARX is a beta-2 stem program.
+
+1309
+01:41:10,273 --> 01:41:12,774
+Amped mission fidelity,
+minimized empathy.
+
+1310
+01:41:12,942 --> 01:41:15,318
+It's Treadstone without
+the inconsistency,
+
+1311
+01:41:15,403 --> 01:41:17,738
+Outcome without the
+emotional noise.
+
+1312
+01:41:17,905 --> 01:41:19,531
+It's looking very strong for us.
+
+1313
+01:41:19,699 --> 01:41:22,993
+We have never seen
+evaluations like this.
+
+1314
+01:41:23,077 --> 01:41:25,245
+This went from something
+I don't know about
+
+1315
+01:41:25,329 --> 01:41:26,663
+to something on the
+drawing board,
+
+1316
+01:41:26,748 --> 01:41:28,623
+and now you're telling
+me it's up and running?
+
+1317
+01:41:28,791 --> 01:41:31,293
+It's up and running.
+Consider yourself informed.
+
+1318
+01:42:18,716 --> 01:42:20,801
+Are you comfortable?
+
+1319
+01:42:21,511 --> 01:42:22,844
+Yes, sir.
+
+1320
+01:42:23,846 --> 01:42:25,347
+You don't look comfortable.
+
+1321
+01:42:26,974 --> 01:42:28,683
+No, sir.
+
+1322
+01:42:30,061 --> 01:42:32,562
+What's your name?
+
+1323
+01:42:35,107 --> 01:42:37,234
+Kenneth James.
+
+1324
+01:42:37,568 --> 01:42:39,778
+Full name, Kenneth.
+
+1325
+01:42:40,446 --> 01:42:42,697
+Kenneth.. James..
+
+1326
+01:42:43,783 --> 01:42:44,783
+Kitsom.
+
+1327
+01:42:44,909 --> 01:42:46,284
+They have a room.
+
+1328
+01:42:47,954 --> 01:42:49,704
+Can you walk?
+
+1329
+01:42:49,872 --> 01:42:52,082
+Yeah? Yeah. Yeah. I think so.
+
+1330
+01:43:07,098 --> 01:43:09,766
+Where are you from, Kenneth?
+
+1331
+01:43:10,309 --> 01:43:11,309
+When?
+
+1332
+01:43:11,644 --> 01:43:13,603
+Before you enlisted.
+
+1333
+01:43:15,064 --> 01:43:16,273
+Berwin.
+
+1334
+01:43:17,108 --> 01:43:18,733
+Ls that a town?
+
+1335
+01:43:18,901 --> 01:43:22,404
+Berwin.. it's a state home.
+
+1336
+01:43:22,488 --> 01:43:23,530
+What state?
+
+1337
+01:43:25,950 --> 01:43:27,409
+In Reno.
+
+1338
+01:43:27,785 --> 01:43:28,869
+Ls this a test?
+
+1339
+01:43:28,953 --> 01:43:30,328
+Yes, it is.
+
+1340
+01:43:37,336 --> 01:43:39,296
+If I pass, can I stay here?
+
+1341
+01:43:39,463 --> 01:43:40,463
+Do you want to stay?
+
+1342
+01:43:40,548 --> 01:43:41,631
+Yes, sir.
+
+1343
+01:43:41,966 --> 01:43:43,133
+That's good to know.
+
+1344
+01:43:55,730 --> 01:43:57,480
+Okay. Okay.
+
+1345
+01:44:00,443 --> 01:44:02,193
+Okay, just lie still.
+
+1346
+01:44:02,361 --> 01:44:03,820
+Aaron, you have.. Aaron..
+
+1347
+01:44:12,538 --> 01:44:13,663
+What?
+
+1348
+01:44:17,376 --> 01:44:21,463
+There's $40,000 in the
+lining of my jacket.
+
+1349
+01:44:22,798 --> 01:44:25,467
+In this bag, there
+are passports.
+
+1350
+01:44:25,635 --> 01:44:27,719
+Two blanks and three ghosts,
+there's that guy's watch.
+
+1351
+01:44:27,887 --> 01:44:29,721
+There are other things, okay?
+You take it.
+
+1352
+01:44:32,350 --> 01:44:33,975
+Look at me.
+
+1353
+01:44:34,644 --> 01:44:36,519
+You can make it.
+
+1354
+01:44:37,021 --> 01:44:38,188
+You're a warrior.
+
+1355
+01:44:40,691 --> 01:44:42,192
+You can make it.
+
+1356
+01:44:42,526 --> 01:44:44,402
+Okay? Stay small.
+
+1357
+01:44:44,737 --> 01:44:46,196
+No airports.
+
+1358
+01:44:46,364 --> 01:44:48,657
+Just blend in like
+you know, okay?
+
+1359
+01:44:53,329 --> 01:44:54,371
+You've done enough for me.
+
+1360
+01:44:54,497 --> 01:44:55,538
+No, I..
+
+1361
+01:44:56,207 --> 01:44:57,540
+Please go.
+
+1362
+01:44:57,708 --> 01:44:59,584
+You've done enough for me.
+
+1363
+01:45:13,766 --> 01:45:15,058
+Everything's in the car.
+
+1364
+01:46:12,908 --> 01:46:14,117
+Ls this a test?
+
+1365
+01:46:14,243 --> 01:46:15,452
+Yes, it is.
+
+1366
+01:46:17,413 --> 01:46:19,789
+If I pass, can I stay here?
+
+1367
+01:46:19,999 --> 01:46:21,458
+Do you want to stay?
+
+1368
+01:46:57,495 --> 01:46:59,537
+Paracetamol, 500 milligrams.
+
+1369
+01:46:59,789 --> 01:47:00,955
+Four times a day.
+
+1370
+01:47:07,797 --> 01:47:09,005
+For free. This is free.
+
+1371
+01:47:09,173 --> 01:47:10,215
+Okay, good.
+
+1372
+01:47:17,556 --> 01:47:18,890
+I'll be right back.
+
+1373
+01:48:34,300 --> 01:48:37,260
+Aaron, run!
+
+1374
+01:49:20,346 --> 01:49:21,846
+"Where are you?"
+
+1375
+01:49:22,431 --> 01:49:24,307
+"Was that the signal?"
+
+1376
+01:49:24,475 --> 01:49:26,142
+They're asking for confirmation.
+
+1377
+01:49:26,977 --> 01:49:29,479
+"You went too soon." No..
+"We went too soon."
+
+1378
+01:49:29,647 --> 01:49:30,647
+Come on.
+
+1379
+01:51:11,915 --> 01:51:13,416
+It's okay.
+
+1380
+01:51:22,634 --> 01:51:23,718
+Police! Police!
+
+1381
+01:52:00,089 --> 01:52:01,089
+Get down!
+
+1382
+01:52:10,974 --> 01:52:11,974
+Are you okay?
+
+1383
+01:52:12,184 --> 01:52:13,184
+Yeah.
+
+1384
+01:52:13,936 --> 01:52:15,478
+Good. Come on.
+
+1385
+01:53:12,369 --> 01:53:13,703
+Get down, get down.
+
+1386
+01:53:18,375 --> 01:53:19,375
+Climb over.
+
+1387
+01:53:19,710 --> 01:53:21,043
+Go. Get over, get
+over, get over.
+
+1388
+01:53:21,545 --> 01:53:22,587
+Get over. Hang on tight.
+
+1389
+01:53:28,218 --> 01:53:29,260
+Go, go!
+
+1390
+01:53:30,888 --> 01:53:32,054
+You ready? Let go!
+
+1391
+01:53:59,917 --> 01:54:01,918
+Okay. Take this.
+
+1392
+01:54:02,085 --> 01:54:04,587
+Just keep walking, don't look back.
+Go, go.
+
+1393
+01:54:34,451 --> 01:54:36,786
+Hey, hey. Get on.
+
+1394
+01:54:37,454 --> 01:54:38,663
+You ever ridden before? No.
+
+1395
+01:54:38,747 --> 01:54:39,747
+Take this.
+
+1396
+01:54:39,831 --> 01:54:41,666
+Police, police!
+
+1397
+01:54:44,127 --> 01:54:46,003
+Hang on tight and
+follow me, okay?
+
+1398
+01:54:46,171 --> 01:54:47,630
+Stay with me.
+
+1399
+01:55:46,356 --> 01:55:47,857
+He's got a gun!
+
+1400
+01:55:57,534 --> 01:55:58,701
+Keep your head down.
+
+1401
+01:55:58,910 --> 01:55:59,910
+It's not a cop.
+
+1402
+01:56:29,024 --> 01:56:30,024
+Aaron!
+
+1403
+02:00:08,785 --> 02:00:10,786
+You've been shot.
+It's all right.
+
+1404
+02:00:10,954 --> 02:00:12,496
+Pull over!
+
+1405
+02:00:13,373 --> 02:00:14,415
+Pull over.
+
+1406
+02:00:14,583 --> 02:00:16,792
+We just have to
+get to the water.
+
+1407
+02:00:19,004 --> 02:00:20,045
+Can you check that for me?
+
+1408
+02:00:20,130 --> 02:00:21,130
+How long is that going to take?
+
+1409
+02:00:21,590 --> 02:00:22,590
+Come on.
+
+1410
+02:00:22,674 --> 02:00:23,674
+We'll get back to you.
+
+1411
+02:00:24,551 --> 02:00:25,551
+Anything?
+
+1412
+02:00:26,011 --> 02:00:27,511
+No.
+
+1413
+02:00:27,888 --> 02:00:28,888
+The cops are out.
+
+1414
+02:00:30,056 --> 02:00:31,557
+They lost the trail.
+
+1415
+02:00:43,820 --> 02:00:45,154
+Aaron!
+
+1416
+02:01:26,029 --> 02:01:27,863
+Aaron! Aaron! Aaron! Aaron!
+
+1417
+02:01:44,923 --> 02:01:53,639
+Are you okay?
+
+1418
+02:01:53,807 --> 02:01:55,808
+Yeah? Yeah.
+
+1419
+02:02:15,662 --> 02:02:18,080
+Can you help us?
+
+1420
+02:02:24,295 --> 02:02:26,255
+Please.
+
+1421
+02:02:30,260 --> 02:02:31,260
+Should be up there now.
+
+1422
+02:02:33,263 --> 02:02:35,097
+He said it's the room where
+they spent the night.
+
+1423
+02:02:52,323 --> 02:02:55,451
+Well, we had a problem with
+Treadstone six years ago.
+
+1424
+02:02:56,036 --> 02:02:57,703
+The Blackbriar program,
+
+1425
+02:02:57,787 --> 02:03:00,873
+detailed in the operations
+report you have before you,
+
+1426
+02:03:00,957 --> 02:03:02,875
+was activated solely to capture
+
+1427
+02:03:02,959 --> 02:03:04,877
+a Treadstone operative
+gone rogue.
+
+1428
+02:03:07,547 --> 02:03:08,714
+Pam, what are you going to do?
+
+1429
+02:03:08,798 --> 02:03:10,340
+We have nothing for you now.
+
+1430
+02:03:10,508 --> 02:03:12,217
+I don't know Pamela
+Landy's reasons
+
+1431
+02:03:12,302 --> 02:03:14,970
+for criminally assisting an
+enemy of the United States.
+
+1432
+02:03:15,138 --> 02:03:18,932
+But the fact is, she lacked
+the operational clearance
+
+1433
+02:03:19,017 --> 02:03:23,062
+to access, much less interpret,
+the information you have
+
+1434
+02:03:23,146 --> 02:03:24,563
+in the classified
+file before you.
+
+1435
+02:03:24,647 --> 02:03:26,857
+Pam, there's a rumor that you're
+going to be indicted, is it true?
+
+1436
+02:03:26,983 --> 02:03:28,484
+Mike, can you comment?
+Have you been subpoenaed?
+
+1437
+02:03:28,568 --> 02:03:30,235
+We're here voluntarily.
+We came for a meeting.
+
+1438
+02:03:30,320 --> 02:03:31,612
+Have you had any contact
+with Jason Bourne?
+
+1439
+02:03:31,696 --> 02:03:33,238
+Did you receive a
+target letter or not?
+
+1440
+02:03:33,323 --> 02:03:34,406
+Are we going to
+see you tomorrow?
+
+1441
+02:03:34,574 --> 02:03:36,575
+I just thank God that there
+were hands steady enough
+
+1442
+02:03:36,743 --> 02:03:40,162
+to make sure that the documents
+she tried to shop to the press
+
+1443
+02:03:40,330 --> 02:03:41,955
+were contained before they could
+
+1444
+02:03:42,040 --> 02:03:43,582
+do any more harm than
+they already have.
+
+1445
+02:03:43,666 --> 02:03:46,418
+Are you still scheduled to appear at
+the House Intelligence Committee?
+
+1446
+02:03:46,503 --> 02:03:49,338
+Yes, I am. Look, anything else is going
+to have to come from my attorneys, okay?
+
+1447
+02:03:49,422 --> 02:03:50,923
+Do you regret your
+earlier statement?
+
+1448
+02:03:51,091 --> 02:03:53,842
+I regret a lot of things. I'm not
+sure that one is on the list.
+
+1449
+02:03:54,010 --> 02:03:55,010
+Thank you, guys.
+
+1450
+02:04:46,729 --> 02:04:48,981
+Hey.
+
+1451
+02:04:51,568 --> 02:04:53,068
+Are we lost?
+
+1452
+02:04:54,154 --> 02:04:55,821
+No.
+
+1453
+02:04:56,573 --> 02:04:58,907
+Just looking at our options.
+
+1454
+02:05:02,745 --> 02:05:05,289
+I was kind of hoping
+we were lost.
+
+1455
+02:05:55,000 --> 02:06:04,000
+<font face="Vrinda"> {\an6} <b>SubText: NoRMITA.326</b></font>
+
