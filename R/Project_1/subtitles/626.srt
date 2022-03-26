@@ -1,0 +1,5064 @@
+1
+00:01:20,736 --> 00:01:22,576
+<i>Alert, alert, alert!</i>
+
+2
+00:01:55,096 --> 00:01:59,736
+<i>You three criminals have been caught
+in a further act of seditious treason.</i>
+
+3
+00:02:00,656 --> 00:02:04,656
+<i>General Zod, your only feeling
+was contempt for our society.</i>
+
+4
+00:02:05,296 --> 00:02:07,656
+<i>Your only desire was to command.</i>
+
+5
+00:02:09,056 --> 00:02:12,936
+<i>Ursa, the only feeling you showed
+was for your vicious general.</i>
+
+6
+00:02:13,376 --> 00:02:15,976
+<i>Your only wish, to rule at his side.</i>
+
+7
+00:02:17,016 --> 00:02:21,936
+<i>Non, you are as without thought
+as you are without voice.</i>
+
+8
+00:02:23,656 --> 00:02:26,776
+<i>This council has no hesitation
+in proclaiming you...</i>
+
+9
+00:02:27,016 --> 00:02:28,976
+<i>...all guilty!</i>
+
+10
+00:02:30,056 --> 00:02:31,256
+<i>Guilty!</i>
+
+11
+00:03:01,096 --> 00:03:03,416
+<i>You will lie down before me, Jor-El.</i>
+
+12
+00:03:03,816 --> 00:03:06,176
+<i>Both you and them one day, Jor-El.</i>
+
+13
+00:03:07,056 --> 00:03:08,056
+<i>Jor-El!</i>
+
+14
+00:08:43,416 --> 00:08:46,456
+<i>- Here, I'll just get the door for you.
+- Yeah, thanks...</i>
+
+15
+00:08:47,096 --> 00:08:48,736
+Sorry, after you.
+
+16
+00:08:52,976 --> 00:08:55,056
+- 'Morning, Phil.
+- Excuse me, Kent.
+
+17
+00:08:59,256 --> 00:09:02,696
+<i>Hi, Alice. That's a very pretty blouse
+you're wearing today...</i>
+
+18
+00:09:02,776 --> 00:09:04,336
+Catch you later, Clark.
+
+19
+00:09:04,736 --> 00:09:09,176
+<i>Hello. I don't know. Okay...</i>
+
+20
+00:09:09,336 --> 00:09:11,256
+- 'Morning, Louise.
+- I'll check it.
+
+21
+00:09:13,976 --> 00:09:16,976
+Mr. White, how long should
+the pressroom hold the front page?
+
+22
+00:09:17,056 --> 00:09:19,456
+Give it another 10 minutes. I'll tell him.
+
+23
+00:09:19,536 --> 00:09:20,416
+Thank you.
+
+24
+00:09:20,496 --> 00:09:23,256
+If we don't get anything new
+in the next 10 minutes...
+
+25
+00:09:23,336 --> 00:09:27,536
+...go with the wire service copy under
+the 40 point banner. Picture in 3 columns.
+
+26
+00:09:27,896 --> 00:09:32,576
+Kent, do a background story for the page
+three sidebar on this terrorist group.
+
+27
+00:09:32,656 --> 00:09:33,416
+Right!
+
+28
+00:09:34,976 --> 00:09:36,896
+Sorry. Terrorists?
+
+29
+00:09:37,176 --> 00:09:39,816
+Get your heads out of the clouds.
+Where have you been?
+
+30
+00:09:39,936 --> 00:09:41,096
+I was at home.
+
+31
+00:09:41,176 --> 00:09:42,536
+Don't you watch TV?
+
+32
+00:09:42,656 --> 00:09:46,176
+I don't enjoy TV, there's too much violence.
+I was just reading Dickens.
+
+33
+00:09:46,256 --> 00:09:49,536
+Mr. Kent, a gang of terrorists
+seized the Eiffel Tower in Paris.
+
+34
+00:09:49,656 --> 00:09:53,056
+He knows where the Eiffel Tower is, Olsen.
+You do, don't you, Kent?
+
+35
+00:09:53,176 --> 00:09:56,216
+- Yes. Has anyone been hurt?
+- So far the hostages are unharmed.
+
+36
+00:09:56,336 --> 00:09:57,176
+Hostages?
+
+37
+00:09:57,256 --> 00:10:00,496
+- Tourists, about 20 of them.
+- That's just penny ante stuff.
+
+38
+00:10:00,536 --> 00:10:03,176
+If the French government
+doesn't meet their demands...
+
+39
+00:10:03,256 --> 00:10:05,536
+...they've got a Hydrogen bomb
+to level Paris.
+
+40
+00:10:05,976 --> 00:10:07,736
+Mr. White, that's terrible!
+
+41
+00:10:08,176 --> 00:10:10,656
+That's why they call them terrorists, Kent.
+
+42
+00:10:11,176 --> 00:10:14,456
+Get to the morgue. I want to know
+everything there is on terrorism...
+
+43
+00:10:14,536 --> 00:10:16,416
+Does Lois know about this yet?
+
+44
+00:10:16,536 --> 00:10:19,056
+- Does she know about it? She's in it!
+- She's what?
+
+45
+00:10:19,216 --> 00:10:22,176
+When the story broke,
+I bundled her on the first Concorde.
+
+46
+00:10:22,496 --> 00:10:25,376
+If Paris might go kablooey,
+I want my best reporter there.
+
+47
+00:10:25,456 --> 00:10:26,336
+<i>But gee...</i>
+
+48
+00:10:26,456 --> 00:10:28,896
+No offense. You're good,
+but Lois Lane is better.
+
+49
+00:10:29,336 --> 00:10:31,896
+No, I meant,
+isn't that a little bit dangerous, sir?
+
+50
+00:10:31,976 --> 00:10:34,296
+That goes with the territory, Kent.
+
+51
+00:10:34,736 --> 00:10:38,456
+Don't worry, if I know Lois Lane,
+she'll not only come back...
+
+52
+00:10:38,576 --> 00:10:41,496
+...with a Pulitzer Prize story,
+but a one-on-one interview...
+
+53
+00:10:41,576 --> 00:10:44,536
+...with the hydrogen bomb titled:
+"What Makes Me Tick. "
+
+54
+00:10:44,776 --> 00:10:46,216
+<i>Now don't stand around, Kent...</i>
+
+55
+00:11:16,616 --> 00:11:18,576
+<i>Merci, Merci.</i>
+
+56
+00:11:27,776 --> 00:11:29,216
+How did they get up there?
+
+57
+00:11:29,256 --> 00:11:31,776
+They were disguised as workers
+to do repairs.
+
+58
+00:11:31,856 --> 00:11:34,256
+Can you say why they released
+the first hostages?
+
+59
+00:11:34,336 --> 00:11:38,296
+We insist they do this to show good faith.
+If not, we refuse to negotiate.
+
+60
+00:11:38,336 --> 00:11:40,336
+Will they release the other hostages?
+
+61
+00:11:40,416 --> 00:11:43,976
+In return for a guarantee
+that we will not launch an attack on them.
+
+62
+00:11:44,096 --> 00:11:47,736
+There will no be attack?
+No attempt to overpower the terrorists?
+
+63
+00:11:47,856 --> 00:11:50,096
+- We've made this guarantee.
+- You'll honor it?
+
+64
+00:11:50,416 --> 00:11:52,176
+We have not the choice to refuse.
+
+65
+00:11:52,256 --> 00:11:54,736
+If we believe it's a real
+hydrogen bomb they have.
+
+66
+00:11:54,816 --> 00:11:55,936
+Where is the bomb?
+
+67
+00:11:56,016 --> 00:11:57,576
+It's in a big oil can.
+
+68
+00:11:57,656 --> 00:12:00,136
+A hydrogen bomb? Are you sure?
+
+69
+00:12:00,896 --> 00:12:05,896
+How can we be sure? Today it's possible
+to make a bomb if you have the equipment.
+
+70
+00:12:06,056 --> 00:12:08,656
+<i>- This could blow up all of Paris.
+- Oui.</i>
+
+71
+00:12:08,776 --> 00:12:11,656
+The position of your government?
+Will they meet the demands?
+
+72
+00:12:11,696 --> 00:12:14,176
+I am not authorized
+to say what they will do.
+
+73
+00:12:14,256 --> 00:12:18,136
+At this moment there is an emergency
+meeting in the Elysée Palace.
+
+74
+00:12:18,976 --> 00:12:20,496
+<i>Non, ce n'est pas possible.</i>
+
+75
+00:12:20,616 --> 00:12:25,296
+<i>Excusez-moi? No. No comprende.
+Moi, journaliste Americaine.</i>
+
+76
+00:12:25,416 --> 00:12:28,056
+<i>Non, non, c'est interdit!
+Complétement interdit.</i>
+
+77
+00:12:28,616 --> 00:12:29,696
+<i>Attends. Wait.</i>
+
+78
+00:12:32,736 --> 00:12:37,016
+<i>- Voilà. Qu'est-ce que c'est le mot pour...
+- Qu'est-ce que vous voulez?</i>
+
+79
+00:12:37,936 --> 00:12:39,816
+<i>- Stairs. Stairs?
+- Stairs...</i>
+
+80
+00:12:45,216 --> 00:12:48,256
+<i>S- T... S-T-A...</i>
+
+81
+00:12:50,696 --> 00:12:51,976
+<i>Mademoiselle!</i>
+
+82
+00:13:03,456 --> 00:13:05,216
+We'll bring them down now.
+
+83
+00:13:05,296 --> 00:13:06,096
+Get in.
+
+84
+00:13:07,336 --> 00:13:10,536
+<i>- Come on. Watch out for any tricks.
+- Do we look like the sort...</i>
+
+85
+00:13:10,616 --> 00:13:12,416
+I don't know what you look like.
+
+86
+00:13:12,736 --> 00:13:14,656
+You're being released, so shut up.
+
+87
+00:13:54,736 --> 00:13:57,416
+- Come on then, everybody out.
+- Okay, we're ready.
+
+88
+00:13:58,776 --> 00:13:59,576
+This way.
+
+89
+00:14:02,776 --> 00:14:04,496
+Come on. Quick.
+
+90
+00:14:05,776 --> 00:14:08,176
+Look, you're being released. Get moving.
+
+91
+00:14:08,816 --> 00:14:10,416
+I'll take a last look around.
+
+92
+00:14:16,776 --> 00:14:18,376
+Okay, send them down.
+
+93
+00:14:25,936 --> 00:14:26,936
+Up we go.
+
+94
+00:14:30,336 --> 00:14:31,416
+Pulitzer Prize.
+
+95
+00:14:34,736 --> 00:14:35,736
+<i>CapitaI P...</i>
+
+96
+00:14:52,656 --> 00:14:54,456
+Should we have let the hostages go?
+
+97
+00:14:54,576 --> 00:14:57,496
+They'll give in to us
+as soon as we plant the bomb.
+
+98
+00:14:57,616 --> 00:14:59,816
+It doesn't matter one way or the other.
+
+99
+00:15:01,896 --> 00:15:05,216
+Nobel Prize. Capital N...
+
+100
+00:15:05,936 --> 00:15:07,936
+...little o, little b...
+
+101
+00:15:08,096 --> 00:15:10,256
+...little e, little I.
+
+102
+00:15:10,976 --> 00:15:14,696
+<i>Nobel. Nobel. Nobel, Nobel...</i>
+
+103
+00:15:19,056 --> 00:15:20,216
+Prize!
+
+104
+00:15:27,016 --> 00:15:28,136
+Be careful.
+
+105
+00:15:28,736 --> 00:15:31,736
+It's me that controls the bomb,
+not the bomb that controls me.
+
+106
+00:15:31,896 --> 00:15:34,536
+I hope you have
+not many sins left to be forgiven.
+
+107
+00:15:34,616 --> 00:15:38,616
+Because if you let go of that,
+you'll have only 60 seconds to list them.
+
+108
+00:15:40,776 --> 00:15:43,416
+You are right. Do you hear something?
+
+109
+00:15:44,016 --> 00:15:46,416
+It sounded like
+someone moving underneath.
+
+110
+00:15:46,616 --> 00:15:47,736
+It's your nerves.
+
+111
+00:15:51,016 --> 00:15:52,216
+Where are they now?
+
+112
+00:15:52,456 --> 00:15:54,136
+They are near to the lift.
+
+113
+00:15:55,896 --> 00:15:58,096
+One is still inside with the bomb.
+
+114
+00:15:58,216 --> 00:16:02,536
+<i>Ils sont prés de I'ascenseur. Y en a un
+dedans avec la bombe. Il y en a un qui sort.</i>
+
+115
+00:16:03,056 --> 00:16:05,576
+The third one has come out of the lift now.
+
+116
+00:16:06,496 --> 00:16:07,936
+<i>The third one is out now.</i>
+
+117
+00:16:08,056 --> 00:16:09,616
+The bomb is still in there?
+
+118
+00:16:09,696 --> 00:16:11,056
+<i>Yes, we think so.</i>
+
+119
+00:16:16,336 --> 00:16:17,896
+This is the boring bit.
+
+120
+00:16:39,016 --> 00:16:40,416
+Tell them to get ready.
+
+121
+00:16:41,496 --> 00:16:44,056
+<i>Standby. Attention! Préparez-vous.</i>
+
+122
+00:16:45,936 --> 00:16:47,016
+Get ready.
+
+123
+00:16:48,096 --> 00:16:48,936
+Come on.
+
+124
+00:16:50,656 --> 00:16:52,936
+We'll cut the lead cable
+when we get the word.
+
+125
+00:16:53,016 --> 00:16:55,336
+Haven't they had time to find the bomb?
+
+126
+00:16:55,496 --> 00:16:59,016
+Of course not. They haven't.
+We've been watching them all the time.
+
+127
+00:17:08,536 --> 00:17:10,256
+<i>Vas-y! Go. Now!</i>
+
+128
+00:17:20,976 --> 00:17:23,416
+- It started!
+- Oh, my God.
+
+129
+00:17:55,176 --> 00:17:56,776
+I believe this is your floor.
+
+130
+00:17:57,256 --> 00:17:58,936
+Thank God.
+
+131
+00:17:59,736 --> 00:18:01,576
+How did I get myself into this?
+
+132
+00:18:04,576 --> 00:18:06,216
+- Are you all right?
+- Yes.
+
+133
+00:18:07,576 --> 00:18:11,096
+- A bomb! There's a bomb up there!
+- I know.
+
+134
+00:19:39,976 --> 00:19:42,456
+<i>Fresh melons here! Nice fresh melons...</i>
+
+135
+00:19:50,976 --> 00:19:51,976
+Hi, Lois.
+
+136
+00:19:52,776 --> 00:19:54,056
+Hi, Clark.
+
+137
+00:20:05,136 --> 00:20:06,056
+Clark!
+
+138
+00:20:07,336 --> 00:20:10,936
+<i>- Have you ever heard of crosswalks?
+- Yeah, but you know, I mean...</i>
+
+139
+00:20:11,416 --> 00:20:13,296
+Do you have any idea how stupid that was?
+
+140
+00:20:14,336 --> 00:20:15,336
+Freak!
+
+141
+00:20:18,296 --> 00:20:20,616
+Clark, you were lucky that time.
+
+142
+00:20:21,016 --> 00:20:24,616
+You must more careful. To cross
+the street you've got to look both ways.
+
+143
+00:20:24,696 --> 00:20:26,616
+Lois, usually I do.
+
+144
+00:20:38,176 --> 00:20:40,696
+Maybe you ought to
+get your glasses checked.
+
+145
+00:20:42,736 --> 00:20:46,456
+Not everybody can have
+"x-ray vision," you know.
+
+146
+00:20:47,776 --> 00:20:50,336
+Do I detect a note of jealousy
+in that voice?
+
+147
+00:20:50,576 --> 00:20:53,496
+Jealousy? No, not me.
+
+148
+00:20:56,256 --> 00:20:58,176
+Golly Lois, what are you doing?
+
+149
+00:20:58,296 --> 00:21:01,016
+When was the last time
+you heard me sneeze?
+
+150
+00:21:01,296 --> 00:21:03,816
+You are never going to
+hear me sneeze again!
+
+151
+00:21:04,696 --> 00:21:08,216
+I read this book,
+and it says if you get 1,000 milligrams...
+
+152
+00:21:08,296 --> 00:21:11,816
+...of vitamin C every day,
+you stay in perfect health.
+
+153
+00:21:11,896 --> 00:21:14,856
+Golly, 1,000?
+That's certainly a lot of oranges, isn't it?
+
+154
+00:21:15,576 --> 00:21:20,336
+- There are pills, you know. I've seen them.
+- Pills. That's the modern way to do things.
+
+155
+00:21:20,656 --> 00:21:22,656
+This is natural.
+
+156
+00:21:23,536 --> 00:21:25,536
+Besides, I get my exercise that way.
+
+157
+00:21:26,936 --> 00:21:29,936
+And Clark, you don't have to be jealous.
+
+158
+00:21:30,856 --> 00:21:31,616
+I don't?
+
+159
+00:21:32,056 --> 00:21:34,256
+No, you've got so much going for you.
+
+160
+00:21:34,696 --> 00:21:35,656
+I do?
+
+161
+00:21:35,696 --> 00:21:38,616
+Do you mind if I give you
+a little constructive criticism?
+
+162
+00:21:38,696 --> 00:21:42,256
+- Actually, yes.
+- Be more aggressive! You have to...
+
+163
+00:21:42,576 --> 00:21:46,176
+...go from the instinct. You see something,
+you want it, you go for it!
+
+164
+00:21:46,256 --> 00:21:47,296
+That's what I do.
+
+165
+00:21:47,736 --> 00:21:48,936
+Yes, I've noticed.
+
+166
+00:21:49,336 --> 00:21:52,736
+- Perhaps I could help you there.
+- Thanks, that would be great.
+
+167
+00:21:53,216 --> 00:21:54,456
+Let's see.
+
+168
+00:21:56,096 --> 00:21:58,776
+You put the orange in there.
+That's very clever.
+
+169
+00:22:02,136 --> 00:22:03,176
+Clark...
+
+170
+00:22:04,936 --> 00:22:09,376
+...you know that I wouldn't say
+all those things if I didn't really care.
+
+171
+00:22:11,776 --> 00:22:12,896
+You do?
+
+172
+00:22:15,256 --> 00:22:16,736
+What else are friends for?
+
+173
+00:22:18,976 --> 00:22:19,856
+"Friends"?
+
+174
+00:22:24,296 --> 00:22:25,296
+Here.
+
+175
+00:22:27,336 --> 00:22:28,736
+Here's to friendship.
+
+176
+00:22:50,736 --> 00:22:53,776
+This is how it ends for
+the greatest criminal mind of our time.
+
+177
+00:22:53,856 --> 00:22:55,856
+Not with a whimper. Not with a bang.
+
+178
+00:22:56,336 --> 00:22:58,696
+How do they choose
+to reward Lex Luthor...
+
+179
+00:22:59,056 --> 00:23:00,976
+...the greatest genius in this world?
+
+180
+00:23:01,136 --> 00:23:05,176
+Do they give him glory or treasure?
+What, matter of fact, do they give him?
+
+181
+00:23:05,216 --> 00:23:08,056
+Life plus 25, Luthor. Get to work.
+
+182
+00:23:13,616 --> 00:23:16,336
+Don't feel bad, Mr. Luthor.
+It almost worked.
+
+183
+00:23:16,496 --> 00:23:19,416
+I mean, California almost
+fell down right in the ocean.
+
+184
+00:23:19,496 --> 00:23:21,336
+Millions of people almost died.
+
+185
+00:23:21,456 --> 00:23:24,536
+<i>If it hadn't been for Superman,
+that overgrown Boy Scout...</i>
+
+186
+00:23:24,616 --> 00:23:26,696
+I want my Liberace record back tonight.
+
+187
+00:23:26,776 --> 00:23:29,696
+What are you going to do
+with a guy like that?
+
+188
+00:23:29,976 --> 00:23:32,456
+He flies around so fast and everything.
+
+189
+00:23:34,216 --> 00:23:37,216
+I mean they can't even trace
+that guy on that radar they got.
+
+190
+00:23:37,456 --> 00:23:40,616
+Every time they try he just flies off.
+
+191
+00:23:40,736 --> 00:23:42,056
+- Where?
+- North.
+
+192
+00:23:42,296 --> 00:23:43,216
+Why?
+
+193
+00:23:44,256 --> 00:23:45,496
+To ski?
+
+194
+00:23:47,656 --> 00:23:49,456
+Every man has his vulnerable point.
+
+195
+00:23:49,536 --> 00:23:52,096
+Some, like you Otis, have more than one.
+
+196
+00:23:52,736 --> 00:23:54,496
+I didn't see Superman's in time.
+
+197
+00:23:54,856 --> 00:23:57,576
+But now through patience,
+invention, and skill...
+
+198
+00:23:59,576 --> 00:24:02,336
+...my little black box is just about ready.
+
+199
+00:24:03,096 --> 00:24:05,456
+Oh! That little black box in our cell.
+
+200
+00:24:09,136 --> 00:24:11,296
+That little black box, Mr. Luthor.
+
+201
+00:24:12,696 --> 00:24:14,176
+What's it for?
+
+202
+00:24:14,856 --> 00:24:19,536
+That little black box
+goes beyond any conventional radar.
+
+203
+00:24:20,616 --> 00:24:22,456
+It tracks alpha waves.
+
+204
+00:24:25,336 --> 00:24:26,736
+Alpha waves.
+
+205
+00:24:33,376 --> 00:24:37,296
+Those alpha waves will take me north
+to his secret.
+
+206
+00:24:39,336 --> 00:24:42,136
+And his secret will give me Superman.
+
+207
+00:24:45,256 --> 00:24:48,576
+<i>The MAB is 196 at. 5.</i>
+
+208
+00:24:48,776 --> 00:24:51,016
+<i>We ought to see the old beauty when we...</i>
+
+209
+00:24:53,216 --> 00:24:57,096
+You follow the bouncing ball for a while.
+It's giving me a headache.
+
+210
+00:24:57,536 --> 00:25:00,496
+Anyway, somebody's got to check up
+on those guys.
+
+211
+00:25:00,856 --> 00:25:02,936
+Yeah, I keep forgetting about them.
+
+212
+00:25:03,856 --> 00:25:05,976
+How long they been up there, 45 days?
+
+213
+00:25:06,776 --> 00:25:08,736
+The whole world's forgotten about us.
+
+214
+00:25:12,176 --> 00:25:13,936
+Houston calling Artemis II.
+
+215
+00:25:15,016 --> 00:25:16,976
+Houston calling Artemis II, come in.
+
+216
+00:25:17,616 --> 00:25:18,776
+<i>'Morning, Houston.</i>
+
+217
+00:25:18,896 --> 00:25:20,216
+<i>Hold on, Nate.</i>
+
+218
+00:25:20,696 --> 00:25:22,536
+<i>- Yo!
+- How are things going?</i>
+
+219
+00:25:23,656 --> 00:25:25,456
+All systems normal, Houston.
+
+220
+00:25:26,016 --> 00:25:28,696
+<i>Andy is out doing the geological survey...</i>
+
+221
+00:25:28,936 --> 00:25:30,296
+<i>More rocks.</i>
+
+222
+00:25:31,616 --> 00:25:34,376
+And Cosmonaut Boris
+is getting some soil samples.
+
+223
+00:25:34,936 --> 00:25:37,336
+By the way, Boris and I are engaged.
+
+224
+00:25:37,936 --> 00:25:40,976
+I had a feeling about you guys
+when I saw your Rorschach tests.
+
+225
+00:25:41,376 --> 00:25:43,616
+Just a little détente humor there, Houston.
+
+226
+00:25:43,696 --> 00:25:45,536
+<i>Surface conditions unchanged?</i>
+
+227
+00:25:45,816 --> 00:25:48,496
+It's mighty pretty out there. Mighty...
+
+228
+00:25:50,896 --> 00:25:51,736
+...pretty.
+
+229
+00:25:52,376 --> 00:25:54,176
+<i>Mighty pretty, right.</i>
+
+230
+00:25:55,816 --> 00:25:56,976
+<i>Look, Nate...</i>
+
+231
+00:25:57,776 --> 00:25:59,416
+<i>Nate, wake up, will you?</i>
+
+232
+00:25:59,696 --> 00:26:01,696
+That's it. I'm dreaming.
+
+233
+00:26:02,336 --> 00:26:03,616
+<i>Artemis, come in.</i>
+
+234
+00:26:05,336 --> 00:26:08,656
+Houston, we seem to have
+an unidentified flying object.
+
+235
+00:26:08,896 --> 00:26:10,296
+Unidentified?
+
+236
+00:26:11,096 --> 00:26:14,736
+<i>- What does it look like?
+- A lot like a...</i>
+
+237
+00:26:15,376 --> 00:26:16,536
+...like a girl.
+
+238
+00:26:37,856 --> 00:26:38,656
+You.
+
+239
+00:26:40,656 --> 00:26:43,896
+- What kind of a creature are you?
+- Just a man.
+
+240
+00:26:44,696 --> 00:26:45,696
+A man?
+
+241
+00:27:46,456 --> 00:27:48,336
+<i>What's your name?
+Where are you from?</i>
+
+242
+00:27:48,496 --> 00:27:50,976
+What a fragile sort of life form it is.
+
+243
+00:28:19,376 --> 00:28:20,856
+Houston, come in. Houston!
+
+244
+00:28:30,656 --> 00:28:31,776
+Come in, Houston.
+
+245
+00:28:35,936 --> 00:28:36,656
+Houston!
+
+246
+00:28:48,296 --> 00:28:49,376
+Somebody help me!
+
+247
+00:28:55,656 --> 00:28:58,096
+- Artemis, this is Houston calling.
+- What's up?
+
+248
+00:28:59,616 --> 00:29:02,616
+- Artemis, Houston calling. Come in please.
+- What's going on?
+
+249
+00:29:02,936 --> 00:29:05,736
+- I don't know. We've lost contact.
+- So?
+
+250
+00:29:06,576 --> 00:29:07,656
+I mean really.
+
+251
+00:29:08,736 --> 00:29:11,056
+Artemis, come in please. Houston calling.
+
+252
+00:29:11,776 --> 00:29:14,736
+What was that he said before?
+He saw a girl?
+
+253
+00:29:16,016 --> 00:29:19,536
+- I thought he said "curl".
+- What's a "curl"?
+
+254
+00:29:19,936 --> 00:29:24,496
+Isn't that what the old Canaveral guys used
+to call a comet on an east-west trajectory?
+
+255
+00:29:24,576 --> 00:29:27,656
+How should I know?
+I was in back high school in those days.
+
+256
+00:29:28,936 --> 00:29:32,776
+Strange.
+I tore those metal fibers like paper.
+
+257
+00:29:33,696 --> 00:29:34,896
+And what he did...
+
+258
+00:29:35,376 --> 00:29:36,576
+...was amazing!
+
+259
+00:29:37,976 --> 00:29:41,336
+- Something is happening.
+- Yes. To all of us.
+
+260
+00:29:44,416 --> 00:29:47,816
+The closer we come
+to an atmosphere with only one sun...
+
+261
+00:29:48,776 --> 00:29:50,096
+...a yellow sun...
+
+262
+00:29:50,816 --> 00:29:54,536
+...the more our molecular density
+gives us unlimited powers!
+
+263
+00:29:54,936 --> 00:29:56,416
+They come from there...
+
+264
+00:29:56,896 --> 00:29:58,536
+...a place called Houston.
+
+265
+00:29:59,056 --> 00:30:00,776
+Then we will go there too.
+
+266
+00:30:01,616 --> 00:30:02,856
+To rule.
+
+267
+00:30:04,336 --> 00:30:05,856
+Finally... To rule!
+
+268
+00:30:26,616 --> 00:30:27,856
+380 out.
+
+269
+00:30:29,696 --> 00:30:30,936
+381 out.
+
+270
+00:30:32,696 --> 00:30:33,936
+382 out.
+
+271
+00:30:35,336 --> 00:30:36,576
+383 out.
+
+272
+00:30:38,496 --> 00:30:39,736
+384 out.
+
+273
+00:30:41,376 --> 00:30:43,016
+385 out.
+
+274
+00:30:47,616 --> 00:30:48,536
+Lights out, Luthor.
+
+275
+00:30:50,576 --> 00:30:52,016
+I said, "Lights out! "
+
+276
+00:30:55,536 --> 00:30:58,776
+You guys are about ten seconds away
+from solitary, you know that?
+
+277
+00:31:01,296 --> 00:31:02,896
+I told you to...
+
+278
+00:31:21,496 --> 00:31:23,016
+Freeze, freeze!
+
+279
+00:31:36,296 --> 00:31:37,736
+Go out there and find it.
+
+280
+00:31:39,216 --> 00:31:42,576
+- What am I looking for?
+- You'll know when you see it.
+
+281
+00:31:54,816 --> 00:31:56,576
+I think I found it.
+
+282
+00:32:02,736 --> 00:32:04,096
+What is it?
+
+283
+00:32:05,696 --> 00:32:07,696
+It's a ladder, you dummy.
+
+284
+00:32:09,136 --> 00:32:10,456
+Hi, Miss Teschmacher.
+
+285
+00:32:19,536 --> 00:32:20,696
+Come on.
+
+286
+00:32:21,536 --> 00:32:22,736
+Hurry up.
+
+287
+00:32:23,736 --> 00:32:25,256
+Come on, hurry.
+
+288
+00:32:30,696 --> 00:32:32,976
+Otis, hold that ladder, hurry up.
+
+289
+00:32:45,336 --> 00:32:46,456
+Come up.
+
+290
+00:32:46,896 --> 00:32:49,256
+Here I come, Mr. Luthor.
+
+291
+00:32:51,736 --> 00:32:54,216
+Otis, we're sinking!
+
+292
+00:32:54,296 --> 00:32:55,616
+Get off, get off!
+
+293
+00:33:40,256 --> 00:33:41,176
+Excuse me.
+
+294
+00:33:43,856 --> 00:33:45,736
+<i>If you'd like to carry Mrs...</i>
+
+295
+00:33:46,296 --> 00:33:48,176
+<i>...Smith over the threshold...</i>
+
+296
+00:33:48,256 --> 00:33:50,256
+- What?
+- It's sort of traditional.
+
+297
+00:33:50,896 --> 00:33:53,456
+<i>I can give you a hand
+if you have trouble lifting...</i>
+
+298
+00:33:53,536 --> 00:33:54,936
+No. Of course not.
+
+299
+00:33:55,056 --> 00:33:58,336
+- Honey. Thanks, I'll walk.
+- Certainly, dear.
+
+300
+00:34:00,776 --> 00:34:04,576
+- Here you are.
+- Sure is pink.
+
+301
+00:34:05,496 --> 00:34:07,216
+Careful with the bags, please.
+
+302
+00:34:07,296 --> 00:34:09,176
+First visit to Honeymoon Haven?
+
+303
+00:34:09,216 --> 00:34:11,296
+- Yes.
+- Together, anyway.
+
+304
+00:34:12,336 --> 00:34:13,256
+Yes.
+
+305
+00:34:13,336 --> 00:34:15,936
+Let me just show you
+some of our special features.
+
+306
+00:34:16,016 --> 00:34:20,016
+These are our "Flames of Love,"
+exclusive with this motel in the area.
+
+307
+00:34:20,536 --> 00:34:23,256
+If you want the flames to go higher,
+you just pull this.
+
+308
+00:34:23,496 --> 00:34:24,456
+I see.
+
+309
+00:34:24,856 --> 00:34:27,296
+- Look dear, that's kind of romantic.
+- In July?
+
+310
+00:34:29,176 --> 00:34:29,976
+Honey?
+
+311
+00:34:30,416 --> 00:34:33,256
+For a nominal charge,
+our staff photographer will be happy...
+
+312
+00:34:33,336 --> 00:34:37,056
+...to prepare a special souvenir album
+of your honeymoon stay.
+
+313
+00:34:37,176 --> 00:34:40,576
+He'll photograph you
+in some of our more intimate locations...
+
+314
+00:34:40,656 --> 00:34:43,656
+<i>...in the "tub for two",
+on the bear skin rug...</i>
+
+315
+00:34:43,816 --> 00:34:45,616
+Gee, reaI polyester!
+
+316
+00:34:45,816 --> 00:34:47,896
+And here's the bed.
+
+317
+00:34:48,176 --> 00:34:49,776
+Right. Thank you.
+
+318
+00:34:49,976 --> 00:34:51,296
+Thank you, sir.
+
+319
+00:34:52,376 --> 00:34:53,856
+Of course.
+
+320
+00:34:57,096 --> 00:34:59,536
+- Thank you.
+- Thank you, sir. And have a happy...
+
+321
+00:35:00,656 --> 00:35:01,656
+...whatever.
+
+322
+00:35:06,016 --> 00:35:07,376
+Can you believe this?
+
+323
+00:35:07,936 --> 00:35:11,896
+Posing as newlyweds to expose
+a honeymoon racket in Niagara Falls!
+
+324
+00:35:13,616 --> 00:35:16,656
+What a waste of a great writer. Writers.
+
+325
+00:35:17,816 --> 00:35:20,816
+Perry White
+and his Sunday magazine exposés.
+
+326
+00:35:20,936 --> 00:35:24,296
+How am I supposed to get a Pulitzer Prize
+writing about a pink bear?
+
+327
+00:35:24,376 --> 00:35:27,016
+I don't know,
+I think this should be exposed.
+
+328
+00:35:27,176 --> 00:35:30,616
+They get kids who are just
+starting out and take them for every cent.
+
+329
+00:35:30,696 --> 00:35:32,696
+That's what Mr. White says.
+
+330
+00:35:33,816 --> 00:35:37,536
+On the other hand, this is kind of nice.
+"Complimentary Champagne. "
+
+331
+00:35:37,976 --> 00:35:39,936
+- Kissing contest tonight.
+- Really?
+
+332
+00:35:40,056 --> 00:35:42,696
+Lois would... No.
+
+333
+00:35:43,816 --> 00:35:45,336
+Look at this.
+
+334
+00:35:45,576 --> 00:35:48,096
+Lois? Gee.
+
+335
+00:35:50,176 --> 00:35:52,256
+Look, I found a complimentary corsage.
+
+336
+00:35:52,416 --> 00:35:55,376
+Everything's complimentary here
+until you get the bill.
+
+337
+00:35:58,496 --> 00:36:00,496
+Gee, you look very pretty.
+
+338
+00:36:01,696 --> 00:36:04,896
+- Thank you, Clark.
+- Sure.
+
+339
+00:36:06,296 --> 00:36:10,536
+You know, Lois,
+I was sort of thinking, later on...
+
+340
+00:36:12,016 --> 00:36:16,096
+...I was just wondering what you
+wanted to do about the arrangements.
+
+341
+00:36:16,536 --> 00:36:18,216
+What arrangements, Clark?
+
+342
+00:36:20,296 --> 00:36:23,536
+I was thinking primarily about the...
+
+343
+00:36:24,536 --> 00:36:26,416
+...the sleeping arrangements.
+
+344
+00:36:27,456 --> 00:36:28,536
+Mr. Smith...
+
+345
+00:36:30,416 --> 00:36:32,416
+<i>- ... The complimentary couch.
+- Right.</i>
+
+346
+00:36:34,096 --> 00:36:35,056
+What?
+
+347
+00:36:39,976 --> 00:36:41,736
+Gosh, it's alive.
+
+348
+00:36:46,776 --> 00:36:48,936
+Very good, Miss Teschmacher. Very good!
+
+349
+00:36:49,016 --> 00:36:51,056
+Why am I here? What am I doing here?
+
+350
+00:36:51,296 --> 00:36:54,696
+Miss Teschmacher,
+is this a philosophy seminar?
+
+351
+00:36:55,816 --> 00:36:56,576
+No.
+
+352
+00:36:56,656 --> 00:36:57,816
+This is a getaway.
+
+353
+00:36:57,896 --> 00:36:59,096
+- Getaway?
+- Right.
+
+354
+00:36:59,536 --> 00:37:01,776
+Lex, how could you do that to Otis?
+
+355
+00:37:02,016 --> 00:37:03,736
+What else is ballast for?
+
+356
+00:37:04,536 --> 00:37:05,776
+Miss Teschmacher...
+
+357
+00:37:06,576 --> 00:37:09,016
+...north. Due north.
+
+358
+00:37:10,616 --> 00:37:12,696
+Right, north.
+
+359
+00:37:33,016 --> 00:37:36,096
+- Where's Jimmy Olsen when I need him?
+- Isn't it beautiful?
+
+360
+00:37:36,376 --> 00:37:38,536
+Just gorgeous. Gorgeous.
+
+361
+00:37:39,416 --> 00:37:40,696
+- Lois?
+- Yes?
+
+362
+00:37:40,776 --> 00:37:45,296
+Everybody's holding hands.
+Maybe we should hold hands, too?
+
+363
+00:37:45,856 --> 00:37:48,016
+- Here's my hand Clark, hold it.
+- Thanks.
+
+364
+00:37:49,776 --> 00:37:52,416
+You know what? They're afraid to let go.
+
+365
+00:37:52,576 --> 00:37:55,456
+- Why?
+- If they let go, straight to the lawyer.
+
+366
+00:37:55,616 --> 00:37:58,536
+I don't know about that.
+They look kind of happy to me.
+
+367
+00:37:58,576 --> 00:37:59,896
+Because you're blind.
+
+368
+00:38:01,376 --> 00:38:02,336
+Yeah.
+
+369
+00:38:02,456 --> 00:38:04,656
+- Here.
+- No, I've got it.
+
+370
+00:38:05,256 --> 00:38:08,536
+You've got to look after yourself.
+You've only got one pair of eyes.
+
+371
+00:38:09,256 --> 00:38:10,216
+<i>Lois...</i>
+
+372
+00:38:10,376 --> 00:38:11,256
+Here.
+
+373
+00:38:11,336 --> 00:38:13,496
+<i>- Right.
+- Don't say I never did anything...</i>
+
+374
+00:38:13,576 --> 00:38:14,536
+Thank you.
+
+375
+00:38:18,336 --> 00:38:19,736
+Son! Excuse me, please.
+
+376
+00:38:20,136 --> 00:38:21,136
+Be careful!
+
+377
+00:38:21,216 --> 00:38:23,136
+Get down. Get down!
+
+378
+00:38:26,656 --> 00:38:29,296
+You're embarrassing me
+in front of everybody.
+
+379
+00:38:32,096 --> 00:38:35,136
+<i>Did you see what almost happened there?
+That little boy...</i>
+
+380
+00:38:37,416 --> 00:38:39,296
+I'm hungry. Are you hungry?
+
+381
+00:38:39,656 --> 00:38:42,056
+- Lois, you're amazing.
+- Because I'm hungry?
+
+382
+00:38:42,296 --> 00:38:46,096
+No, I mean here you stand with one
+of nature's most awesome spectacles...
+
+383
+00:38:46,176 --> 00:38:49,056
+...and you're thinking about food.
+Aren't you impressed?
+
+384
+00:38:49,776 --> 00:38:54,696
+Once a girl's seen Superman in action,
+Niagara Falls kind of leaves you cold.
+
+385
+00:38:54,776 --> 00:38:56,816
+- You know what I mean?
+- Him again?
+
+386
+00:38:58,456 --> 00:38:59,576
+I'm sorry.
+
+387
+00:39:00,336 --> 00:39:02,256
+I have a one-track mind, don't I?
+
+388
+00:39:03,536 --> 00:39:05,856
+My one track mind's
+telling me that I'm hungry.
+
+389
+00:39:05,936 --> 00:39:07,776
+- Hot dog?
+- Hot dog.
+
+390
+00:39:08,696 --> 00:39:12,376
+- Could I have some orange juice?
+- Freshly squeezed, I know.
+
+391
+00:39:19,976 --> 00:39:21,056
+Mom, look!
+
+392
+00:39:22,096 --> 00:39:23,696
+Yeah, honey, that's nice.
+
+393
+00:39:34,136 --> 00:39:35,096
+Oh, my God!
+
+394
+00:39:36,576 --> 00:39:37,496
+Help!
+
+395
+00:39:41,376 --> 00:39:42,536
+Somebody help!
+
+396
+00:39:58,496 --> 00:40:00,296
+Way to go, Superman!
+
+397
+00:40:06,056 --> 00:40:07,816
+What a nice man!
+
+398
+00:40:21,736 --> 00:40:24,176
+- There you go.
+- Again! Again!
+
+399
+00:40:24,416 --> 00:40:26,896
+I'm sorry. Only one ride to a customer.
+
+400
+00:40:27,736 --> 00:40:31,056
+Superman! Superman, it's me, Lois!
+
+401
+00:40:31,856 --> 00:40:34,856
+<i>Come here. You're going to get it!
+Give me a heart attack...</i>
+
+402
+00:40:34,936 --> 00:40:38,856
+It's me. It's Lois. Lois Lane.
+
+403
+00:40:41,376 --> 00:40:42,736
+Hello and goodbye.
+
+404
+00:40:43,376 --> 00:40:46,896
+What's the hurry, seeing as you
+happen to be in Niagara Falls?
+
+405
+00:40:48,696 --> 00:40:51,256
+<i>Happen to be in Niagara Falls...</i>
+
+406
+00:40:52,216 --> 00:40:53,656
+<i>And, Clark...</i>
+
+407
+00:40:54,856 --> 00:40:57,256
+Clark is not around as usual.
+
+408
+00:41:12,696 --> 00:41:13,936
+Lois?
+
+409
+00:41:17,536 --> 00:41:19,536
+- Here you go.
+- Where were you?
+
+410
+00:41:19,976 --> 00:41:22,256
+I was getting hot dogs.
+What do you mean?
+
+411
+00:41:22,976 --> 00:41:27,216
+It just seems kind of strange to me
+that every time Superman's around, you...
+
+412
+00:41:27,376 --> 00:41:28,496
+...disappear.
+
+413
+00:41:28,776 --> 00:41:31,656
+Superman? You mean he was here?
+Golly!
+
+414
+00:41:32,456 --> 00:41:34,696
+And you weren't. As usual.
+
+415
+00:41:36,256 --> 00:41:40,216
+- What have you got to say about that?
+- Darn, I forgot your orange juice.
+
+416
+00:41:40,416 --> 00:41:41,616
+Clark!
+
+417
+00:41:43,456 --> 00:41:44,536
+No orange juice?
+
+418
+00:41:54,936 --> 00:41:58,256
+- Mush! Mush!
+- I am mushing.
+
+419
+00:41:58,856 --> 00:42:01,936
+Ice and snow:
+Is this your idea of a good time?
+
+420
+00:42:02,256 --> 00:42:06,816
+A good time? Is that all you care about?
+North, Miss Teschmacher.
+
+421
+00:42:07,256 --> 00:42:09,896
+North!
+
+422
+00:42:10,216 --> 00:42:11,736
+Yes, Lex, north.
+
+423
+00:42:12,256 --> 00:42:15,496
+Look. It's his home.
+It's Superman's home.
+
+424
+00:42:15,936 --> 00:42:17,616
+Good, more ice.
+
+425
+00:42:23,776 --> 00:42:25,656
+- Fantastic!
+- Fantastic.
+
+426
+00:42:26,456 --> 00:42:28,696
+It's fantastic!
+
+427
+00:42:31,736 --> 00:42:35,456
+The construction goes far beyond
+any known architectural theory.
+
+428
+00:42:36,456 --> 00:42:38,576
+- It's beautiful.
+- Beautiful.
+
+429
+00:42:48,696 --> 00:42:50,896
+- This place is genius!
+- Genius.
+
+430
+00:42:54,816 --> 00:42:56,776
+- Lex!
+- I'll be all right.
+
+431
+00:42:56,976 --> 00:42:58,136
+No, me.
+
+432
+00:43:01,536 --> 00:43:03,136
+Why can't you be more carefuI?
+
+433
+00:43:05,656 --> 00:43:07,536
+- This is beautiful.
+- BeautifuI.
+
+434
+00:43:07,616 --> 00:43:09,256
+- It has everything.
+- Wrong.
+
+435
+00:43:11,416 --> 00:43:15,016
+- Why didn't you go before we left?
+- That was two days ago.
+
+436
+00:43:22,056 --> 00:43:24,536
+This looks like some kind of control panel.
+
+437
+00:43:28,616 --> 00:43:30,976
+- Don't touch anything.
+- Don't touch anything.
+
+438
+00:43:32,456 --> 00:43:35,296
+- Ice.
+- I said don't touch it.
+
+439
+00:43:36,336 --> 00:43:38,696
+- It's not ice.
+- It looks like a crystal.
+
+440
+00:43:45,656 --> 00:43:50,616
+<i>Kryptonian memory bank,
+education crystal #308.</i>
+
+441
+00:43:52,176 --> 00:43:54,256
+- I told you it was a crystal.
+- Shut up!
+
+442
+00:43:54,496 --> 00:43:56,376
+<i>Earth culture, Section B.</i>
+
+443
+00:43:57,336 --> 00:44:01,216
+<i>"Trees" by Joyce Kilmer,
+of the Planet Earth.</i>
+
+444
+00:44:02,176 --> 00:44:02,976
+What?
+
+445
+00:44:03,256 --> 00:44:07,576
+<i>"I think that I shall never see
+a poem lovely as a tree...</i>
+
+446
+00:44:09,296 --> 00:44:13,696
+He's not here. It's a voice from the past.
+That's cute. That's very cute.
+
+447
+00:44:14,776 --> 00:44:17,016
+<i>"... A tree that looks at God all day"...</i>
+
+448
+00:44:17,856 --> 00:44:19,336
+I like trees!
+
+449
+00:44:19,696 --> 00:44:23,016
+So does your average cocker spaniel.
+Give me another one.
+
+450
+00:44:23,656 --> 00:44:25,616
+No. The big one there.
+
+451
+00:44:35,376 --> 00:44:36,936
+<i>Kal-El, my son...</i>
+
+452
+00:44:37,816 --> 00:44:40,136
+<i>...as the Keeper
+of the Archives of Krypton...</i>
+
+453
+00:44:40,176 --> 00:44:44,256
+<i>...it falls to me to tell you of the darkest
+episode in our planet's history.</i>
+
+454
+00:44:44,776 --> 00:44:46,176
+Now this I want to hear.
+
+455
+00:44:46,216 --> 00:44:50,056
+<i>After many eons of harmony, there
+appeared among us three rebel elements...</i>
+
+456
+00:44:50,136 --> 00:44:52,456
+<i>...what you would call on Earth,
+"criminals. "</i>
+
+457
+00:44:52,536 --> 00:44:54,656
+Criminals? My kind of people.
+
+458
+00:44:55,096 --> 00:45:00,136
+<i>Despite all our efforts, we were unable to
+change their evil natures, their evil ways.</i>
+
+459
+00:45:00,656 --> 00:45:02,656
+<i>As you know, we hath no death penalty.</i>
+
+460
+00:45:02,856 --> 00:45:03,936
+Sensible enough.
+
+461
+00:45:04,016 --> 00:45:06,176
+<i>Therefore, our scientists constructed...</i>
+
+462
+00:45:06,736 --> 00:45:08,496
+<i>..."The Phantom Zone".</i>
+
+463
+00:45:09,176 --> 00:45:12,336
+<i>In it, we placed
+these three arch-criminals...</i>
+
+464
+00:45:12,976 --> 00:45:15,696
+<i>...imprisoning them there for all eternity.</i>
+
+465
+00:45:16,216 --> 00:45:18,096
+No possibility for parole?
+
+466
+00:45:18,616 --> 00:45:22,016
+<i>Your father, Jor-El,
+thought long and hard upon that question.</i>
+
+467
+00:45:22,896 --> 00:45:24,376
+I asked the right question.
+
+468
+00:45:24,456 --> 00:45:27,936
+<i>There is one danger.
+The Phantom Zone might...</i>
+
+469
+00:45:28,736 --> 00:45:32,576
+<i>...just might, be cracked
+by a nuclear explosion in space.</i>
+
+470
+00:45:34,776 --> 00:45:36,616
+<i>I wish you hadn't asked me that...</i>
+
+471
+00:45:37,816 --> 00:45:39,136
+I didn't ask anything.
+
+472
+00:45:39,176 --> 00:45:42,376
+<i>We do not know
+what would happen if they were to escape.</i>
+
+473
+00:45:42,936 --> 00:45:46,216
+<i>On Krypton,
+these villains were uncontrollable.</i>
+
+474
+00:45:47,176 --> 00:45:51,776
+<i>On Earth, they would have the same
+powers, each one of them...</i>
+
+475
+00:45:52,216 --> 00:45:53,296
+<i>...that you have.</i>
+
+476
+00:45:53,936 --> 00:45:54,936
+Think of it.
+
+477
+00:45:55,056 --> 00:45:56,496
+<i>- The first of the three...
+- Three.</i>
+
+478
+00:45:56,576 --> 00:46:00,096
+<i>- ... is their leader, General Zod.
+- Count them, three super-villains.</i>
+
+479
+00:46:00,176 --> 00:46:04,296
+<i>- Together with Non and Ursa...
+- Each one with the same power he has.</i>
+
+480
+00:46:05,376 --> 00:46:08,536
+Each one totally dedicated to corruption,
+violence, and evil.
+
+481
+00:46:08,736 --> 00:46:12,936
+Wait. That explains the three Alpha Waves
+I've been getting on my black box.
+
+482
+00:46:13,376 --> 00:46:15,056
+They'll need a contact here on Earth.
+
+483
+00:46:15,136 --> 00:46:18,936
+Someone with the same contempt for life,
+liberty and the pursuit of happiness.
+
+484
+00:46:18,976 --> 00:46:20,336
+South, Miss Teschmacher!
+
+485
+00:46:21,216 --> 00:46:22,776
+You know, it's really amazing.
+
+486
+00:46:22,856 --> 00:46:26,736
+I never started to put it together
+before now. It's just kind of funny...
+
+487
+00:46:26,816 --> 00:46:29,736
+...because a good reporter
+can't let anything slip by her.
+
+488
+00:46:29,816 --> 00:46:33,536
+- Of course not.
+- I'm beginning to get the picture.
+
+489
+00:46:35,856 --> 00:46:39,296
+As usual, Lois, I really don't know
+what you're talking about.
+
+490
+00:46:40,576 --> 00:46:43,216
+Tell you what,
+I'll meet you back at the hotel.
+
+491
+00:46:43,496 --> 00:46:45,056
+What's your hurry, Superman?
+
+492
+00:46:48,776 --> 00:46:49,656
+Sorry?
+
+493
+00:46:52,616 --> 00:46:56,136
+I've got to admit, your disguise is
+nearly perfect. You had me fooled.
+
+494
+00:46:56,496 --> 00:46:58,696
+And I am nobody's fool, believe me.
+
+495
+00:46:58,936 --> 00:47:00,296
+No, of course not.
+
+496
+00:47:00,416 --> 00:47:04,016
+You just have an active imagination.
+You get carried away sometimes.
+
+497
+00:47:04,056 --> 00:47:06,616
+- I understand. It can happen to anybody.
+- Listen...
+
+498
+00:47:07,376 --> 00:47:11,536
+...I'm so sure that you're Superman
+that I'm willing to bet my life on it.
+
+499
+00:47:12,096 --> 00:47:12,896
+What?
+
+500
+00:47:14,576 --> 00:47:16,896
+If I'm right, you'll turn into Superman.
+
+501
+00:47:18,136 --> 00:47:19,816
+If I'm wrong...
+
+502
+00:47:20,336 --> 00:47:22,896
+...you've got yourself one hell of a story.
+
+503
+00:47:24,616 --> 00:47:27,296
+You think I'm Superman?
+
+504
+00:47:27,856 --> 00:47:30,016
+Boy, you certainly have some imagination.
+
+505
+00:47:30,216 --> 00:47:32,976
+For a minute, you almost
+had me convinced. For a minute.
+
+506
+00:47:33,056 --> 00:47:35,016
+Bye-bye, baby.
+
+507
+00:47:39,856 --> 00:47:41,016
+Oh, my god!
+
+508
+00:47:45,016 --> 00:47:46,376
+Excuse me, please.
+
+509
+00:47:46,576 --> 00:47:47,536
+Help!
+
+510
+00:47:57,976 --> 00:47:59,576
+Superman!
+
+511
+00:48:02,256 --> 00:48:03,576
+Lois, swim!
+
+512
+00:48:04,776 --> 00:48:05,856
+Help!
+
+513
+00:48:07,016 --> 00:48:09,376
+Look out for the rocks! Oh, God!
+
+514
+00:48:10,776 --> 00:48:11,936
+Clark!
+
+515
+00:48:36,736 --> 00:48:38,776
+- Grab that branch!
+- What?
+
+516
+00:48:45,736 --> 00:48:46,936
+Help!
+
+517
+00:49:06,816 --> 00:49:08,336
+Lois, you all right?
+
+518
+00:49:19,696 --> 00:49:21,296
+Here!
+
+519
+00:49:34,216 --> 00:49:37,816
+- You were what I thought was Superman?
+- Sorry.
+
+520
+00:49:39,056 --> 00:49:41,136
+This is really embarrassing.
+
+521
+00:50:10,456 --> 00:50:12,496
+So this is planet Houston?
+
+522
+00:50:15,936 --> 00:50:17,936
+A very strange surface.
+
+523
+00:51:02,296 --> 00:51:04,536
+A primitive sort of life form.
+
+524
+00:51:15,496 --> 00:51:16,936
+Did you see that?
+
+525
+00:51:18,256 --> 00:51:19,656
+Did you see what I did?
+
+526
+00:51:20,656 --> 00:51:23,056
+I have powers beyond reason here.
+
+527
+00:51:23,856 --> 00:51:25,616
+We all have them, my dear.
+
+528
+00:51:46,296 --> 00:51:48,856
+I must've looked like an idiot...
+
+529
+00:51:49,296 --> 00:51:52,096
+...jumping in the river,
+waiting for Mr. WonderfuI...
+
+530
+00:51:53,176 --> 00:51:55,456
+...who obviously had better things to do.
+
+531
+00:51:57,216 --> 00:52:00,256
+I'm sure it must've been
+something very important, Lois.
+
+532
+00:52:00,656 --> 00:52:02,736
+<i>And then thinking you were...</i>
+
+533
+00:52:05,216 --> 00:52:07,096
+<i>If Perry White could see me now...</i>
+
+534
+00:52:11,496 --> 00:52:12,776
+Where's my comb?
+
+535
+00:52:17,016 --> 00:52:20,256
+God, not only have I lost my mind,
+I lost my comb.
+
+536
+00:52:20,536 --> 00:52:23,136
+Can you pass me that brush over there?
+
+537
+00:52:23,376 --> 00:52:24,336
+Sure.
+
+538
+00:52:34,776 --> 00:52:37,976
+- No. It's okay.
+- Let me see your hand. Give it to me.
+
+539
+00:52:38,056 --> 00:52:40,376
+- No. It's all right, Lois.
+- Let me look at it.
+
+540
+00:52:52,136 --> 00:52:55,336
+- You are Superman.
+- Come on, don't be silly.
+
+541
+00:53:16,816 --> 00:53:17,816
+I'm sorry.
+
+542
+00:53:19,296 --> 00:53:21,776
+No, you don't have anything
+to be sorry about.
+
+543
+00:53:25,496 --> 00:53:27,016
+I don't know why I did that.
+
+544
+00:53:27,976 --> 00:53:29,216
+Maybe you wanted to.
+
+545
+00:53:30,456 --> 00:53:31,656
+I don't think I did.
+
+546
+00:53:34,056 --> 00:53:39,056
+Maybe you didn't want to with your mind,
+but maybe you wanted to with your heart.
+
+547
+00:53:44,336 --> 00:53:45,496
+We'd better talk.
+
+548
+00:53:51,976 --> 00:53:53,336
+I'm in love with you.
+
+549
+00:53:57,056 --> 00:53:58,656
+We really better talk.
+
+550
+00:54:00,896 --> 00:54:01,936
+I'm listening.
+
+551
+00:54:03,496 --> 00:54:07,336
+We can't talk here. Perry will call
+at about 6:00 to find out what's happening.
+
+552
+00:54:07,776 --> 00:54:11,456
+"What's happening"?
+That's the understatement of the year.
+
+553
+00:54:17,056 --> 00:54:19,896
+Where do you want to... Talk?
+
+554
+00:54:26,976 --> 00:54:27,976
+Lois...
+
+555
+00:54:31,256 --> 00:54:34,056
+...now that you know,
+I think you should know it all.
+
+556
+00:54:34,856 --> 00:54:35,936
+I want to.
+
+557
+00:54:38,256 --> 00:54:39,496
+Let's go to my place.
+
+558
+00:54:43,216 --> 00:54:44,896
+Maybe I should change first.
+
+559
+00:54:50,736 --> 00:54:52,216
+Maybe you should, too.
+
+560
+00:55:20,456 --> 00:55:23,976
+- They have a wide selection.
+- I can't eat fish.
+
+561
+00:55:24,696 --> 00:55:28,296
+You can eat anything you want, Duane.
+You can eat meat and potatoes.
+
+562
+00:55:28,736 --> 00:55:31,536
+I couldn't go anywhere
+where I was expected to eat fish.
+
+563
+00:55:31,656 --> 00:55:33,176
+They got beans.
+
+564
+00:55:33,696 --> 00:55:36,976
+I can't eat beans.
+I come out in a rash if I eat beans.
+
+565
+00:55:37,096 --> 00:55:41,736
+Look, Duane, they have a wide selection.
+
+566
+00:55:43,656 --> 00:55:45,536
+I think I'll try the fish.
+
+567
+00:55:52,656 --> 00:55:56,976
+I don't know, from the look of them,
+I'll bet $10 they're from Los Angeles.
+
+568
+00:56:02,256 --> 00:56:05,416
+Hey, hippies! Get your butts off the road!
+
+569
+00:56:06,496 --> 00:56:09,576
+I like the globe that flashes red
+like our Krypton sun.
+
+570
+00:56:10,096 --> 00:56:12,176
+But not this irritating noise.
+
+571
+00:56:12,896 --> 00:56:13,776
+Make way!
+
+572
+00:56:15,696 --> 00:56:19,296
+Did I hear right?
+Did that son of a bitch give me an order?
+
+573
+00:56:19,856 --> 00:56:21,816
+Duane, you take care of it.
+
+574
+00:56:21,896 --> 00:56:22,936
+But...
+
+575
+00:56:23,216 --> 00:56:26,496
+You got to learn to kick ass
+if you want to be a peacemaker.
+
+576
+00:56:34,856 --> 00:56:38,616
+All right. Just what in the hell
+do you think you're doing here?
+
+577
+00:56:39,216 --> 00:56:42,856
+What is this symbol?
+Do you follow another leader?
+
+578
+00:56:43,416 --> 00:56:44,816
+Follow the leader?
+
+579
+00:56:46,736 --> 00:56:48,496
+Holy skunk sweat!
+
+580
+00:56:49,376 --> 00:56:51,536
+- All right.
+- A weapon of some sort?
+
+581
+00:57:01,856 --> 00:57:03,696
+How in the hell did you do that?
+
+582
+00:57:11,416 --> 00:57:12,736
+Jesus H. Christ!
+
+583
+00:57:14,656 --> 00:57:16,296
+Crude noise-maker.
+
+584
+00:57:32,616 --> 00:57:34,176
+<i>Just checking the tire...</i>
+
+585
+00:58:39,096 --> 00:58:41,616
+- Wow, this is your home!
+- No.
+
+586
+00:58:42,416 --> 00:58:45,216
+Actually, I live in the city,
+about three blocks from you.
+
+587
+00:58:47,096 --> 00:58:49,416
+This is a very special place for me.
+
+588
+00:58:49,776 --> 00:58:51,176
+I wanted you to see it.
+
+589
+00:58:52,336 --> 00:58:53,896
+Listen, you warm enough?
+
+590
+00:58:55,656 --> 00:58:57,816
+I guess I should be freezing, but I'm not.
+
+591
+00:58:57,896 --> 00:59:00,776
+Good. Come on, let me show you.
+
+592
+00:59:39,776 --> 00:59:42,136
+You see? You only smell strong.
+
+593
+00:59:46,576 --> 00:59:48,016
+Baby!
+
+594
+00:59:51,536 --> 00:59:54,656
+It's only because I didn't want to
+lose my place in the orchestra.
+
+595
+00:59:57,696 --> 01:00:00,176
+The circus is in town!
+
+596
+01:00:02,456 --> 01:00:05,896
+Hey, sweet thing!
+Set them buns down here!
+
+597
+01:00:12,376 --> 01:00:14,016
+Let's just hold hands.
+
+598
+01:00:18,616 --> 01:00:20,376
+Let me know if this tickles.
+
+599
+01:00:28,816 --> 01:00:31,696
+Your right front tire is flat, Duane.
+
+600
+01:00:37,336 --> 01:00:39,496
+Sheriff, what happened?
+
+601
+01:00:41,056 --> 01:00:41,976
+<i>Willie...</i>
+
+602
+01:00:42,896 --> 01:00:44,536
+I think my arm's broke.
+
+603
+01:00:45,696 --> 01:00:46,896
+Girl or no girl...
+
+604
+01:00:46,976 --> 01:00:49,736
+...you're going to spit teeth! Get up!
+
+605
+01:00:56,096 --> 01:00:57,936
+What the sam hill?
+
+606
+01:01:03,816 --> 01:01:05,496
+Is that you, Boog?
+
+607
+01:01:13,936 --> 01:01:14,776
+All right.
+
+608
+01:01:15,096 --> 01:01:16,496
+Get 'em up, keep 'em up!
+
+609
+01:01:17,056 --> 01:01:19,376
+These humans are beginning to bore me.
+
+610
+01:01:29,976 --> 01:01:31,736
+- Please, Mister!
+- He's a general.
+
+611
+01:01:31,856 --> 01:01:34,016
+Mr. General! Please let my daddy down!
+
+612
+01:01:40,136 --> 01:01:41,496
+You okay, Jody?
+
+613
+01:01:44,816 --> 01:01:47,056
+When my father died...
+
+614
+01:01:47,656 --> 01:01:49,736
+...this is my Earth father, I mean...
+
+615
+01:01:50,896 --> 01:01:53,536
+...I found this crystal.
+
+616
+01:01:56,416 --> 01:01:59,056
+This is kind of hard to explain,
+but you see...
+
+617
+01:01:59,696 --> 01:02:00,936
+...it called to me.
+
+618
+01:02:03,336 --> 01:02:05,616
+Yeah. And it brought me here.
+
+619
+01:02:06,416 --> 01:02:08,216
+It helped me to build this place.
+
+620
+01:02:09,496 --> 01:02:11,136
+Actually it built it, really.
+
+621
+01:02:13,096 --> 01:02:16,816
+That's when I found out who I really was...
+
+622
+01:02:17,136 --> 01:02:18,776
+...and what I had to do.
+
+623
+01:02:24,056 --> 01:02:25,896
+So what do you think? You like it?
+
+624
+01:02:26,416 --> 01:02:27,416
+Like it?
+
+625
+01:02:28,576 --> 01:02:29,976
+It's incredible!
+
+626
+01:02:30,936 --> 01:02:34,496
+I mean, not that it couldn't use
+a woman's touch...
+
+627
+01:02:34,576 --> 01:02:36,416
+...especially around dinner time.
+
+628
+01:02:36,496 --> 01:02:40,616
+Dinner. I'm sorry.
+I don't usually do too much about...
+
+629
+01:02:41,256 --> 01:02:44,056
+Listen, tonight, sky's the limit.
+Anything you want.
+
+630
+01:03:32,456 --> 01:03:33,376
+I'm home!
+
+631
+01:03:35,096 --> 01:03:36,136
+Should we eat?
+
+632
+01:03:38,456 --> 01:03:39,816
+- Sure.
+- Great.
+
+633
+01:03:43,536 --> 01:03:46,896
+Good morning, America.
+This is East Houston, Idaho...
+
+634
+01:03:46,976 --> 01:03:49,296
+...until yesterday,
+another middle American town...
+
+635
+01:03:49,376 --> 01:03:51,336
+...that middle America had forgotten.
+
+636
+01:03:51,696 --> 01:03:55,576
+But today the population,
+exaggerated reports put it at 123...
+
+637
+01:03:55,696 --> 01:03:57,176
+...has increased by three.
+
+638
+01:03:57,456 --> 01:04:00,496
+And these three new arrivals
+bring destruction in their wake.
+
+639
+01:04:00,576 --> 01:04:03,576
+As I look west into East Houston
+this morning...
+
+640
+01:04:03,616 --> 01:04:05,296
+...I see a town gripped with...
+
+641
+01:04:06,096 --> 01:04:07,096
+...fear.
+
+642
+01:04:08,816 --> 01:04:10,496
+<i>Who's the big guy?</i>
+
+643
+01:04:11,416 --> 01:04:13,336
+<i>Okay, yeah, we've got a P.O...</i>
+
+644
+01:04:14,336 --> 01:04:15,176
+No.
+
+645
+01:04:15,416 --> 01:04:17,776
+<i>We've got a slight crack in that diode.</i>
+
+646
+01:04:18,896 --> 01:04:21,456
+<i>- Come in on him if you can.
+- Try to wiggle it.</i>
+
+647
+01:04:21,536 --> 01:04:22,936
+Who else is seeing this?
+
+648
+01:04:23,696 --> 01:04:27,856
+With this satellite link up,
+just about everybody. The whole planet.
+
+649
+01:04:27,936 --> 01:04:31,056
+- The whole planet Houston?
+- Earth.
+
+650
+01:04:31,576 --> 01:04:33,176
+The whole planet Earth.
+
+651
+01:04:33,936 --> 01:04:35,496
+<i>Get over to the commentator.</i>
+
+652
+01:04:35,776 --> 01:04:37,296
+<i>You may continue.</i>
+
+653
+01:04:38,096 --> 01:04:40,976
+<i>As the extraordinary story continues...</i>
+
+654
+01:04:42,816 --> 01:04:44,816
+<i>As this extraordinary story...</i>
+
+655
+01:04:44,896 --> 01:04:48,776
+If the whole planet is watching, can't we
+show them something more interesting?
+
+656
+01:04:48,816 --> 01:04:51,296
+<i>Throw down your arms and surrender!</i>
+
+657
+01:04:51,816 --> 01:04:53,416
+<i>This is an order!</i>
+
+658
+01:04:56,456 --> 01:04:59,776
+GeneraI Zod does not take orders.
+He gives them.
+
+659
+01:05:24,616 --> 01:05:26,016
+You all right, buddy?
+
+660
+01:05:55,056 --> 01:05:58,016
+He was right in the line of fire
+and nothing happened to him!
+
+661
+01:05:58,056 --> 01:06:00,456
+I haven't seen the likes of this
+since Superman.
+
+662
+01:06:01,256 --> 01:06:05,216
+<i>Yes. The Newsbeat control room
+has just informed me...</i>
+
+663
+01:06:05,296 --> 01:06:08,296
+<i>...that a fleet of helicopter gun ships
+is on it's way...</i>
+
+664
+01:06:08,376 --> 01:06:11,856
+<i>- Mr. President, can't we...
+- I'm afraid there's nothing anybody can do.</i>
+
+665
+01:06:11,936 --> 01:06:14,336
+They have such powers,
+nothing can stop them.
+
+666
+01:06:14,576 --> 01:06:17,096
+Where's Superman? Where is he?
+
+667
+01:06:17,416 --> 01:06:18,976
+Why doesn't he do something?
+
+668
+01:06:19,536 --> 01:06:22,776
+General Smythson has informed us
+that nuclear weapon strikes...
+
+669
+01:06:22,896 --> 01:06:26,736
+...have been ruled out because of
+the danger to the civilian population.
+
+670
+01:06:35,856 --> 01:06:37,256
+<i>Starting firing run now.</i>
+
+671
+01:06:39,816 --> 01:06:41,296
+<i>Standby, rockets.</i>
+
+672
+01:06:42,016 --> 01:06:42,816
+<i>Fire one.</i>
+
+673
+01:06:46,136 --> 01:06:47,216
+<i>Fire again.</i>
+
+674
+01:06:49,256 --> 01:06:50,256
+<i>Fire again.</i>
+
+675
+01:06:58,656 --> 01:07:00,536
+<i>The rockets didn't have any effect.</i>
+
+676
+01:07:01,536 --> 01:07:04,616
+Look, they need machines to fly!
+
+677
+01:07:07,136 --> 01:07:08,376
+What bravery!
+
+678
+01:07:09,016 --> 01:07:11,656
+Be nice to them, my dear.
+Blow them a kiss.
+
+679
+01:07:20,656 --> 01:07:23,256
+<i>We're out of control. I don't understand.</i>
+
+680
+01:07:25,696 --> 01:07:28,176
+<i>We're coming in... Coming down...
+can't control it!</i>
+
+681
+01:07:28,856 --> 01:07:30,536
+<i>We're coming down!</i>
+
+682
+01:07:44,296 --> 01:07:45,176
+I win.
+
+683
+01:07:47,696 --> 01:07:48,696
+I always win.
+
+684
+01:07:50,736 --> 01:07:53,656
+<i>Is there no one on this planet
+to even challenge me?</i>
+
+685
+01:08:00,176 --> 01:08:01,976
+That was good.
+
+686
+01:08:02,416 --> 01:08:04,096
+I thought we might...
+
+687
+01:08:05,776 --> 01:08:07,736
+...abandon the orange juice for once.
+
+688
+01:08:15,816 --> 01:08:18,536
+- Cheers!
+- Cheers!
+
+689
+01:08:22,776 --> 01:08:25,056
+Must be tough being Clark Kent, isn't it?
+
+690
+01:08:26,256 --> 01:08:27,296
+No.
+
+691
+01:08:29,216 --> 01:08:30,856
+I really like it sometimes.
+
+692
+01:08:31,456 --> 01:08:33,736
+Even though I do make a fool of myself.
+
+693
+01:08:35,416 --> 01:08:37,416
+You know, if it weren't for him...
+
+694
+01:08:38,256 --> 01:08:39,856
+...I never would have met you.
+
+695
+01:08:41,736 --> 01:08:44,216
+But... He is you.
+
+696
+01:08:46,016 --> 01:08:47,816
+It's kind of confusing.
+
+697
+01:08:49,696 --> 01:08:51,016
+Not to me, it isn't.
+
+698
+01:08:53,776 --> 01:08:55,536
+For the first time in my life...
+
+699
+01:08:56,976 --> 01:08:58,296
+...everything's clear.
+
+700
+01:09:22,816 --> 01:09:25,896
+I'm going to go change into something
+more comfortable.
+
+701
+01:09:40,696 --> 01:09:44,296
+Come forward.
+Your general wishes to speak.
+
+702
+01:09:44,696 --> 01:09:46,776
+I am General Zod.
+
+703
+01:09:47,776 --> 01:09:48,776
+Your ruler.
+
+704
+01:09:50,296 --> 01:09:53,696
+Yes, today begins a new order!
+
+705
+01:09:54,576 --> 01:09:58,376
+Your lands, your possessions,
+your very lives...
+
+706
+01:09:58,456 --> 01:10:02,136
+...will gladly be given
+in tribute to me, General Zod!
+
+707
+01:10:02,976 --> 01:10:04,736
+In return for your obedience...
+
+708
+01:10:04,816 --> 01:10:07,776
+...you will enjoy my generous protection.
+
+709
+01:10:07,856 --> 01:10:10,816
+In other words, you will be allowed to live.
+
+710
+01:10:14,296 --> 01:10:16,256
+<i>So you are a general...</i>
+
+711
+01:10:18,336 --> 01:10:20,336
+And who is your superior?
+
+712
+01:10:21,256 --> 01:10:25,376
+- I answer only to the president.
+- And he will answer to me...
+
+713
+01:10:27,576 --> 01:10:30,776
+...or all of his cities
+will end up like this one!
+
+714
+01:10:31,736 --> 01:10:35,376
+<i>Your father and I have tried to anticipate
+your every question, Kal-El.</i>
+
+715
+01:10:35,616 --> 01:10:38,096
+<i>This is the one we hoped
+you would not ask.</i>
+
+716
+01:10:38,576 --> 01:10:42,536
+But I have to, because...
+she's everything I want in life.
+
+717
+01:10:43,896 --> 01:10:46,216
+<i>And she, the one you have chosen...</i>
+
+718
+01:10:47,096 --> 01:10:49,096
+<i>...she feels as much for you?</i>
+
+719
+01:10:50,136 --> 01:10:50,976
+Yes.
+
+720
+01:10:51,056 --> 01:10:52,816
+<i>Then if this is what you wish...</i>
+
+721
+01:10:53,336 --> 01:10:56,016
+<i>...if you intend to live your life
+with a mortal...</i>
+
+722
+01:10:56,576 --> 01:10:59,096
+<i>...you must live as a mortal.</i>
+
+723
+01:10:59,656 --> 01:11:01,536
+<i>You must become one of them.</i>
+
+724
+01:11:03,416 --> 01:11:07,976
+<i>This crystal chamber has harnessed
+the rays of the red sun of Krypton.</i>
+
+725
+01:11:08,856 --> 01:11:11,376
+<i>Once exposed to these rays, all...</i>
+
+726
+01:11:11,456 --> 01:11:15,016
+<i>...your great powers on Earth
+will disappear forever.</i>
+
+727
+01:11:20,296 --> 01:11:21,696
+<i>But consider...</i>
+
+728
+01:11:22,336 --> 01:11:24,376
+<i>...once it is done, there is no return.</i>
+
+729
+01:11:24,856 --> 01:11:26,776
+<i>You will become an ordinary man.</i>
+
+730
+01:11:27,336 --> 01:11:29,736
+<i>You will feel like an ordinary man.</i>
+
+731
+01:11:30,496 --> 01:11:33,456
+<i>You can be hurt like an ordinary man.</i>
+
+732
+01:11:44,136 --> 01:11:47,056
+<i>My son, are you sure?</i>
+
+733
+01:11:54,776 --> 01:11:55,816
+Mother...
+
+734
+01:11:57,416 --> 01:11:58,776
+...I love her.
+
+735
+01:13:48,896 --> 01:13:50,576
+You did all that for me?
+
+736
+01:13:53,696 --> 01:13:55,536
+I don't know what to say.
+
+737
+01:13:57,816 --> 01:13:59,336
+Just say you love me.
+
+738
+01:14:50,216 --> 01:14:53,936
+Thousands of hours to create,
+and they defaced it in seconds.
+
+739
+01:14:54,176 --> 01:14:57,096
+Imagine what they'll do to the world
+if we resist.
+
+740
+01:16:02,576 --> 01:16:04,456
+The whole place is going to fall!
+
+741
+01:16:04,536 --> 01:16:05,376
+Watch it!
+
+742
+01:16:41,456 --> 01:16:43,376
+You are the one they call President?
+
+743
+01:16:43,976 --> 01:16:44,816
+I am.
+
+744
+01:16:48,256 --> 01:16:51,496
+I see you are practiced
+in worshipping things that fly.
+
+745
+01:16:53,056 --> 01:16:54,136
+Good.
+
+746
+01:16:55,416 --> 01:16:56,536
+Rise before Zod.
+
+747
+01:17:01,776 --> 01:17:04,776
+Now, kneel before Zod.
+
+748
+01:17:18,976 --> 01:17:20,496
+You are not the President.
+
+749
+01:17:20,856 --> 01:17:24,496
+No one who leads so many
+could possibly kneel so quickly.
+
+750
+01:17:25,896 --> 01:17:27,656
+I am the man they are protecting.
+
+751
+01:17:28,896 --> 01:17:30,216
+I am the President.
+
+752
+01:17:31,736 --> 01:17:33,936
+I'll kneel before you if it will save lives.
+
+753
+01:17:34,336 --> 01:17:37,656
+It will. Starting with your own.
+
+754
+01:17:51,416 --> 01:17:55,496
+What I do now, I do for
+the sake of the people of the world.
+
+755
+01:17:56,816 --> 01:18:00,696
+But there is one man here on Earth
+who will never kneel before you.
+
+756
+01:18:01,216 --> 01:18:03,696
+Who is this imbecile? Where is he?
+
+757
+01:18:04,176 --> 01:18:05,296
+I wish I knew.
+
+758
+01:18:10,776 --> 01:18:11,936
+God.
+
+759
+01:18:12,656 --> 01:18:13,576
+Zod.
+
+760
+01:18:17,856 --> 01:18:21,216
+You're awfully quiet over there.
+I'm supposed to be the shy one.
+
+761
+01:18:22,656 --> 01:18:25,216
+Yeah, I was just thinking...
+
+762
+01:18:26,136 --> 01:18:29,216
+...I can't believe
+what you've given up for me.
+
+763
+01:18:30,656 --> 01:18:33,776
+Are you kidding?
+I didn't do it for you, Lois, I did it for us.
+
+764
+01:18:34,536 --> 01:18:37,776
+See, I told you there'd be
+a hot dog place somewhere.
+
+765
+01:18:37,936 --> 01:18:40,976
+Okay. It sure takes longer
+when you can't fly.
+
+766
+01:18:41,896 --> 01:18:43,136
+Hurry up.
+
+767
+01:18:43,736 --> 01:18:45,176
+- Come on.
+- Okay.
+
+768
+01:18:46,016 --> 01:18:47,536
+My back's stiff.
+
+769
+01:18:48,976 --> 01:18:50,776
+Come on, it's my treat.
+
+770
+01:18:55,176 --> 01:18:57,296
+Oh, boy, it's Mr. WonderfuI.
+
+771
+01:18:58,856 --> 01:19:00,176
+Thank you.
+
+772
+01:19:03,616 --> 01:19:05,976
+- Do you have a men's room?
+- Right in the corner.
+
+773
+01:19:06,376 --> 01:19:08,496
+- Want to sit down?
+- Yeah.
+
+774
+01:19:11,056 --> 01:19:12,656
+What would you folks like?
+
+775
+01:19:12,776 --> 01:19:16,136
+I'd like a cheeseburger
+with everything on it and a Coke...
+
+776
+01:19:16,296 --> 01:19:19,936
+...and an order of fries
+and a side salad, please.
+
+777
+01:19:21,256 --> 01:19:22,736
+For you, sir?
+
+778
+01:19:23,176 --> 01:19:25,776
+- I'll think about it when I get back.
+- Right.
+
+779
+01:19:26,016 --> 01:19:28,576
+- Steak and eggs, over easy, coffee.
+- My Coke, please.
+
+780
+01:19:28,616 --> 01:19:29,576
+Coming up.
+
+781
+01:19:30,936 --> 01:19:32,376
+Sorry, that seat's taken.
+
+782
+01:19:32,536 --> 01:19:34,176
+It is now, sweetheart.
+
+783
+01:19:35,696 --> 01:19:37,456
+Can I buy you something to eat?
+
+784
+01:19:38,296 --> 01:19:39,656
+No, thank you.
+
+785
+01:19:40,816 --> 01:19:43,056
+Excuse me.
+I think you're sitting in my seat.
+
+786
+01:19:44,016 --> 01:19:46,176
+Your seat's in there, four-eyes.
+
+787
+01:19:49,616 --> 01:19:53,096
+I think, perhaps somebody
+ought to teach you some manners, sir.
+
+788
+01:19:54,576 --> 01:19:57,176
+Yeah? Let me know when he comes in.
+
+789
+01:19:57,296 --> 01:19:59,456
+<i>- Look, we can just...
+- Honey...</i>
+
+790
+01:20:01,056 --> 01:20:03,416
+Excuse me, sir,
+would you care to step outside?
+
+791
+01:20:03,616 --> 01:20:06,256
+I said, excuse me, sir,
+would you care to step outside?
+
+792
+01:20:09,576 --> 01:20:12,216
+Now listen, your steak's coming right up.
+
+793
+01:20:12,976 --> 01:20:16,296
+Keep it on the flame,
+this is just a minute steak.
+
+794
+01:20:17,936 --> 01:20:19,376
+After you.
+
+795
+01:20:28,616 --> 01:20:30,256
+You all right?
+
+796
+01:20:30,336 --> 01:20:32,576
+He's going to be fine, just give me that.
+
+797
+01:20:33,896 --> 01:20:36,136
+Blood. It's my blood.
+
+798
+01:20:37,496 --> 01:20:38,416
+I think...
+
+799
+01:20:39,056 --> 01:20:41,776
+...maybe we ought to hire a bodyguard
+from now on.
+
+800
+01:20:42,256 --> 01:20:45,416
+I don't want a bodyguard.
+I want the man I fell in love with.
+
+801
+01:20:45,696 --> 01:20:47,096
+I know that.
+
+802
+01:20:48,056 --> 01:20:49,856
+I wish he were here.
+
+803
+01:20:59,016 --> 01:21:02,136
+Boy, you just don't have enough sense
+to stay down do you?
+
+804
+01:21:16,976 --> 01:21:19,216
+I don't like your meat, anyway.
+
+805
+01:21:21,376 --> 01:21:22,776
+Oh, God.
+
+806
+01:21:34,376 --> 01:21:35,376
+Can you get up?
+
+807
+01:21:36,176 --> 01:21:38,136
+- It's all right. I got you.
+- Go slow.
+
+808
+01:21:38,216 --> 01:21:39,256
+Try and get up in that chair.
+
+809
+01:21:42,216 --> 01:21:44,176
+- Sit down.
+- I'm all right.
+
+810
+01:21:47,016 --> 01:21:50,016
+He's all right. Just relax.
+We'll have some fresh coffee.
+
+811
+01:21:50,136 --> 01:21:51,936
+I'll turn the box on.
+
+812
+01:21:53,376 --> 01:21:56,096
+<i>We interrupt this program
+for an urgent message...</i>
+
+813
+01:21:56,176 --> 01:21:58,496
+<i>...from the President of the United States.</i>
+
+814
+01:21:59,496 --> 01:22:01,216
+<i>This is your President.</i>
+
+815
+01:22:01,936 --> 01:22:06,536
+<i>On behalf of my country and in the name
+of the other leaders of the world...</i>
+
+816
+01:22:07,376 --> 01:22:09,536
+<i>...with whom I have today consulted...</i>
+
+817
+01:22:10,416 --> 01:22:13,016
+<i>...I hereby abdicate...</i>
+
+818
+01:22:13,616 --> 01:22:17,256
+<i>...all authority
+and control over this planet...</i>
+
+819
+01:22:18,376 --> 01:22:19,496
+<i>...to General Zod.</i>
+
+820
+01:22:21,776 --> 01:22:25,416
+<i>Only by strict compliance
+with all his directions...</i>
+
+821
+01:22:26,376 --> 01:22:30,056
+<i>...will the lives
+of innocent millions be spared.</i>
+
+822
+01:22:30,816 --> 01:22:32,456
+<i>Superman, can you hear me?</i>
+
+823
+01:22:32,536 --> 01:22:36,136
+<i>- Superman, where...
+- Who is this Superman?</i>
+
+824
+01:22:36,576 --> 01:22:38,896
+<i>You'll find out! And when you do...</i>
+
+825
+01:22:38,976 --> 01:22:42,416
+<i>Come to me, Superman! If you dare!</i>
+
+826
+01:22:42,856 --> 01:22:44,336
+<i>I defy you!</i>
+
+827
+01:22:44,576 --> 01:22:47,976
+<i>Come! Come and kneel before Zod!</i>
+
+828
+01:22:53,456 --> 01:22:55,336
+- Here? When?
+- When?
+
+829
+01:22:55,456 --> 01:22:56,656
+Where have you been?
+
+830
+01:22:56,936 --> 01:22:58,656
+On a desert island?
+
+831
+01:23:01,576 --> 01:23:03,256
+I have to go back.
+
+832
+01:23:03,816 --> 01:23:05,496
+You can't go back.
+
+833
+01:23:05,856 --> 01:23:07,976
+- There's no way, now.
+- I have to.
+
+834
+01:23:08,496 --> 01:23:11,776
+I've got to try, damn it!
+I've got to try something. Anything!
+
+835
+01:23:12,016 --> 01:23:14,096
+It's not your fault.
+
+836
+01:23:15,056 --> 01:23:17,816
+You didn't know this was going to happen.
+
+837
+01:23:19,616 --> 01:23:21,176
+They knew.
+
+838
+01:23:21,736 --> 01:23:23,416
+I heard them.
+
+839
+01:23:24,216 --> 01:23:26,216
+I just didn't listen.
+
+840
+01:23:56,296 --> 01:23:57,936
+Hey, come on!
+
+841
+01:24:42,576 --> 01:24:43,976
+Father?
+
+842
+01:24:44,576 --> 01:24:45,936
+Mother?
+
+843
+01:24:48,936 --> 01:24:51,376
+I really wish you could hear me.
+
+844
+01:24:52,776 --> 01:24:54,536
+Because I need you.
+
+845
+01:24:56,816 --> 01:24:58,216
+See, I...
+
+846
+01:25:01,136 --> 01:25:02,656
+<i>...I...</i>
+
+847
+01:25:04,016 --> 01:25:05,816
+I failed.
+
+848
+01:25:11,336 --> 01:25:13,336
+Father!
+
+849
+01:26:27,656 --> 01:26:29,136
+You're master of all you survey.
+
+850
+01:26:30,456 --> 01:26:32,376
+And so I was yesterday.
+
+851
+01:26:32,736 --> 01:26:34,456
+And the day before.
+
+852
+01:26:49,216 --> 01:26:50,176
+Hello, there.
+
+853
+01:26:51,896 --> 01:26:53,416
+Lex Luthor.
+
+854
+01:26:58,736 --> 01:27:01,496
+You may know the name.
+The greatest criminal mind on Earth.
+
+855
+01:27:02,256 --> 01:27:04,696
+I told you this was a puny planet.
+
+856
+01:27:04,976 --> 01:27:06,576
+Wait, just a moment.
+
+857
+01:27:06,776 --> 01:27:09,736
+Wait until you get to know me better,
+will you, please?
+
+858
+01:27:10,216 --> 01:27:13,856
+Wait, I can give you anything you want.
+
+859
+01:27:14,016 --> 01:27:17,936
+I can give you the brass ring,
+the unlimited freedom to maim...
+
+860
+01:27:18,256 --> 01:27:20,336
+...kill, destroy.
+
+861
+01:27:21,416 --> 01:27:25,576
+Plus, Lex Luthor's keen mind.
+Lex Luthor's savvy.
+
+862
+01:27:26,216 --> 01:27:30,456
+Lex Luthor's career guidance.
+Lex Luthor's School of Better...
+
+863
+01:27:32,336 --> 01:27:34,696
+We have all of this without you.
+
+864
+01:27:35,416 --> 01:27:37,656
+You cannot bargain
+with what you don't have.
+
+865
+01:27:38,376 --> 01:27:40,136
+Magnificent One.
+
+866
+01:27:41,656 --> 01:27:44,736
+What I am bargaining with
+is what you do not have.
+
+867
+01:27:45,176 --> 01:27:46,416
+The son of Jor-El.
+
+868
+01:27:46,896 --> 01:27:49,656
+The son of Jor-El? On this planet?
+
+869
+01:27:50,456 --> 01:27:54,496
+<i>Possibly you know him better
+by his nom de voyage, or his...</i>
+
+870
+01:27:54,856 --> 01:27:56,376
+...name he travels under.
+
+871
+01:27:56,456 --> 01:27:57,216
+Superman.
+
+872
+01:28:00,576 --> 01:28:02,136
+So, this is Superman.
+
+873
+01:28:03,736 --> 01:28:06,496
+- How do you know of Jor-El?
+- My Fullness...
+
+874
+01:28:06,976 --> 01:28:09,216
+<i>...as I explained to you before...</i>
+
+875
+01:28:10,616 --> 01:28:12,016
+I'm the best there is.
+
+876
+01:28:12,376 --> 01:28:15,576
+Revenge! We will kill the son of our jailer.
+
+877
+01:28:15,816 --> 01:28:18,776
+- Revenge!
+- Revenge! Now we're cooking!
+
+878
+01:28:19,056 --> 01:28:20,936
+- He flies?
+- Constantly.
+
+879
+01:28:21,216 --> 01:28:24,576
+<i>- He has powers as we do?
+- Certainly. But...</i>
+
+880
+01:28:26,896 --> 01:28:30,416
+Magnificent One, he's just one...
+
+881
+01:28:31,056 --> 01:28:32,936
+...where you are three.
+
+882
+01:28:34,616 --> 01:28:36,256
+Or four if you count him twice.
+
+883
+01:28:36,336 --> 01:28:38,016
+We will bring him to his knees.
+
+884
+01:28:38,096 --> 01:28:38,776
+Wait!
+
+885
+01:28:41,136 --> 01:28:42,296
+First, you must find him.
+
+886
+01:28:42,816 --> 01:28:45,456
+And Lex baby is the only one
+who knows where he is.
+
+887
+01:28:47,656 --> 01:28:50,096
+What... Do you want?
+
+888
+01:28:50,416 --> 01:28:51,776
+<i>Well, General...</i>
+
+889
+01:28:52,776 --> 01:28:54,696
+The world is a big place.
+
+890
+01:28:55,416 --> 01:28:57,216
+Thank goodness...
+
+891
+01:28:58,056 --> 01:28:59,736
+...my needs are small.
+
+892
+01:29:01,456 --> 01:29:06,896
+As it turns out, I have this affinity
+for beachfront property.
+
+893
+01:29:09,096 --> 01:29:10,136
+What do you want?
+
+894
+01:29:11,696 --> 01:29:12,736
+Australia.
+
+895
+01:29:17,576 --> 01:29:18,976
+I can't understand it!
+
+896
+01:29:19,256 --> 01:29:22,416
+Where is he? He shows up every time
+a cat gets stuck in a tree...
+
+897
+01:29:22,536 --> 01:29:25,016
+...and now he's decided to pull
+a disappearing act?
+
+898
+01:29:25,096 --> 01:29:28,056
+- We haven't figured out his game plan.
+- Game plan!
+
+899
+01:29:28,536 --> 01:29:32,816
+It's fourth down, the two-minute warning
+has sounded and the ball is in our territory.
+
+900
+01:29:32,896 --> 01:29:35,896
+How brilliant do you have to be? I mean...
+
+901
+01:29:38,456 --> 01:29:41,536
+Superman's got something up his sleeve,
+that's for sure.
+
+902
+01:29:41,936 --> 01:29:44,936
+- We haven't figured it out. Right?
+- He'll be here!
+
+903
+01:29:46,016 --> 01:29:48,056
+If it's at all possible, he'll be here.
+
+904
+01:29:48,696 --> 01:29:49,456
+See?
+
+905
+01:29:49,736 --> 01:29:52,336
+And she knows his plays
+better than anybody.
+
+906
+01:29:56,216 --> 01:29:58,256
+Better than anybody.
+
+907
+01:29:58,776 --> 01:30:01,176
+Maybe he hasn't heard about it yet.
+
+908
+01:30:10,096 --> 01:30:11,496
+Sounds like an earthquake.
+
+909
+01:30:55,416 --> 01:30:57,136
+Quick, take a picture!
+
+910
+01:31:24,936 --> 01:31:26,656
+You all right, chief?
+
+911
+01:31:27,256 --> 01:31:31,016
+Even with accumulated knowledge when'll
+these dummies learn to use a doorknob?
+
+912
+01:31:31,736 --> 01:31:32,736
+Hi!
+
+913
+01:31:35,256 --> 01:31:37,896
+You should see the White House,
+months of cleaning.
+
+914
+01:31:39,456 --> 01:31:41,296
+You promised me the son of Jor-El.
+
+915
+01:31:44,176 --> 01:31:45,256
+Yes, your Grace.
+
+916
+01:31:45,976 --> 01:31:46,936
+But...
+
+917
+01:31:47,176 --> 01:31:49,456
+...what I've given you
+is the next best thing.
+
+918
+01:31:49,496 --> 01:31:50,936
+Hold on to that little lady...
+
+919
+01:31:51,016 --> 01:31:52,696
+...and he'll be along.
+
+920
+01:31:53,616 --> 01:31:55,336
+They have this relationship.
+
+921
+01:31:55,496 --> 01:31:59,296
+She does all his public relations
+and he gives her every exclusive.
+
+922
+01:31:59,656 --> 01:32:02,376
+They're the best of friends.
+Know what I mean?
+
+923
+01:32:02,976 --> 01:32:06,056
+What an undemanding male
+this Superman must be.
+
+924
+01:32:06,256 --> 01:32:08,336
+You could use a tuck here and there.
+
+925
+01:32:08,976 --> 01:32:09,776
+Wait!
+
+926
+01:32:10,656 --> 01:32:12,496
+- I'm sorry!
+- She lives for now.
+
+927
+01:32:13,216 --> 01:32:14,376
+Kill the rest...
+
+928
+01:32:14,816 --> 01:32:15,776
+...starting with him.
+
+929
+01:32:17,256 --> 01:32:18,816
+Wait. Wait.
+
+930
+01:32:19,456 --> 01:32:21,496
+Remember the White House?
+The Oval Room?
+
+931
+01:32:21,816 --> 01:32:23,256
+We had a few laughs, right?
+
+932
+01:32:41,976 --> 01:32:43,016
+General...
+
+933
+01:32:44,496 --> 01:32:46,296
+...would you care to step outside?
+
+934
+01:32:46,696 --> 01:32:47,896
+Superman!
+
+935
+01:32:48,816 --> 01:32:50,016
+Superman, thank God.
+
+936
+01:32:50,976 --> 01:32:52,336
+I mean, get him!
+
+937
+01:32:53,016 --> 01:32:55,376
+Come to me, Son of Jor-El!
+
+938
+01:32:55,656 --> 01:32:57,976
+Kneel before Zod!
+
+939
+01:33:17,776 --> 01:33:19,776
+Watch out. You all right?
+
+940
+01:33:29,536 --> 01:33:30,896
+Wait there.
+
+941
+01:33:41,216 --> 01:33:42,576
+Son of Jor-El!
+
+942
+01:33:43,376 --> 01:33:45,736
+We were beginning to think
+you were a coward!
+
+943
+01:33:46,216 --> 01:33:47,416
+I'm not a coward.
+
+944
+01:33:48,896 --> 01:33:50,536
+Let him prove it!
+
+945
+01:34:09,776 --> 01:34:12,296
+Then die as you deserve to!
+
+946
+01:34:22,576 --> 01:34:24,776
+Come on, get him!
+
+947
+01:34:25,136 --> 01:34:27,136
+This is going to be good!
+
+948
+01:34:32,056 --> 01:34:34,216
+Take him. He's yours.
+
+949
+01:35:01,576 --> 01:35:03,576
+Come on! Kill him!
+
+950
+01:35:04,216 --> 01:35:05,616
+<i>Superman...</i>
+
+951
+01:35:14,336 --> 01:35:17,136
+The big one's just as strong as Superman!
+
+952
+01:35:49,296 --> 01:35:50,056
+Hold him.
+
+953
+01:35:52,936 --> 01:35:54,616
+Home run!
+
+954
+01:36:43,296 --> 01:36:47,016
+This "super" man is nothing of the kind.
+
+955
+01:36:47,536 --> 01:36:49,656
+I've discovered his weakness.
+
+956
+01:36:50,336 --> 01:36:51,376
+He cares.
+
+957
+01:36:51,896 --> 01:36:54,856
+He actually cares for these Earth people.
+
+958
+01:36:55,296 --> 01:36:58,096
+- Like pets?
+- I suppose so.
+
+959
+01:36:58,976 --> 01:37:00,856
+Sentimental idiot.
+
+960
+01:37:06,376 --> 01:37:07,896
+He's caged Non.
+
+961
+01:37:09,376 --> 01:37:11,176
+I'll draw his fire.
+
+962
+01:37:11,376 --> 01:37:13,216
+With some of my own.
+
+963
+01:37:48,896 --> 01:37:51,296
+Get out of here! The rig's going to blow!
+
+964
+01:39:41,496 --> 01:39:43,536
+Superman, help us!
+
+965
+01:40:44,696 --> 01:40:47,136
+I never thought this thing
+would go the distance.
+
+966
+01:40:49,296 --> 01:40:50,856
+You people, get back.
+
+967
+01:40:51,296 --> 01:40:53,216
+Here, take the end of this.
+
+968
+01:41:07,256 --> 01:41:09,216
+No. Don't do it!
+
+969
+01:41:09,936 --> 01:41:11,336
+The people!
+
+970
+01:41:51,456 --> 01:41:53,256
+Where's you wife, sir?
+
+971
+01:41:53,336 --> 01:41:55,536
+I got her. Don't worry.
+
+972
+01:41:55,696 --> 01:41:56,856
+He's dead.
+
+973
+01:41:58,656 --> 01:41:59,936
+Superman is dead.
+
+974
+01:42:02,336 --> 01:42:03,656
+They killed Superman.
+
+975
+01:42:07,096 --> 01:42:08,136
+Let's get them!
+
+976
+01:42:08,496 --> 01:42:10,576
+Come on, let's go!
+
+977
+01:42:45,816 --> 01:42:47,256
+Forgot your change!
+
+978
+01:42:50,776 --> 01:42:52,256
+Wait a minute!
+
+979
+01:42:56,976 --> 01:42:58,696
+I'm holding it, I'm holding it!
+
+980
+01:43:00,736 --> 01:43:02,336
+I can't see what's happening!
+
+981
+01:43:08,096 --> 01:43:09,696
+- My hair!
+- What about mine?
+
+982
+01:43:10,576 --> 01:43:11,336
+Hold on!
+
+983
+01:44:34,736 --> 01:44:35,616
+He's alive!
+
+984
+01:44:55,496 --> 01:44:57,456
+Come back, please!
+
+985
+01:45:01,376 --> 01:45:02,176
+So...
+
+986
+01:45:02,936 --> 01:45:05,416
+...he is a coward after all.
+
+987
+01:45:07,936 --> 01:45:09,416
+Come back, Superman!
+
+988
+01:45:17,216 --> 01:45:19,896
+- Don't leave us!
+- We can't handle it without you.
+
+989
+01:45:20,336 --> 01:45:23,336
+- It's not our fault.
+- He chickened out.
+
+990
+01:45:24,456 --> 01:45:25,336
+Phony!
+
+991
+01:45:26,656 --> 01:45:28,536
+Superman didn't even do nothing!
+
+992
+01:45:29,056 --> 01:45:30,736
+Come on, let's go!
+
+993
+01:45:32,616 --> 01:45:34,176
+Get away from here!
+
+994
+01:45:39,376 --> 01:45:40,856
+Our victory is complete!
+
+995
+01:45:41,416 --> 01:45:42,936
+The son of Jor-El has fled.
+
+996
+01:45:43,256 --> 01:45:44,416
+Superman fled?
+
+997
+01:45:45,016 --> 01:45:46,256
+I don't believe you.
+
+998
+01:45:46,496 --> 01:45:48,896
+- The next time we will kill him!
+- The next time?
+
+999
+01:45:50,616 --> 01:45:52,096
+The next time?
+
+1000
+01:45:53,336 --> 01:45:55,336
+What am I going to do with you people?
+
+1001
+01:45:55,816 --> 01:45:58,216
+I held up my end, I delivered the Blue Boy.
+
+1002
+01:45:58,576 --> 01:46:00,456
+What do I get from my triple threat?
+
+1003
+01:46:00,576 --> 01:46:03,736
+"Bow, yield, kneel," that kind of stuff
+closes out a town.
+
+1004
+01:46:04,176 --> 01:46:08,136
+Why do you say this to me
+when you know I will kill you for it?
+
+1005
+01:46:08,496 --> 01:46:11,536
+Kill me? Lex Luthor?
+
+1006
+01:46:12,736 --> 01:46:15,576
+Extinguish the greatest
+criminaI flame of our age?
+
+1007
+01:46:15,776 --> 01:46:18,376
+- Eradicate the only man on earth with...
+- Kill him!
+
+1008
+01:46:19,216 --> 01:46:20,696
+Superman's address?
+
+1009
+01:46:23,416 --> 01:46:24,896
+Come!
+
+1010
+01:46:25,416 --> 01:46:28,416
+The three of us will crush...
+
+1011
+01:46:28,656 --> 01:46:30,656
+...the son of our jailer.
+
+1012
+01:46:30,736 --> 01:46:33,176
+Why not increase his handicap?
+
+1013
+01:46:33,816 --> 01:46:36,536
+Since he cares so much
+for these Earth creatures...
+
+1014
+01:46:36,976 --> 01:46:39,096
+...let us take his favorite.
+
+1015
+01:47:33,656 --> 01:47:35,296
+Ever heard of parachutes?
+
+1016
+01:47:40,656 --> 01:47:42,576
+Another small step for mankind.
+
+1017
+01:47:44,176 --> 01:47:45,376
+Scruffy.
+
+1018
+01:47:46,776 --> 01:47:48,256
+So morbid.
+
+1019
+01:47:48,936 --> 01:47:52,216
+A sentimental replica
+of a planet long since vanished.
+
+1020
+01:47:53,656 --> 01:47:56,056
+- No style at all.
+- I expect...
+
+1021
+01:47:56,856 --> 01:47:58,696
+...better manners from my guests.
+
+1022
+01:48:14,496 --> 01:48:16,136
+We must combine our strength.
+
+1023
+01:48:40,576 --> 01:48:41,936
+Fools!
+
+1024
+01:48:42,456 --> 01:48:43,576
+Take him!
+
+1025
+01:49:18,016 --> 01:49:20,856
+We played this game at school.
+Never was very good at it.
+
+1026
+01:49:22,656 --> 01:49:24,856
+Superman, I knew that you'd...
+
+1027
+01:49:29,416 --> 01:49:31,016
+Wrong again!
+
+1028
+01:49:34,256 --> 01:49:36,056
+No, no!
+
+1029
+01:49:36,856 --> 01:49:38,016
+Release the General...
+
+1030
+01:49:38,176 --> 01:49:40,056
+...or we'll tear her apart.
+
+1031
+01:49:40,096 --> 01:49:41,136
+Superman, no!
+
+1032
+01:49:42,856 --> 01:49:44,056
+Superman, don't!
+
+1033
+01:49:45,256 --> 01:49:45,976
+All right!
+
+1034
+01:49:58,096 --> 01:50:01,136
+Did you really think
+we would give up our advantage?
+
+1035
+01:50:01,496 --> 01:50:02,576
+Now...
+
+1036
+01:50:02,976 --> 01:50:05,216
+...the son of Jor-El will be my slave.
+
+1037
+01:50:05,536 --> 01:50:06,256
+Forever.
+
+1038
+01:50:07,016 --> 01:50:10,016
+If not,
+the millions of earthlings you protect...
+
+1039
+01:50:10,496 --> 01:50:12,616
+...will pay for your defiance.
+
+1040
+01:50:13,096 --> 01:50:14,856
+Destroy this place.
+
+1041
+01:50:15,056 --> 01:50:18,176
+- Hi, guys. Sorry I'm late.
+- We have no more use for this one.
+
+1042
+01:50:18,536 --> 01:50:19,336
+Kill him.
+
+1043
+01:50:19,776 --> 01:50:20,856
+Me?
+
+1044
+01:50:24,776 --> 01:50:27,296
+You came to me with nothing,
+I gave you Superman.
+
+1045
+01:50:27,776 --> 01:50:28,816
+Silence!
+
+1046
+01:50:29,376 --> 01:50:30,416
+<i>Well, look...</i>
+
+1047
+01:50:30,816 --> 01:50:32,816
+Watch it. Don't touch me!
+
+1048
+01:50:35,136 --> 01:50:36,696
+Guy's a clod.
+
+1049
+01:50:38,536 --> 01:50:40,776
+Promises were made, gifts exchanged.
+
+1050
+01:50:41,256 --> 01:50:44,376
+I got to hand it to you.
+You always told the truth.
+
+1051
+01:50:44,776 --> 01:50:47,296
+A guy always knew
+where he stood with you.
+
+1052
+01:50:50,056 --> 01:50:53,096
+Try to get them all
+into this molecule chamber.
+
+1053
+01:50:53,936 --> 01:50:57,456
+It takes away their powers, see,
+and turns them into ordinary...
+
+1054
+01:50:57,616 --> 01:51:00,056
+<i>...human beings. Now, if you could...</i>
+
+1055
+01:51:03,176 --> 01:51:04,656
+Don't go in there, it's a trap!
+
+1056
+01:51:04,736 --> 01:51:06,216
+You poisonous snake!
+
+1057
+01:51:06,816 --> 01:51:08,336
+That's a molecule chamber.
+
+1058
+01:51:08,536 --> 01:51:11,816
+It makes people like you
+into people like me.
+
+1059
+01:51:12,456 --> 01:51:13,896
+You've done well.
+
+1060
+01:51:16,656 --> 01:51:19,456
+The crystal there activates the mechanism.
+
+1061
+01:51:20,136 --> 01:51:22,656
+Lex Luthor, ruler of Australia.
+
+1062
+01:51:23,016 --> 01:51:24,656
+Activate the machine!
+
+1063
+01:51:27,736 --> 01:51:28,856
+Thank you.
+
+1064
+01:51:31,776 --> 01:51:33,536
+With your permission.
+
+1065
+01:52:46,976 --> 01:52:48,016
+And now...
+
+1066
+01:52:49,016 --> 01:52:50,016
+...finally.
+
+1067
+01:53:00,576 --> 01:53:02,096
+Take my hand...
+
+1068
+01:53:03,096 --> 01:53:08,056
+...and swear eternal loyalty to Zod.
+
+1069
+01:53:47,976 --> 01:53:49,096
+He switched it!
+
+1070
+01:53:49,576 --> 01:53:53,216
+He did it to them!
+I mean the lights were on out here...
+
+1071
+01:53:53,896 --> 01:53:55,496
+...while he was safe in there!
+
+1072
+01:53:57,696 --> 01:53:59,256
+You know, something?
+
+1073
+01:54:00,056 --> 01:54:02,136
+You're a real pain in the neck!
+
+1074
+01:54:11,696 --> 01:54:13,776
+Are you all right?
+
+1075
+01:54:14,816 --> 01:54:18,336
+I knew you'd double-cross me.
+A lying, weasel like you couldn't resist.
+
+1076
+01:54:19,896 --> 01:54:23,216
+Are you kidding?
+I was with you all the time.
+
+1077
+01:54:23,936 --> 01:54:25,096
+That was beautiful.
+
+1078
+01:54:25,176 --> 01:54:27,376
+Did you see the way they fell into our trap?
+
+1079
+01:54:27,736 --> 01:54:29,616
+Too late!
+
+1080
+01:54:30,016 --> 01:54:32,616
+Look.
+
+1081
+01:54:33,456 --> 01:54:34,696
+I got a proposition.
+
+1082
+01:54:35,456 --> 01:54:38,016
+Don't stop me
+until you've heard this because...
+
+1083
+01:54:38,616 --> 01:54:41,816
+...I know I owe you one,
+but we're in the north pole, right?
+
+1084
+01:54:42,576 --> 01:54:44,256
+Let's wipe the slate clean.
+
+1085
+01:54:44,456 --> 01:54:48,096
+<i>If you give me a ride back,
+I promise to turn over a new leaf...</i>
+
+1086
+01:54:52,296 --> 01:54:54,776
+It looks so beautiful from up here.
+
+1087
+01:54:55,736 --> 01:54:58,736
+I guess I'll never get to fly
+with you again.
+
+1088
+01:54:59,536 --> 01:55:01,936
+No. Anywhere you want to go.
+
+1089
+01:55:02,856 --> 01:55:04,496
+You don't have to worry.
+
+1090
+01:55:04,936 --> 01:55:07,296
+I'll never tell them who you really are.
+
+1091
+01:55:07,856 --> 01:55:09,336
+I know.
+
+1092
+01:55:24,256 --> 01:55:25,856
+See you later.
+
+1093
+01:55:57,696 --> 01:55:58,896
+Hi.
+
+1094
+01:56:26,336 --> 01:56:27,496
+How did you sleep?
+
+1095
+01:56:30,896 --> 01:56:33,616
+No. I didn't close my eyes all night.
+
+1096
+01:56:39,216 --> 01:56:42,296
+- Look...
+- I understand.
+
+1097
+01:56:44,976 --> 01:56:48,656
+I sat up all night listening to
+the voices of reason.
+
+1098
+01:56:49,736 --> 01:56:52,816
+You know how vile it is to hear
+the first bird of the morning...
+
+1099
+01:56:52,896 --> 01:56:54,936
+...when you've been crying all night?
+
+1100
+01:56:55,056 --> 01:56:55,856
+I'm sorry.
+
+1101
+01:56:56,856 --> 01:56:58,256
+I'm sorry, too.
+
+1102
+01:56:59,456 --> 01:57:03,736
+I guess it's sort of like being
+married to a doctor, you know.
+
+1103
+01:57:04,296 --> 01:57:06,216
+The doctor's awakened at night...
+
+1104
+01:57:06,296 --> 01:57:09,416
+...and the wife has to cope with the fact
+that he's gone.
+
+1105
+01:57:10,656 --> 01:57:12,256
+I guess I'm just too selfish.
+
+1106
+01:57:13,256 --> 01:57:15,136
+No. You're not selfish at all.
+
+1107
+01:57:15,696 --> 01:57:17,696
+I am selfish, when it comes to you.
+
+1108
+01:57:17,896 --> 01:57:19,376
+I am selfish.
+
+1109
+01:57:20,056 --> 01:57:22,616
+I'm jealous of the whole world.
+
+1110
+01:57:27,296 --> 01:57:31,696
+It may not be easy for you
+to hear this now, but someday you'll...
+
+1111
+01:57:36,136 --> 01:57:38,616
+Don't tell me that I'll meet somebody.
+
+1112
+01:57:39,816 --> 01:57:43,176
+You're kind of a tough act to follow,
+you know?
+
+1113
+01:57:47,416 --> 01:57:50,296
+I'm going to be fine,
+you don't have to worry about me.
+
+1114
+01:57:55,296 --> 01:57:57,336
+I like worrying about you.
+
+1115
+01:57:58,976 --> 01:58:00,656
+Would you stop?
+
+1116
+01:58:01,496 --> 01:58:04,176
+Don't you know that this is killing me?
+
+1117
+01:58:04,776 --> 01:58:08,616
+Do you know what it's like
+to have you come in here every morning...
+
+1118
+01:58:08,736 --> 01:58:11,176
+...and not be able to talk to you?
+
+1119
+01:58:11,936 --> 01:58:15,256
+Not be able to show
+I have any feelings for you?
+
+1120
+01:58:15,776 --> 01:58:19,056
+Not be able to tell anyone
+that I know who you are.
+
+1121
+01:58:19,616 --> 01:58:22,136
+I don't even know what to call you.
+
+1122
+01:58:26,256 --> 01:58:28,256
+I don't know what to say.
+
+1123
+01:58:31,696 --> 01:58:34,296
+I don't know. Say that you love me.
+
+1124
+01:59:22,736 --> 01:59:25,176
+Gee, are you okay? What happened?
+
+1125
+01:59:25,496 --> 01:59:28,176
+- You all right?
+- I just got so dizzy.
+
+1126
+01:59:29,896 --> 01:59:32,816
+That's what happens
+when I don't have my orange juice.
+
+1127
+01:59:33,616 --> 01:59:36,296
+- I'm fine.
+- Breathe.
+
+1128
+01:59:36,376 --> 01:59:39,736
+- I'm breathing, for heaven's sake.
+- Good for you. Good.
+
+1129
+01:59:40,136 --> 01:59:42,056
+- God.
+- Just drink.
+
+1130
+01:59:42,456 --> 01:59:45,056
+- Okay.
+- Just sip it. Sip it. Sip it.
+
+1131
+01:59:45,136 --> 01:59:46,416
+I'm fine.
+
+1132
+01:59:49,376 --> 01:59:51,216
+What was I talking about before?
+
+1133
+01:59:51,456 --> 01:59:53,936
+If I know you,
+it was probably about Superman.
+
+1134
+01:59:54,496 --> 01:59:55,736
+Him again?
+
+1135
+01:59:55,856 --> 02:00:00,576
+You've got to stop being threatened
+every time the guy's name's mentioned.
+
+1136
+02:00:00,616 --> 02:00:03,536
+I mean, nobody expects you to be
+anything but what you are.
+
+1137
+02:00:03,616 --> 02:00:05,016
+I'll try to remember that.
+
+1138
+02:00:05,096 --> 02:00:07,816
+You better remember that.
+I appreciate you.
+
+1139
+02:00:07,896 --> 02:00:09,616
+- You do?
+- Sure.
+
+1140
+02:00:09,976 --> 02:00:12,176
+Especially if you get me a hamburger.
+
+1141
+02:00:12,696 --> 02:00:16,056
+<i>A hamburger. At 9:00 a. M.?</i>
+
+1142
+02:00:16,496 --> 02:00:18,256
+Yeah, and everything on it, okay?
+
+1143
+02:00:18,336 --> 02:00:19,936
+Everything on it.
+
+1144
+02:00:20,976 --> 02:00:24,096
+- And...
+- Orange juice. Freshly squeezed.
+
+1145
+02:00:25,056 --> 02:00:26,816
+Isn't he a nice guy?
+
+1146
+02:00:27,856 --> 02:00:31,056
+Let's see what trouble I can get into today.
+
+1147
+02:00:35,216 --> 02:00:36,816
+What's happening in the world?
+
+1148
+02:00:55,416 --> 02:00:57,376
+Give me another plate of this garbage.
+
+1149
+02:00:57,576 --> 02:01:00,536
+Garbage? That's my number one special!
+
+1150
+02:01:00,616 --> 02:01:03,856
+All right!
+Get me some more coffee too, will you?
+
+1151
+02:01:05,496 --> 02:01:09,296
+Gee, that's funny.
+I've never seen garbage eat garbage before.
+
+1152
+02:01:17,896 --> 02:01:20,816
+Excuse me, sir.
+I think you're sitting in my favorite seat.
+
+1153
+02:01:21,616 --> 02:01:23,096
+Come and get it, four-eyes.
+
+1154
+02:01:27,936 --> 02:01:29,016
+Now cool it!
+
+1155
+02:01:30,896 --> 02:01:31,896
+Take it easy.
+
+1156
+02:01:31,976 --> 02:01:34,656
+I just had this joint fixed.
+It cost me a fortune.
+
+1157
+02:01:53,016 --> 02:01:54,016
+God!
+
+1158
+02:02:06,016 --> 02:02:07,736
+This order's to go.
+
+1159
+02:02:15,896 --> 02:02:18,896
+I'm terribly sorry
+about all the damage, sir.
+
+1160
+02:02:22,136 --> 02:02:23,456
+I've been...
+
+1161
+02:02:24,136 --> 02:02:25,656
+...working out.
+
+1162
+02:02:49,736 --> 02:02:51,576
+Good afternoon, Mr. President.
+
+1163
+02:02:51,856 --> 02:02:53,696
+Sorry I've been away so long.
+
+1164
+02:02:55,096 --> 02:02:57,216
+I won't let you down again.
