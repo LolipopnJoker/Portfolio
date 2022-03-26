@@ -1,0 +1,5184 @@
+﻿1
+00:00:10,301 --> 00:00:13,919
+[Mechanical Whirring,
+Buzzing, Clicking]
+
+2
+00:00:14,055 --> 00:00:16,343
+[Ringing, Whizzing]
+
+3
+00:00:18,476 --> 00:00:21,346
+<i>[Siren Blaring]</i>
+
+4
+00:00:35,284 --> 00:00:38,036
+<i>[Women]</i>
+<i># Inspector Gadget #
+
+5
+00:00:38,162 --> 00:00:41,661
+<i># Ooh-ooh</i>
+<i>Inspector Gadget #
+
+6
+00:00:41,791 --> 00:00:43,665
+[Horn Honks]
+
+7
+00:00:47,296 --> 00:00:49,585
+<i># Inspector Gadget #
+
+8
+00:00:49,715 --> 00:00:51,589
+- [Barking]
+- <i># Ooh-ooh #
+
+9
+00:00:51,717 --> 00:00:53,627
+<i># Inspector Gadget #
+
+10
+00:00:55,596 --> 00:00:57,838
+<i># Go, Gadget, go #
+
+11
+00:01:00,268 --> 00:01:02,426
+<i># Go, Gadget, go #
+
+12
+00:01:02,562 --> 00:01:04,435
+[Croaking]
+
+13
+00:01:05,940 --> 00:01:08,609
+<i># Inspector Gadget #
+
+14
+00:01:08,734 --> 00:01:12,269
+<i># Ooh-ooh</i>
+<i>Inspector Gadget #
+
+15
+00:01:19,662 --> 00:01:21,702
+<i># Go, Gadget, go ##</i>
+
+16
+00:01:21,831 --> 00:01:24,286
+- <i>[Man Yelling] Help!</i>
+- <i>[Children Screaming]</i>
+
+17
+00:01:24,417 --> 00:01:27,287
+- <i>[Man] See you at the P. T.A. Meeting.</i>
+- ## [Whistling]
+
+18
+00:01:27,420 --> 00:01:29,412
+- <i>[Woman] Good morning, Officer Brown.</i>
+- Morning.
+
+19
+00:01:29,547 --> 00:01:31,919
+- <i>[Man]</i>
+<i>Officer Brown! How do you do?</i>
+- Morning.
+
+20
+00:01:32,049 --> 00:01:33,923
+## [Whistling]
+
+21
+00:01:34,051 --> 00:01:37,052
+<i>[Children Screaming]</i>
+
+22
+00:01:37,180 --> 00:01:41,011
+[Screaming]
+No brakes!
+
+23
+00:01:42,768 --> 00:01:45,259
+Help, Uncle John!
+
+24
+00:01:45,396 --> 00:01:48,017
+- Somebody help!
+- <i>Save us!</i>
+
+25
+00:01:48,149 --> 00:01:50,272
+Help!
+
+26
+00:01:51,903 --> 00:01:54,476
+[Gasps]
+
+27
+00:01:59,076 --> 00:02:01,698
+- <i>[Children Screaming]</i>
+- [Screaming]
+
+28
+00:02:01,829 --> 00:02:04,664
+Where's Officer Brown?
+
+29
+00:02:07,585 --> 00:02:10,040
+- [Squeals]
+- [Grunts]
+
+30
+00:02:15,468 --> 00:02:17,544
+[Screaming]
+
+31
+00:02:19,138 --> 00:02:22,507
+- [Grunting]
+- [Gasping]
+- [Screaming]
+
+32
+00:02:22,642 --> 00:02:24,800
+[Gasps]
+
+33
+00:02:24,936 --> 00:02:27,343
+[Screaming]
+Help!
+
+34
+00:02:27,480 --> 00:02:30,516
+[Children,
+Crowd Screaming]
+
+35
+00:02:30,650 --> 00:02:32,773
+[All Gasp, Sigh]
+
+36
+00:02:32,902 --> 00:02:35,772
+- Hey, the dog!
+- [All] The dog!
+
+37
+00:02:35,905 --> 00:02:39,155
+- <i>[Dog Howls]</i>
+- [Crowd Cheers]
+
+38
+00:02:39,283 --> 00:02:41,655
+[Girl]
+Oh, Harvey!
+
+39
+00:02:42,787 --> 00:02:45,704
+Officer Brown,
+you're my hero.
+
+40
+00:02:45,831 --> 00:02:49,082
+Oh, please, miss.
+It was nothing. Oh, geez...
+
+41
+00:02:49,210 --> 00:02:53,124
+All in a day's work, ma'am.
+Any cop woulda done the same.
+
+42
+00:02:55,925 --> 00:02:58,677
+Brain? Yech.
+
+43
+00:02:58,803 --> 00:03:00,760
+[Laughing]
+
+44
+00:03:00,888 --> 00:03:04,091
+Having another hero cop dream,
+Uncle John?
+
+45
+00:03:04,225 --> 00:03:07,060
+Every time I close my eyes.
+How was school?
+
+46
+00:03:07,186 --> 00:03:09,095
+Fine.
+
+47
+00:03:09,230 --> 00:03:11,982
+Don't forget: Tomorrow's the day parents
+come and talk about their careers.
+
+48
+00:03:12,108 --> 00:03:16,271
+Oh. Well, I might have to work.
+You want me to ask off?
+
+49
+00:03:16,404 --> 00:03:20,188
+Oh, no. That's okay.
+
+50
+00:03:20,324 --> 00:03:22,281
+Parents coming to school...
+whose idea was that anyway?
+
+51
+00:03:22,410 --> 00:03:25,530
+- But if it's important to you, Penny...
+- Did the letter come?
+
+52
+00:03:25,663 --> 00:03:29,114
+Letter? Uh, gee, well...
+What letter?
+
+53
+00:03:29,250 --> 00:03:31,456
+I don't... Oh, yes.
+
+54
+00:03:31,586 --> 00:03:36,164
+<i>They said two years as a security guard</i>
+<i>isn't enough experience to be a cop.</i>
+
+55
+00:03:36,299 --> 00:03:39,632
+- Uncle John, I'm sorry.
+- <i>Me too.</i>
+
+56
+00:03:39,760 --> 00:03:42,964
+Well, I can still secure and protect.
+
+57
+00:03:43,097 --> 00:03:45,137
+I just think I could do
+so much more good as a cop.
+
+58
+00:03:45,266 --> 00:03:47,638
+<i>Hey, wait a minute.</i>
+<i>Tomorrow's your day off.</i>
+
+59
+00:03:47,768 --> 00:03:51,268
+Oh, well...
+[Sighs]
+
+60
+00:03:51,397 --> 00:03:53,769
+Look, I know that
+Nicole's dad is a lawyer,
+
+61
+00:03:53,900 --> 00:03:55,892
+and Kim's dad is a dentist,
+
+62
+00:03:56,027 --> 00:03:58,434
+and I just didn't want
+to embarrass you with your friends.
+
+63
+00:03:58,571 --> 00:04:01,144
+If I only had that badge.
+
+64
+00:04:01,282 --> 00:04:05,362
+Uncle John, it's not the badge,
+it's the heart behind it.
+
+65
+00:04:07,288 --> 00:04:09,327
+I'm very proud of you.
+
+66
+00:04:13,628 --> 00:04:15,501
+<i>[Woman]</i>
+<i>Fingers crossed.</i>
+
+67
+00:04:15,630 --> 00:04:17,503
+This chip is gonna make
+the whole Gadget project work.
+
+68
+00:04:17,632 --> 00:04:21,001
+- Dad, concentrate. Try to move the foot.
+- [Sighs]
+
+69
+00:04:21,135 --> 00:04:25,215
+<i>[Man]</i>
+<i>All right. Kick the ball.</i>
+
+70
+00:04:25,348 --> 00:04:27,590
+<i>[Sighs]</i>
+<i>Nothin'. I'm hungry.</i>
+
+71
+00:04:27,725 --> 00:04:31,176
+Okay, all right. I'll go get us
+some dinner. But then we keep going.
+
+72
+00:04:31,312 --> 00:04:33,470
+- Yeah.
+- Okay. I'll call the guardhouse...
+
+73
+00:04:33,606 --> 00:04:36,523
+so they don't search
+the deliver guy again.
+
+74
+00:04:36,651 --> 00:04:41,111
+Hello, Antonio's? Yeah, it's Brenda.
+No, foot's still not moving.
+
+75
+00:04:41,239 --> 00:04:45,532
+- Dad, keep thinking about
+that foot. Yep, the usual.
+- Mm-hmm. Mm-hmm.
+
+76
+00:04:45,660 --> 00:04:48,530
+## [Humming]
+
+77
+00:04:51,332 --> 00:04:54,249
+## [Continues Humming]
+
+78
+00:04:55,419 --> 00:04:59,038
+- [Gasping] Dad.
+- Hmm? What?
+
+79
+00:04:59,173 --> 00:05:01,629
+<i>[Brenda Stammers]</i>
+
+80
+00:05:01,759 --> 00:05:03,550
+Tap your foot again.
+
+81
+00:05:09,642 --> 00:05:11,599
+- What?
+- Huh.
+
+82
+00:05:12,937 --> 00:05:14,811
+<i>That's weird.</i>
+
+83
+00:05:14,939 --> 00:05:17,145
+Wh-What were you thinking about?
+
+84
+00:05:17,275 --> 00:05:20,691
+I was thinking about how much
+you remind me of your mother.
+
+85
+00:05:20,820 --> 00:05:22,729
+[Snickers]
+
+86
+00:05:27,410 --> 00:05:30,446
+Wait a second.
+Wait a second!
+
+87
+00:05:30,580 --> 00:05:35,455
+That's it! It's animated
+by will, not by thought.
+
+88
+00:05:35,585 --> 00:05:38,502
+By your heart, not your head!
+[Laughing]
+
+89
+00:05:38,629 --> 00:05:40,586
+- Come on, try it again. Do it again!
+- All right.
+
+90
+00:05:44,844 --> 00:05:46,718
+[Laughing]
+
+91
+00:05:46,846 --> 00:05:50,926
+<i>[Together]</i>
+<i>We did it! We moved the foot!</i>
+
+92
+00:05:53,895 --> 00:05:57,513
+- <i>[Woman] Jack, queen...</i>
+- <i>[John Whistles]</i>
+
+93
+00:05:57,648 --> 00:06:00,768
+<i>[John]</i>
+<i>Brenda Bradford... she's so beautiful.</i>
+
+94
+00:06:00,902 --> 00:06:04,816
+- Wowser.
+- <i>[Woman]</i>
+<i>Black eight on the red nine...</i>
+
+95
+00:06:04,947 --> 00:06:08,565
+- What?
+- Oh, oh, nothin'.
+
+96
+00:06:08,701 --> 00:06:11,572
+I was just talkin' to myself.
+
+97
+00:06:16,042 --> 00:06:18,746
+Thelma, how do I look?
+
+98
+00:06:20,463 --> 00:06:23,132
+Like a geek from Kansas
+who became a security guard.
+
+99
+00:06:24,717 --> 00:06:28,300
+<i>- [Cat Meowing]</i>
+<i>- [Man] Brenda Bradford.</i>
+
+100
+00:06:31,057 --> 00:06:35,101
+Well, good evening, young lady.
+It's been a while. [Chuckles]
+
+101
+00:06:35,228 --> 00:06:38,976
+- Four, three, two, one, zero.
+- <i>## [Brenda Humming]</i>
+
+102
+00:06:39,106 --> 00:06:41,776
+- [Watch Beeps]
+- Go.
+
+103
+00:06:43,402 --> 00:06:45,940
+- Dr Bradford.
+- Yes?
+
+104
+00:06:47,448 --> 00:06:49,357
+- Hi.
+- Hi.
+
+105
+00:06:51,869 --> 00:06:54,407
+- I borrowed a book from your dad.
+- You did?
+
+106
+00:06:54,539 --> 00:06:58,239
+- <i>Power Learning Through Speed Study.</i>
+- Oh.
+
+107
+00:06:58,376 --> 00:07:01,246
+It took me forever
+to get through it.
+
+108
+00:07:01,379 --> 00:07:04,712
+But I really think
+it's gonna pay off, though.
+
+109
+00:07:04,841 --> 00:07:07,510
+I just applied
+to the Riverton police force.
+
+110
+00:07:08,886 --> 00:07:11,508
+- Yeah?
+- It's what I've always wanted to do.
+
+111
+00:07:12,890 --> 00:07:16,970
+- Help people, that is.
+- Um, I gotta...
+
+112
+00:07:17,103 --> 00:07:21,895
+Dr Bradford is out
+of the lab and we can go in.
+Sikes, release the remote-control van.
+
+113
+00:07:22,024 --> 00:07:23,684
+[Electronic Beeping]
+
+114
+00:07:33,578 --> 00:07:38,785
+- Nice stars.
+- Yeah? Which ones?
+
+115
+00:07:39,917 --> 00:07:42,325
+I just meant the whole...
+
+116
+00:07:43,754 --> 00:07:48,298
+- All of'em.
+- Oh, I thought you meant
+a specific cluster.
+
+117
+00:07:48,426 --> 00:07:50,833
+I always take everything
+so literally.
+
+118
+00:07:50,970 --> 00:07:53,461
+- So do I.
+- Yeah?
+
+119
+00:07:53,598 --> 00:07:55,721
+I forgot my keys.
+
+120
+00:07:55,892 --> 00:07:58,347
+- Oh.
+- [Chuckles]
+
+121
+00:07:58,477 --> 00:08:01,395
+- I'm... Okay. Night.
+- Sorry. Good night, now.
+
+122
+00:08:04,108 --> 00:08:09,447
+[Sighs] Well, I'll just stay here,
+then, and, uh, secure the parking lot.
+
+123
+00:08:09,572 --> 00:08:12,573
+[Tyres Screeching]
+
+124
+00:08:12,700 --> 00:08:15,108
+Concentrate, you twit!
+
+125
+00:08:16,537 --> 00:08:19,028
+Hey, that guy's speeding.
+
+126
+00:08:19,165 --> 00:08:21,039
+Ten miles an hour
+in the parking lot, buddy!
+
+127
+00:08:23,002 --> 00:08:25,707
+- <i>No-no-no-no, straight ahead!</i>
+<i>No, left!</i>
+- Bad cat. Bad cat.
+
+128
+00:08:25,838 --> 00:08:29,041
+<i>Left, Sikes, turn!</i>
+
+129
+00:08:29,175 --> 00:08:33,469
+- What was that?
+- We have an intruder
+on the premises... a black van.
+
+130
+00:08:33,596 --> 00:08:37,095
+- Where?
+- Try that big hole in the wall!
+
+131
+00:08:37,225 --> 00:08:39,098
+[Gasps]
+Brenda.
+
+132
+00:08:49,028 --> 00:08:53,690
+- Huh?
+- Hello, Artemus. I'll take that.
+
+133
+00:08:53,824 --> 00:08:56,398
+Oh, no, wait.
+No, no, no, no!
+
+134
+00:08:56,536 --> 00:08:59,786
+- <i>Now, just a moment... [Gasps]</i>
+- <i>Arrivederci,</i> Professor.
+
+135
+00:09:13,135 --> 00:09:16,089
+Uh-oh! Someone's gonna
+blame the old lady.
+
+136
+00:09:17,390 --> 00:09:19,299
+Sniffy, let's go.
+
+137
+00:09:22,186 --> 00:09:24,808
+[Sobbing]
+
+138
+00:09:28,985 --> 00:09:32,769
+Dr Bradford, I won't rest until
+lfind whoever's responsible.
+
+139
+00:09:34,448 --> 00:09:36,441
+Justice will be served.
+
+140
+00:09:42,081 --> 00:09:44,453
+<i>Brown, where are you going?</i>
+
+141
+00:09:44,584 --> 00:09:47,703
+- To catch the bad guys!
+Stand back, Thelma!
+- This isn't going to end well.
+
+142
+00:09:49,922 --> 00:09:54,465
+- You're not on duty, Brown!
+- I'm always on duty!
+
+143
+00:09:54,594 --> 00:09:57,511
+[Sighs]
+
+144
+00:09:59,849 --> 00:10:02,387
+[Laughing]
+
+145
+00:10:03,519 --> 00:10:06,604
+<i>[Chattering, Yelling]</i>
+
+146
+00:10:09,859 --> 00:10:12,350
+<i>[Horn Honking]</i>
+
+147
+00:10:24,624 --> 00:10:28,242
+Oh, no. We're being chased
+by the hatchback squad.
+
+148
+00:10:28,377 --> 00:10:32,161
+[Laughs]
+Hey, <i>I have a hatchback.
+
+149
+00:10:35,259 --> 00:10:37,881
+Ooh. Oh!
+
+150
+00:10:39,430 --> 00:10:43,807
+Whoa-whoa-whoa-whoa-whoa!
+Whoa-oah!
+
+151
+00:10:46,229 --> 00:10:50,226
+Now you've crossed the line.
+Pull over, you!
+
+152
+00:10:50,358 --> 00:10:53,193
+- Stop the car, Sikes.
+I want to enjoy this.
+- [Laughing]
+
+153
+00:10:53,319 --> 00:10:55,359
+Oh, gosh! Oh!
+
+154
+00:10:56,781 --> 00:10:59,568
+- [Laughing]
+- [Laughing]
+
+155
+00:11:01,577 --> 00:11:03,486
+[Laughing]
+Uh-oh.
+
+156
+00:11:03,621 --> 00:11:05,779
+<i># Yahoo #
+
+157
+00:11:13,923 --> 00:11:16,924
+Attention!
+Driver of the wrecked limo...
+
+158
+00:11:17,051 --> 00:11:19,922
+attached
+to the Yahoo! Billboard,
+
+159
+00:11:20,054 --> 00:11:23,055
+this is
+Security Officer John Brown.
+
+160
+00:11:23,182 --> 00:11:26,800
+<i>Please step out of the vehicle</i>
+<i>immediately...</i>
+
+161
+00:11:26,936 --> 00:11:29,094
+or... else.
+
+162
+00:11:32,358 --> 00:11:36,771
+Fine work,
+Mr Security Guard. You got me.
+
+163
+00:11:36,904 --> 00:11:41,732
+- Here. Have a victory cigar.
+- No, thanks.
+
+164
+00:11:45,913 --> 00:11:48,451
+Remember:
+Smoking kills.
+
+165
+00:11:48,583 --> 00:11:52,450
+- I don't smoke.
+- <i>Oh, really? You will now.</i>
+
+166
+00:11:52,587 --> 00:11:54,745
+<i>[Laughing]</i>
+
+167
+00:11:54,881 --> 00:11:57,004
+<i>[John]</i>
+<i>Oh, boy.</i>
+
+168
+00:12:06,350 --> 00:12:08,224
+[Screams]
+
+169
+00:12:08,352 --> 00:12:12,136
+<i>[Shrieking]</i>
+<i>My hand!</i>
+
+170
+00:12:14,859 --> 00:12:18,026
+<i>Pardon me! Excuse me!</i>
+<i>Comin'through!</i>
+
+171
+00:12:18,154 --> 00:12:21,439
+- <i>Hey, have you seen</i>
+<i>my uncle, John Brown?</i>
+- Uh, he's in there.
+
+172
+00:12:30,249 --> 00:12:32,123
+Uncle John?
+
+173
+00:12:33,503 --> 00:12:36,706
+Please wake up.
+I know you can hear me.
+
+174
+00:12:36,839 --> 00:12:39,211
+Look who I brought to visit.
+
+175
+00:12:42,595 --> 00:12:46,806
+Look, it's Brain.
+He came to see you.
+
+176
+00:12:46,933 --> 00:12:50,136
+Okay. No.
+Not in his mouth, Brain. No. No.
+
+177
+00:12:50,269 --> 00:12:52,511
+Okay, stop.
+
+178
+00:12:52,647 --> 00:12:56,347
+<i>We're lookin'at extensive</i>
+<i>tissue damage: 44 fractures,</i>
+<i>a major concussion,</i>
+
+179
+00:12:56,484 --> 00:12:58,939
+all coupled with
+extensive internal trauma.
+
+180
+00:13:00,071 --> 00:13:02,194
+This man tried
+to save my father.
+
+181
+00:13:02,323 --> 00:13:04,481
+His risked his life
+to protect our work.
+
+182
+00:13:04,617 --> 00:13:07,488
+- We've done all we can.
+- Not yet, we haven't.
+
+183
+00:13:07,620 --> 00:13:09,826
+<i>- Mayor's coming through!</i>
+<i>Clear the way!</i>
+<i>- Dr Bradford!</i>
+
+184
+00:13:09,956 --> 00:13:12,529
+<i>Clear for the mayor!</i>
+
+185
+00:13:12,667 --> 00:13:17,210
+Dr Bradford, both I and
+Police Chief Quimby here...
+
+186
+00:13:17,338 --> 00:13:20,090
+- Hi.
+- Are very sorry to hear
+about your father.
+
+187
+00:13:20,216 --> 00:13:23,133
+- He was a good man.
+- Oh. D-Did you know him?
+
+188
+00:13:23,261 --> 00:13:26,297
+No, I didn't.
+
+189
+00:13:26,430 --> 00:13:29,930
+So, how soon can you finish
+the Gadget project, hmm?
+
+190
+00:13:30,059 --> 00:13:33,262
+I'm sure that he would have wanted me
+to finish it as soon as possible.
+
+191
+00:13:33,396 --> 00:13:35,887
+- Mmm. Oh.
+- Yeah. With the, uh,
+"English Patient" there?
+
+192
+00:13:36,023 --> 00:13:41,184
+- <i>That's enough, Quimby.</i>
+- Sorry. Just doesn't look like
+you got off to a good start.
+
+193
+00:13:41,320 --> 00:13:45,863
+[Laughing] So, how can you be so
+sure that this is the proper subject?
+
+194
+00:13:45,992 --> 00:13:50,369
+Dad told me that I would know
+when the right man came along.
+
+195
+00:13:52,206 --> 00:13:54,744
+John Brown's the right man.
+
+196
+00:13:54,876 --> 00:13:56,749
+- Well.
+- Well.
+
+197
+00:13:56,878 --> 00:13:58,954
+That's good enough for me.
+[Laughs]
+
+198
+00:13:59,088 --> 00:14:00,962
+Let's go.
+
+199
+00:14:01,090 --> 00:14:02,798
+[All]
+Hmm.
+
+200
+00:14:02,925 --> 00:14:06,543
+- <i>Chain saw!</i>
+- <i>Waxy build-up, stat.</i>
+- <i>Bring in the hoses, stat!</i>
+
+201
+00:14:06,679 --> 00:14:09,051
+<i>[Surgeons Continue Noisily]</i>
+
+202
+00:14:17,565 --> 00:14:20,138
+<i>[Man]</i>
+<i>Ready, and... break!</i>
+
+203
+00:14:21,527 --> 00:14:23,567
+It's a thing of beauty,
+Quimby.
+
+204
+00:14:23,696 --> 00:14:27,646
+The future of law enforcement
+reborn before our very eyes.
+
+205
+00:14:27,783 --> 00:14:30,950
+Yeah... Columbo and Nintendo
+all rolled into one.
+
+206
+00:14:31,078 --> 00:14:32,952
+He'll make you obsolete:
+
+207
+00:14:33,080 --> 00:14:37,541
+No overtime, no hazard pay,
+no blue flu. [Laughs]
+
+208
+00:14:37,668 --> 00:14:41,962
+And he won't call me
+"Evil Gidget" behind my back.
+
+209
+00:14:43,758 --> 00:14:46,000
+Oh, by the way, what do we have
+on the Artemus Bradford murder?
+
+210
+00:14:46,135 --> 00:14:48,294
+Well, we got a limo
+with no licence...
+
+211
+00:14:48,429 --> 00:14:52,047
+and some scrap metal from whatever
+it was that broke into the lab.
+
+212
+00:14:52,183 --> 00:14:55,137
+- Do we at least know what was stolen?
+- According to Doctor Bradford,
+
+213
+00:14:55,269 --> 00:14:57,725
+- a robotic foot.
+- Robotic foot.
+
+214
+00:14:57,855 --> 00:14:59,848
+- A robotic foot?
+- Yeah.
+
+215
+00:14:59,982 --> 00:15:03,019
+What kind of cyberfreak
+are we dealing with?
+
+216
+00:15:06,239 --> 00:15:08,646
+<i>[Man]</i>
+<i>Not bad, Kramer.</i>
+
+217
+00:15:08,783 --> 00:15:11,452
+<i>- Not bad at all.</i>
+- [Relieved Sigh]
+
+218
+00:15:11,577 --> 00:15:16,120
+It's got a sort of postmodern
+Captain Hook kind of feel to it.
+
+219
+00:15:17,333 --> 00:15:19,954
+Very diabolical.
+[Chuckles]
+
+220
+00:15:20,086 --> 00:15:23,122
+I deserve
+a dashing appellation.
+
+221
+00:15:23,256 --> 00:15:26,506
+<i>"Dashing Appalachian"? What is that?</i>
+<i>A hillbilly with a tuxedo?</i>
+
+222
+00:15:26,634 --> 00:15:28,425
+- No, you idiot!
+- No!
+
+223
+00:15:28,553 --> 00:15:32,385
+[Chuckles]
+It's a nickname...
+
+224
+00:15:32,515 --> 00:15:37,177
+one that will send my enemies
+cowering in fear.
+
+225
+00:15:40,022 --> 00:15:42,348
+Ah.
+
+226
+00:15:42,483 --> 00:15:44,357
+Ah, too bad
+"Hook" is taken, huh?
+
+227
+00:15:44,485 --> 00:15:47,522
+- How 'bout..."Captain Claw"?
+- Oh.
+
+228
+00:15:47,655 --> 00:15:51,404
+- No, no, no, no, no...
+<i>- Or "Santa Claw."</i>
+
+229
+00:15:51,534 --> 00:15:54,535
+Just "Claw."
+One word,
+
+230
+00:15:54,662 --> 00:15:56,655
+like "Madonna."
+
+231
+00:15:56,789 --> 00:16:00,205
+Well, anyhoo, Captain...
+Sir... <i>Mr</i> Claw,
+
+232
+00:16:00,334 --> 00:16:03,538
+I know how much you like
+to maintain an active lifestyle,
+
+233
+00:16:03,671 --> 00:16:06,921
+so I have managed to design...
+
+234
+00:16:07,049 --> 00:16:09,375
+a few interchangeable options.
+
+235
+00:16:09,510 --> 00:16:11,918
+- Hi, hi. [Laughs]
+- Oh, very clever, Kramer.
+
+236
+00:16:12,054 --> 00:16:13,881
+[Mocking]
+"Very clever, Kramer."
+
+237
+00:16:14,015 --> 00:16:16,719
+- Very clever, indeed. [Chuckles]
+- [Gasps]
+
+238
+00:16:18,269 --> 00:16:21,555
+Well, first we have
+the opera hand...
+
+239
+00:16:21,689 --> 00:16:25,473
+<i>for those special nights out.</i>
+
+240
+00:16:25,610 --> 00:16:28,694
+And I know how much
+you enjoy Japanese food,
+
+241
+00:16:28,821 --> 00:16:31,443
+so I made you a sushi hand...
+see there?
+
+242
+00:16:31,574 --> 00:16:33,448
+[Mimics Eating]
+Tasty.
+
+243
+00:16:33,576 --> 00:16:35,948
+- Hmm.
+- [Nervously] Also,
+
+244
+00:16:36,078 --> 00:16:39,115
+I don't remember if you enjoy
+the medieval fare, but...
+
+245
+00:16:39,248 --> 00:16:43,957
+Kramer, that's enough.
+Sikes, bring on the foot.
+
+246
+00:16:44,086 --> 00:16:47,171
+- [Shrieks, Sighs]
+- Oops.
+
+247
+00:16:54,639 --> 00:16:56,512
+Hmm?
+
+248
+00:17:01,896 --> 00:17:04,469
+[Mechanical Whirring]
+
+249
+00:17:07,610 --> 00:17:09,567
+[Metallic Clang]
+
+250
+00:17:29,131 --> 00:17:31,089
+<i>[Popping, Whizzing]</i>
+
+251
+00:17:36,389 --> 00:17:38,428
+- [Chirping]
+- What the...
+
+252
+00:17:40,393 --> 00:17:43,144
+What have they got me on?
+Ooh! Ooh!
+
+253
+00:17:43,271 --> 00:17:45,347
+Oh, my... Oh! Ooh!
+
+254
+00:17:53,739 --> 00:17:55,862
+[Screams]
+
+255
+00:17:55,992 --> 00:17:57,949
+[Shrieking]
+
+256
+00:17:58,077 --> 00:18:00,485
+- I, um...
+- Your thumb's on fire!
+
+257
+00:18:00,621 --> 00:18:02,661
+- I seem to be having a reaction.
+- [Shrieking]
+
+258
+00:18:06,794 --> 00:18:09,997
+- Mr Brown.
+- Oh. Oh, it's you.
+
+259
+00:18:11,132 --> 00:18:14,216
+It's all right.
+It's all right.
+
+260
+00:18:14,343 --> 00:18:16,965
+- [Panting] Um, I, uh...
+- [Mechanical Noises Continue]
+
+261
+00:18:17,096 --> 00:18:22,007
+I don't know what's wrong.
+I, uh... I seem to be ill,
+and I can't remember anything.
+
+262
+00:18:22,143 --> 00:18:26,437
+You may not remember very much
+right now. You suffered a major
+concussion in the explosion.
+
+263
+00:18:26,564 --> 00:18:30,727
+- What happened?
+- You've just come out of
+a very long recovery.
+
+264
+00:18:30,860 --> 00:18:34,858
+You are now a sophisticated network
+of tissue, hardware and software.
+
+265
+00:18:34,989 --> 00:18:38,987
+No! I gotta get outta here.
+
+266
+00:18:39,118 --> 00:18:42,569
+Mr Brown...
+Mr Brown, come back here.
+
+267
+00:18:42,705 --> 00:18:45,540
+We're gonna go in...
+I'll take...
+
+268
+00:18:45,666 --> 00:18:47,540
+[Gasps]
+
+269
+00:18:47,668 --> 00:18:49,412
+[Panting]
+
+270
+00:18:49,545 --> 00:18:53,590
+Look, Mr Brown, I know
+that this is all new for you,
+
+271
+00:18:53,716 --> 00:18:57,167
+and it must feel strange.
+
+272
+00:18:57,303 --> 00:19:00,174
+- [Mechanical Whirring]
+- You will adjust.
+
+273
+00:19:00,306 --> 00:19:04,007
+- My head is very heavy.
+- Don't worry. That's easy to fix.
+
+274
+00:19:05,144 --> 00:19:07,433
+[Grunts]
+I don't wanna be like this.
+
+275
+00:19:08,564 --> 00:19:11,980
+I don't understand
+what happened to me.
+
+276
+00:19:14,070 --> 00:19:16,228
+John, we saved your life.
+
+277
+00:19:16,364 --> 00:19:19,614
+I'm not me any more.
+I'm a hardware store.
+
+278
+00:19:19,742 --> 00:19:23,277
+This is a huge opportunity.
+You were designed...
+
+279
+00:19:23,412 --> 00:19:27,909
+as the first prototype
+cyber police officer for
+the Riverton Police Department.
+
+280
+00:19:28,042 --> 00:19:32,419
+You said yourself you wanted
+to help people... this is your chance.
+
+281
+00:19:32,547 --> 00:19:35,666
+- I <i>do</i> want to help people.
+- <i>I know.</i>
+
+282
+00:19:36,801 --> 00:19:39,921
+- Aiyee!
+- Oh!
+
+283
+00:19:40,054 --> 00:19:43,138
+- [Coughs]
+- <i>I'll be with you every step</i>
+<i>of the way.</i>
+
+284
+00:19:43,266 --> 00:19:47,892
+Okay. I'd shake your hand
+but you might lose an eye.
+
+285
+00:19:48,020 --> 00:19:51,354
+<i>[Man] An android of this quality</i>
+<i>could have a myriad of uses:</i>
+
+286
+00:19:51,482 --> 00:19:54,981
+Shock troops,
+kamikaze pilots, hit men.
+
+287
+00:19:55,111 --> 00:19:57,649
+International rescue workers,
+teachers.
+
+288
+00:19:57,780 --> 00:20:01,825
+Oh, yes. I was getting to them.
+Well, let's see him in action, huh?
+
+289
+00:20:01,951 --> 00:20:03,825
+Okay.
+
+290
+00:20:09,792 --> 00:20:12,283
+Oh, I'll strap myself in.
+
+291
+00:20:13,588 --> 00:20:15,711
+Okay.
+Turn me on, Kramer.
+
+292
+00:20:18,009 --> 00:20:20,001
+[Grunting, Straining]
+
+293
+00:20:24,682 --> 00:20:27,351
+Move, darn you!
+Move!
+
+294
+00:20:27,476 --> 00:20:29,802
+- [Straining]
+- It's a lemon.
+
+295
+00:20:33,149 --> 00:20:35,272
+Thank you for that, Sikes.
+
+296
+00:20:36,777 --> 00:20:39,447
+- You put it on. Come on.
+- Why can't he do it?
+
+297
+00:20:39,572 --> 00:20:42,988
+<i>He's capable of intelligent thought.</i>
+<i>That's useful to me.</i>
+
+298
+00:20:43,117 --> 00:20:45,869
+[Chuckles]
+Now, strap you in.
+
+299
+00:20:45,995 --> 00:20:48,320
+<i>Perhaps if we give him</i>
+<i>maximum voltage.</i>
+
+300
+00:20:48,456 --> 00:20:51,991
+- [Moans]
+- Yeah, that might work.
+
+301
+00:20:53,294 --> 00:20:58,003
+[Yelling, Moaning]
+
+302
+00:20:58,132 --> 00:21:00,006
+<i>I want my...</i>
+
+303
+00:21:00,134 --> 00:21:02,969
+mama!
+
+304
+00:21:03,095 --> 00:21:06,879
+<i>[Continues Yelling,</i>
+<i>Whimpering]</i>
+
+305
+00:21:08,476 --> 00:21:13,054
+Something got left behind.
+What does Brenda have that I don't?
+
+306
+00:21:13,523 --> 00:21:18,564
+<i>[Brenda] This is the single</i>
+<i>most important component:</i>
+<i>The neurone synapse amplifier.</i>
+
+307
+00:21:18,653 --> 00:21:21,488
+It's a high-powered
+processor chip...
+
+308
+00:21:21,614 --> 00:21:24,366
+that increases the charge
+in the human brain wave...
+
+309
+00:21:24,492 --> 00:21:27,742
+enough to move the machinery
+that's now built into your body.
+
+310
+00:21:27,870 --> 00:21:33,113
+<i>Without this chip... the most</i>
+<i>powerful robotics chip in the world...</i>
+
+311
+00:21:33,251 --> 00:21:35,539
+your body couldn't
+possibly function.
+
+312
+00:21:35,670 --> 00:21:39,881
+- <i>Any more questions?</i>
+- Nope, I'm fine.
+
+313
+00:21:40,007 --> 00:21:42,712
+Guess it just takes
+a little getting used to, you know?
+
+314
+00:21:42,844 --> 00:21:46,378
+Good. Then I will just give you
+your manual to study.
+
+315
+00:21:48,891 --> 00:21:51,845
+[Springing,
+Bird-Cawing Sounds]
+
+316
+00:21:56,023 --> 00:21:57,897
+Volume one.
+
+317
+00:22:03,531 --> 00:22:06,615
+Mm-hmm.
+Looks like the usual stuff:
+
+318
+00:22:06,742 --> 00:22:09,827
+Extendo-legs,
+helicopter hat.
+
+319
+00:22:10,955 --> 00:22:14,075
+- Guess I'm all set then.
+- Right. Oh!
+
+320
+00:22:14,208 --> 00:22:18,751
+<i>There's one more thing.</i>
+<i>I almost forgot. It's important.</i>
+
+321
+00:22:21,424 --> 00:22:23,333
+Your new wardrobe.
+
+322
+00:22:35,938 --> 00:22:37,812
+The Gadget suit.
+
+323
+00:22:39,358 --> 00:22:42,276
+Okay, so if you want to operate
+one of your gadgets,
+
+324
+00:22:42,403 --> 00:22:45,854
+you simply say "Go, go, Gadget,"
+and then you name the device.
+
+325
+00:22:45,990 --> 00:22:48,861
+Well, couldn't I say
+something more official, like,
+
+326
+00:22:48,993 --> 00:22:51,116
+like, "In the name of justice."
+
+327
+00:22:51,245 --> 00:22:53,487
+[Giggles]
+Well, you could, but it wouldn't work.
+
+328
+00:22:53,623 --> 00:22:55,746
+But "Go, go, Gadget,"
+sounds so...
+
+329
+00:22:55,875 --> 00:22:59,078
+My father designed
+the programme, and he...
+
+330
+00:22:59,212 --> 00:23:02,581
+Oh! Oh-oh-oh-oh!
+It's "Go, <i>go,</i> Gadget."
+
+331
+00:23:02,715 --> 00:23:06,927
+- I really like it.
+- Okay. Good. I'm glad.
+
+332
+00:23:07,053 --> 00:23:12,295
+So, okay, let's say there are two guys
+trying to rob a jewellery store,
+
+333
+00:23:12,433 --> 00:23:16,727
+and you wanted to trip 'em up...
+what would you do?
+
+334
+00:23:16,854 --> 00:23:21,646
+- Okay, uh, let me think.
+- <i>## ["Jeopardy!" Theme Plays]</i>
+
+335
+00:23:21,776 --> 00:23:24,314
+Go, go, Gadget...
+oil slick.
+
+336
+00:23:27,073 --> 00:23:30,027
+<i>That's not oil,</i>
+<i>it's toothpaste!</i>
+
+337
+00:23:31,452 --> 00:23:33,860
+- Ooh! Ooh!
+- [Laughing]
+
+338
+00:23:35,289 --> 00:23:38,872
+[Laughing]
+Stop it!
+
+339
+00:23:47,635 --> 00:23:49,544
+- Whoa!
+- Say, "Go, go, Gadget, stop"!
+
+340
+00:23:49,679 --> 00:23:53,379
+- Go, go, stop!
+- We're gonna need
+some more work with you.
+
+341
+00:23:53,516 --> 00:23:55,722
+## [Humming]
+
+342
+00:23:55,852 --> 00:23:59,932
+<i>Try to visualize your goal.</i>
+
+343
+00:24:02,817 --> 00:24:04,809
+Concentrate.
+
+344
+00:24:04,944 --> 00:24:07,400
+<i>Put all other things</i>
+<i>out of your head...</i>
+
+345
+00:24:07,530 --> 00:24:12,108
+except obtaining the balls.
+
+346
+00:24:12,243 --> 00:24:14,698
+Okay.
+
+347
+00:24:15,997 --> 00:24:18,784
+He's just like
+the "Six Million Dollar Man."
+
+348
+00:24:25,673 --> 00:24:27,547
+[Sighs]
+
+349
+00:24:30,595 --> 00:24:34,379
+- [Screams]
+- [Screams]
+- Wha-What?
+
+350
+00:24:34,515 --> 00:24:38,560
+<i>[Falsetto]</i>
+<i>Ungrip! Ungrip! Turn it off!</i>
+
+351
+00:24:38,686 --> 00:24:42,387
+[Chuckling] Well, I guess
+$6 million doesn't buy what it used to.
+
+352
+00:24:42,523 --> 00:24:44,563
+- [Swami Continues Screaming]
+- Excuse me.
+
+353
+00:24:44,692 --> 00:24:48,393
+[Falsetto] He is not a man,
+you know. He is a monster.
+
+354
+00:24:50,364 --> 00:24:54,409
+I've got something special
+to show you. Ta-da!
+
+355
+00:24:54,535 --> 00:24:56,860
+<i>The Gadgetmobile.</i>
+
+356
+00:24:56,996 --> 00:24:59,748
+- Wow.
+- It's for you.
+
+357
+00:25:00,875 --> 00:25:03,247
+<i>I made it myself.</i>
+
+358
+00:25:03,377 --> 00:25:05,584
+- Come on.
+- You made me a car?
+
+359
+00:25:05,713 --> 00:25:08,121
+The only thing anybody's
+ever made me before is a sweater.
+
+360
+00:25:08,257 --> 00:25:11,044
+All right.
+Now, it may look simple,
+
+361
+00:25:11,177 --> 00:25:15,257
+but this thing has just about
+as many factory extras as you do.
+
+362
+00:25:15,389 --> 00:25:17,596
+Come on!
+Get in there!
+
+363
+00:25:17,725 --> 00:25:21,972
+- Oh...
+- Watch the coat. Okay.
+
+364
+00:25:22,104 --> 00:25:24,975
+[Mechanical
+Whirring, Beeping]
+
+365
+00:25:25,107 --> 00:25:27,183
+<i>[John]</i>
+<i>Gosh, she's incredible.</i>
+
+366
+00:25:27,318 --> 00:25:30,023
+- Oh, it's a he.
+- Excuse me?
+
+367
+00:25:30,154 --> 00:25:35,196
+You'll see. Okay, now, it has
+voice activation, ejection seats,
+
+368
+00:25:35,326 --> 00:25:39,655
+a power-assisted metamorphic camouflage
+system, a cardio-homing device.
+
+369
+00:25:39,789 --> 00:25:42,540
+- Then there's a periscope, a candy...
+- Dr Bradford,
+
+370
+00:25:42,667 --> 00:25:44,540
+there's something
+I just have to ask you.
+
+371
+00:25:44,669 --> 00:25:49,165
+- Oh, just say, "Go, go, Gadgetmobile."
+- Yes, but will you...
+
+372
+00:25:49,298 --> 00:25:52,252
+- "Go, go, Gadgetmobile"?
+- Good morning, Riverton!
+
+373
+00:25:52,385 --> 00:25:57,094
+Hey! Who's in the car?
+I work alone.
+
+374
+00:25:57,223 --> 00:26:00,923
+Hey, before we hit the road,
+I gotta tell you somethin'. Duck!
+
+375
+00:26:01,060 --> 00:26:02,969
+- [Gasps]
+- I don't think the car likes me.
+
+376
+00:26:03,104 --> 00:26:08,098
+Who you callin' "car"?
+I'm a crime-fighting machine.
+Watch this. Left turn!
+
+377
+00:26:08,234 --> 00:26:12,184
+- Haven't you fallen out yet?
+- No, sir, I haven't!
+
+378
+00:26:12,321 --> 00:26:15,525
+- Who are you, rookie?
+- I'm Officer John Brown,
+
+379
+00:26:15,658 --> 00:26:18,231
+and you're exceeding
+the speed limit.
+
+380
+00:26:20,830 --> 00:26:24,697
+Speed limits are for cars,
+not the Gadgetmobile.
+
+381
+00:26:24,834 --> 00:26:29,579
+- Are you talking to me?
+- Speakin' of the law,
+who's not wearing a seat belt?
+
+382
+00:26:29,714 --> 00:26:32,039
+- Gotta wear the belt, baby!
+- Hey!
+
+383
+00:26:32,175 --> 00:26:36,801
+It's a Disney movie. Now, I'm gonna
+fight me some crime. Whoo!
+
+384
+00:26:36,929 --> 00:26:39,171
+[Gadgetmobile]
+More left turns!
+
+385
+00:26:39,307 --> 00:26:42,261
+Could you slow down, please?
+L... I get carsick.
+
+386
+00:26:42,393 --> 00:26:46,521
+You know what makes me
+peoplesick? A rookie thinkin'
+he's good enough for Dr B.
+
+387
+00:26:46,647 --> 00:26:51,558
+Not that it's your business,
+but what makes you think I was
+putting moves on Dr Bradford?
+
+388
+00:26:51,694 --> 00:26:56,439
+Hey, I've got heat sensors.
+I <i>know</i> what you were thinkin'
+when Dr B. Gave you that smile.
+
+389
+00:26:56,574 --> 00:26:59,824
+Now, look here. Come clean with me, or
+I'm gonna bounce you right outta here.
+
+390
+00:26:59,952 --> 00:27:03,784
+I can assure you my only interest
+in Dr Bradford is professional.
+
+391
+00:27:03,915 --> 00:27:07,864
+[Gadgetmobile Laughing]
+"Professional," huh?
+
+392
+00:27:08,002 --> 00:27:11,751
+<i>Well, good. Keep it that way,</i>
+<i>and that's an order.</i>
+
+393
+00:27:11,881 --> 00:27:15,879
+- You got it?
+- Uh, <i>I'm</i> the inspector, you're the car.
+
+394
+00:27:16,010 --> 00:27:18,466
+I'll tell you what you are.
+You're the... [Blubbering]
+
+395
+00:27:18,596 --> 00:27:21,716
+Don't make me go
+"De La Hoya" on you!
+
+396
+00:27:21,849 --> 00:27:25,467
+Isn't there an "off" button
+or something? A "mute"?
+
+397
+00:27:25,603 --> 00:27:28,224
+- Oh!
+- Sorry, sir!
+
+398
+00:27:28,356 --> 00:27:32,400
+Don't push my buttons without readin'
+the manual! Ooh, watch out there, now.
+
+399
+00:27:32,527 --> 00:27:36,026
+- Whoa!
+- [Gadgetmobile Laughs]
+
+400
+00:27:36,155 --> 00:27:40,069
+- Hmm?
+- Aw, man. I got a june bug
+in my grille. [Spits]
+
+401
+00:27:40,201 --> 00:27:43,617
+[John] Shouldn't we be working
+together, helping people?
+
+402
+00:27:43,746 --> 00:27:45,703
+- Why didn't you say so?
+- [Tyres Screech]
+
+403
+00:27:45,831 --> 00:27:49,699
+- [Gasps]
+- Yo, Clouseau... 9:00.
+
+404
+00:27:49,836 --> 00:27:51,793
+- Left, you idiot!
+- <i>Over the lock!</i>
+
+405
+00:27:51,921 --> 00:27:56,001
+- Shut up and let me do it.
+- Very observant, Gadgetmobile.
+
+406
+00:27:57,593 --> 00:28:02,386
+- Time to do some good.
+- <i>[Thieves Continue Arguing]</i>
+
+407
+00:28:02,515 --> 00:28:06,595
+- Lost your keys, fellas?
+- Uh, keys... Yeah, keys.
+
+408
+00:28:06,727 --> 00:28:10,013
+- Allow me to help.
+- Say "bye-bye" to the rookie.
+
+409
+00:28:10,147 --> 00:28:13,481
+Here.
+This ought to do it.
+
+410
+00:28:15,444 --> 00:28:19,822
+- Oh. Thanks.
+- Yo! Check out the bowling shirt!
+
+411
+00:28:19,949 --> 00:28:22,784
+Huh. I'm a bowler myself.
+You work at the prison?
+
+412
+00:28:22,910 --> 00:28:25,282
+- Uh, yeah. Work at the prison.
+- <i>[Gadgetmobile Whispering]</i>
+<i>Psst! Gadget!</i>
+
+413
+00:28:25,413 --> 00:28:28,082
+I'll be getting into the law
+enforcement bowling league too.
+
+414
+00:28:28,207 --> 00:28:31,659
+- There you are. Drive carefully.
+- We'll see you.
+
+415
+00:28:31,794 --> 00:28:35,543
+That's it. I can't take it any more.
+Step away from the Viper!
+
+416
+00:28:35,673 --> 00:28:39,505
+- Hey, what's the big idea?
+- Open your eyes! We got
+a couple of jailbreakers!
+
+417
+00:28:39,635 --> 00:28:43,170
+Well, then, we should inform
+the prison guar... Wait a minute!
+
+418
+00:28:43,306 --> 00:28:45,927
+<i>Let's split up. I'll go after 'em,</i>
+<i>and you say "ten-four."</i>
+
+419
+00:28:46,058 --> 00:28:50,103
+- Ten-four!
+- <i>[Siren Blaring]</i>
+
+420
+00:28:50,229 --> 00:28:52,352
+Go, go, Gadget... coils!
+
+421
+00:28:54,567 --> 00:28:56,476
+Skates!
+I meant skates!
+
+422
+00:28:56,611 --> 00:29:00,193
+- [Gadgetmobile]
+Come here, Carl Lewis.
+- Uh, halt! Forward!
+
+423
+00:29:00,323 --> 00:29:03,941
+Oh, for cryin' out loud.
+Go, go, forward, <i>please!</i>
+
+424
+00:29:04,076 --> 00:29:06,532
+Oh, for Pete's sake!
+Halt!
+
+425
+00:29:08,456 --> 00:29:12,619
+- [Grunts]
+- Hello. Sit back and enjoy the bars.
+
+426
+00:29:12,752 --> 00:29:15,373
+You'll be lookin' at 'em
+for the next 20 years. [Laughs]
+
+427
+00:29:15,505 --> 00:29:19,372
+- [Panting]
+- Oh! Ooh!
+
+428
+00:29:19,509 --> 00:29:22,296
+Uh-oh. Oh, gosh!
+Ooh!
+
+429
+00:29:22,428 --> 00:29:24,919
+Go, go, Gadget...
+[Muffled] grappling hook!
+
+430
+00:29:28,559 --> 00:29:30,967
+Whoa!
+
+431
+00:29:31,103 --> 00:29:33,392
+[Crowd Cheering]
+
+432
+00:29:36,484 --> 00:29:38,726
+Wowser!
+
+433
+00:29:46,786 --> 00:29:49,621
+<i>[Man On TV] The Riverton Police</i>
+<i>Department has a new cop on the beat.</i>
+
+434
+00:29:49,747 --> 00:29:53,198
+<i>- Here's Tira with the story.</i>
+<i>- In an incredible display of courage,</i>
+
+435
+00:29:53,334 --> 00:29:57,628
+<i>Riverton's first cyber-crime-fighter</i>
+<i>heroically apprehended...</i>
+
+436
+00:29:57,755 --> 00:29:59,997
+<i>two escaped convicts</i>
+<i>this afternoon in the downtown area.</i>
+
+437
+00:30:00,132 --> 00:30:04,344
+The soon-to-be inspector will be
+inducted into the Riverton
+Police Department...
+
+438
+00:30:04,470 --> 00:30:06,427
+<i>at a gala event tomorrow night...</i>
+
+439
+00:30:06,556 --> 00:30:09,592
+Why, it's that annoying little
+security guard from the institute.
+
+440
+00:30:09,725 --> 00:30:12,133
+<i>... Riverton's much admired</i>
+<i>budget surplus to fund...</i>
+
+441
+00:30:12,270 --> 00:30:17,560
+So <i>he's</i> the lucky duck they plucked for
+the Gadget programme. Ha! Irony abounds.
+
+442
+00:30:17,692 --> 00:30:21,226
+<i>[Sikes]</i>
+<i>That's my cruller! Gimme that!</i>
+
+443
+00:30:21,362 --> 00:30:24,813
+- <i>[Crashing, Cat Meowing]</i>
+- [Chuckles]
+
+444
+00:30:24,949 --> 00:30:26,942
+- Sikes!
+- <i>Yes, boss?</i>
+
+445
+00:30:27,076 --> 00:30:31,204
+Get my tuxedo ready. Tomorrow
+promises to be quite an evening.
+
+446
+00:30:35,168 --> 00:30:37,919
+So, anyone special
+going tonight?
+
+447
+00:30:38,045 --> 00:30:40,667
+Well, the mayor,
+the governor.
+
+448
+00:30:40,798 --> 00:30:43,918
+Any doctors?
+
+449
+00:30:44,051 --> 00:30:47,171
+- Doctors?
+- You know, female doctors...
+
+450
+00:30:47,305 --> 00:30:50,341
+very attractive
+female doctors.
+
+451
+00:30:51,642 --> 00:30:54,643
+Wowser.
+
+452
+00:30:59,942 --> 00:31:01,982
+- [Crowd Screams]
+- [Tuba Blares]
+
+453
+00:31:06,365 --> 00:31:09,200
+- Is it that obvious?
+- [Sighs] Come on, Uncle John.
+
+454
+00:31:09,327 --> 00:31:12,612
+You just need to...
+Ioosen up, be cool.
+
+455
+00:31:12,747 --> 00:31:15,416
+- You been talking to my car?
+- What?
+
+456
+00:31:15,541 --> 00:31:18,211
+- <i>Huh. You'll see.</i>
+- [Chuckles]
+
+457
+00:31:22,173 --> 00:31:25,043
+- <i>[Penny] Fire!</i>
+- Wrong finger.
+
+458
+00:31:26,677 --> 00:31:29,382
+- <i>Careful.</i>
+- [Sneezes]
+
+459
+00:31:30,723 --> 00:31:33,392
+<i>[Crowd Laughing, Chattering]</i>
+
+460
+00:31:37,980 --> 00:31:42,310
+Excuse me. Inspector,
+may I have this dance?
+
+461
+00:31:42,443 --> 00:31:45,978
+Oh. Why, sure.
+Yeah. You betcha.
+
+462
+00:31:46,113 --> 00:31:47,987
+Uh, here.
+
+463
+00:31:49,200 --> 00:31:51,406
+Let's see if I still
+know how to do this.
+
+464
+00:31:57,166 --> 00:31:59,040
+[Laughing]
+
+465
+00:31:59,168 --> 00:32:01,838
+[Crowd Gasps]
+
+466
+00:32:04,507 --> 00:32:06,464
+Not bad, John Brown.
+
+467
+00:32:06,592 --> 00:32:09,262
+May I cut in?
+
+468
+00:32:09,387 --> 00:32:12,423
+Hello. Sanford Scolex.
+We were at Harvard together.
+
+469
+00:32:14,100 --> 00:32:18,228
+- We were?
+- Oh, you don't recognize me.
+That's because I've changed.
+
+470
+00:32:19,355 --> 00:32:21,680
+I was obese.
+
+471
+00:32:21,816 --> 00:32:24,733
+[Chuckles]
+Maybe you remember me better like this.
+
+472
+00:32:24,861 --> 00:32:27,398
+- <i>[Brenda Gasps] Yes!</i>
+- [Laughs]
+
+473
+00:32:28,823 --> 00:32:31,777
+Wow!
+
+474
+00:32:31,909 --> 00:32:34,281
+Well, it's nice
+to see you again.
+
+475
+00:32:34,412 --> 00:32:36,700
+- Here you go.
+- You look...
+
+476
+00:32:36,831 --> 00:32:39,500
+different.
+
+477
+00:32:41,127 --> 00:32:43,534
+- [Chuckles]
+- [Coughs]
+
+478
+00:32:43,671 --> 00:32:46,625
+Well, I'll go get <i>us</i>
+some champagne.
+
+479
+00:32:46,757 --> 00:32:49,545
+Oh, great idea! Three flutes
+of bubbly, please, Mr Gizmo.
+
+480
+00:32:49,677 --> 00:32:51,966
+[Chuckles]
+We'll be right here.
+
+481
+00:32:56,350 --> 00:33:01,558
+You know, Brenda,
+I'm not at all surprised
+you've become such a renowned scientist.
+
+482
+00:33:01,689 --> 00:33:04,476
+<i>You were always the most</i>
+<i>brilliant one in school.</i>
+
+483
+00:33:04,609 --> 00:33:09,899
+<i>- [Brenda Chuckles]</i>
+<i>No, I was a hard worker.</i>
+<i>- Oh, I remember.</i>
+
+484
+00:33:10,031 --> 00:33:14,776
+<i>I used to watch the way</i>
+<i>you wrinkled your little nose,</i>
+<i>concentrating on calculations.</i>
+
+485
+00:33:14,911 --> 00:33:17,236
+<i>- You did?</i>
+<i>- Mmm. You took my breath away.</i>
+
+486
+00:33:17,371 --> 00:33:22,283
+- I... did.
+- <i>Brenda, dance with me.</i>
+
+487
+00:33:22,418 --> 00:33:24,956
+- <i>You remind me of a thing</i>
+<i>Godzilla once said.</i>
+- [Whooping]
+
+488
+00:33:29,383 --> 00:33:33,333
+Tell me, what will you do now that
+the Gadget programme is completed?
+
+489
+00:33:33,471 --> 00:33:36,140
+- Ooh. Oh.
+- Huh?
+
+490
+00:33:36,265 --> 00:33:38,341
+[Crowd Gasps]
+
+491
+00:33:38,476 --> 00:33:43,636
+You're done with the Gadget thing.
+Come and join me at Scolex Industries.
+
+492
+00:33:43,773 --> 00:33:46,857
+- [Crowd Marvelling]
+- [Woman] We'll be right here.
+
+493
+00:33:48,986 --> 00:33:51,442
+Ahem.
+
+494
+00:33:51,572 --> 00:33:54,657
+I could only carry
+two glasses.
+
+495
+00:33:54,784 --> 00:33:57,026
+Oh.
+
+496
+00:33:57,161 --> 00:34:00,613
+<i>A bientot, ma cherie.</i>
+[Slurps]
+
+497
+00:34:03,918 --> 00:34:05,827
+Ahh!
+
+498
+00:34:08,881 --> 00:34:12,416
+John, h-he just
+offered me a job.
+
+499
+00:34:12,552 --> 00:34:16,419
+He said that I would have
+unlimited funding,
+
+500
+00:34:16,556 --> 00:34:18,429
+my own lab...
+
+501
+00:34:18,558 --> 00:34:21,594
+and complete control
+of all my research.
+
+502
+00:34:21,727 --> 00:34:24,479
+But what about
+your other research?
+
+503
+00:34:24,605 --> 00:34:28,140
+The Gadget programme... are you sure
+you've worked out all the bugs?
+
+504
+00:34:31,195 --> 00:34:33,104
+Well, um...
+
+505
+00:34:33,239 --> 00:34:36,822
+Oh, how touching.
+The creator and the creation.
+
+506
+00:34:36,951 --> 00:34:39,074
+[Laughs]
+Excuse me, Inspector,
+
+507
+00:34:39,203 --> 00:34:41,955
+but the press would like to take some
+photos of us with our boys in blue.
+
+508
+00:34:42,081 --> 00:34:45,580
+Let's go. [Singsong]
+Photo op. Okay. Come on.
+
+509
+00:34:45,710 --> 00:34:50,004
+- [Quimby] Get ready, boys.
+Here's the dynamic duo.
+- The camera is your friend.
+
+510
+00:34:50,131 --> 00:34:53,416
+- <i>Watch the birdie!</i>
+- <i>Get a big smile!</i>
+
+511
+00:34:53,551 --> 00:34:55,757
+Chief, if you don't mind
+my asking,
+
+512
+00:34:55,887 --> 00:34:58,259
+when do I get started
+on my big case?
+
+513
+00:34:58,389 --> 00:35:00,797
+[Chuckling]
+Oh, soon enough, Gadget.
+
+514
+00:35:00,933 --> 00:35:05,394
+I have a few assignments for
+you to cut your teeth on first.
+
+515
+00:35:05,521 --> 00:35:07,763
+<i>- Big grin. That's it.</i>
+<i>- Inspector! Over here, please!</i>
+
+516
+00:35:22,914 --> 00:35:26,662
+<i>[John] I've got to talk to the chief.</i>
+<i>He's not taking me seriously.</i>
+
+517
+00:35:26,792 --> 00:35:29,034
+Oh, boo-hoo-hoo, rookie.
+
+518
+00:35:29,170 --> 00:35:31,708
+Nobody likes a whiner. Now,
+what are you gonna do about it?
+
+519
+00:35:31,839 --> 00:35:34,924
+I'm ready to get tough...
+real tough.
+
+520
+00:35:38,513 --> 00:35:40,968
+<i>- [Cop] Here comes Gadget.</i>
+<i>- Hey, that your new partner, Gadget?</i>
+
+521
+00:35:41,098 --> 00:35:43,672
+<i>- What you got, a cat burglar?</i>
+<i>- A real felon, huh?</i>
+
+522
+00:35:43,809 --> 00:35:46,976
+- The city's safe now.
+- <i>Cat got your tongue?</i>
+
+523
+00:35:51,484 --> 00:35:54,354
+Inspector Gadget reporting,
+sir, with the 13th...
+
+524
+00:35:54,487 --> 00:35:56,978
+that's a baker's dozen... kitten
+I've pulled out of a tree this week.
+
+525
+00:35:57,114 --> 00:35:58,988
+- [Meowing]
+- So?
+
+526
+00:35:59,116 --> 00:36:01,572
+- Permission to speak freely, sir.
+- No.
+
+527
+00:36:03,579 --> 00:36:07,411
+- <i>[Kitten Meows]</i>
+- Well, if you're gonna pout.
+
+528
+00:36:07,542 --> 00:36:10,329
+Thank you, sir.
+
+529
+00:36:10,461 --> 00:36:12,335
+What I want to say is that,
+
+530
+00:36:12,463 --> 00:36:15,832
+while I appreciate cute and fluffy
+as much as the next officer,
+
+531
+00:36:15,967 --> 00:36:19,501
+I fear that the kitten-rescue patrol
+is a misuse of my capabilities.
+
+532
+00:36:19,637 --> 00:36:23,884
+Huh. You know, I don't get it,
+Gadget. Every time you...
+
+533
+00:36:24,016 --> 00:36:27,966
+I won't be happy
+until I've brought the murderers
+of Artemus Bradford to justice.
+
+534
+00:36:28,104 --> 00:36:32,481
+Ah. And <i>I won't be happy
+until you're off the force,
+
+535
+00:36:32,608 --> 00:36:38,444
+<i>and being sold, piece by piece,</i>
+<i>at some garage sale.</i>
+
+536
+00:36:38,573 --> 00:36:42,072
+- <i>[Kitten Slurping]</i>
+- I want that case, sir.
+
+537
+00:36:42,201 --> 00:36:46,151
+Well, I'll tell you,
+the problem is the Bradford case
+requires <i>real</i> police work,
+
+538
+00:36:46,289 --> 00:36:49,076
+- and the fact is, you're not
+a real police inspector.
+- <i>[Kitten Belches]</i>
+
+539
+00:36:49,208 --> 00:36:54,166
+<i>You are not a real policeman.</i>
+<i>You arejust a publicity stunt</i>
+<i>that we have to put up with.</i>
+
+540
+00:36:54,297 --> 00:36:57,879
+So, why don't you just
+about-face...
+
+541
+00:36:58,009 --> 00:37:00,001
+and get out of my office.
+
+542
+00:37:00,136 --> 00:37:02,543
+<i>[Kitten Whimpers]</i>
+
+543
+00:37:13,232 --> 00:37:15,640
+Okie-dokles, sir.
+
+544
+00:37:15,776 --> 00:37:20,189
+I've pretty much completed Prometheus
+per your specifications,
+
+545
+00:37:20,323 --> 00:37:22,944
+and, I must say, the likeness
+is really quite convincing.
+
+546
+00:37:23,075 --> 00:37:27,488
+Good. Imitation is the sincerest form
+of flattery, Kramer.
+
+547
+00:37:27,622 --> 00:37:30,077
+Isn't that Dr Brenda Bradford's
+private data?
+
+548
+00:37:30,208 --> 00:37:33,292
+Oh, yes.
+
+549
+00:37:33,419 --> 00:37:36,171
+I tapped into her files
+and stole her research.
+
+550
+00:37:36,297 --> 00:37:38,171
+Why would you do that?
+
+551
+00:37:38,299 --> 00:37:40,790
+[Imitating Kramer] "Why would you
+do that? Why would you do that?"
+
+552
+00:37:40,927 --> 00:37:43,928
+<i>[Cackling, Sighing]</i>
+
+553
+00:37:44,055 --> 00:37:47,388
+- [Grunting]
+- Ah. Oh, oh.
+
+554
+00:37:47,517 --> 00:37:51,016
+Kramer, don't look
+so nonplussed.
+
+555
+00:37:51,145 --> 00:37:56,388
+Now that Dr Bradford is part of
+the Scolex team, we share everything...
+
+556
+00:37:56,526 --> 00:37:59,692
+<i>or at least we will.</i>
+
+557
+00:37:59,820 --> 00:38:04,981
+Oh, well, I think sharing files is a
+great way to bring the company together.
+
+558
+00:38:05,117 --> 00:38:07,953
+You know, make sure we're all singing
+off the same song sheet, so to speak.
+
+559
+00:38:08,079 --> 00:38:10,784
+<i>Imagine my relief</i>
+<i>to have your support.</i>
+
+560
+00:38:10,915 --> 00:38:14,533
+Anyway, sir, like I said,
+without the chip, I don't think...
+
+561
+00:38:14,669 --> 00:38:17,207
+Oh, so you made the chip.
+
+562
+00:38:17,338 --> 00:38:20,873
+- Hey, that looks just like
+the guy we almost killed.
+- Oh, I didn't hear that!
+
+563
+00:38:21,008 --> 00:38:23,250
+Chips ahoy.
+
+564
+00:38:24,345 --> 00:38:26,918
+- [Gasping]
+- [Mumbling]
+
+565
+00:38:27,056 --> 00:38:29,262
+- <i>[Sikes] Wow!</i>
+- <i>[Kramer] Oh, sweet Lordy.</i>
+
+566
+00:38:30,518 --> 00:38:33,388
+- Good morning, Robogadget.
+- [Mumbling]
+
+567
+00:38:33,521 --> 00:38:35,893
+<i>You havejust been animated...</i>
+
+568
+00:38:36,023 --> 00:38:39,772
+<i>by the most complex computer</i>
+<i>technology in the world.</i>
+
+569
+00:38:39,902 --> 00:38:43,734
+- What are you going to do now?
+- <i>[Bell Dings]</i>
+- I'm gonna kick some butt.
+
+570
+00:38:43,865 --> 00:38:47,862
+- [Gasping]
+- [Laughing] Very saucy.
+
+571
+00:38:47,994 --> 00:38:49,867
+It looks so real. Yow!
+
+572
+00:38:49,996 --> 00:38:52,783
+- Oh!
+- [Cackling] Very good, yes!
+
+573
+00:38:52,915 --> 00:38:55,833
+<i>Oh, Robo, nothing</i>
+<i>can stop us now!</i>
+
+574
+00:39:05,219 --> 00:39:08,220
+<i>Gotta make my own case.</i>
+
+575
+00:39:08,347 --> 00:39:11,384
+B, B, B, B, B, B, B...
+Bradford.
+
+576
+00:39:36,417 --> 00:39:38,291
+[Whirring]
+
+577
+00:39:41,005 --> 00:39:44,089
+Go, go, Gadget...
+magnifying glass.
+
+578
+00:39:46,427 --> 00:39:48,301
+Increase magnification.
+
+579
+00:39:50,223 --> 00:39:53,259
+Increase magnification.
+
+580
+00:39:54,936 --> 00:39:58,186
+"Si."
+<i>Go, go... Spanish translation.</i>
+
+581
+00:39:58,314 --> 00:40:01,600
+- <i>[Computerized Voice]</i>
+"Si" <i>means "yes."</i>
+- I knew it!
+
+582
+00:40:01,734 --> 00:40:04,605
+[Whirring]
+
+583
+00:40:04,737 --> 00:40:07,489
+Inspector Gadget,
+can I have your autograph?
+
+584
+00:40:07,615 --> 00:40:09,821
+- Got any money?
+- Uh-uh.
+
+585
+00:40:09,951 --> 00:40:13,699
+- [Shouting]
+- [Screaming]
+
+586
+00:40:21,212 --> 00:40:23,964
+Ah!
+
+587
+00:40:24,090 --> 00:40:26,877
+[Laughing]
+
+588
+00:40:27,009 --> 00:40:28,883
+- <i>[Radio]</i>
+<i># Hey, now, you're a rock star #</i>
+- Yeah!
+
+589
+00:40:29,011 --> 00:40:34,800
+<i># Get the show on, get paid</i>
+<i>All that glitters is gold #</i>
+
+590
+00:40:34,934 --> 00:40:38,350
+<i>- # Only shootin'stars</i>
+<i>break the mould ##</i>
+<i>- So I'll rule out the Spanish.</i>
+
+591
+00:40:38,479 --> 00:40:41,813
+<i>But what else could "SI" stand for?</i>
+<i>"Space Invaders"?</i>
+
+592
+00:40:41,941 --> 00:40:43,815
+- Nah!
+- "Scuba Instructor"?
+
+593
+00:40:43,943 --> 00:40:46,944
+- No!
+- Hey, how about "Super Idiot"?
+
+594
+00:40:47,071 --> 00:40:49,942
+- No, that's not it.
+- Uncle John...
+
+595
+00:40:50,074 --> 00:40:53,739
+- I love you, but I think
+you have a loose wire.
+- [Laughing]
+
+596
+00:40:58,457 --> 00:41:00,830
+Oh, what about that?
+
+597
+00:41:02,712 --> 00:41:05,547
+<i>"Scolex Industries."</i>
+
+598
+00:41:05,673 --> 00:41:09,920
+Hello. Finally, there's
+a detective in the house.
+
+599
+00:41:10,052 --> 00:41:14,595
+Wait a minute. If Scolex stole
+the foot, then Scolex murdered Dr...
+
+600
+00:41:14,724 --> 00:41:16,716
+Oh, no! Brenda!
+
+601
+00:41:19,562 --> 00:41:21,887
+[Gadgetmobile]
+Time to work!
+
+602
+00:41:22,732 --> 00:41:26,065
+<i>- [Tyres Squealing]</i>
+<i>- Can you find the Scolex building</i>
+<i>from here?</i>
+
+603
+00:41:26,194 --> 00:41:28,601
+- Or should I call the police?
+- I am the police.
+
+604
+00:41:28,738 --> 00:41:31,311
+- Hey, wait. What about me?
+<i>- [Gadgetmobile]</i>
+<i>You're smarter than he is.</i>
+
+605
+00:41:31,449 --> 00:41:34,236
+Stay in the car.
+I don't mind baby-sitting you, Penny,
+
+606
+00:41:34,368 --> 00:41:37,903
+but please tell the beagle
+that that's an armrest, not a chew toy.
+
+607
+00:41:38,039 --> 00:41:43,281
+<i>[Man On TV] Inspector Gadget</i>
+<i>apparently has gone berserk</i>
+<i>in the downtown Riverton area.</i>
+
+608
+00:41:43,419 --> 00:41:45,708
+Eyewitnesses told me
+that he was laughing...
+
+609
+00:41:45,838 --> 00:41:49,373
+- while he maliciously stacked
+these four cars.
+<i>- What's gone wrong?</i>
+
+610
+00:41:49,509 --> 00:41:52,379
+Other reports indicate that he's
+already caused a major traffic accident,
+
+611
+00:41:52,512 --> 00:41:56,509
+<i>destroyed private property and set fire</i>
+<i>to an elderly man's beard.</i>
+
+612
+00:42:00,853 --> 00:42:02,976
+<i>Go, go, Gadget... grappling hook.</i>
+
+613
+00:42:14,700 --> 00:42:17,785
+Whoo!
+[Screaming]
+
+614
+00:42:19,997 --> 00:42:23,616
+- [Television Reporter Continues]
+- John!
+
+615
+00:42:23,751 --> 00:42:27,167
+What happened?
+I'll go get Scolex. Maybe he can help.
+
+616
+00:42:27,296 --> 00:42:31,045
+Brenda, it's not safe here.
+Scolex is a liar and a thief and...
+
+617
+00:42:31,175 --> 00:42:33,132
+Let's just say
+he's not a very good guy.
+
+618
+00:42:33,261 --> 00:42:36,096
+Go home!
+Lock your doors!
+
+619
+00:42:36,222 --> 00:42:40,765
+Stay alive!
+Whatever happens, I will find you.
+
+620
+00:42:44,272 --> 00:42:47,972
+Oh, too far!
+Whoa!
+
+621
+00:42:48,109 --> 00:42:51,644
+<i>[Screaming, Thudding]</i>
+<i>That hurt!</i>
+
+622
+00:42:51,779 --> 00:42:55,693
+<i>[Groaning, Coughing]</i>
+
+623
+00:43:04,876 --> 00:43:08,458
+<i>Wowser. I knew it.</i>
+
+624
+00:43:11,966 --> 00:43:14,539
+You'll pay for this, Scolex.
+
+625
+00:43:14,677 --> 00:43:17,168
+Go, go... suction shoes.
+
+626
+00:43:17,305 --> 00:43:19,843
+Hello?
+
+627
+00:43:19,974 --> 00:43:21,931
+Hello?
+
+628
+00:43:22,059 --> 00:43:25,511
+<i>Sandy, is that you?</i>
+
+629
+00:43:25,646 --> 00:43:28,137
+- [Gasping]
+- Wow!
+
+630
+00:43:28,274 --> 00:43:30,432
+- <i>I finally get to meet you.</i>
+- Y...
+
+631
+00:43:30,568 --> 00:43:34,862
+- <i>Sandy built me to your specifications.</i>
+- You're me?
+
+632
+00:43:34,989 --> 00:43:37,776
+We are like totally twins.
+
+633
+00:43:37,909 --> 00:43:42,535
+You must be Brenda. Sandy was right.
+I'm you. Only prettier.
+
+634
+00:43:42,663 --> 00:43:46,364
+We probably share brain waves. Are you
+thinking about gelato right now?
+
+635
+00:43:46,501 --> 00:43:48,410
+'Cause I am.
+
+636
+00:43:49,795 --> 00:43:51,918
+I gotta go find John.
+
+637
+00:43:52,048 --> 00:43:53,921
+Don't you wanna hang out?
+
+638
+00:44:03,518 --> 00:44:05,925
+[Snoring]
+
+639
+00:44:25,456 --> 00:44:27,864
+John!
+
+640
+00:44:28,000 --> 00:44:33,540
+[Laughing]
+Outside! It's so beautiful!
+
+641
+00:44:33,673 --> 00:44:38,133
+Hey, Brenda, let's hang out, okay?
+Have some quality girl time.
+
+642
+00:44:52,733 --> 00:44:55,485
+[Continues Snoring]
+
+643
+00:44:58,614 --> 00:45:01,105
+Gotcha!
+
+644
+00:45:01,242 --> 00:45:03,235
+- [Beeping]
+- Whoa!
+
+645
+00:45:04,370 --> 00:45:07,620
+[Screaming]
+
+646
+00:45:07,748 --> 00:45:10,322
+- Huh?
+- Go, go, Gadget... blades.
+
+647
+00:45:10,459 --> 00:45:14,042
+- Huh?
+- [Grunting]
+
+648
+00:45:14,172 --> 00:45:16,129
+We have a blader.
+Repeat...
+
+649
+00:45:16,257 --> 00:45:18,250
+<i>[Continues Indistinct]</i>
+
+650
+00:45:18,384 --> 00:45:22,298
+- [Grunts]
+- <i>You can run, but you can't hide.</i>
+
+651
+00:45:22,430 --> 00:45:24,802
+Go, go, Gadget... brake!
+
+652
+00:45:24,932 --> 00:45:28,017
+- [Grunting]
+- <i>[Cackling]</i>
+
+653
+00:45:28,144 --> 00:45:31,014
+<i>[Whirring]</i>
+
+654
+00:45:31,147 --> 00:45:32,807
+<i>Smile!</i>
+
+655
+00:45:33,024 --> 00:45:35,431
+- John!
+- ## [Singing]
+
+656
+00:45:35,526 --> 00:45:37,435
+- # I got a wild wild life #
+- Don't you ever stop?
+
+657
+00:45:37,570 --> 00:45:42,196
+Oh, this is so much more cool
+than hanging out in that lab.
+
+658
+00:45:42,325 --> 00:45:45,326
+<i>All Sandy ever wants to</i>
+<i>talk about is that gross foot.</i>
+
+659
+00:45:47,163 --> 00:45:50,117
+[Electronic Giggling]
+
+660
+00:45:50,249 --> 00:45:53,784
+- What foot?
+- The one he stole
+and copied to make me.
+
+661
+00:45:53,920 --> 00:45:57,086
+<i>Brenda, I'm programmed</i>
+<i>to be a cheerleader.</i>
+
+662
+00:45:57,215 --> 00:45:59,088
+- <i>[Crowd Cheering]</i>
+- Watch!
+
+663
+00:45:59,217 --> 00:46:03,049
+Ready? Okay!
+# B-R-E-N-D-A #
+
+664
+00:46:03,179 --> 00:46:05,800
+# Brenda
+That spells Brenda ##
+
+665
+00:46:05,932 --> 00:46:07,841
+<i>[Voice Trails Off]</i>
+
+666
+00:46:11,312 --> 00:46:15,606
+Greetings, Inspector.
+Glad you could drop in.
+
+667
+00:46:15,733 --> 00:46:17,856
+- I owe you one, Scolex.
+- Oh?
+
+668
+00:46:17,985 --> 00:46:22,030
+You blew up me and my Chevette,
+and I really liked that car.
+
+669
+00:46:22,156 --> 00:46:27,067
+Well, you crushed my hand,
+and I really liked that hand,
+
+670
+00:46:27,203 --> 00:46:29,694
+so, go, go...
+get over it.
+
+671
+00:46:29,830 --> 00:46:34,327
+<i>I don't know what you're up to, Scolex,</i>
+<i>but you'll never get away with it.</i>
+
+672
+00:46:34,460 --> 00:46:38,588
+[Cackling]
+Oh, how cliche, Inspector.
+
+673
+00:46:38,714 --> 00:46:42,249
+I think somebody's been watching
+too many Saturday morning cartoons.
+
+674
+00:46:42,385 --> 00:46:44,258
+- Hmm?
+- Huh?
+
+675
+00:46:44,387 --> 00:46:45,715
+Huh?
+
+676
+00:46:47,265 --> 00:46:50,515
+Unfortunately, Gadget,
+in the real world,
+
+677
+00:46:50,643 --> 00:46:53,727
+evil quite often prevails.
+
+678
+00:46:53,855 --> 00:46:55,728
+I'm afraid so.
+Pull him up.
+
+679
+00:47:01,737 --> 00:47:05,949
+Now, look how your replacement
+is helping people...
+
+680
+00:47:06,075 --> 00:47:08,531
+<i>- [Cackling] to cross the street.</i>
+<i>- Hey.</i>
+
+681
+00:47:08,661 --> 00:47:12,244
+He looks just like me.
+I don't get it.
+
+682
+00:47:12,373 --> 00:47:14,911
+- Why would you do this?
+- To make teachers!
+
+683
+00:47:15,042 --> 00:47:16,702
+- Shut up!
+- Oh. [Whimpering]
+
+684
+00:47:18,504 --> 00:47:20,413
+I'll tell you why.
+
+685
+00:47:23,593 --> 00:47:28,931
+To make technowarriors that
+never get tired, never get hungry...
+
+686
+00:47:29,056 --> 00:47:32,223
+and never say "no."
+
+687
+00:47:32,351 --> 00:47:38,187
+Every army in the world
+will be made up of my creations.
+
+688
+00:47:38,316 --> 00:47:41,400
+Imagine the confusion,
+Gadget, huh?
+
+689
+00:47:41,527 --> 00:47:43,935
+Imagine the perks.
+
+690
+00:47:46,073 --> 00:47:47,947
+<i>Comprende?</i>
+
+691
+00:47:48,075 --> 00:47:49,949
+Yeah, I <i>comprende.</i>
+
+692
+00:47:52,955 --> 00:47:54,829
+No, no, no, no,
+no, no, no, no.
+
+693
+00:47:54,957 --> 00:47:57,080
+I <i>comprendo.</i>
+<i>Yo comprendo.</i>
+
+694
+00:47:57,210 --> 00:47:59,701
+Conjugate the verb,
+for pity's sake.
+
+695
+00:47:59,837 --> 00:48:02,507
+Pull the N.S.A. Chip
+before he butchers another language.
+
+696
+00:48:02,632 --> 00:48:05,882
+<i>You're kidding, right?</i>
+<i>Okay. You see? He's always kidding.</i>
+
+697
+00:48:06,010 --> 00:48:07,801
+<i>- I never know.</i>
+<i>- This time no.</i>
+
+698
+00:48:07,929 --> 00:48:10,254
+I want to make sure nobody else
+can develop their own android.
+
+699
+00:48:10,389 --> 00:48:14,008
+<i>Do it, or you'll</i>
+<i>be building yourself a new head.</i>
+
+700
+00:48:14,143 --> 00:48:17,014
+- Oh.
+- [Chuckles, Grunts]
+
+701
+00:48:17,146 --> 00:48:19,055
+<i>"New head."</i>
+
+702
+00:48:20,191 --> 00:48:24,189
+Okay, I am not here
+right now.
+
+703
+00:48:24,320 --> 00:48:28,187
+I am on the beach with dolphins,
+and, oh, hi, look at this starfish.
+
+704
+00:48:28,324 --> 00:48:31,076
+I don't feel so good.
+
+705
+00:48:31,202 --> 00:48:34,618
+I'm sorry, Gadget. Good help
+is so hard to find these days.
+
+706
+00:48:34,747 --> 00:48:36,621
+Would you mind
+if I do the honours?
+
+707
+00:48:37,959 --> 00:48:41,162
+Well, here goes.
+<i>Arrivederci. Ciao, ciao.</i>
+
+708
+00:48:46,843 --> 00:48:48,965
+<i>Goodbye, Mr Chip.</i>
+
+709
+00:48:49,095 --> 00:48:51,301
+<i>Dump this idiot in thejunkyard.</i>
+
+710
+00:48:51,430 --> 00:48:53,637
+<i>Yes, boss.</i>
+
+711
+00:48:53,766 --> 00:48:57,016
+[Cackling]
+Oh, no, not that idiot. This one.
+
+712
+00:48:57,144 --> 00:48:59,849
+[Grunts]
+Oh, I wish you'd be more specific.
+
+713
+00:48:59,981 --> 00:49:02,187
+There's an awful lot
+of idiots around here.
+
+714
+00:49:02,316 --> 00:49:05,566
+- <i>[Computer Keys Clicking]</i>
+- Attention, Robogadget.
+
+715
+00:49:05,695 --> 00:49:08,731
+<i>Destroy the city</i>
+<i>and have some fun.</i>
+
+716
+00:49:08,865 --> 00:49:10,359
+<i>Okay, boss.</i>
+<i>You with the beard, come here.</i>
+
+717
+00:49:10,491 --> 00:49:14,489
+- Hello? John? Anybody home?
+- <i>[Tyres Squealing]</i>
+
+718
+00:49:14,620 --> 00:49:18,155
+You sit back and enjoy
+the ride, Penny. I'm driving. Ha-ha.
+
+719
+00:49:18,291 --> 00:49:20,829
+Remember, kids. I'm a professional car,
+so don't try this at home.
+
+720
+00:49:20,960 --> 00:49:23,629
+- Penny, where's your uncle?
+- I thought he was with you.
+
+721
+00:49:23,754 --> 00:49:26,791
+[Sighs]
+This is bad.
+
+722
+00:49:26,924 --> 00:49:30,424
+Come on, Penny. We gotta find him.
+There's something rotten in Riverton.
+
+723
+00:49:32,722 --> 00:49:35,177
+<i>Where you going, Gadget?</i>
+<i>The chief is very upset with you.</i>
+
+724
+00:49:35,308 --> 00:49:37,680
+I'm gonna have to arrest you.
+Hey! Get your hands off me!
+
+725
+00:49:37,810 --> 00:49:41,594
+- [Screaming] Officer down!
+- <i>Strike!</i>
+
+726
+00:49:41,731 --> 00:49:45,859
+Next time you pay for a Gadget,
+don't forget the extended warranty.
+
+727
+00:49:45,985 --> 00:49:47,859
+- <i>[Knocking]</i>
+- What?
+
+728
+00:49:54,827 --> 00:49:56,701
+Let's talk, Chief.
+[Clicks]
+
+729
+00:49:56,829 --> 00:50:01,076
+Sure. What do you... What do you want
+to talk about? Politics?
+
+730
+00:50:01,209 --> 00:50:02,952
+The Florida Marlins?
+
+731
+00:50:04,504 --> 00:50:06,710
+I-I know you're upset
+about yesterday.
+
+732
+00:50:06,839 --> 00:50:08,915
+That was the job talking.
+The truth is...
+
+733
+00:50:09,050 --> 00:50:11,338
+I want you... I want you
+on the Bradford case.
+
+734
+00:50:11,469 --> 00:50:17,222
+In fact, I-I want you
+to <i>lead</i> the Bradford case. I think...
+
+735
+00:50:17,350 --> 00:50:20,600
+[Together]
+Freeze! Hold it right there!
+
+736
+00:50:20,728 --> 00:50:24,678
+- Shoot him!
+- [Yelling]
+
+737
+00:50:24,815 --> 00:50:27,271
+Adios, boys!
+
+738
+00:50:27,401 --> 00:50:30,071
+Whee!
+
+739
+00:50:30,196 --> 00:50:32,023
+<i># Wild thing #</i>
+
+740
+00:50:33,616 --> 00:50:36,783
+<i># You make my heart sing #</i>
+
+741
+00:50:36,911 --> 00:50:41,407
+<i># You make everything #</i>
+
+742
+00:50:41,541 --> 00:50:44,874
+<i># Come on, wild thing ##</i>
+
+743
+00:50:52,134 --> 00:50:54,376
+- <i>[Growling]</i>
+- [Screaming]
+
+744
+00:50:59,433 --> 00:51:02,968
+[Growling, Laughing]
+
+745
+00:51:08,109 --> 00:51:10,600
+Ladies, I don't like
+the looks of this.
+
+746
+00:51:12,238 --> 00:51:14,527
+<i>What would UncleJohn</i>
+<i>be doing here?</i>
+
+747
+00:51:14,657 --> 00:51:18,951
+<i>I mean... Are you sure we picked up</i>
+<i>the right signal?</i>
+
+748
+00:51:19,078 --> 00:51:21,236
+Of course I have
+the right signal.
+
+749
+00:51:21,372 --> 00:51:23,448
+You know I have Lo-Jack
+on my father's side.
+
+750
+00:51:23,583 --> 00:51:26,833
+- [Growling Continues]
+- [Screaming Continues]
+
+751
+00:51:31,632 --> 00:51:34,419
+[Screaming In Japanese]
+
+752
+00:51:47,106 --> 00:51:49,431
+[Gadgetmobile]
+Uh-oh, I don't like this.
+
+753
+00:51:49,567 --> 00:51:52,354
+- See, I know what dogs do
+when they're nervous.
+- Stop!
+
+754
+00:51:53,571 --> 00:51:55,729
+- Uncle John!
+- <i>[Brenda] Penny!</i>
+
+755
+00:51:56,908 --> 00:51:59,363
+Uncle John!
+[Grunting]
+
+756
+00:51:59,493 --> 00:52:01,367
+- Penny!
+- Uncle John!
+
+757
+00:52:01,495 --> 00:52:03,369
+[Grunting]
+
+758
+00:52:06,250 --> 00:52:09,915
+No! Uncle John!
+Wake up!
+
+759
+00:52:16,302 --> 00:52:19,671
+Please, don't tell me.
+No.
+
+760
+00:52:20,806 --> 00:52:23,677
+The N.S.A. Chip is gone.
+
+761
+00:52:27,939 --> 00:52:30,015
+He doesn't need the chip.
+
+762
+00:52:30,149 --> 00:52:35,060
+<i>He's got the heart.</i>
+<i>He can do it all by himself.</i>
+
+763
+00:53:03,766 --> 00:53:06,637
+[Whimpering]
+
+764
+00:53:06,769 --> 00:53:07,884
+Hmm?
+
+765
+00:53:08,020 --> 00:53:12,314
+## ["Inspector Gadget"
+Theme Plays]
+
+766
+00:53:14,569 --> 00:53:16,395
+Can't be.
+
+767
+00:53:17,780 --> 00:53:19,689
+- John?
+- Uncle John?
+
+768
+00:53:19,824 --> 00:53:22,576
+- Can you hear us?
+- He's alive.
+
+769
+00:53:22,702 --> 00:53:25,905
+Brenda.
+
+770
+00:53:26,038 --> 00:53:28,114
+- <i>Penny?</i>
+- You're alive.
+
+771
+00:53:28,249 --> 00:53:33,243
+<i>I-It's a miracle.</i>
+<i>He doesn't need the chip.</i>
+
+772
+00:53:33,379 --> 00:53:35,419
+It's my uncle John,
+that's what it is.
+
+773
+00:53:35,548 --> 00:53:37,790
+- [Grunts]
+- Whoa.
+- Whoo.
+
+774
+00:53:37,925 --> 00:53:40,251
+- [Barks]
+- [Giggles]
+
+775
+00:53:40,386 --> 00:53:43,007
+Way to go, rookie.
+We'll make a cop out of you yet.
+
+776
+00:53:45,766 --> 00:53:48,174
+Buckle up, kids, and stick
+some newspaper under that beagle.
+
+777
+00:53:48,311 --> 00:53:53,553
+This engine's only got two speeds:
+"Fast" and "Whoo, what was that?"
+
+778
+00:53:53,691 --> 00:53:56,811
+- Where's Scolex?
+- I'll find him. You drive.
+
+779
+00:53:56,944 --> 00:54:00,942
+Let's see what you can do,
+Gadgetmobile, 'cause I feel
+the need... the need for speed.
+
+780
+00:54:01,073 --> 00:54:05,735
+[Penny Giggling,
+Screaming]
+
+781
+00:54:07,955 --> 00:54:11,787
+Now, if I'm home late, it just means
+it took a little extra time...
+
+782
+00:54:11,918 --> 00:54:15,452
+to overthrow Scolex's
+evil empire, okay?
+
+783
+00:54:15,588 --> 00:54:17,664
+- [Penny] Okay!
+- [Gadgetmobile] Later, Penny.
+
+784
+00:54:17,798 --> 00:54:20,716
+<i>[Brenda]</i>
+<i>Left turn!</i>
+
+785
+00:54:20,843 --> 00:54:22,966
+<i>Right turn!</i>
+
+786
+00:54:23,095 --> 00:54:25,717
+[Screams]
+Where'd they go?
+
+787
+00:54:25,848 --> 00:54:29,264
+Heads up, baby!
+Evil dude's limo at 12:00.
+
+788
+00:54:29,393 --> 00:54:32,597
+- <i>Left turn!</i>
+- <i>Got it! Okay, take the wheel.</i>
+
+789
+00:54:32,730 --> 00:54:35,565
+- Right!
+- <i>When I give you the signal,</i>
+<i>slow down.</i>
+
+790
+00:54:35,691 --> 00:54:39,143
+<i>Okay! [Panting]</i>
+<i>Okay. Whoo!</i>
+
+791
+00:54:42,573 --> 00:54:44,032
+- Now!
+- [Grunting]
+
+792
+00:54:44,158 --> 00:54:46,365
+[Groaning]
+Gotcha!
+
+793
+00:54:48,913 --> 00:54:51,285
+- Nice aim, Doc!
+- Thank you.
+
+794
+00:54:51,415 --> 00:54:54,619
+You're under arrest for the murder
+of Artemus Bradford, Scolex.
+
+795
+00:54:54,752 --> 00:54:58,002
+- God, you're irritating.
+- And you...
+
+796
+00:54:58,130 --> 00:55:01,167
+you're under arrest
+for impersonating a police officer.
+
+797
+00:55:01,300 --> 00:55:03,838
+- [Chuckling]
+- Oh, what a tangled web we weave...
+
+798
+00:55:03,970 --> 00:55:05,594
+<i>Get rid of him.</i>
+
+799
+00:55:08,307 --> 00:55:10,264
+[Cackling]
+
+800
+00:55:14,355 --> 00:55:17,226
+You just ran a stop sign.
+Whoa!
+
+801
+00:55:21,445 --> 00:55:23,604
+Hot, hot, hot, hot.
+Hot foot. Hot, hot, hot.
+
+802
+00:55:23,739 --> 00:55:26,610
+Oh, whoo!
+Go, go, Gadget... skis.
+
+803
+00:55:28,661 --> 00:55:30,986
+Go, go, Gadget... snow.
+Go, go, Gadget... water.
+
+804
+00:55:33,666 --> 00:55:35,374
+Go, go, Gadget...
+
+805
+00:55:35,501 --> 00:55:38,253
+Mommy!
+
+806
+00:55:42,341 --> 00:55:44,714
+- <i>Hmm?</i>
+- Whoa!
+
+807
+00:55:44,844 --> 00:55:47,216
+[Gasping]
+
+808
+00:55:47,346 --> 00:55:50,134
+[Laughing]
+
+809
+00:56:03,321 --> 00:56:05,194
+[Gadgetmobile]
+Hey, stretch, pull over.
+
+810
+00:56:10,077 --> 00:56:11,951
+[Cackling]
+
+811
+00:56:12,079 --> 00:56:13,871
+[Gasps]
+
+812
+00:56:17,001 --> 00:56:21,129
+Hey, you don't bump the Gadgetmobile.
+The Gadgetmobile bumps <i>you.</i>
+
+813
+00:56:27,261 --> 00:56:30,096
+I'll go get him, boss.
+Sit tight.
+
+814
+00:56:30,223 --> 00:56:32,927
+[Grunting]
+
+815
+00:56:33,059 --> 00:56:36,013
+[Brenda And Gadgetmobile]
+Watch out behind you!
+
+816
+00:56:37,939 --> 00:56:39,848
+[Robogadget]
+We're gonna have some fun.
+
+817
+00:56:46,614 --> 00:56:48,405
+[Gadgetmobile]
+I'm gonna make you into a compact.
+
+818
+00:56:48,533 --> 00:56:51,070
+Whoo!
+Time for a bat turn.
+
+819
+00:56:51,202 --> 00:56:53,444
+- Don't lose that limo!
+- On the case, Doc!
+
+820
+00:56:56,707 --> 00:56:59,281
+<i>## [Western]</i>
+
+821
+00:57:01,546 --> 00:57:04,749
+[Robogadget]
+You know how to dance, don't you?
+
+822
+00:57:04,882 --> 00:57:07,587
+Actually, I was taking lessons
+not long ago, in the hope...
+
+823
+00:57:07,718 --> 00:57:10,506
+- Shut up and dance!
+- <i>that one day l...</i>
+
+824
+00:57:10,638 --> 00:57:14,339
+- Uh-oh.
+- [Cackling]
+
+825
+00:57:14,475 --> 00:57:16,432
+<i>[Bullets Clanging]</i>
+
+826
+00:57:17,895 --> 00:57:20,220
+[Chattering]
+
+827
+00:57:21,440 --> 00:57:24,062
+Go, go, Gadget... air bag.
+
+828
+00:57:34,620 --> 00:57:38,784
+- Oh, Sikes, you lost her.
+- <i>I'm gonna try to find her, boss.</i>
+
+829
+00:57:38,916 --> 00:57:40,790
+It's not good, sir.
+
+830
+00:57:40,918 --> 00:57:44,003
+<i>[Gadgetmobile]</i>
+<i>Let's use the element of surprise.</i>
+
+831
+00:57:45,590 --> 00:57:47,381
+Oh, surprise.
+
+832
+00:57:47,508 --> 00:57:49,631
+Brenda, what
+a pleasant surprise.
+
+833
+00:57:52,346 --> 00:57:54,884
+- Brenda, Brenda.
+- You!
+
+834
+00:57:57,643 --> 00:57:59,683
+Stop, Claw!
+
+835
+00:57:59,812 --> 00:58:04,024
+Brenda, Brenda, Brenda. You know,
+I love it when you call me "Claw."
+
+836
+00:58:04,150 --> 00:58:07,151
+- So what's new?
+- Hello... You killed my father!
+
+837
+00:58:07,278 --> 00:58:09,152
+[Grunting]
+
+838
+00:58:16,704 --> 00:58:18,827
+<i>[Whirring]</i>
+
+839
+00:58:18,956 --> 00:58:20,949
+- Time.
+- <i>[Whirring Continues]</i>
+
+840
+00:58:23,669 --> 00:58:26,504
+- Gadget here.
+- It's about Brenda, partner.
+
+841
+00:58:26,631 --> 00:58:29,382
+- Yeah?
+- Scolex is taking her to the roof.
+
+842
+00:58:29,509 --> 00:58:31,881
+I'd save her, but I can't
+fit in the elevator.
+
+843
+00:58:32,011 --> 00:58:36,056
+I'm on my way. You know what they
+say about nice guys finishing last?
+
+844
+00:58:36,182 --> 00:58:39,017
+- Huh?
+- Well, they were wrong.
+
+845
+00:58:39,143 --> 00:58:41,599
+Go, go, Gadget...
+oil slick.
+
+846
+00:58:43,648 --> 00:58:45,190
+<i>Toothpaste?</i>
+<i>Whaa!</i>
+
+847
+00:58:50,363 --> 00:58:52,605
+What happened to you?
+
+848
+00:58:52,740 --> 00:58:56,405
+Let me put it this way.
+I got the Skittles kicked out of me.
+
+849
+00:58:56,536 --> 00:58:58,575
+I'll be right back.
+
+850
+00:58:58,704 --> 00:59:02,998
+- Oh. Penny, why are you here?
+- Evidence!
+
+851
+00:59:04,669 --> 00:59:07,919
+[Growling]
+
+852
+00:59:12,176 --> 00:59:14,667
+<i>Hey, Gadget.</i>
+<i>It's a clip-on.</i>
+
+853
+00:59:19,058 --> 00:59:22,261
+[Robogadget Laughing]
+
+854
+00:59:25,648 --> 00:59:30,144
+Okay, Brain. No, no, no, Brain,
+you go that way. I'll go this way.
+
+855
+00:59:30,278 --> 00:59:32,769
+[Groaning]
+
+856
+00:59:32,905 --> 00:59:36,072
+<i>I gotta destroy the evidence.</i>
+<i>Why couldn't it be a finger?</i>
+
+857
+00:59:36,200 --> 00:59:38,109
+<i>I could be working</i>
+<i>at my dad's store right now...</i>
+
+858
+00:59:38,244 --> 00:59:40,320
+<i>selling nails, hammers</i>
+<i>and power drills.</i>
+
+859
+00:59:40,454 --> 00:59:42,827
+<i>Yes!</i>
+<i>Power drills rock!</i>
+
+860
+00:59:44,125 --> 00:59:46,616
+Get in there!
+[Groaning]
+
+861
+00:59:46,752 --> 00:59:50,335
+- <i>[Metal Clanging]</i>
+- [Grunting]
+
+862
+00:59:54,010 --> 00:59:57,842
+- <i>Well, who are you?</i>
+- Whoa, there, big boy.
+
+863
+00:59:59,891 --> 01:00:03,342
+- Um, hi, there.
+- Hello.
+
+864
+01:00:03,477 --> 01:00:06,811
+Why's that foot
+in the toilet?
+
+865
+01:00:08,232 --> 01:00:10,439
+I was, uh, cleaning it.
+
+866
+01:00:10,568 --> 01:00:13,023
+So what's your name?
+
+867
+01:00:13,154 --> 01:00:16,024
+Uh, I'm Sikes.
+
+868
+01:00:16,157 --> 01:00:20,653
+You know, Sikes, you look more like
+the kind of guy who should be, um...
+
+869
+01:00:20,786 --> 01:00:24,452
+uh...
+
+870
+01:00:24,582 --> 01:00:27,417
+helping someone pick out
+good weather stripping.
+
+871
+01:00:31,923 --> 01:00:34,248
+My old man had
+a hardware store.
+
+872
+01:00:36,761 --> 01:00:39,382
+- <i>[Phone Ringing]</i>
+- [Robogadget] Telephone!
+
+873
+01:00:39,514 --> 01:00:41,387
+It's mine.
+
+874
+01:00:48,189 --> 01:00:50,181
+- Hello?
+- [Girls] Hi, Mr Gadget.
+
+875
+01:00:50,316 --> 01:00:53,352
+<i>- Nicole and Kim, how'd you get</i>
+<i>the number of my hand?</i>
+<i>- From Penny. Is she there?</i>
+
+876
+01:00:53,486 --> 01:00:56,059
+Penny isn't here right now,
+but you can call her at home, okay?
+
+877
+01:00:56,197 --> 01:00:59,067
+- <i>She's not home,</i>
+<i>but we'll try her again.</i>
+- Okay, bye.
+
+878
+01:00:59,200 --> 01:01:01,192
+<i>- Bye.</i>
+<i>- What do they mean, she's not at home?</i>
+
+879
+01:01:01,327 --> 01:01:03,652
+[Screaming]
+
+880
+01:01:11,796 --> 01:01:13,420
+Whee, whee!
+
+881
+01:01:14,799 --> 01:01:17,800
+Oh! Oh, no!
+Oh, oh, oh! Oh, oh!
+
+882
+01:01:17,927 --> 01:01:20,085
+<i>[Cackling]</i>
+
+883
+01:01:26,060 --> 01:01:28,432
+I don't get it, Claw.
+What's your plan now?
+
+884
+01:01:28,563 --> 01:01:30,851
+Since my dreams for
+a global robotic empire...
+
+885
+01:01:30,982 --> 01:01:33,105
+<i>- [Brain Growling]</i>
+- [Screaming]
+
+886
+01:01:33,234 --> 01:01:35,772
+Mongrel! My pants!
+Oh, God!
+
+887
+01:01:39,615 --> 01:01:41,738
+Mongrel.
+
+888
+01:01:43,494 --> 01:01:45,534
+Next thing you know...
+
+889
+01:01:45,663 --> 01:01:48,997
+Next thing you know,
+you're a minion.
+
+890
+01:01:49,125 --> 01:01:52,790
+[Sobbing]
+You're a minion.
+
+891
+01:01:52,920 --> 01:01:54,794
+I'm a minion.
+
+892
+01:01:59,677 --> 01:02:01,088
+Ooh! Oh!
+
+893
+01:02:01,220 --> 01:02:03,343
+<i>Ow, ow!</i>
+
+894
+01:02:06,267 --> 01:02:09,102
+Uncle.
+
+895
+01:02:09,228 --> 01:02:12,597
+- Hey, hey, don't touch that.
+- [Crowd Gasping]
+
+896
+01:02:14,609 --> 01:02:18,737
+Hey. Hey,
+what'd you do that for?
+
+897
+01:02:18,863 --> 01:02:24,367
+We shouldn't be fighting.
+We've got a lot in common,
+except I've got nicer teeth.
+
+898
+01:02:25,995 --> 01:02:29,411
+I'd hoped that we could've
+worked together, been partners.
+
+899
+01:02:29,540 --> 01:02:33,205
+Together, you and I could've...
+[Imitating British Accent]
+R-r-ruled the world.
+
+900
+01:02:33,336 --> 01:02:36,337
+You should've quit
+while you were "ahead."
+
+901
+01:02:36,464 --> 01:02:40,925
+Cannonball!
+[Laughing]
+
+902
+01:02:41,052 --> 01:02:43,294
+<i>- Ooh!</i>
+<i>- Ooh-la-la!</i>
+
+903
+01:02:43,429 --> 01:02:46,050
+<i>[Women Whooping]</i>
+
+904
+01:02:46,849 --> 01:02:49,091
+Go, go, Gadget... chopper.
+
+905
+01:02:53,105 --> 01:02:55,312
+Contact.
+
+906
+01:03:06,953 --> 01:03:08,826
+[Wheezing]
+
+907
+01:03:09,956 --> 01:03:12,707
+Whoa! Whoa! Whoa!
+Whoa-oa!
+
+908
+01:03:12,834 --> 01:03:14,873
+How do ya... whoa...
+fly this thing?
+
+909
+01:03:18,714 --> 01:03:20,588
+Oh! Oh, no!
+Go, go back.
+
+910
+01:03:20,716 --> 01:03:23,172
+<i>Up, up, up, up. Good, good,</i>
+<i>good, good. Oh, bad, bad, bad.</i>
+
+911
+01:03:25,304 --> 01:03:28,508
+[Screaming]
+
+912
+01:03:28,641 --> 01:03:31,013
+My hair!
+
+913
+01:03:31,143 --> 01:03:34,726
+Sit back and relax, darling.
+[Clicks Tongue]
+
+914
+01:03:36,899 --> 01:03:38,773
+[Screaming]
+
+915
+01:03:45,616 --> 01:03:50,658
+Whoa! Hey! I can see
+my house from here. Whoa!
+
+916
+01:03:50,788 --> 01:03:54,323
+Two things, Scolex!
+One: You are completely insane.
+
+917
+01:03:54,458 --> 01:03:56,747
+<i>And two:</i>
+<i>I liked you better fat.</i>
+
+918
+01:03:56,878 --> 01:03:59,499
+- [Gasps]
+- [Meows]
+
+919
+01:04:02,550 --> 01:04:05,420
+Bring on the brownies!
+Hah!
+
+920
+01:04:05,553 --> 01:04:10,096
+<i>Wheel in the waffles!</i>
+<i>I'm ready to binge! [Laughing]</i>
+
+921
+01:04:15,980 --> 01:04:19,266
+<i>Darn! That fellow</i>
+<i>will not give us a break!</i>
+
+922
+01:04:19,400 --> 01:04:23,979
+For the third time... Sanford Scolex,
+you are under arrest!
+
+923
+01:04:26,365 --> 01:04:28,488
+No!
+
+924
+01:04:28,618 --> 01:04:31,239
+Go, go, go, go, go, go,
+Gadget!
+
+925
+01:04:33,915 --> 01:04:35,824
+<i>[Scolex Cackling]</i>
+
+926
+01:04:41,047 --> 01:04:44,001
+- John!
+- Oh, no!
+
+927
+01:04:46,219 --> 01:04:50,631
+Let me give you a lift. [Cackling]
+Where can I drop you off?
+
+928
+01:04:50,765 --> 01:04:53,719
+<i>I'd answer, but I doubt</i>
+<i>you really care.</i>
+
+929
+01:04:53,851 --> 01:04:57,101
+John! I'm up here!
+Take my hand!
+
+930
+01:04:57,230 --> 01:04:59,222
+Hi, John. How are you
+doing down there?
+
+931
+01:05:02,902 --> 01:05:06,401
+- John!
+- [Imitating Brenda] "John!"
+
+932
+01:05:06,531 --> 01:05:09,982
+[Brenda] John, I know you can
+save us! Think of something!
+
+933
+01:05:10,117 --> 01:05:12,525
+I'm working on it.
+
+934
+01:05:20,920 --> 01:05:24,253
+Hurry!
+[Grunting]
+
+935
+01:05:27,176 --> 01:05:31,803
+<i>[Swami's Voice Echoing]</i>
+<i>Try to visualize your goal.</i>
+
+936
+01:05:35,893 --> 01:05:37,886
+[Gasping]
+
+937
+01:05:39,772 --> 01:05:41,516
+<i>[Yells, Screams]</i>
+
+938
+01:05:45,528 --> 01:05:47,686
+Back to the drawing board!
+
+939
+01:05:49,323 --> 01:05:51,233
+Brenda, jump!
+Right on my back!
+
+940
+01:05:51,367 --> 01:05:54,202
+<i>Oh, Brenda, don't jump. For God's sake,</i>
+<i>we can work this out, darling.</i>
+
+941
+01:05:54,328 --> 01:05:57,246
+- <i>Sweetie pie, really!</i>
+- [Screaming]
+
+942
+01:05:57,373 --> 01:05:59,579
+My God.
+Me... I'm out of control.
+
+943
+01:06:05,840 --> 01:06:08,841
+[Brenda Screaming]
+
+944
+01:06:08,968 --> 01:06:10,925
+Go, go, Gadget... air brakes.
+Go, go, Gadget... aeroplane.
+
+945
+01:06:11,053 --> 01:06:12,845
+I don't know what
+to go, go any more!
+
+946
+01:06:12,972 --> 01:06:15,297
+Didn't you read the manual?
+Try something else!
+
+947
+01:06:15,433 --> 01:06:19,016
+Go, go, Gadget... glider.
+Go, go, Gadget... balloon.
+Go, go, Gadget... parachute.
+
+948
+01:06:19,145 --> 01:06:21,054
+Go, go, Gadget...
+giant trampoline.
+
+949
+01:06:21,189 --> 01:06:24,439
+Go, go, Gadget... circus net.
+Go, go, Gadget... featherbed.
+Go, go, Gadget... hay wagon.
+
+950
+01:06:24,567 --> 01:06:27,022
+Go, go, Gadget... bubble wrap.
+Go, go, Gadget... parasail. Parakeet.
+
+951
+01:06:27,153 --> 01:06:29,726
+Paraglider. Parasol.
+
+952
+01:06:31,449 --> 01:06:34,403
+- Umbrella?
+- John, you did it.
+
+953
+01:06:34,535 --> 01:06:37,702
+- You saved our lives.
+- I did? I guess I did.
+
+954
+01:06:37,830 --> 01:06:39,906
+Wowser!
+
+955
+01:06:40,041 --> 01:06:41,998
+- Just watch out for the big head.
+- Understood.
+
+956
+01:06:42,126 --> 01:06:45,210
+- You know, arrogance
+can sneak up on you.
+- No, that big head!
+
+957
+01:06:53,554 --> 01:06:56,639
+John!
+Are you okay?
+
+958
+01:07:02,813 --> 01:07:05,269
+Gadget.
+
+959
+01:07:05,399 --> 01:07:07,273
+Oh, hello, Brenda.
+
+960
+01:07:07,401 --> 01:07:09,228
+Are you breathing?
+
+961
+01:07:11,239 --> 01:07:13,112
+I think so.
+
+962
+01:07:15,368 --> 01:07:17,610
+How's your central vallecular
+equilibrator feeling?
+
+963
+01:07:17,745 --> 01:07:19,987
+It feels pretty good.
+
+964
+01:07:20,122 --> 01:07:22,578
+And how's your auto-axle
+lubricator functioning?
+
+965
+01:07:22,708 --> 01:07:25,246
+It's functioning fully.
+
+966
+01:07:36,264 --> 01:07:39,383
+- Oh, Gadget.
+- What is it?
+
+967
+01:07:39,517 --> 01:07:43,764
+- Is my occipital piston slipping?
+- No.
+
+968
+01:07:43,896 --> 01:07:46,304
+I just never realized...
+
+969
+01:07:46,440 --> 01:07:49,644
+what beautiful brown eyes
+you have.
+
+970
+01:07:57,118 --> 01:08:00,451
+<i>[Scolex Screaming]</i>
+
+971
+01:08:00,580 --> 01:08:02,821
+It's a high-fly Scolex.
+
+972
+01:08:02,957 --> 01:08:06,658
+<i>The Gadgetmobile pulls under it.</i>
+<i>The crowd's going crazy.</i>
+
+973
+01:08:06,794 --> 01:08:09,083
+- He makes the catch!
+- [Meows]
+
+974
+01:08:09,213 --> 01:08:14,753
+- <i>We made it!</i>
+- Ladies and gentlemen, Scolex
+is out and that is the game!
+
+975
+01:08:14,886 --> 01:08:18,718
+Final score: Gadgetmobile... one,
+Scolex... zippo.
+
+976
+01:08:18,848 --> 01:08:21,849
+And the fans rush the field.
+[Chuckles]
+
+977
+01:08:21,976 --> 01:08:24,348
+No autographs, please.
+Please, y'all, come on, now.
+
+978
+01:08:24,478 --> 01:08:28,690
+- <i>Freeze! Get back!</i>
+- Gentlemen, there's been
+some kind of a mistake.
+
+979
+01:08:28,816 --> 01:08:30,191
+<i>[Penny]</i>
+<i>Chief!</i>
+
+980
+01:08:30,318 --> 01:08:34,362
+Oh, sorry, kiddo. I'm gonna have
+to place your uncle under arrest.
+
+981
+01:08:34,488 --> 01:08:35,603
+<i>- Freeze!</i>
+<i>- Don't move, Gadget!</i>
+
+982
+01:08:35,740 --> 01:08:37,531
+<i>Well, I just thought</i>
+<i>you'd wanna know...</i>
+
+983
+01:08:37,658 --> 01:08:42,320
+that Sanford Scolex
+created an evil version
+of my uncle to terrorize Riverton.
+
+984
+01:08:42,455 --> 01:08:47,283
+- Is that true?
+- Every word of it.
+She's an amazing young woman.
+
+985
+01:08:47,418 --> 01:08:51,961
+She held up a mirror to my misguided
+ways in the service of Mr Scolex.
+
+986
+01:08:52,089 --> 01:08:54,331
+<i>I'm sorry, Chief.</i>
+
+987
+01:08:54,467 --> 01:08:58,132
+Here's the foot.
+I didn't know any better.
+
+988
+01:08:58,262 --> 01:09:00,054
+<i>Et tu,</i> Sikes?
+
+989
+01:09:00,181 --> 01:09:01,972
+- Cover him, men!
+- [All Grunting]
+
+990
+01:09:02,099 --> 01:09:04,175
+[Gadgetmobile]
+They're all yours, fellas.
+
+991
+01:09:07,813 --> 01:09:09,189
+Wowser.
+
+992
+01:09:16,447 --> 01:09:19,318
+Excuse me! Press! Excuse me!
+Mayor on the premises.
+
+993
+01:09:19,450 --> 01:09:23,946
+The shepherd needs her sheep.
+Yes, it is a credit to myself
+and my administration...
+
+994
+01:09:24,080 --> 01:09:28,327
+that we had the courage to believe in
+and initiate the Gadget programme.
+
+995
+01:09:28,459 --> 01:09:32,160
+- [Chattering]
+- <i>[Scolex]</i> Arrivederci, <i>Gadget!</i>
+
+996
+01:09:32,296 --> 01:09:34,787
+This is not goodbye.
+
+997
+01:09:34,924 --> 01:09:39,301
+<i>I'll get you next time, Gadget.</i>
+<i>I'll get you.</i>
+
+998
+01:09:42,181 --> 01:09:44,090
+Wowser.
+
+999
+01:09:55,653 --> 01:10:00,481
+[Gadgetmobile] A happy ending.
+What could be better than true love?
+
+1000
+01:10:00,616 --> 01:10:03,985
+- Ooh, cute little bug.
+Wait up, <i>fraulein.</i>
+- [Honking]
+
+1001
+01:10:04,120 --> 01:10:07,489
+Did you know I speak German?
+<i>Fahrvergnugen,</i> baby.
+
+1002
+01:10:22,221 --> 01:10:24,261
+<i># Inspector Gadget #</i>
+
+1003
+01:10:24,390 --> 01:10:27,261
+Hello, and welcome
+to <i>Robobrendaerobics...</i>
+
+1004
+01:10:27,393 --> 01:10:29,765
+where I'll be your host, Robobrenda.
+
+1005
+01:10:29,896 --> 01:10:33,265
+<i>Follow me. It's gonna be fast.</i>
+<i>And kick, and kick, and kick...</i>
+
+1006
+01:10:33,399 --> 01:10:34,644
+And kick, and kick, and kick,
+and fall.
+
+1007
+01:10:34,775 --> 01:10:36,649
+<i># Inspector Gadget #</i>
+
+1008
+01:10:39,906 --> 01:10:43,773
+<i># Inspector Gadget</i>
+<i>Ooh-ooh #</i>
+
+1009
+01:10:43,910 --> 01:10:45,819
+<i># Inspector Gadget #</i>
+
+1010
+01:10:46,954 --> 01:10:49,659
+<i># Gadget</i>
+<i>Inspector Gadget #</i>
+
+1011
+01:10:51,542 --> 01:10:54,329
+Hi. My name is Sikes.
+
+1012
+01:10:54,462 --> 01:10:57,000
+- [Together] Hi, Sikes.
+- <i>And I'm a minion.</i>
+
+1013
+01:10:57,131 --> 01:11:00,547
+But it's been 30 days since
+I last kissed up to anyone!
+
+1014
+01:11:00,676 --> 01:11:02,586
+[Cheering]
+
+1015
+01:11:04,263 --> 01:11:06,172
+<i># Go, Gadget, go #</i>
+
+1016
+01:11:09,685 --> 01:11:14,098
+This is the coolest watch.
+It's a radio, a computer, even a phone.
+
+1017
+01:11:14,232 --> 01:11:16,308
+Testing, testing.
+
+1018
+01:11:16,442 --> 01:11:19,443
+Brain, say something.
+Come in. Over.
+
+1019
+01:11:19,570 --> 01:11:22,939
+[Don Adams' Voice]
+Brain is not here.
+
+1020
+01:11:23,074 --> 01:11:27,368
+Please leave a message
+at the sound of the woof. Woof!
+
+1021
+01:11:28,621 --> 01:11:30,495
+<i>[Beeping]</i>
+
+1022
+01:11:30,623 --> 01:11:33,031
+Hey, thanks for watching
+my movie.
+
+1023
+01:11:33,167 --> 01:11:36,785
+Yeah, <i>my</i> movie. Even though we
+called it <i>Inspector Gadget.</i>
+
+1024
+01:11:36,921 --> 01:11:40,966
+<i>I know you all are wondering...</i>
+<i>things with the Volkswagen</i>
+<i>are working out real good.</i>
+
+1025
+01:11:41,092 --> 01:11:43,665
+<i>We got married in Las Vegas</i>
+<i>in a drive-through chapel.</i>
+
+1026
+01:11:43,803 --> 01:11:46,638
+<i>We're expecting</i>
+<i>a little subcompact any day now.</i>
+
+1027
+01:11:46,764 --> 01:11:48,970
+<i>Thinking of calling him</i>
+<i>"The Love Bug,"</i>
+
+1028
+01:11:49,100 --> 01:11:52,765
+<i>which is in no way a plug for my</i>
+<i>employer, the Walt Disney Company.</i>
+
+1029
+01:11:52,895 --> 01:11:55,766
+<i>Although when our little one is old</i>
+<i>enough, his first words will be...</i>
+
+1030
+01:11:55,898 --> 01:11:57,807
+<i>"I'm going to Disneyland!"</i>
+
+1031
+01:11:57,942 --> 01:12:00,018
+<i>But don't any of you leave</i>
+<i>for theme parks just yet.</i>
+
+1032
+01:12:00,152 --> 01:12:04,814
+<i>All these fine people in</i>
+<i>the credits made me look good.</i>
+
+1033
+01:12:15,334 --> 01:12:17,742
+<i># You can call me</i>
+<i>when you want me #</i>
+
+1034
+01:12:17,879 --> 01:12:21,828
+<i>- # If you need a friend you got me #</i>
+<i>- # I'll be your everything #</i>
+
+1035
+01:12:21,966 --> 01:12:24,457
+<i># Fulfil your every dream #</i>
+
+1036
+01:12:24,594 --> 01:12:28,674
+<i># We can do it automatic</i>
+<i>I just call out Go, go, Gadget #</i>
+
+1037
+01:12:28,806 --> 01:12:30,799
+<i># I'll be your everything #</i>
+
+1038
+01:12:30,933 --> 01:12:34,634
+<i># You'll see I'm everything</i>
+<i>you want and more #</i>
+
+1039
+01:12:34,770 --> 01:12:38,021
+<i># I knew</i>
+<i>the moment that we met #</i>
+
+1040
+01:12:38,149 --> 01:12:43,523
+<i># I had to be a part of you</i>
+<i>Someone you won't forget #</i>
+
+1041
+01:12:43,654 --> 01:12:47,106
+<i># So don't say</i>
+<i>I'm like the other few #</i>
+
+1042
+01:12:47,241 --> 01:12:52,152
+<i># No matter what's going down</i>
+<i>you'll find me next to you #</i>
+
+1043
+01:12:52,288 --> 01:12:57,792
+<i># Girl, I'll be your Superman</i>
+<i>I'll do what no one can #</i>
+
+1044
+01:12:57,919 --> 01:13:02,212
+<i># You'll find that I'm</i>
+<i>the everything that you need #</i>
+
+1045
+01:13:02,340 --> 01:13:04,795
+<i># Deep down inside of you #</i>
+
+1046
+01:13:04,926 --> 01:13:07,214
+<i># No matter what you do #</i>
+
+1047
+01:13:07,345 --> 01:13:10,180
+<i># You'll see I'm everything</i>
+<i>you want and more #</i>
+
+1048
+01:13:10,306 --> 01:13:12,097
+<i># You can call me</i>
+<i>when you want me #</i>
+
+1049
+01:13:12,225 --> 01:13:15,724
+<i>- # If you need a friend you got me #</i>
+<i>- # I'll be your everything #</i>
+
+1050
+01:13:15,853 --> 01:13:18,391
+<i># Fulfil your every dream #</i>
+
+1051
+01:13:18,523 --> 01:13:23,149
+<i># We can do it automatic</i>
+<i>I just call out Go, go, Gadget #</i>
+
+1052
+01:13:23,277 --> 01:13:25,353
+<i># I'll be your everything #</i>
+
+1053
+01:13:25,488 --> 01:13:29,486
+<i># You'll see I'm everything</i>
+<i>you want and more #</i>
+
+1054
+01:13:33,538 --> 01:13:36,953
+<i># No sweat</i>
+<i>The Claw is on his way #</i>
+
+1055
+01:13:37,083 --> 01:13:39,325
+<i># Don't worry about him</i>
+<i>catching you #</i>
+
+1056
+01:13:39,460 --> 01:13:42,081
+<i># Don't even be afraid #</i>
+
+1057
+01:13:42,213 --> 01:13:46,258
+<i># Somehow, some way</i>
+<i>I'll find out what's the deal #</i>
+
+1058
+01:13:46,384 --> 01:13:51,093
+<i># And I'll be there to rescue you</i>
+<i>You'll see that I'm for real #</i>
+
+1059
+01:13:51,222 --> 01:13:54,507
+<i># Girl, I'll be your Superman #</i>
+
+1060
+01:13:54,642 --> 01:13:57,014
+<i># I'll do what no one can #</i>
+
+1061
+01:13:57,144 --> 01:14:01,142
+<i># You'll find that I'm</i>
+<i>the everything that you need #</i>
+
+1062
+01:14:01,274 --> 01:14:03,562
+<i># Deep down inside of you #</i>
+
+1063
+01:14:03,693 --> 01:14:06,100
+<i># No matter what you do #</i>
+
+1064
+01:14:06,237 --> 01:14:08,810
+<i># You'll see I'm everything</i>
+<i>you want and more #</i>
+
+1065
+01:14:08,948 --> 01:14:10,905
+<i># You can call me</i>
+<i>when you want me #</i>
+
+1066
+01:14:11,033 --> 01:14:12,860
+<i># If you need a friend</i>
+<i>you got me #</i>
+
+1067
+01:14:12,994 --> 01:14:15,282
+<i>- # I'll be your everything #</i>
+<i>- # Girl #</i>
+
+1068
+01:14:15,413 --> 01:14:18,082
+<i>- # Fulfil your every dream #</i>
+<i>- # Everything you want and more #</i>
+
+1069
+01:14:18,207 --> 01:14:21,908
+<i># We can do it automatic</i>
+<i>I just call out Go, go, Gadget #</i>
+
+1070
+01:14:22,044 --> 01:14:24,203
+<i># I'll be your everything #</i>
+
+1071
+01:14:24,338 --> 01:14:28,288
+<i># You'll see I'm everything</i>
+<i>you want and more #</i>
+
+1072
+01:14:31,262 --> 01:14:34,927
+<i>- # And more #</i>
+<i>- # Everything, girl #</i>
+
+1073
+01:14:35,057 --> 01:14:37,264
+<i># Don't you know #</i>
+
+1074
+01:14:37,393 --> 01:14:40,014
+<i># Call me when you want me #</i>
+
+1075
+01:14:40,146 --> 01:14:43,147
+<i># I'm gonna be there, baby ##</i>
+
+1076
+01:17:26,604 --> 01:17:29,391
+<i>[Gadgetmobile]</i>
+<i>Wow, you made it through credits,</i>
+
+1077
+01:17:29,524 --> 01:17:31,849
+<i>and we didn't offer you</i>
+<i>anything for free.</i>
+
+1078
+01:17:31,984 --> 01:17:35,852
+<i>Movie audiences are</i>
+<i>the best audiences in the world.</i>
+
+1079
+01:17:35,988 --> 01:17:38,562
+<i>Now, get out, go home.</i>
+<i>Leave, vamoose. You got to go.</i>
+
+1080
+01:17:38,699 --> 01:17:41,487
+I am tired. Please, go home.
+Go home, go home, go home.
+
+1081
+01:17:41,619 --> 01:17:43,493
+Good night, Riverton!
+
