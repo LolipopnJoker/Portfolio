@@ -8,8 +8,9 @@
 #
 
 library(shiny)
+library(glue)
 
-word_content <- c("green", "blue", "yellow", "pink", "purple")
+
 
 green_rgb <- c(0, 255, 0)
 blue_rgb <- c(0, 0, 255)
@@ -21,25 +22,20 @@ color_codes <- list(green_rgb,
                     yellow_rgb,
                     pink_rgb,
                     purple_rgb)
+
+displayed_color <- sample(color_codes, 1)
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
 
     # Application title
-    titlePanel("Old Faithful Geyser Data"),
+    titlePanel("Our Research"),
 
-    # Sidebar with a slider input for number of bins
-    sidebarLayout(
-        sidebarPanel(
-            sliderInput("bins",
-                        "Number of bins:",
-                        min = 1,
-                        max = 50,
-                        value = 30)
-        ),
-
-        # Show a plot of the generated distribution
-        mainPanel(
-            p(sample(word_content, 1))
+    # Show a plot of the generated distribution
+    mainPanel(
+        fluidRow(
+            align = "center",
+            textOutput("target_word")
         )
     )
-))
+)
+)
