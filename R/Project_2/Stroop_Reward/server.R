@@ -11,7 +11,9 @@ library(shiny)
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
-
+    output$target_word <- renderText({
+        paste(sample(c("Yellow", "Green", "Blue", "Red", "Pink"), 1))
+    })
     output$distPlot <- renderPlot({
 
         # generate bins based on input$bins from ui.R
