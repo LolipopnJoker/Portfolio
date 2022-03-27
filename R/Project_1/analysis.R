@@ -15,7 +15,7 @@ suppressWarnings(library(syuzhet)) # Importing syuzhet
 suppressWarnings(library(srt))# Importing srt
 suppressWarnings(library(glue)) # Importing glue
 
-subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/36.srt')) # Experimenting with importing an SRT file
+subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/890.srt')) # Experimenting with importing an SRT file
 subtitles <- as.data.frame(subtitles)
 subtitles <- unite(subtitles, col = "subtitles", 1:ncol(subtitles), remove = TRUE, sep = " ")
 
@@ -27,7 +27,7 @@ DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) 
 
 DB$Subtitles <- NA
 
-number_of_subtitles_files <- 490
+number_of_subtitles_files <- 918
 
 progress_bar <- txtProgressBar(min = 0,
                                max = number_of_subtitles_files,
@@ -48,7 +48,7 @@ silent = TRUE)
 }
 
 close(progress_bar)
-
+sum(is.na(DB$Subtitles))
 for (i in 1:number_of_subtitles_files){
   subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
   print(subtitle_path)
