@@ -85,3 +85,8 @@ sub_DB <- full_DB[, (c(9, 19:28))] # Only the relevant data for the correlation 
 sub_DB$World.Sales..in... <- as.numeric(sub_DB$World.Sales..in...) # Turning the first column to numeric
 
 cor_for_table <- cor(sub_DB) # Calculating the correlation matrix
+
+corrplot(corr = cor_for_table,
+         method = "number",
+         type = "lower",
+         title = "Movies subtitles and emotions")
