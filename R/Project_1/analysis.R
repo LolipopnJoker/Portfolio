@@ -15,10 +15,6 @@ suppressWarnings(library(syuzhet)) # Importing syuzhet
 suppressWarnings(library(srt))# Importing srt
 suppressWarnings(library(glue)) # Importing glue
 
-subtitles <- t(read_srt('G:/My Drive/Portfolio/R/Project_1/subtitles/890.srt')) # Experimenting with importing an SRT file
-subtitles <- as.data.frame(subtitles)
-subtitles <- unite(subtitles, col = "subtitles", 1:ncol(subtitles), remove = TRUE, sep = " ")
-
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
                                                                                 # row indexes, therefor
