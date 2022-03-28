@@ -21,7 +21,7 @@ DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) 
                                                                                 # the argument row.names
                                                                                 # is needed.
 
-DB$Subtitles <- NA
+DB$Subtitles <- NA # Adding an empty column to store all the subtitles.
 
 number_of_subtitles_files <- 918
 
