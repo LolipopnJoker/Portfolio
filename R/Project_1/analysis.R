@@ -69,8 +69,8 @@ worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE) # Worl
 worldwide_sales_sd # Displaying Worldwide Sales SD
 # Sentiment Analysis --------------------------------
 
-corpus <- iconv(DB$Movie.Info, to = "utf-8") # Creating a list with all the movie descriptions
-                                             # using UTF-8 encoding.
+corpus <- iconv(DB$Subtitles, to = "utf-8") # Creating a list with all the movie descriptions
+                                            # using UTF-8 encoding.
 
 ## Obtain sentiment score
 sentiment_score_DF <- get_nrc_sentiment(corpus) # Creating a dataframe with sentiment scores.
