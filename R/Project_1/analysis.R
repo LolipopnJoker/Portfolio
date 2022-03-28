@@ -62,8 +62,9 @@ DB[] <- lapply(DB, gsub, pattern='\\]', replacement='') # Deleting all the ] sym
 
 # Descriptive Statistics ----------------------------
 
-worldwide_sales_mean <- mean(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
-worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE)
+worldwide_sales_mean <- mean(as.numeric(DB$World.Sales..in...), na.rm = TRUE) # Worldwide Sales Mean calculation
+
+worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE) # Worldwide Sales SD calculation
 
 # Sentiment Analysis --------------------------------
 
