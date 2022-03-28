@@ -80,5 +80,8 @@ full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
 
 ## Creating Correlation matrix
 
-sub_DB <- full_DB[, c(9, 19:28)] # Only the relevant data for the corrolation matrix
+sub_DB <- full_DB[, (c(9, 19:28))] # Only the relevant data for the correlation matrix
 
+sub_DB$World.Sales..in... <- as.numeric(sub_DB$World.Sales..in...) # Turning the first column to numeric
+
+cor_for_table <- cor(sub_DB) # Calculating the correlation matrix
