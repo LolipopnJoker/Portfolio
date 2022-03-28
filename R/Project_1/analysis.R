@@ -48,10 +48,6 @@ close(progress_bar) # Closing progress bar
 
 sum(is.na(DB$Subtitles)) # Counting the amount of NA's in the Subtitles column. Ideally, it would be equal to none.
 
-for (i in 1:number_of_subtitles_files){
-  subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
-  print(subtitle_path)
-  }
 # Data Cleaning ------------------------------------
 
 # Splitting the date column
