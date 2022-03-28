@@ -58,7 +58,7 @@ DB <- separate(DB, Genre, c("Genre.1", "Genre.2", "Genre.3", "Genre.4", "Genre.5
 DB[] <- lapply(DB, gsub, pattern=',', replacement='') # Deleting all the , symbols.
 DB[] <- lapply(DB, gsub, pattern="'", replacement='') # Deleting all the ' symbols.
 DB[] <- lapply(DB, gsub, pattern='//[', replacement='') # Deleting all the [ symbols.
-DB[] <- lapply(DB, gsub, pattern='//]', replacement='') # Deleting all the ] symbols.
+DB[] <- lapply(DB, gsub, pattern='\\]', replacement='') # Deleting all the ] symbols.
 
 # Descriptive Statistics ----------------------------
 
