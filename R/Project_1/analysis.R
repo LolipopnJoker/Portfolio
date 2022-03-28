@@ -23,7 +23,7 @@ DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) 
 
 DB$Subtitles <- NA # Adding an empty column to store all the subtitles.
 
-number_of_subtitles_files <- 918
+number_of_subtitles_files <- length(DB$Title)
 
 progress_bar <- txtProgressBar(min = 0,
                                max = number_of_subtitles_files,
