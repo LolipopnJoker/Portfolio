@@ -29,22 +29,25 @@ progress_bar <- txtProgressBar(min = 0,
                                max = number_of_subtitles_files,
                                style = 3,
                                width = 50,
-                               char = "=")
+                               char = "=") # Creating a progress bar
 
 for (i in 1:number_of_subtitles_files){
-try({
-  subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
-  subtitle <- suppressWarnings(t(read_srt(subtitle_path)))
-  subtitle <- as.data.frame(subtitle)
-  subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ")
-  DB$Subtitles[i] <- subtitle$subtitle[4] 
-  setTxtProgressBar(progress_bar, i)
+# Using the try function in order to make the loop run even if an STR file isn't valid.
+  try({
+  subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/R/Project_1/subtitles/{i}.srt') # Path to the SRT file in position i
+  subtitle <- suppressWarnings(t(read_srt(subtitle_path))) # Importing the SRT file in position i in a vertical matrix
+  subtitle <- as.data.frame(subtitle) # Turning it into a data frame
+  subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ") # Turning the matrix to 1X1
+  DB$Subtitles[i] <- subtitle$subtitle[4] # Inserting the subtitles into the main data-set 
+  setTxtProgressBar(progress_bar, i) # Updating progress bar
 },
-silent = TRUE)
+silent = TRUE) # If wasn't successful, ignore
 }
 
-close(progress_bar)
-sum(is.na(DB$Subtitles))
+close(progress_bar) # Closing progress bar
+
+sum(is.na(DB$Subtitles)) # Counting the amount of NA's in the Subtitles column. Ideally, it would be equal to none.
+
 for (i in 1:number_of_subtitles_files){
   subtitle_path <- glue('G:/My Drive/Portfolio/R/Project_1/subtitles/{i}.srt')
   print(subtitle_path)
@@ -58,8 +61,8 @@ DB <- separate(DB, Genre, c("Genre.1", "Genre.2", "Genre.3", "Genre.4", "Genre.5
 # Cleaning from unwanted symbols that might affect the analysis.
 DB[] <- lapply(DB, gsub, pattern=',', replacement='') # Deleting all the , symbols.
 DB[] <- lapply(DB, gsub, pattern="'", replacement='') # Deleting all the ' symbols.
-DB[] <- lapply(DB, gsub, pattern='\\[', replacement='') # Deleting all the [ symbols.
-DB[] <- lapply(DB, gsub, pattern='\\]', replacement='') # Deleting all the ] symbols.
+DB[] <- lapply(DB, gsub, pattern='//[', replacement='') # Deleting all the [ symbols.
+DB[] <- lapply(DB, gsub, pattern='//]', replacement='') # Deleting all the ] symbols.
 
 # Descriptive Statistics ----------------------------
 
