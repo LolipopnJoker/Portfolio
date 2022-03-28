@@ -15,6 +15,7 @@ suppressWarnings(library(syuzhet)) # Importing syuzhet
 suppressWarnings(library(srt))# Importing srt
 suppressWarnings(library(glue)) # Importing glue
 suppressWarnings(library(corrplot)) # Importing corrplot
+suppressWarnings(library(psych)) # Importing psych
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
@@ -90,3 +91,5 @@ corrplot(corr = cor_for_table,
          method = "number",
          type = "lower",
          title = "Movies subtitles and emotions")
+
+corr.test(sub_DB)
