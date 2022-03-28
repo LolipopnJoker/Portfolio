@@ -14,6 +14,7 @@ suppressWarnings(library(tm)) # Importing tm
 suppressWarnings(library(syuzhet)) # Importing syuzhet
 suppressWarnings(library(srt))# Importing srt
 suppressWarnings(library(glue)) # Importing glue
+suppressWarnings(library(corrplot)) # Importing corrplot
 
 DB  <- read.csv('G:/My Drive/Portfolio/R/Project_1/dataset.csv', row.names = 1) # Importing the data.
                                                                                 # The first column is
