@@ -42,7 +42,10 @@ class data_from_news(object):
         return news_raw_data
     
 class data_from_forbs(data_from_news):
-    
+    """
+    This is a class that gathers information from Forbs. It inherits the basic features from the 'data_from_news'
+    class.
+    """
     def __init__(self, url):
         
         super().__init__(url)
