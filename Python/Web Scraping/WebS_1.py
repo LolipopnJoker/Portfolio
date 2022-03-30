@@ -55,6 +55,9 @@ class data_from_forbs(data_from_news):
         for title in self.soup.find_all('a'):
             titles.append(title.text)
 
+        print(titles)
+
 forbs_link = str("https://www.forbes.com/money/?sh=65fbdbb1c19a")
 yahoo_link = 'https://finance.yahoo.com/'
 
+data_from_forbs(forbs_link)
