@@ -8,7 +8,7 @@ __version__ = "1.0.0"
 __maintainer__ = "Yoav Weller"
 __email__ = "yoav.weller@gmail.com"
 __status__ = "Production"
-
+'''
 class data_from_news(object):
     """
     This is the main class. It defines the basic features that needs to be establish
@@ -51,12 +51,12 @@ class data_from_forbs(data_from_news):
         super().__init__(url)
     
     def search_data(self):
-        titles = []
-        for title in self.soup.find_all('a'):
-            titles.append(title.text)
+        links = []
+        for link in self.soup.find_all('href'):
+            links.append(link.text)
 
-        print(titles)
-
+        print(links)
+'''
 forbs_link = str("https://www.forbes.com/money/?sh=65fbdbb1c19a")
 yahoo_link = 'https://finance.yahoo.com/'
 
