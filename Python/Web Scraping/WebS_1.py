@@ -60,4 +60,4 @@ class data_from_forbs(data_from_news):
 forbs_link = str("https://www.forbes.com/money/?sh=65fbdbb1c19a")
 yahoo_link = 'https://finance.yahoo.com/'
 
-data_from_forbs(forbs_link)
+# data_from_forbs(forbs_link)
