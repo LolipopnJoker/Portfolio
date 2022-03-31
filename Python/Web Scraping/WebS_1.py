@@ -8,6 +8,12 @@ __version__ = "1.0.0"
 __maintainer__ = "Yoav Weller"
 __email__ = "yoav.weller@gmail.com"
 __status__ = "Production"
+
+# Importss
+import requests
+from bs4 import BeautifulSoup as BS
+import pandas as pd
+
 '''
 class data_from_news(object):
     """
