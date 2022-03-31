@@ -14,6 +14,16 @@ import requests
 from bs4 import BeautifulSoup as BS
 import pandas as pd
 
+basic_headers = {
+            'SOURCE': ['NA'], # The name of the site (e.g. 'Forbs')
+            'Link': ['NA'], # The link for the article
+            'Title': ['NA'], # Main heading of the article
+            'Subtitle': ['NA'], # Subheading of the article
+            'Body': ['NA'] # The rest of the articls conent
+            }
+        
+news_raw_data = pd.DataFrame(basic_headers) # Creating the table.
+
 '''
 class data_from_news(object):
     """
