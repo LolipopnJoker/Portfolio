@@ -29,6 +29,8 @@ r = requests.get("https://www.forbes.com/money/?sh=65fbdbb1c19a")
 r_text = (r.text)
 soup = BS(r_text, 'html.parser')
 
+for link in soup.find_all('a', href = True):
+    print(f"Found the URL: {link['href']}")
 '''
 class data_from_news(object):
     """
