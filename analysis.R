@@ -71,17 +71,26 @@ worldwide_sales_mean # Displaying Worldwide Sales Mean
 
 worldwide_sales_sd <- sd(as.numeric(DB$World.Sales..in...), na.rm = TRUE) # Worldwide Sales SD calculation
 worldwide_sales_sd # Displaying Worldwide Sales SD
+
 # Sentiment Analysis --------------------------------
 
-corpus <- iconv(DB$Subtitles, to = "utf-8") # Creating a list with all the movie descriptions
-                                            # using UTF-8 encoding.
+corpus <- iconv(DB$Subtitles, to = "utf-8") # Translating the subtitles to utf-8 subtitles.
+
+words_to_remove <- c('"', '<font color=', '#ffff00')
+
+corpus <- tm_map(corpus, removeWords, words_to_remove)
+corpus <- tm_map(corpus, removeWords, stopwords("english"))
+corpus <- tm_map(corpus, removePunctuation)
+corpus <- tm_map(corpus, stripWhitespace)
 
 ## Obtain sentiment score
+
 sentiment_score_DF <- get_nrc_sentiment(corpus) # Creating a dataframe with sentiment scores.
 
 full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
 
 write.csv(full_DB, "C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/new_dataset.csv")
+
 ## Creating Correlation matrix
 
 sub_DB <- full_DB[, (c(9, 19:28))] # Only the relevant data for the correlation matrix
