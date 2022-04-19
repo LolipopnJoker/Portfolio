@@ -28,13 +28,18 @@ DB$Subtitles <- NA # Adding an empty column to store all the subtitles.
 number_of_subtitles_files <- length(DB$Title)
 
 adding_subtitles <- function(){
+  #' Adding the subtitles files to the data frame
+  #' 
+  #' @return A data frame with the subtitles of all the movies.
+  #' 
   
   progress_bar <- txtProgressBar(min = 0,
                                  max = number_of_subtitles_files,
                                  style = 3,
                                  width = 50,
                                  char = "=") # Creating a progress bar
-    for (i in 1:number_of_subtitles_files){
+  
+  for (i in 1:number_of_subtitles_files){
     # Using the try function in order to make the loop run even if an STR file isn't valid.
     try({
       subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/subtitles/{i}.srt') # Path to the SRT file in position i
@@ -47,7 +52,6 @@ adding_subtitles <- function(){
     silent = TRUE) # If wasn't successful, ignore
   } 
 
-  
   close(progress_bar) # Closing progress bar
   
   .GlobalEnv$DB <- DB # Returning the dataframe to the global environment.
@@ -70,9 +74,12 @@ DB[] <- lapply(DB, gsub, pattern="'", replacement='') # Deleting all the ' symbo
 DB[] <- lapply(DB, gsub, pattern='//[', replacement='') # Deleting all the [ symbols.
 DB[] <- lapply(DB, gsub, pattern='\\]', replacement='') # Deleting all the ] symbols.
 
-
 cleaning_subtitles <- function(){
-  
+  #' Adding the subtitles files to the data frame
+  #' 
+  #' @return A data frame with the subtitles of all the movies.
+  #' 
+
   progress_bar <- txtProgressBar(min = 0,
                                  max = number_of_subtitles_files,
                                  style = 3,
@@ -106,18 +113,10 @@ worldwide_sales_sd # Displaying Worldwide Sales SD
 
 # Sentiment Analysis --------------------------------
 
-corpus <- iconv(DB$Subtitles, to = "utf-8") # Translating the subtitles to utf-8 subtitles.
-
-words_to_remove <- c('"', '<font color=', '#ffff00')
-
-corpus <- tm_map(corpus, removeWords, words_to_remove)
-corpus <- tm_map(corpus, removeWords, stopwords("english"))
-corpus <- tm_map(corpus, removePunctuation)
-corpus <- tm_map(corpus, stripWhitespace)
-
 ## Obtain sentiment score
 
-sentiment_score_DF <- get_nrc_sentiment(corpus) # Creating a dataframe with sentiment scores.
+DB$Subtitles <- as.character(DB$Subtitles)
+sentiment_score_DF <- get_nrc_sentiment(DB$Subtitles) # Creating a dataframe with sentiment scores.
 get_sent_values()
 full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
 
