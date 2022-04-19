@@ -79,14 +79,15 @@ cleaning_subtitles <- function(){
                                  width = 50,
                                  char = "=") # Creating a progress bar
   
-  unwanted_words <- c('<b>', '<i>', '<font')
+  unwanted_words <- c('<b>', '<i>', 'font', 'listcontent', 'color808080', 'bfont',  'colorffff00')
   
   for (i in 1:number_of_subtitles_files){
     corpus <- VCorpus(VectorSource(DB$Subtitles[i]))
     corpus <- tm_map(corpus, removeWords, stopwords("english"))
+    corpus <- tm_map(corpus, removeWords, unwanted_words)
     corpus <- tm_map(corpus, removePunctuation)
     corpus <- tm_map(corpus, stripWhitespace)
-    DB$Subtitles[i] <- corpus
+    DB$Subtitles[i] <- corpus[[1]]
     setTxtProgressBar(progress_bar, i)
   }
   close(progress_bar) # Closing progress bar
