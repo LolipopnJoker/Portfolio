@@ -27,30 +27,32 @@ DB$Subtitles <- NA # Adding an empty column to store all the subtitles.
 
 number_of_subtitles_files <- length(DB$Title)
 
-progress_bar <- txtProgressBar(min = 0,
-                               max = number_of_subtitles_files,
-                               style = 3,
-                               width = 50,
-                               char = "=") # Creating a progress bar
-
-for (i in 1:number_of_subtitles_files){
-# Using the try function in order to make the loop run even if an STR file isn't valid.
-  try({
-  subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/subtitles/{i}.srt') # Path to the SRT file in position i
-  subtitle <- suppressWarnings(t(read_srt(subtitle_path))) # Importing the SRT file in position i in a vertical matrix
-  subtitle <- as.data.frame(subtitle) # Turning it into a data frame
-  subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ") # Turning the matrix to 1X1
-  DB$Subtitles[i] <- subtitle$subtitle[4] # Inserting the subtitles into the main data-set 
-  setTxtProgressBar(progress_bar, i) # Updating progress bar
-},
-silent = TRUE) # If wasn't successful, ignore
+adding_subtitles <- function(){
+  
+  progress_bar <- txtProgressBar(min = 0,
+                                 max = number_of_subtitles_files,
+                                 style = 3,
+                                 width = 50,
+                                 char = "=") # Creating a progress bar
+  
+  for (i in 1:number_of_subtitles_files){
+    # Using the try function in order to make the loop run even if an STR file isn't valid.
+    try({
+      subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/subtitles/{i}.srt') # Path to the SRT file in position i
+      subtitle <- suppressWarnings(t(read_srt(subtitle_path))) # Importing the SRT file in position i in a vertical matrix
+      subtitle <- as.data.frame(subtitle) # Turning it into a data frame
+      subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ") # Turning the matrix to 1X1
+      DB$Subtitles[i] <- subtitle$subtitle[4] # Inserting the subtitles into the main data-set 
+      setTxtProgressBar(progress_bar, i) # Updating progress bar
+    },
+    silent = TRUE) # If wasn't successful, ignore
+  }
+  
+  close(progress_bar) # Closing progress bar
+  
+  sum(is.na(DB$Subtitles)) # Counting the amount of NA's in the Subtitles column. Ideally, it would be equal to none.
+  
 }
-
-close(progress_bar) # Closing progress bar
-
-sum(is.na(DB$Subtitles)) # Counting the amount of NA's in the Subtitles column. Ideally, it would be equal to none.
-
-
 
 # Data Cleaning ------------------------------------
 
@@ -86,7 +88,7 @@ corpus <- tm_map(corpus, stripWhitespace)
 ## Obtain sentiment score
 
 sentiment_score_DF <- get_nrc_sentiment(corpus) # Creating a dataframe with sentiment scores.
-
+get_sent_values()
 full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
 
 write.csv(full_DB, "C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/new_dataset.csv")
