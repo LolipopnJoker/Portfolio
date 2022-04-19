@@ -34,8 +34,7 @@ adding_subtitles <- function(){
                                  style = 3,
                                  width = 50,
                                  char = "=") # Creating a progress bar
-  
-  for (i in 1:number_of_subtitles_files){
+    for (i in 1:number_of_subtitles_files){
     # Using the try function in order to make the loop run even if an STR file isn't valid.
     try({
       subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/subtitles/{i}.srt') # Path to the SRT file in position i
@@ -46,13 +45,18 @@ adding_subtitles <- function(){
       setTxtProgressBar(progress_bar, i) # Updating progress bar
     },
     silent = TRUE) # If wasn't successful, ignore
-  }
+  } 
+
   
   close(progress_bar) # Closing progress bar
+  
+  .GlobalEnv$DB <- DB # Returning the dataframe to the global environment.
   
   sum(is.na(DB$Subtitles)) # Counting the amount of NA's in the Subtitles column. Ideally, it would be equal to none.
   
 }
+
+adding_subtitles()
 
 # Data Cleaning ------------------------------------
 
