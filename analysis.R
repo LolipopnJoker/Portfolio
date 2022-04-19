@@ -70,6 +70,31 @@ DB[] <- lapply(DB, gsub, pattern="'", replacement='') # Deleting all the ' symbo
 DB[] <- lapply(DB, gsub, pattern='//[', replacement='') # Deleting all the [ symbols.
 DB[] <- lapply(DB, gsub, pattern='\\]', replacement='') # Deleting all the ] symbols.
 
+
+cleaning_subtitles <- function(){
+  
+  progress_bar <- txtProgressBar(min = 0,
+                                 max = number_of_subtitles_files,
+                                 style = 3,
+                                 width = 50,
+                                 char = "=") # Creating a progress bar
+  
+  unwanted_words <- c('<b>', '<i>', '<font')
+  
+  for (i in 1:number_of_subtitles_files){
+    corpus <- VCorpus(VectorSource(DB$Subtitles[i]))
+    corpus <- tm_map(corpus, removeWords, stopwords("english"))
+    corpus <- tm_map(corpus, removePunctuation)
+    corpus <- tm_map(corpus, stripWhitespace)
+    DB$Subtitles[i] <- corpus
+    setTxtProgressBar(progress_bar, i)
+  }
+  close(progress_bar) # Closing progress bar
+  .GlobalEnv$DB <- DB # Returning the dataframe to the global environment.
+}
+
+cleaning_subtitles()
+
 # Descriptive Statistics ----------------------------
 
 worldwide_sales_mean <- mean(as.numeric(DB$World.Sales..in...), na.rm = TRUE) # Worldwide Sales Mean calculation
