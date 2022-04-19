@@ -1,0 +1,17 @@
+<b>
+<i>
+font
+listcontent
+color808080
+bfont
+colorffff00
+colorff8000
+BARTONfont
+colorffff80bâ231ª
+bfont
+FidelPerez
+fad250250fon
+color00abfd
+GORDONfont
+explosiveskull
+colorffff00
