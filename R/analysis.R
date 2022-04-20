@@ -17,7 +17,7 @@ suppressWarnings(library(glue)) # Importing glue
 suppressWarnings(library(corrplot)) # Importing corrplot
 suppressWarnings(library(psych)) # Importing psych
 
-DB  <- read.csv("C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/dataset.csv", row.names = 1) # Importing the data.
+DB  <- read.csv("C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/R/dataset.csv", row.names = 1) # Importing the data.
                                                                                 # The first column is
                                                                                 # row indexes, therefor
                                                                                 # the argument row.names
@@ -42,7 +42,7 @@ adding_subtitles <- function(){
   for (i in 1:number_of_subtitles_files){
     # Using the try function in order to make the loop run even if an STR file isn't valid.
     try({
-      subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/subtitles/{i}.srt') # Path to the SRT file in position i
+      subtitle_path <- glue('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/R/subtitles/{i}.srt') # Path to the SRT file in position i
       subtitle <- suppressWarnings(t(read_srt(subtitle_path))) # Importing the SRT file in position i in a vertical matrix
       subtitle <- as.data.frame(subtitle) # Turning it into a data frame
       subtitle <- unite(subtitle, col = "subtitles", 1:ncol(subtitle), remove = TRUE, sep = " ") # Turning the matrix to 1X1
@@ -120,7 +120,7 @@ sentiment_score_DF <- get_nrc_sentiment(DB$Subtitles) # Creating a dataframe wit
 get_sent_values()
 full_DB <- cbind(DB, sentiment_score_DF) # Merging the dataframes
 
-write.csv(full_DB, "C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/new_dataset.csv")
+write.csv(full_DB, "C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/R/new_dataset.csv")
 
 ## Creating Correlation matrix
 
