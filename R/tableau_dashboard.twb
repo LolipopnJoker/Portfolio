@@ -1038,8 +1038,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2350' minheight='2350' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='29' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='31' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='26' is-fixed='true' name='Surprise' w='24550' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1157,7 +1157,7 @@
       </viewpoint>
       <simple-id uuid='{BD3C316F-6A7A-46E4-AEF3-267901E1BB0A}' />
     </window>
-    <window class='worksheet' name='anger' tab-color='#dec77b'>
+    <window class='worksheet' name='anger' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1188,7 +1188,7 @@
       </viewpoint>
       <simple-id uuid='{4409E534-EFFC-49E0-A336-163D0CADEB73}' />
     </window>
-    <window class='worksheet' name='anticipation' tab-color='#f66273'>
+    <window class='worksheet' name='anticipation' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1218,7 +1218,7 @@
       </viewpoint>
       <simple-id uuid='{E7D69E25-B0AC-4FEF-BE9E-D7702095BF6D}' />
     </window>
-    <window class='worksheet' name='Disgust' tab-color='#4f779a'>
+    <window class='worksheet' name='Disgust' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1248,7 +1248,7 @@
       </viewpoint>
       <simple-id uuid='{C91F6A04-7E21-4865-BC3D-52B26F1AC945}' />
     </window>
-    <window class='worksheet' name='Joy' tab-color='#a65200'>
+    <window class='worksheet' name='Joy' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1278,7 +1278,7 @@
       </viewpoint>
       <simple-id uuid='{60C219F6-D5E5-4AD2-A453-2DBB9957F56C}' />
     </window>
-    <window class='worksheet' name='Sadness'>
+    <window class='worksheet' name='Sadness' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1308,7 +1308,7 @@
       </viewpoint>
       <simple-id uuid='{069ACB18-0B2E-4F40-B485-9A1AD66EAF25}' />
     </window>
-    <window class='worksheet' name='Surprise'>
+    <window class='worksheet' name='Surprise' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1338,7 +1338,7 @@
       </viewpoint>
       <simple-id uuid='{B691C835-B09D-4ABD-BF5E-8D4B288F8291}' />
     </window>
-    <window class='worksheet' name='Trust'>
+    <window class='worksheet' name='Trust' tab-color='#17927d'>
       <cards>
         <edge name='left'>
           <strip size='160'>
