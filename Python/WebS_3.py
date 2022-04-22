@@ -30,26 +30,29 @@ class importing_twitts(object):
     def __init__(self):
         # Reading configs
         config = configparser.ConfigParser() # Creating config variable
-        config.read('config.ini') # Reading the config file
+        config.read('C:/Users/yoavw/Documents/GitHub/Portfolio/Portfolio/Python/config.ini') # Reading the config file
 
-        self.twitter_api_key = config['twitter']['api_key'] # Getting the Twitter API key
-        self.twitter_api_key_secret = config['twitter']['api_key_secret'] # Getting the Twitter secret API key
+        twitter_api_key = config['twitter']['api_key'] # Getting the Twitter API key
+        twitter_api_key_secret = config['twitter']['api_key_secret'] # Getting the Twitter secret API key
 
-        self.twitter_access_token = config['twitter']['access_token'] # Getting the Twitter access token
-        self.twitter_access_token_secret = config['twitter']['access_token_secret'] # Getting the Twitter secret access token
+        twitter_access_token = config['twitter']['access_token'] # Getting the Twitter access token
+        twitter_access_token_secret = config['twitter']['access_token_secret'] # Getting the Twitter secret access token
 
         # Authentication
-        self.auth = tweepy.OAuthHandler(self.twitter_api_key, self,self.twitter_api_key_secret)
-        self.auth.set_access_token(self.twitter_access_token, self.twitter_access_token_secret)
+        self.auth = tweepy.OAuthHandler(twitter_api_key, twitter_api_key_secret)
+        self.auth.set_access_token(twitter_access_token, twitter_access_token_secret)
 
         self.api = tweepy.API(auth=self.auth) # Connecting to the API
     
-    def get_tweets(self, q, geocode, lang, locale, result_type, count, until, since_id, max_id, include_entities):
+    def get_tweets(self, q, **kwargs):
         
-        self.tweet = self.api.search_tweets(q = q, geocode = geocode, lang = lang, locale = locale, result_type = result_type, count = count, until = until, since_id = since_id, max_id = max_id, include_entities = include_entities)
+        self.tweet = self.api.search_tweets(q = q, **kwargs)
 
         return self.tweet
     
     def get_trendes(self):
 
         self.api.available_trends()
+
+check = importing_twitts()
+print(check.get_trendes())
