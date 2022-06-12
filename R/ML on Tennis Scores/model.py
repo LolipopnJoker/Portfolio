@@ -11,3 +11,12 @@ __status__ = "Production"
 
 # Modules Imports
 import pandas as pd
+
+# Importing training Data
+first_year_data = 2000 # The first year I have data about
+last_year_data = 2017 # Last year I have data about
+interval_between_years = 1 # Interval between years
+
+years = list(range(first_year_data, last_year_data + 1, interval_between_years)) # Creating a list with all the years I have data about.
+
+print(years) # Checking if the list contines all the years I have
